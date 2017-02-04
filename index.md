@@ -9,4 +9,10 @@
 * <a href="http://go.forces.army/Uber" target="_blank" title="Uber">Uber</a>
 
 ---
-<p align="center">&copy;2017 James W.D. Stewart.&nbsp; All rights reserved.</p>
+<p align="center">
+  DISCLAIMER:<br />
+  Neither the [forces.army](http://forces.army "Forces.Army") domain nor any of its sub-domains are associated with and/or sponsored by<br />
+  any national and/or international government agency or branch of the armed forces in any nation.<br />
+  <br />
+  &copy;2017 James W.D. Stewart.&nbsp; All rights reserved.
+</p>
