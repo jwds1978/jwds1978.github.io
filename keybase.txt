@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/stew721
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://forces.army
+  * I am stew721 (https://keybase.io/stew721) on keybase.
+  * I have a public key with fingerprint F51D 03D3 E13A 8F46 19A2  7622 35F0 9309 B9E3 7A99
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01138bac509aaa19e3967aa2d6d18bf7d385c8cedeff0a9bedbfc1241e26732132500a",
+            "fingerprint": "f51d03d3e13a8f4619a2762235f09309b9e37a99",
+            "host": "keybase.io",
+            "key_id": "35f09309b9e37a99",
+            "kid": "01138bac509aaa19e3967aa2d6d18bf7d385c8cedeff0a9bedbfc1241e26732132500a",
+            "uid": "7bd898955c17c598ab96c546c78ed519",
+            "username": "stew721"
+        },
+        "revoke": {
+            "sig_ids": [
+                "a23f5308f0e72df5bea02370b4be85c9f54d34b86cde82047ccc96e3e639940d0f"
+            ]
+        },
+        "service": {
+            "hostname": "forces.army",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486236597,
+    "expire_in": 157680000,
+    "prev": "628e0bc2b1c6ea0bce9e429812804e71d4bff9e31704b385b860b441565f1e4b",
+    "seqno": 56,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMHWAnicrVI5aFRBGF7jHRUEEW1sBkExi8zxZt7MNgoeiJWFhXgtc/yz+0zct3nv
+ZWMMIqiFjUelAVGICBYqIqIgxFsRFTGkUAsVUbCxEPFqLJwXtLN0mmFmvv87/n8e
+zJta6V7wa/PEtAONS3OmPL37ZaCy5UTPtWFkUjeEasOoFyY36HOQF/XexKEawoQw
+abTlWGmtiQKmRKw1dcIRaXzsmORWWnDgPdbKgDPeEhoRoCJmlDDKMdaoinzSakDW
+zpJWEWg9Jw4zx4AwLX0kiNI0FpQy7rFiWJkgFGulQmEzzcuKYM7oHFYmabgLh/qk
+vX/g/7PvgUm62DippOLckthyJbVRwvJI2FiC46TUHcgha+ndENB5AYMxJWhfFWXQ
+SXuhbGueNILnHNW2IU2Z5wxLjyGmznMDGlMWYxMZCLaU55FjkZHCOpAUR7G1Vglg
+IJhSEXbYox2BOwh2EjtJXjbpj7hPMwv5Sp3tHgqu2llapDbtCw/NomjXSk/FULsE
+DoKp/6Gom6TlwoBCQQeyPElbqEYC0hZJyUkiKSgTXMVVBHvaSQb1pETwWEgcVikD
+nUApqARsLDXEipDJWFAQUSUJlTiCmLjIeB9mQWIcmTCBEDGEjggX3BOIDCpD9bdS
+VOMi+NSNsplJo6WLgQzQvnuj0yoLuiszpneVH7fSPXv+3+98faJr9pTvY0c3Pd98
+u3bh7a6eG/3bl4zuWd7ZmbO+48tOjoy/3rpKfPiVjy4e2XjqTXWvOdhc9Or18KZ3
+Iy8Pm0Mz2z+OfHw81jXr0Yv+tasvnLr58/2VnptzP1eO0eadhZc3VMa+nV/Vc3j9
+jocXP9xauu7L16vNT/XVd5+g/ZXbR9zpZ2dW3F8zfrZ6cNm53xA5H9M=
+=da1h
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stew721
+
+==================================================================
