@@ -3,6 +3,8 @@
 
 ### My Other Things
 * Facebook: <a href="https://www.facebook.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
+* GitHub:
+  * <a href="https://resume.github.io/?jwds1978" target="_blank" title="GitHub Resume">Resume</a>
 * Keybase: <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
 
 ### My Recommendations
