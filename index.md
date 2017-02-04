@@ -10,4 +10,5 @@
 
 ---
 <p align="justify">DISCLAIMER:&nbsp; Neither the <a href="http://forces.army" title="Forces.Army">forces.army</a> domain nor any of its sub-domains are associated with and/or sponsored by any national and/or international government agency or branch of the armed forces in any nation.</p>
+---
 <p align="center">&copy;2017 James W.D. Stewart.&nbsp; All rights reserved.</p>
