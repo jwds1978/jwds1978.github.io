@@ -2,7 +2,7 @@
 ---
 
 ### My Other Things
-* Facebook: <a href="https://www.facebook.com/stew721" target="_blank" title="stew721">stew721</a>
+* Facebook: <a href="https://www.facebook.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 * Keybase: <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
 
 ### My Recommendations
