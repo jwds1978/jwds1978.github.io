@@ -1,8 +1,6 @@
 ### All of My Other Things
-* Facebook
-  * <a href="https://www.facebook.com/stew721" target="_blank" title="stew721">stew721</a>
-* Keybase
-  * <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
+* Facebook: <a href="https://www.facebook.com/stew721" target="_blank" title="stew721">stew721</a>
+* Keybase: <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
 
 ### All of My Recommendations
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
