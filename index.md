@@ -35,6 +35,10 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
   * <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
     * <a href="https://keybase.io/encrypt#stew721" target="_blank" title="">Encrypt to Me</a>
     * <a href="https://keybase.io/verify" target="_blank" title="">Verify from Me</a>
+* Reddit
+  * <a href="https://www.reddit.com/user/stew3721" target="_blank" title="stew3721">stew3721</a>
+* Twitter
+  * <a href="https://twitter.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 
 ### Send Things to Me
 * Address
