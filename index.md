@@ -3,7 +3,7 @@
 
 As a software developer, I've had an expansive professional history. Many will recognize me from cPanel and/or WHMCS.
 
-At this point in my life, I'm considering doing more open-source work than I have in years past. However, with that said, I still need to eat and stuff though.
+At this point in my life, I'm considering doing more open-source work than I have in years past. However, with that said, I still need to eat and stuff as well.
 
 Anyhow, this Web site is far from complete. I'm only just getting started on it.
 
@@ -46,6 +46,7 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
 * <a href="http://go.forces.army/FastMail" target="_blank" title="FastMail">FastMail</a>
   * Experience e-mail done right.
 * <a href="http://go.forces.army/LastPass" target="_blank" title="LastPass">LastPass</a>
+    * Your last password&hellip;
 * <a href="http://go.forces.army/Uber" target="_blank" title="Uber">Uber</a>
 
 ---
