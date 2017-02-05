@@ -8,7 +8,6 @@
 * PayPal
   * <a href="https://www.paypal.me/stew721" target="_blank" title="">WNS329B9N2G3G</a>
 
-
 ### My Things
 * Facebook
   * <a href="https://www.facebook.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
@@ -16,6 +15,8 @@
   * <a href="https://resume.github.io/?jwds1978" target="_blank" title="GitHub Resume">Resume</a>
 * Keybase
   * <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
+    * <a href="https://keybase.io/encrypt#stew721" target="_blank" title="">Encrypt to Me</a>
+    * <a href="https://keybase.io/verify" target="_blank" title="">Verify from Me</a>
 
 ### Send Things to Me
 * Address
