@@ -6,25 +6,20 @@ I hereby claim:
 
   * I am an admin of http://forces.army
   * I am stew721 (https://keybase.io/stew721) on keybase.
-  * I have a public key with fingerprint F51D 03D3 E13A 8F46 19A2  7622 35F0 9309 B9E3 7A99
+  * I have a public key with fingerprint 614F FF68 0E92 BAE8 69C8  78E3 61BC A817 AFFA 1F1D
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "eldest_kid": "01138bac509aaa19e3967aa2d6d18bf7d385c8cedeff0a9bedbfc1241e26732132500a",
-            "fingerprint": "f51d03d3e13a8f4619a2762235f09309b9e37a99",
+            "eldest_kid": "011354b10d1c2280dd13a70abfc11e2d6cb2caf9a522d5a3f2a54b9a927067b718450a",
+            "fingerprint": "614fff680e92bae869c878e361bca817affa1f1d",
             "host": "keybase.io",
-            "key_id": "35f09309b9e37a99",
-            "kid": "01138bac509aaa19e3967aa2d6d18bf7d385c8cedeff0a9bedbfc1241e26732132500a",
+            "key_id": "61bca817affa1f1d",
+            "kid": "011354b10d1c2280dd13a70abfc11e2d6cb2caf9a522d5a3f2a54b9a927067b718450a",
             "uid": "7bd898955c17c598ab96c546c78ed519",
             "username": "stew721"
-        },
-        "revoke": {
-            "sig_ids": [
-                "4866c23143cc16b12913c15d617b1c16036618fc1140a28c91bc867c0922b7380f"
-            ]
         },
         "service": {
             "hostname": "forces.army",
@@ -33,10 +28,10 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1486305315,
+    "ctime": 1486330272,
     "expire_in": 157680000,
-    "prev": "ec6f0996375ebf2d2c39a6baf47a306a5ffcb47b43f92e95b3a774f903bc60b2",
-    "seqno": 59,
+    "prev": "3bee96a68d7d284336eabb778c56312239fabec305efc0605676524d7052dcc7",
+    "seqno": 64,
     "tag": "signature"
 }
 
@@ -46,21 +41,20 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.62
 Comment: https://keybase.io/crypto
 
-yMHWAnicrZLNS1VBGMavN7NUjEIIIqIYCRVE5uPMzJkLQkUR7SIMpZLLzJyZ60m9
-53rO8TsjWgdtoohoEVSr2rlII8qIFhqBYRTVP5AmFBJUFDXnYruWzWaYmed9nt+8
-M8+aNuUamn92v6q9WLrfWLM4/2Uk13vNb5kCKgomQGEKDJjqZAYDk6TFgTAABQAR
-Ir6SmkIhpUTCEMG4lDhgAfKV5QHxqfa1CYy1UAplAmU1wh4ymHGCEcEUQgk6gA3L
-JRNX4rCcOltLUQBJQAwi0rceQ0JizjAm1EJBoFAuiEshXGF/lGQVDk7JxHSGkdtz
-i2IV7x/6/8w9UrXjKvCFLyjViGsqfKkE09RjmvsmoCjLHUlMXJZDxqmT1IxxjMB0
-B4jNaDRgsrYmYckxJ6BwGng+YxoT5BGtEVMIC0Q0ogFDXCG3AwljyHc8yIMS+1og
-pX3GNRQYK058aEGf83aBo6GummdN2gi3UaxN0injoQlHVYmjNNLRoDvoT9NKIWNK
-JyqZcMyo4oZFUYXlwD2QKxg1cRJGZVBATqnTMPNEDphAShDtAGa8EsamGGYKypkP
-3chizKizNJq59xCMcGqUxQHWREimpPW4JJBJaq1WHlcesQIbQRWRnHtWQKI0gwqD
-7FLD5QgUqHCcspQ1MyyVZToSGzD99FZtrrkhV7c5n33cXEP99r/fWW3L19fs2Hrm
-fFPj8+t6d6nr++yuR7nl4W/r99pONp86+qZ95t3Ck96Jg6vra/tnlh5fuNve87D4
-8Vd993Q0/7Vp6VjXAh1fyW/pe/H+x/GWdM8hk59c4VfPPujT535Pvp59ebOwuHql
-5fDcpyMfpt62HlhuI+HesfnWE3U9l+8M3R5c24fmbuz8XLz0Bx9SGbc=
-=P/aZ
+yMGcAnicrZLLS1VBHMevWprXhFAwkjZNFEEiZ+aceV2kl5sItFX0kLjM6+hJPed2
+zrnebqYSrcJoYUVkmywIWki1EKKs6EEELaKHLgI3tYj+gFwpNEds17LZDPObz/c7
+39+Pedtcl8u37r776OuTQ7Plmg+vbpRzJ27eujMKZKSroDAKBs3aZoa0SdLiYKBB
+ATgQutiT0NFQIcQcraErqCOkryA0SBMlkRI+FxghjYXrI2FxLjiiDqGSQuZhR4AO
+4Adhv4lLcRCm1pZAz/d9whzDkRSGEa4YZcYlUCrBIBW+L6APtRUOREmmsOGkSExn
+ENmaPRTX4v2D/8+5y2t2VGrGGcdYQaowZ0JyorBHlA2tMeQZmJg4FMPG0klqKhRB
+MNYBbHEkUCaba9bIOuBHsTJJp4iHq1ZZiqM0UtGQvRhI01Ih06XVUgZWjCyuWxRl
+EGo7RCsYMXESRCEoQEuqNMg8oceI6zqIog5gzpWC2BSDjMDUTtmu7BkzYi1daQwn
+gjBNNWKe6xIjpKSUKUxciJDLfSGNch1sfOUQBxNKMPI0dTDSSlGQNXU2jECBeDan
+6M8aDvpDkZZjA8Zez2zIteZz9Rtrs8+Vyzdu+fvlUHdtQ3Smfs/O/GzTzMGG3NLe
++Z6ZxZWLuz4Pf5qG26pN1x6Xjy1e7V3e8ez23PcL519sfhOcPDA5Of77eu+K/vlw
+4ehUd762sWYr/zj1fGL7JtZ2vLntQdel8emevl/3mwe7Go7MtfTFlR+9X67s//b+
+JWhvWV6tLtw7vW/iKT/8bv7U5Ur76tBSvu4PvTf9vQ==
+=suQN
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
