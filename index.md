@@ -1,6 +1,10 @@
 ---
 ---
 
+### Donate to Me
+* Bitcoin
+  * <a href="bitcoin:16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" title="Bitcoin Wallet">16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j</a>
+
 ### My Things
 * Address
   * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canada
