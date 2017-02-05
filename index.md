@@ -16,6 +16,7 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
 
 ### My Contact Things
 * Jabber / XMPP
+  * <a href="https://www.google.com/recaptcha/mailhide/d?k=01bwEAnH6QoK8_L7804iYbFg==&c=2oFFafwyFfxQ4_kkt0HNceufBeAz6VsN-uxqlw179Fc=" target="_blank" title="">s&hellip;</a>@conversations.im <sup>To Be Discontinued</sup>
   * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army
 
 ### My Social Things
