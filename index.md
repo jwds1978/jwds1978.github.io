@@ -1,6 +1,12 @@
 ---
 ---
 
+As a software developer, I've had an expansive professional history. Many will recognize me from cPanel and/or WHMCS.
+
+At this point in my life, I'm considering doing more open-source work than I have in years past. However, with that said, I still need to eat and stuff though.
+
+Anyhow, this Web site is far from complete. I'm only just getting started on it.
+
 ### Donate Things to Me
 * Bitcoin <sup>Preferred</sup>
   * <a href="bitcoin:16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" title="Bitcoin Wallet">16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j</a>
