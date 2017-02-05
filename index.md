@@ -20,8 +20,8 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
   * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army
 * Phone
   * Mobile
-    * `+1 (646) ___-_664`
-    * `+1 (705) ___-_887` <sup>Primary</sup>
+    * +1 (646) &#95;&#95;&#95;-&#95;664
+    * +1 (705) &#95;&#95;&#95;-&#95;887 <sup>Primary</sup>
 
 ### My Social Things
 * Facebook
