@@ -17,16 +17,16 @@
 
   </head>
   <body>
+          {% if site.show_downloads %}
       <div id="header">
         <nav>
-          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          {% if site.show_downloads %}
+            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
             <li class="title">DOWNLOADS</li>
-          {% endif %}
         </nav>
       </div><!-- end header -->
+          {% endif %}
 
     <div class="wrapper">
 
@@ -38,6 +38,11 @@
         </div>
 
         {{ content }}
+
+          <hr>
+          <p style="text-align: justify;">DISCLAIMER:&nbsp; Neither the <a href="http://forces.army" title="Forces.Army">forces.army</a> domain nor any of its sub-domains are associated with and/or sponsored by any national and/or international government agency or branch of the armed forces in any nation.</p>
+          <hr>
+          <p style="text-align: center;">&copy;2017 James W.D. Stewart.&nbsp; All rights reserved.</p>
 
       </section>
 
