@@ -1,7 +1,7 @@
 ---
 ---
 
-### Donate to Me
+### Donation Things
 * Bitcoin
   * <a href="bitcoin:16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" title="Bitcoin Wallet">16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j</a>
     * <a href="https://blockchain.info/address/16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" target="_blank" title="Blockchain">Blockchain</a>
@@ -10,8 +10,6 @@
 
 
 ### My Things
-* Address
-  * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canada
 * Facebook
   * <a href="https://www.facebook.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 * GitHub
@@ -19,7 +17,11 @@
 * Keybase
   * <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
 
-### My Recommendations
+### Send Me Things
+* Address
+  * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canada
+
+### My Recommended Things
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
 * <a href="http://go.forces.army/FastMail" target="_blank" title="FastMail">FastMail</a>
 * <a href="http://go.forces.army/LastPass" target="_blank" title="LastPass">LastPass</a>
