@@ -20,12 +20,12 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
     * STEW721 <sup>Custom for 7455ACFC</sup>
 * E-mail <sup>Preferrably, PGP-Encrypted</sup>
   * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army <sup>Primary</sup>
-  * s&hellip;@eml.cc
-  * i&hellip;@gmail.com
-  * j&hellip;@gmail.com
-  * s&hellip;@gmail.com
-  * i&hellip;@outlook.com
-  * s&hellip;@outlook.com
+  * <a href="http://www.google.com/recaptcha/mailhide/d?k=0138vHjIMsmzcM1UYZjagd4w==&c=ewOlHwD8YrO14RxgibONKQ==" target="_blank" title="">s&hellip;</a>@eml.cc
+  * <a href="http://www.google.com/recaptcha/mailhide/d?k=01Mcn4h5MJg-nEwpTtN4oQVg==&c=rtTJ9jGRflo_UaR0Y4CGjHqB0VjDHVOGYXQ9KK2WmqA=" target="_blank" title="">i&hellip;</a>@gmail.com
+  * <a href="http://www.google.com/recaptcha/mailhide/d?k=01Mcn4h5MJg-nEwpTtN4oQVg==&c=yWtZzPnTBOk_Mrrbc-VWJ8jlAcdIGSuLbu__kvTKogM=" target="_blank" title="">j&hellip;</a>@gmail.com
+  * <a href="http://www.google.com/recaptcha/mailhide/d?k=01Mcn4h5MJg-nEwpTtN4oQVg==&c=PIyvdS6eV-NFD4KFbclzbgSexxhCuldPxlEokm11jvw=" target="_blank" title="">s&hellip;</a>@gmail.com
+  * <a href="http://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=q4TlVm_OrETebmalKZCMTqQ0rJW1Q4j1cmEXKMgY8y4=" target="_blank" title="">i&hellip;</a>@outlook.com
+  * <a href="http://www.google.com/recaptcha/mailhide/d?k=01m7xXkwc1HQS8P1LnRnJFOQ==&c=jIrS8r6tcRqtPUQrI2uox9ntMz0-dfaqkiC2SGRW_fs=" target="_blank" title="">s&hellip;</a>@outlook.com
 * Jabber / XMPP <sup>Preferred</sup>
   * ~~<a href="https://www.google.com/recaptcha/mailhide/d?k=01bwEAnH6QoK8_L7804iYbFg==&c=2oFFafwyFfxQ4_kkt0HNceufBeAz6VsN-uxqlw179Fc=" target="_blank" title="">s&hellip;</a>@conversations.im~~
   * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army
