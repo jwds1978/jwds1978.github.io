@@ -18,7 +18,7 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
 * Facebook
   * <a href="https://www.facebook.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 * GitHub
-  * <a href="https://resume.github.io/?jwds1978" target="_blank" title="GitHub Resume">Resume</a>
+  * <a href="https://resume.github.io/?jwds1978" target="_blank" title="GitHub Resume">R&eacute;sum&eacute;</a>
 * Keybase
   * <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
     * <a href="https://keybase.io/encrypt#stew721" target="_blank" title="">Encrypt to Me</a>
