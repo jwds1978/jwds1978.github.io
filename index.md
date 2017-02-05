@@ -1,7 +1,7 @@
 ---
 ---
 
-### My Other Things
+### My Things
 * Address
   * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canada
 * Facebook
