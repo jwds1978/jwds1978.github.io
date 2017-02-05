@@ -50,5 +50,5 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
 * <a href="http://go.forces.army/FastMail" target="_blank" title="FastMail">FastMail</a>
   * Experience e-mail done right.
 * <a href="http://go.forces.army/LastPass" target="_blank" title="LastPass">LastPass</a>
-    * Your last password&hellip;
+    * Your last password&hellip; Just remember your master password and LastPass remembers the rest. The best way to manage passwords.
 * <a href="http://go.forces.army/Uber" target="_blank" title="Uber">Uber</a>
