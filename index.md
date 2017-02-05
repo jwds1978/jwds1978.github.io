@@ -14,7 +14,11 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
 * PayPal
   * <a href="https://www.paypal.me/stew721" target="_blank" title="">WNS329B9N2G3G</a>
 
-### My Things
+### My Contact Things
+* Jabber / XMPP
+  * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army
+
+### My Social Things
 * Facebook
   * <a href="https://www.facebook.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 * GitHub
