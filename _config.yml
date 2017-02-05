@@ -1,3 +1,4 @@
 include: .well-known
+show_downloads: false
 theme: jekyll-theme-midnight
 title: James W.D. Stewart
