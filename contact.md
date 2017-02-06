@@ -1,6 +1,8 @@
 ---
 ---
 
+> My preferred method of communication is Jabber/XMPP. I make use of <a href="https://conversations.im" target="_blank" title="Conversations">Conversations</a>, both their <a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations" target="_blank" title"">Android app</a> and their <a href="https://account.conversations.im/domain" target="_blank" title="">Jabber/XMPP domain hosting service</a>.
+
 ### Call Me, Maybe
 * Mobile
   * +1 (646) &#95;&#95;&#95;-&#95;664
@@ -27,6 +29,6 @@
   * ~~<a href="xmpp:stew721@conversations.im?roster;name=James%20Stewart" target="_blank" title="">s&hellip;</a>@conversations.im~~
   * <a href="xmpp:james.stewart@forces.army?roster;name=James%20Stewart" target="_blank" title="">j&hellip;</a>@forces.army
 
-### Send Me Stuff
+### Send Stuff to Me
 * Mailing
   * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canad
