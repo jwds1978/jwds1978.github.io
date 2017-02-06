@@ -1,6 +1,8 @@
 ---
 ---
 
+* Address
+  * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canada
 * AOL Instant Messenger
   * <a href="aim:goim?screenname=james%40stew721.ca" target="_blank" title="">j&hellip;</a>@stew721.ca
 * BlackBerry Messenger
