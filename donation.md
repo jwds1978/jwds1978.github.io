@@ -4,7 +4,7 @@ xpacpafjrfjshqrd: true
 ---
 
 * Bitcoin <sup>Preferred</sup>
-  * <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a> <sup>Click the Image Below to Donate</sup>
+  * <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a> <sup>Click the Image Below</sup>
     * <a href="https://blockchain.info/address/{{ page.fnrsfyyzkkwbxmrc }}" target="_blank" title="Blockchain">Blockchain</a>
 
 <div class="blockchain-btn" data-address="{{ page.fnrsfyyzkkwbxmrc }}" data-shared="false" style="font-size: 16px; margin: 0 auto; width: 300px;">
