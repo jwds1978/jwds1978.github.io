@@ -9,10 +9,10 @@ xpacpafjrfjshqrd: true
 
 <div class="blockchain-btn" data-address="{{ page.fnrsfyyzkkwbxmrc }}" data-shared="false" style="font-size: 16px; margin: 0 auto; width: 300px;">
   <div class="blockchain stage-begin">
-    <img height="64" src="https://blockchain.info/Resources/buttons/donate_64.png" width="257" />
+    <img height="64" src="{{ site.github.url }}/images/donate-bitcoin_257x064.png" width="257" />
   </div>
   <div class="blockchain stage-loading" style="text-align: center;">
-    <img height="64" src="https://blockchain.info/Resources/loading-large.gif" width="64" />
+    <img height="64" src="{{ site.github.url }}/images/loading_64x64.gif" width="64" />
   </div>
   <div class="blockchain stage-ready">
     <p align="center">
