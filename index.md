@@ -1,13 +1,12 @@
 ---
 ---
 
-> As a software developer, I've had an expansive professional history. Many will recognize me from cPanel and/or WHMCS.
+> As a software developer, I've had an expansive professional history. You may recognize me from cPanel and/or WHMCS. While I ''m versed in multiple languages, and haven't had one that I couldn't learn as of yet, my primary focus has been with PHP.
 > 
-> At this point in my life, I'm considering doing more open-source work than I have in years past. However, with that said, I still need to eat and stuff as well though.
+> At this point in my life, I'm considering doing more open-source work than I have in years past. However, with that said, I do still need to eat and stuff as well though.
 > 
-> Anyhow, this Web site is far from complete. I'm only just getting started on it.
+> Anyhow, this Web site is far from complete. I'm only just getting started on it. It will, more than likely, go through many iterations yet.
 
-### My Recommended Things
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
 * <a href="http://go.forces.army/FastMail" target="_blank" title="FastMail">FastMail</a>
