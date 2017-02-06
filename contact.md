@@ -8,7 +8,7 @@ pyeccyxfjhpjefnd: true
 > 
 > For Jabber/XMPP, personally, I make use of <a href="https://conversations.im" target="_blank" title="Conversations">Conversations</a>. I use both their <a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations" target="_blank" title="">Android client</a> and their <a href="https://account.conversations.im/domain" target="_blank" title="">Jabber/XMPP domain hosting service</a>.
 
-### Call Me, Maybe <sup>Blocked/Private/Unknown Number &#8762; No Answer</sup>
+### Call Me, Maybe <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
 * Mobile
   * <span data-last="3664" id="3664">+1 (646) 340-<span>3664</span></span>
   * <span data-last="1887" id="1887">+1 (705) 562-<span>1887</span></span> <sup>Primary</sup>
