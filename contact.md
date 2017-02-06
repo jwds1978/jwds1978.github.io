@@ -1,4 +1,5 @@
 ---
+pyeccyxfjhpjefnd: true
 ---
 
 > My preferred method of communication is secure messaging, followed by Jabber/XMPP.
@@ -10,7 +11,7 @@
 ### Call Me, Maybe
 * Mobile
   * +1 (646) &#95;&#95;&#95;-&#95;664
-  * +1 (705) &#95;&#95;&#95;-&#95;887 <sup>Primary</sup>
+  * <span data-last="1887" id="number">+1 (705) 562-<span>1887</span></span> <sup>Primary</sup>
 
 ### E-mail <sup>Preferrably, PGP-Encrypted</sup>
   * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army <sup>Primary</sup>
