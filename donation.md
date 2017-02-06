@@ -28,6 +28,9 @@ xpacpafjrfjshqrd: true
   </div>
 </div>
 
+<script src="https://gateway.gear.mycelium.com/gear-widget-host.js"></script>
+<iframe id="gear-widget" scrolling="no" src="https://gateway.gear.mycelium.com/widgets/125114cf1a0c96953d267f11f1ef586268c29f9af483fd699d922e985ae0962e" style="border: none; display: inline-block; height: 130px; min-width: 250px; max-width: 350px;"></iframe>
+
 * Coinbase
   * <a href="https://www.coinbase.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 * PayPal
