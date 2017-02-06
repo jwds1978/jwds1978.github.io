@@ -35,6 +35,8 @@ Anyhow, this Web site is far from complete. I'm only just getting started on it.
     * +1 (705) &#95;&#95;&#95;-&#95;887 <sup>Primary</sup>
 
 ### My Social Things
+* Bountysource
+  * <a href="https://www.bountysource.com/people/48199" target="_blank" title="">jwds1978</a>
 * Facebook
   * <a href="https://www.facebook.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 * GitHub
