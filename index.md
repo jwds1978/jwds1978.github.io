@@ -1,7 +1,7 @@
 ---
 ---
 
-> As a software developer, I've had an expansive professional history. You may recognize me from cPanel and/or WHMCS. While I ''m versed in multiple languages, and haven't had one that I couldn't learn as of yet, my primary focus has been with PHP.
+> While I'm versed in multiple languages, and haven't had one that I couldn't learn as of yet, my primary focus has been with PHP. You may recognize me from cPanel and/or WHMCS.
 > 
 > At this point in my life, I'm considering doing more open-source work than I have in years past. However, with that said, I do still need to eat and stuff as well though.
 > 
