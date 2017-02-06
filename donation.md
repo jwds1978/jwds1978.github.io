@@ -1,13 +1,14 @@
 ---
+fnrsfyyzkkwbxmrc: 16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j
 xpacpafjrfjshqrd: true
 ---
 
-<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn" data-address="16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" data-shared="false">
+<div class="blockchain-btn" data-address="{{ page.fnrsfyyzkkwbxmrc }}" data-shared="false" style="font-size: 16px; margin: 0 auto; width: 300px;">
   <div class="blockchain stage-begin">
-    <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+    ![](https://blockchain.info/Resources/buttons/donate_64.png "")
   </div>
-  <div class="blockchain stage-loading" style="text-align:center">
-    <img src="https://blockchain.info/Resources/loading-large.gif"/>
+  <div class="blockchain stage-loading" style="text-align: center;">
+    ![](https://blockchain.info/Resources/loading-large.gif "")
   </div>
   <div class="blockchain stage-ready">
     <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
@@ -22,8 +23,8 @@ xpacpafjrfjshqrd: true
 </div>
 
 * Bitcoin <sup>Preferred</sup>
-  * <a href="bitcoin:16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" title="Bitcoin Wallet">16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j</a>
-    * <a href="https://blockchain.info/address/16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" target="_blank" title="Blockchain">Blockchain</a>
+  * <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>
+    * <a href="https://blockchain.info/address/{{ page.fnrsfyyzkkwbxmrc }}" target="_blank" title="Blockchain">Blockchain</a>
 * Coinbase
   * <a href="https://www.coinbase.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 * PayPal
