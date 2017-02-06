@@ -2,10 +2,9 @@
 ---
 
 ### Call Me, Maybe
-* Phone
-  * Mobile
-    * +1 (646) &#95;&#95;&#95;-&#95;664
-    * +1 (705) &#95;&#95;&#95;-&#95;887 <sup>Primary</sup>
+* Mobile
+  * +1 (646) &#95;&#95;&#95;-&#95;664
+  * +1 (705) &#95;&#95;&#95;-&#95;887 <sup>Primary</sup>
 
 ### E-mail <sup>Preferrably, PGP-Encrypted</sup>
   * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army <sup>Primary</sup>
@@ -28,6 +27,6 @@
   * ~~<a href="xmpp:stew721@conversations.im?roster;name=James%20Stewart" target="_blank" title="">s&hellip;</a>@conversations.im~~
   * <a href="xmpp:james.stewart@forces.army?roster;name=James%20Stewart" target="_blank" title="">j&hellip;</a>@forces.army
 
-### Send Things to Me
-* Address
+### Send Me Stuff
+* Mailing
   * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canad
