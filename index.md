@@ -18,7 +18,7 @@
 
 ### My Contact Things
 * AOL Instant Messenger
-  * <a href="aim:goim?screenname=james%40stew721.ca" target="_blank" title="">j&hellip;@stew721.ca</a>
+  * <a href="aim:goim?screenname=james%40stew721.ca" target="_blank" title="">j&hellip;</a>@stew721.ca
 * BlackBerry Messenger
   * 7455ACFC
     * STEW721 <sup>Custom for 7455ACFC</sup>
