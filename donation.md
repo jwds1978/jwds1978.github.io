@@ -1,7 +1,6 @@
 ---
 ---
 
-### Donate Things to Me
 * Bitcoin <sup>Preferred</sup>
   * <a href="bitcoin:16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" title="Bitcoin Wallet">16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j</a>
     * <a href="https://blockchain.info/address/16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j" target="_blank" title="Blockchain">Blockchain</a>
