@@ -15,6 +15,8 @@
   * <a href="https://www.paypal.me/stew721" target="_blank" title="">WNS329B9N2G3G</a>
 
 ### My Contact Things
+* AOL Instant Messenger
+  * <a href="aim:goim?screenname=james%40stew721.ca" target="_blank" title="">james@stew721.ca</a>
 * BlackBerry Messenger
   * 7455ACFC
     * STEW721 <sup>Custom for 7455ACFC</sup>
@@ -26,6 +28,8 @@
   * <a href="http://www.google.com/recaptcha/mailhide/d?k=01Mcn4h5MJg-nEwpTtN4oQVg==&c=PIyvdS6eV-NFD4KFbclzbgSexxhCuldPxlEokm11jvw=" target="_blank" title="">s&hellip;</a>@gmail.com
   * <a href="http://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=q4TlVm_OrETebmalKZCMTqQ0rJW1Q4j1cmEXKMgY8y4=" target="_blank" title="">i&hellip;</a>@outlook.com
   * <a href="http://www.google.com/recaptcha/mailhide/d?k=01m7xXkwc1HQS8P1LnRnJFOQ==&c=jIrS8r6tcRqtPUQrI2uox9ntMz0-dfaqkiC2SGRW_fs=" target="_blank" title="">s&hellip;</a>@outlook.com
+* ICQ
+  * <a href="aim:goim?screenname=714663121" target="_blank" title="714663121">714663121</a>
 * Jabber / XMPP <sup>Preferred</sup>
   * ~~<a href="https://www.google.com/recaptcha/mailhide/d?k=01bwEAnH6QoK8_L7804iYbFg==&c=2oFFafwyFfxQ4_kkt0HNceufBeAz6VsN-uxqlw179Fc=" target="_blank" title="">s&hellip;</a>@conversations.im~~
   * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army
