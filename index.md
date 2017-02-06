@@ -48,6 +48,8 @@
 * GitHub
   * <a href="https://github.com/jwds1978" target="_blank" title="">jwds1978</a>
     * <a href="https://resume.github.io/?jwds1978" target="_blank" title="GitHub Resume">R&eacute;sum&eacute;</a>
+* Hacker News
+  * <a href="https://news.ycombinator.com/user?id=stew721" target="_blank" title="stew721">stew721</a>
 * Keybase
   * <a href="https://keybase.io/stew721" target="_blank" title="stew721">stew721</a>
     * <a href="https://keybase.io/encrypt#stew721" target="_blank" title="">Encrypt to Me</a>
