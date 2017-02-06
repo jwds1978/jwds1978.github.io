@@ -3,7 +3,7 @@
 
 > My preferred method of communication is secure messaging, followed by Jabber/XMPP.
 > 
-> For secure messaging, my preference is with Signal by <a href="https://whispersystems.org" target="_blank" title="Open Whisper Systems">Open Whisper Systems</a>. Personally, I use their <a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms" target="_blank" title="Signal Private Messenger">Android app</a>, but it's available in <a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669" target="_blank" title="Signal - Private Messenger">iTunes</a> as well.
+> For secure messaging, my preference is with <a href="https://whispersystems.org/#messaging" target="_blank" title="Private Messaging">Signal</a> by <a href="https://whispersystems.org" target="_blank" title="Open Whisper Systems">Open Whisper Systems</a>. Personally, I use their <a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms" target="_blank" title="Signal Private Messenger">Android app</a>, but it's available in <a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669" target="_blank" title="Signal - Private Messenger">iTunes</a> as well.
 > 
 > For Jabber/XMPP, personally, I make use of <a href="https://conversations.im" target="_blank" title="Conversations">Conversations</a>. I use both their <a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations" target="_blank" title="">Android client</a> and their <a href="https://account.conversations.im/domain" target="_blank" title="">Jabber/XMPP domain hosting service</a>.
 
