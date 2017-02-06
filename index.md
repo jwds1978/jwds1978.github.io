@@ -5,7 +5,7 @@
 > 
 > At this point in my life, I'm considering doing more open-source work than I have in years past. However, with that said, I do still need to eat and stuff as well though.
 > 
-> Anyhow, this Web site is far from complete. I'm only just getting started on it. It will, more than likely, go through many iterations yet.
+> Anyhow, this Web site is far from complete. I'm only just getting started on it&hellip; It will, more than likely, go through many iterations yet.
 
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
