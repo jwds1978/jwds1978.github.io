@@ -4,7 +4,7 @@ xpacpafjrfjshqrd: true
 ---
 
 * Bitcoin <sup>Preferred</sup>
-  * <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>
+  * <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a> <sup>Click the Image Below to Donate</sup>
     * <a href="https://blockchain.info/address/{{ page.fnrsfyyzkkwbxmrc }}" target="_blank" title="Blockchain">Blockchain</a>
 
 <div class="blockchain-btn" data-address="{{ page.fnrsfyyzkkwbxmrc }}" data-shared="false" style="font-size: 16px; margin: 0 auto; width: 300px;">
@@ -16,12 +16,12 @@ xpacpafjrfjshqrd: true
   </div>
   <div class="blockchain stage-ready">
     <p align="center">
-      Please, Donate to Bitcoin Address:<br /><b>[[address]]</b>
+      Please, send your donation to:<br /><b>[[address]]</b>
     </p>
     <p align="center" class="qr-code"></p>
   </div>
   <div class="blockchain stage-paid">
-    Donation of <b>[[value]] XBT</b> received&hellip; Thank you!
+    Your donation of <b>[[value]] XBT</b> was received&hellip; Thank you!
   </div>
   <div class="blockchain stage-error">
     <font color="red">[[error]]</font>
