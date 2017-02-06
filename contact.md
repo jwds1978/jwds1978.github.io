@@ -10,8 +10,8 @@ pyeccyxfjhpjefnd: true
 
 ### Call Me, Maybe
 * Mobile
-  * +1 (646) &#95;&#95;&#95;-&#95;664
-  * <span data-last="1887" id="number">+1 (705) 562-<span>1887</span></span> <sup>Primary</sup>
+  * <span data-last="3664" id="3664">+1 (646) 340-<span>3664</span></span>
+  * <span data-last="1887" id="1887">+1 (705) 562-<span>1887</span></span> <sup>Primary</sup>
 
 ### E-mail <sup>Preferrably, PGP-Encrypted</sup>
   * <a href="https://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=BsNfaUZAH14Ifelb9e1k4jmLfuerTy0JoDVYL-rEAQo=" target="_blank" title="">j&hellip;</a>@forces.army <sup>Primary</sup>
