@@ -7,10 +7,6 @@
 > 
 > Anyhow, this Web site is far from complete. I'm only just getting started on it.
 
-### Send Things to Me
-* Address
-  * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canada
-
 ### My Recommended Things
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
