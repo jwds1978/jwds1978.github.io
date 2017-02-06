@@ -48,6 +48,8 @@
 * GitHub
   * <a href="https://github.com/jwds1978" target="_blank" title="">jwds1978</a>
     * <a href="https://resume.github.io/?jwds1978" target="_blank" title="GitHub Resume">R&eacute;sum&eacute;</a>
+* Gravatar
+  * <a href="https://en.gravatar.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
 * Hacker News
   * <a href="https://news.ycombinator.com/user?id=stew721" target="_blank" title="stew721">stew721</a>
 * Keybase
