@@ -4,7 +4,7 @@ xpacpafjrfjshqrd: true
 ---
 
 ### Bitcoin <sup>Preferred</sup>
-* <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a> <sup>Use the Widget Below</sup>
+* <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a> <sup>Preferrably, Use the Widget Below</sup>
 
 <p align="center">
   <script src="https://gateway.gear.mycelium.com/gear-widget-host.js" type="text/javascript"></script>
