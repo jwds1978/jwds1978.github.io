@@ -2,13 +2,13 @@
 pyeccyxfjhpjefnd: true
 ---
 
-> My preferred method of communication is secure messaging, followed by Jabber/XMPP.
+> James' preferred method of communication is secure messaging, closely followed by Jabber/XMPP.
 > 
-> For secure messaging, my preference is with <a href="https://whispersystems.org/#messaging" target="_blank" title="Private Messaging">Signal</a> by <a href="https://whispersystems.org" target="_blank" title="Open Whisper Systems">Open Whisper Systems</a>. Personally, I use their <a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms" target="_blank" title="Signal Private Messenger">Android app</a>, but it's available in <a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669" target="_blank" title="Signal - Private Messenger">iTunes</a> as well.
+> For secure messaging, James' preference is with <a href="https://whispersystems.org/#messaging" target="_blank" title="Private Messaging">Signal</a> by <a href="https://whispersystems.org" target="_blank" title="Open Whisper Systems">Open Whisper Systems</a>. He uses their <a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms" target="_blank" title="Signal Private Messenger">Android app</a>, but it's available in <a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669" target="_blank" title="Signal - Private Messenger">iTunes</a> as well.
 > 
-> For Jabber/XMPP, personally, I make use of <a href="https://conversations.im" target="_blank" title="Conversations">Conversations</a>. I use both their <a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations" target="_blank" title="">Android client</a> and their <a href="https://account.conversations.im/domain" target="_blank" title="">Jabber/XMPP domain hosting service</a>.
+> For Jabber/XMPP, James makes use of <a href="https://conversations.im" target="_blank" title="Conversations">Conversations</a>. He uses both their <a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations" target="_blank" title="">Android client</a> and their <a href="https://account.conversations.im/domain" target="_blank" title="">Jabber/XMPP domain hosting service</a>.
 
-### Call Me, Maybe <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
+### Call James, Maybe <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
 * Mobile
   * <span data-last="3664" id="3664">+1 (646) 340-<span>3664</span></span>
   * <span data-last="1887" id="1887">+1 (705) 562-<span>1887</span></span> <sup>Primary</sup>
@@ -34,6 +34,6 @@ pyeccyxfjhpjefnd: true
   * ~~<a href="xmpp:stew721@conversations.im?roster;name=James%20Stewart" target="_blank" title="">s&hellip;</a>@conversations.im~~
   * <a href="xmpp:james.stewart@forces.army?roster;name=James%20Stewart" target="_blank" title="">j&hellip;</a>@forces.army
 
-### Send Stuff to Me
+### Send Stuff to James
 * Mailing
   * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canad
