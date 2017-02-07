@@ -5,4 +5,4 @@ James, a Canadian Forces veteran, is an information technology consultant. He's 
 
 James has been professionally developing software since circa 2000. Many of you may recognize him from cPanel and/or WHMCS. Although he's versed in several programming languages, he has focused primarily on PHP.
 
-&hellip;
+&hellip; To be continued &hellip;
