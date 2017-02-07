@@ -1,11 +1,7 @@
 ---
 ---
 
-> While I'm versed in multiple languages, and haven't had one that I couldn't learn as of yet, my primary focus has been with PHP. You may recognize me from cPanel and/or WHMCS.
-> 
-> At this point in my life, I'm considering doing more open-source work than I have in years past. However, with that said, I do still need to eat and stuff as well though.
-> 
-> Anyhow, this Web site is far from complete. I'm only just getting started on it&hellip; It will, more than likely, go through many iterations yet.
+> This is James Stewart's Web site. He's an IT consultant and software developer. That doesn't say much about him, eh? Read more <a href="{{ site.github.url }}/about">here</a>.
 
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
