@@ -7,6 +7,7 @@ xpacpafjrfjshqrd: true
 * <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a> <sup>Use the Widget Below</sup>
 
 <p align="center">
+  <script src="https://gateway.gear.mycelium.com/gear-widget-host.js" type="text/javascript"></script>
   <iframe id="gear-widget" scrolling="no" src="https://gateway.gear.mycelium.com/widgets/125114cf1a0c96953d267f11f1ef586268c29f9af483fd699d922e985ae0962e" style="border: none; display: inline-block; height: 130px; max-width: 350px; min-width: 250px;"></iframe>
 </p>
 
