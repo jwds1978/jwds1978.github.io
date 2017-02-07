@@ -3,7 +3,7 @@
 
 > This is James Stewart's Web site. He's an IT consultant and software developer.
 > 
-> That doesn't say much about him, eh? Read more <a href="{{ site.github.url }}/about">here</a>.
+> That doesn't say much about him, eh? Read more <a href="{{ site.github.url }}/about" rel="me">here</a>.
 
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
