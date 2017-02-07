@@ -23,7 +23,7 @@
           {% if site.show_downloads %}
       <div id="header">
         <nav>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+            <li class="fork"><a href="{{ site.github.repository_url }}" rel="me">View On GitHub</a></li>
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
             <li class="title">DOWNLOADS</li>
@@ -41,18 +41,18 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
           <span class="credits right">
-            <a href="{{ site.github.url }}">Home</a>&nbsp;
-            &bull;&nbsp; <a href="{{ site.github.url }}/contact">Contact James, Maybe</a>&nbsp;
-            &bull;&nbsp; <a href="{{ site.github.url }}/donation">Donate to James, He's Hungry</a>&nbsp;
-            &bull;&nbsp; <a href="{{ site.github.url }}/about">James, Who</a>&nbsp;
-            &bull;&nbsp; <a href="{{ site.github.url }}/social">Socialize with James</a>
+            <a href="{{ site.github.url }}" rel="me">Home</a>&nbsp;
+            &bull;&nbsp; <a href="{{ site.github.url }}/contact" rel="me">Contact James, Maybe</a>&nbsp;
+            &bull;&nbsp; <a href="{{ site.github.url }}/donation" rel="me">Donate to James, He's Hungry</a>&nbsp;
+            &bull;&nbsp; <a href="{{ site.github.url }}/about" rel="me">James, Who</a>&nbsp;
+            &bull;&nbsp; <a href="{{ site.github.url }}/social" rel="me">Socialize with James</a>
           </span>
         </div>
 
         {{ content }}
 
           <hr>
-          <p style="text-align: justify;">DISCLAIMER:&nbsp; Neither the <a href="{{ site.github.url }}" title="Forces.Army">forces.army</a> domain nor any of its sub-domains are associated with and/or sponsored by any national and/or international government agency or branch of the armed forces in any nation.</p>
+          <p style="text-align: justify;">DISCLAIMER:&nbsp; Neither the <a href="{{ site.github.url }}" rel="me" title="Forces.Army">forces.army</a> domain nor any of its sub-domains are associated with and/or sponsored by any national and/or international government agency or branch of the armed forces in any nation.</p>
           <hr>
           <p style="text-align: center;">&copy;2017 James W.D. Stewart.&nbsp; All rights reserved.</p>
 
