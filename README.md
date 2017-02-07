@@ -1,2 +1,3 @@
 ### References
-* <a href="https://help.github.com/articles/repository-metadata-on-github-pages" target="_blank" title="">Repository metadata on GitHub Pages</a>
+* GitHub
+  * [Repository metadata on GitHub Pages](https://help.github.com/articles/repository-metadata-on-github-pages "Repository metadata on GitHub Pages")
