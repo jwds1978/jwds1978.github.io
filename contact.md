@@ -36,4 +36,4 @@ pyeccyxfjhpjefnd: true
 
 ### Send Stuff to James
 * Mailing
-  * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canad
+  * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canada

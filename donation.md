@@ -17,10 +17,12 @@ xpacpafjrfjshqrd: true
   * <a href="https://www.paypal.me/stew721" target="_blank" title="">WNS329B9N2G3G</a>
 
 <div align="center">
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-    <input name="cmd" type="hidden" value="_s-xclick">
-    <input name="hosted_button_id" type="hidden" value="DY5LFFUVUNHTQ">
-    <input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image">
-    <img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1">
-  </form>
+  <p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+      <input name="cmd" type="hidden" value="_s-xclick">
+      <input name="hosted_button_id" type="hidden" value="DY5LFFUVUNHTQ">
+      <input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image">
+      <img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" />
+    </form>
+  </p>
 </div>
