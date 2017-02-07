@@ -4,7 +4,7 @@ xpacpafjrfjshqrd: true
 ---
 
 ### Bitcoin <sup>Preferred</sup>
-* <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a> <sup>Preferrably, Use the Widget Below</sup>
+* <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a> <sup>Preferrably, Use the Widget Below</sup>
 
 <p align="center">
   <script src="https://gateway.gear.mycelium.com/gear-widget-host.js" type="text/javascript"></script>
@@ -12,9 +12,9 @@ xpacpafjrfjshqrd: true
 </p>
 
 * Coinbase
-  * <a href="https://www.coinbase.com/jwds1978" target="_blank" title="jwds1978">jwds1978</a>
+  * <a href="https://www.coinbase.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * PayPal
-  * <a href="https://www.paypal.me/stew721" target="_blank" title="">WNS329B9N2G3G</a>
+  * <a href="https://www.paypal.me/stew721" rel="me" target="_blank" title="">WNS329B9N2G3G</a> <sup>Preferrably, Use the Button Below</sup>
 
 <div align="center">
   <p>
