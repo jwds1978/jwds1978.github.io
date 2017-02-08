@@ -1,10 +1,14 @@
 ---
 ---
 
-<ul>
+<div class="posts">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}" rel="me" title="{{ post.title }}">{{ post.title }}</a>
-    </li>
+  <article class="post">
+    <h1><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+  </article>
   {% endfor %}
-</ul>
+</div>
