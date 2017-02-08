@@ -1,8 +1,10 @@
 author: "James Stewart"
 exclude: README.md
-gems: [jekyll-feed, jekyll-sitemap]
+gems: [jekyll-feed, jekyll-paginate, jekyll-sitemap]
 include: .well-known
 layout: default
+paginate: 5
+paginate_path: "/blog/page:num/"
 permalink: /blog/:categories/:year/:month/:day/:title.htm
 published: true
 show_downloads: false
