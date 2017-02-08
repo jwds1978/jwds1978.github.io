@@ -1,7 +1,7 @@
 ---
 categories: innominate
-date: 2017-02-05 11:35:40 America/Toronto
+date: 2017-02-05 17:38:40 America/Toronto
 layout: post
 ---
 
-&hellip; This is a test post &hellip;
+I made a blog post &hellip; Woo hoo!
