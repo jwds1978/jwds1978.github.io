@@ -6,20 +6,8 @@ gems:
   - jekyll-sitemap
 include: .well-known
 layout: default
-# paginate: 5
-# paginate_path: "/blog/page:num/"
-pagination:
-  debug: false
-  enabled: true
-  limit: 0
-  per_page: 5
-  permalink: "/blog/page:num/"
-  sort_field: "date"
-  sort_reverse: true
-  title: ":title - Page :num of :max"
-  trail:
-    after: 2
-    before: 2
+paginate: 5
+paginate_path: "/blog/page:num/"
 permalink: /blog/:year/:month/:day/:title.htm
 published: true
 safe: false
@@ -27,4 +15,4 @@ show_downloads: false
 sitemap: true
 theme: jekyll-theme-midnight
 timezone: America/Toronto
-title: James W.D. Stewart
+title: "James W.D. Stewart"
