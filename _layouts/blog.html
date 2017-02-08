@@ -20,7 +20,7 @@ layout: default
   <ul class="post-list">
     {% for post in paginator.posts %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
+      <span class="post-meta">{{ post.date | date: "%d %B %Y @ %T" }}</span>
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}" rel="me">{{ post.title | escape }}</a>
       </h2>
