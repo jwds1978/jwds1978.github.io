@@ -1,12 +1,12 @@
 ---
+fdwnvxfmfbpxqufy: true
 ---
 
 > This is James Stewart's Web site. He's an IT consultant and software developer.
 > 
 > That doesn't say much about him, eh? Read more <a href="{{ site.github.url }}/about" rel="me">here</a>.
 
-<div class="github-widget" data-username="jwds1978"></div>
-<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
+<div class="github-widget" data-username="jwds1978" style="text-align: center;"></div>
 
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
