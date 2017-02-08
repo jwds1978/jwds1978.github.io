@@ -6,9 +6,7 @@ fdwnvxfmfbpxqufy: true
 > 
 > That doesn't say much about him, eh? Read more <a href="{{ site.github.url }}/about" rel="me">here</a>.
 
-<p align="center">
-<div class="github-widget" data-username="jwds1978" style="text-align: center;"></div>
-</p>
+<div align="center" class="github-widget" data-username="jwds1978" style="text-align: center;"></div>
 
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
