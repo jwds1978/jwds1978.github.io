@@ -3,8 +3,7 @@ $(function() {
     $(this).find('span').html('&times;&times;&times;&times;');
   }, function() {
     $(this).find('span').text($(this).data('last'));
-  })
-  .click();
+  }).click();
 });
 
 $(function() {
@@ -12,6 +11,5 @@ $(function() {
     $(this).find('span').html('&times;&times;&times;&times;');
   }, function() {
     $(this).find('span').text($(this).data('last'));
-  })
-  .click();
+  }).click();
 });
