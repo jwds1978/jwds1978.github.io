@@ -1,10 +1,23 @@
 author: "James Stewart"
 exclude: README.md
-gems: [jekyll-feed, jekyll-paginate, jekyll-sitemap]
+gems:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-sitemap]
 include: .well-known
 layout: default
-paginate: 5
-paginate_path: "/blog/page:num/"
+paginate:
+  category: "posts"
+  collection: "posts"
+  debug: false
+  enabled: true
+  limit: 0
+  per_page: 5
+  permalink: "/blog/page:num/"
+  sort_field: "date"
+  sort_reverse: true
+  tag: ""
+  title: ":title - Page :num of :max"
 permalink: /blog/:categories/:year/:month/:day/:title.htm
 published: true
 show_downloads: false
