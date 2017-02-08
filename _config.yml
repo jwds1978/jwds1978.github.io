@@ -1,3 +1,4 @@
+author: "James Stewart"
 exclude: README.md
 gems: [jekyll-feed, jekyll-sitemap]
 include: .well-known
