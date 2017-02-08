@@ -5,5 +5,6 @@ layout: default
 permalink: /:categories/:year/:month/:day/:title.htm
 published: true
 show_downloads: false
+sitemap: true
 theme: jekyll-theme-midnight
 title: James W.D. Stewart
