@@ -3,6 +3,11 @@ layout: default
 ---
 
 <h1>{{ page.title | escape }}</h1>
-<h6>{{ page.date | date: "%d %B %Y @ %T %Z" }}</h6>
+<h6>
+  by {{ page.author | escape }}
+  <span style="float: right;">
+    {{ page.date | date: "%d %B %Y @ %T %Z" }}
+  </span>
+</h6>
 
 {{ content }}
