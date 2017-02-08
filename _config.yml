@@ -1,4 +1,5 @@
 exclude: README.md
+gems: jekyll-sitemap
 include: .well-known
 layout: default
 permalink: /:categories/:year/:month/:day/:title.htm
