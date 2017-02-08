@@ -20,6 +20,7 @@ paginate:
   title: ":title - Page :num of :max"
 permalink: /blog/:categories/:year/:month/:day/:title.htm
 published: true
+safe: false
 show_downloads: false
 sitemap: true
 theme: jekyll-theme-midnight
