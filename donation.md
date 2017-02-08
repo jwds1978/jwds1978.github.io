@@ -1,6 +1,5 @@
 ---
 fnrsfyyzkkwbxmrc: 16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j
-xpacpafjrfjshqrd: true
 ---
 
 ### Bitcoin <sup>Preferred</sup>
