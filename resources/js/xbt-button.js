@@ -24,8 +24,11 @@ $(document).ready(function() {
         function checkBalance() {
           $.ajax({
             type: "GET",
-            url: root + 'q/getreceivedbyaddress/'+receivers_address+'?start_time='+(new Date).getTime(),
-            data : {format : 'plain'},
+            url: root + 'q/getreceivedbyaddress/' + receivers_address +
+              '?start_time=' + (new Date).getTime(),
+            data: {
+              format: 'plain'
+            },
             success: function(response) {
               if (!response) return;
 
@@ -67,7 +70,7 @@ $(document).ready(function() {
               button.find('.stage-paid').trigger('show').show().html(button.find('.stage-paid').html().replace('[[value]]', result / 100000000));
 
               ws.close();
-            } catch(e) {
+            } catch (e) {
               console.log(e);
 
               console.log(e.data);
@@ -75,7 +78,7 @@ $(document).ready(function() {
           };
 
           ws.onopen = function() {
-            ws.send('{"op":"addr_sub", "addr":"'+ receivers_address +'"}');
+            ws.send('{"op":"addr_sub", "addr":"' + receivers_address + '"}');
           };
         } catch (e) {
           console.log(e);
@@ -83,7 +86,7 @@ $(document).ready(function() {
 
         button.find('.stage-ready').trigger('show').show().html(button.find('.stage-ready').html().replace('[[address]]', receivers_address));
 
-        button.find('.qr-code').html('<img style="margin:5px" src="'+root+'qr?data='+receivers_address+'&size=125">');
+        button.find('.qr-code').html('<img style="margin:5px" src="' + root + 'qr?data=' + receivers_address + '&size=125">');
 
         button.unbind();
 
