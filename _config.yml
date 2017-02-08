@@ -1,5 +1,6 @@
 exclude: README.md
 include: .well-known
+permalink: /:categories/:year/:month/:day/:title.html
 show_downloads: false
 theme: jekyll-theme-midnight
 title: James W.D. Stewart
