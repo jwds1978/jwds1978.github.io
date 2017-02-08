@@ -1,1 +1,1 @@
-Sitemap: {{ site.github.url }}/sitemap.xml
+Sitemap: http://forces.army/sitemap.xml
