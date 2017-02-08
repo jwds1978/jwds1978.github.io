@@ -7,19 +7,17 @@ gems:
 include: .well-known
 layout: default
 # paginate: 5
-paginate_path: "/blog/page:num/"
+# paginate_path: "/blog/page:num/"
 pagination:
-  category: posts
-  collection: posts
+  category: "posts"
+  collection: "posts"
   debug: false
   enabled: true
   limit: 0
-  locale: ""
   per_page: 5
   permalink: "/blog/page:num/"
-  sort_field: date
+  sort_field: "date"
   sort_reverse: true
-  tag: ""
   title: ":title - Page :num of :max"
   trail:
     after: 2
