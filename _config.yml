@@ -7,4 +7,5 @@ published: true
 show_downloads: false
 sitemap: true
 theme: jekyll-theme-midnight
+timezone: America/Toronto
 title: James W.D. Stewart
