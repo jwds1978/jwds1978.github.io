@@ -1,0 +1,1 @@
+Sitemap: {{ site.github.url }}/sitemap.xml
