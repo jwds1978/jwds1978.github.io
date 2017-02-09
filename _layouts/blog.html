@@ -16,6 +16,11 @@ layout: default
 </style>
 
 <div class="home">
+  <p style="text-align: center;">
+    Filter by:<br />
+    <a href="{{ site.github.url }}/categories" rel="me">Category</a>&nbsp;
+    &bull;&nbsp; Tag
+  <p>
   {{ content }}
   <ul class="post-list">
     {% for post in paginator.posts %}
