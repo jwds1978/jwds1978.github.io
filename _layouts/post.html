@@ -25,4 +25,6 @@ layout: default
   {% endfor %}
 </p>
 
+{% if page.comments_enabled %}
 {% include gpgc_comments.html post_title=page.title %}
+{% endif %}
