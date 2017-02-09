@@ -16,11 +16,11 @@ layout: default
 <p style="font-size: smaller;">
   Categories:&nbsp;
   {% for cat in page.categories %}
-  <a href="#{{ cat | slugify }}" rel="me">{{ cat }}</a>
+  <a href="{{ site.github.url }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>
   {% endfor %}
   <br />
   Tags:&nbsp;
   {% for tag in page.tags %}
-  <a href="#{{ tag | slugify }}" rel="me">{{ tag }}</a>
+  <a href="{{ site.github.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
   {% endfor %}
 </p>
