@@ -1,38 +1,8 @@
 ---
 layout: default
-wdcyvdsgrmupffee: true
 ---
 
-<style>
-  .post-tag {
-    background: rgba(106, 159, 181, 0.15);
-    border-radius: 4px;
-    color: #6a9fb5;
-    display: inline-block;
-    font-size: 90%;
-    margin-right: .5rem;
-    padding: 0 .5rem;
-  }
-  .post-tag:before {
-    content: "\f02b";
-    font-family: FontAwesome;
-    padding-right: .5em;
-  }
-  .post-tag:hover {
-    background: #6a9fb5;
-    color: #fff;
-    text-decoration: none;
-  }
-</style>
-
 <h1>{{ page.title | escape }}</h1>
-<div>
-  <span style="float: left;">
-    {% for tag in page.categories %}
-    <a class="post-tag" href="#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
-    {% endfor %}
-  </span>
-</div>
 <h6>
   <span style="float: right;">
     by <span style="font-size: larger;"><em>{{ page.author | default: site.author | escape }}</em></span>
@@ -42,3 +12,16 @@ wdcyvdsgrmupffee: true
 </h6>
 
 {{ content }}
+
+<p>
+  Categories:&nbsp;
+  {% for tag in post.categories %}
+  <a href="#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
+  {% endfor %}
+</p>
+<p>
+  Tags:&nbsp;
+  {% for tag in post.tags %}
+  <a href="#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
+  {% endfor %}
+</p>
