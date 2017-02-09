@@ -25,3 +25,5 @@ layout: default
   &nbsp;<a href="{{ site.github.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
   {% endfor %}
 </p>
+
+{% include gpgc_comments.html post_title=page.title %}
