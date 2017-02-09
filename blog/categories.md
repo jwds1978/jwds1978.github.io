@@ -39,7 +39,7 @@ wdcyvdsgrmupffee: true
       {% for post in tag[1] %}
       <li>
         <span style="font-size: larger;"><a class="post-link" href="{{ site.github.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a></span><br />
-        <span class="post-meta">{{ post.date | date: "%d %B %Y @ %T %Z" }}</span>
+        <span class="post-meta" style="font-size: smaller;">{{ post.date | date: "%d %B %Y @ %T %Z" }}</span>
       </li>
       {% endfor %}
     </ul>
