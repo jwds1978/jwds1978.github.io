@@ -1,5 +1,5 @@
 ---
-categories: innominate
+categories: Innominate
 date: 2017-02-05 17:38:40 America/Toronto
 layout: post
 ---
