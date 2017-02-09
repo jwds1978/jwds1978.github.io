@@ -1,0 +1,49 @@
+---
+wdcyvdsgrmupffee: true
+---
+
+<style>
+  .post-tag {
+    background: rgba(106, 159, 181, 0.15);
+    border-radius: 4px;
+    color: #6a9fb5;
+    display: inline-block;
+    font-size: 90%;
+    margin-right: .5rem;
+    padding: 0 .5rem;
+  }
+  .post-tag:before {
+    content: "\f02b";
+    font-family: FontAwesome;
+    padding-right: .5em;
+  }
+  .post-tag:hover {
+    background: #6a9fb5;
+    color: #fff;
+    text-decoration: none;
+  }
+</style>
+
+<div class="tags-expo">
+  <div class="tags-expo-list">
+    {% for tag in site.tags %}
+    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    {% endfor %}
+  </div>
+  <hr/>
+  <div class="tags-expo-section">
+    {% for tag in site.tags %}
+    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <ul class="tags-expo-posts">
+      {% for post in tag[1] %}
+      <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+      <li>
+        {{ post.title }}
+        <small class="post-date">{{ post.date | date_to_string }}</small>
+      </li>
+    </a>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</div>
+</div>
