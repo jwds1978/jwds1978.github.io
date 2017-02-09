@@ -13,15 +13,14 @@ layout: default
 
 {{ content }}
 
-<p>
+<p style="font-size: smaller;">
   Categories:&nbsp;
-  {% for tag in post.categories %}
+  {% for tag in page.categories %}
   <a href="#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
   {% endfor %}
-</p>
-<p>
+  <br />
   Tags:&nbsp;
-  {% for tag in post.tags %}
+  {% for tag in page.tags %}
   <a href="#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
   {% endfor %}
 </p>
