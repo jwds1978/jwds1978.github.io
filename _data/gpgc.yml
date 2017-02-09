@@ -8,4 +8,4 @@ github_application:
   client_id: 545010d388b02569757b
   code_authenticator: http://gatekeeper.forces.army/authenticate/
   callback_url: http://forces.army/public/html/gpgc_redirect/index.html
-enable_diagnostics: false
+enable_diagnostics: true
