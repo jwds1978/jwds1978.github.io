@@ -34,19 +34,15 @@ wdcyvdsgrmupffee: true
   <hr />
   <div class="tags-expo-section">
     {% for tag in site.categories %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
-      <a class="post-title" href="{{ site.github.url }}{{ post.url }}" rel="me">
-        <li>
-          {{ post.title }}
-          <small class="post-date">{{ post.date | date_to_string }}</small>
-        </li>
-      </a>
+      <li>
+        <span style="font-size: larger;"><a class="post-link" href="{{ site.github.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a><br /></span>
+        <span class="post-meta">{{ post.date | date: "%d %B %Y @ %T %Z" }}</span>
+      </li>
       {% endfor %}
     </ul>
     {% endfor %}
   </div>
 </div>
-
-&hellip;
