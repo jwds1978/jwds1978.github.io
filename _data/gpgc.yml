@@ -1,11 +1,11 @@
-repo_owner: __your_github_username__
-repo_name: __your_github_repository__
+repo_owner: jwds1978
+repo_name: jwds1978.github.io
 disabled: false
 use_show_action: false
 label_name: Post Comments
 label_color: 666666
 github_application:
-  client_id: __your_github_app_client_id__
-  code_authenticator: __your_github_code_authenticator_url__
-  callback_url: http://__your_host__/public/html/gpgc_redirect/index.html
+  client_id: 545010d388b02569757b
+  code_authenticator: http://gatekeeper.forces.army/authenticate/
+  callback_url: http://forces.army/public/html/gpgc_redirect/index.html
 enable_diagnostics: false
