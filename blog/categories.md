@@ -46,3 +46,7 @@ wdcyvdsgrmupffee: true
     {% endfor %}
   </div>
 </div>
+
+<p class="rss-subscribe">
+  Subscribe <a href="{{ site.github.url }}/feed.xml">via RSS</a>.
+</p>
