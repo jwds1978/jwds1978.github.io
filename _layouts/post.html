@@ -4,7 +4,7 @@ layout: default
 
 <h1>{{ page.title | escape }}</h1>
 <h6>
-  by {{ page.author | escape }}
+  by {{ page.author | default: site.author | escape }}<br />
   <span style="float: right;">
     {{ page.date | date: "%d %B %Y @ %T %Z" }}
   </span>
