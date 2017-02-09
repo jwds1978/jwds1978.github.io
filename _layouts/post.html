@@ -5,10 +5,10 @@ layout: default
 <h1>{{ page.title | escape }}</h1>
 <h6>
   <span style="float: right;">
-    by <em>{{ page.author | default: site.author | escape }}</em>
+    by <span style="font-size: larger;"><em>{{ page.author | default: site.author | escape }}</em></span>
   </span>
-  {{ page.date | date: "%T %Z" }}<br />
-  {{ page.date | date: "%d %B %Y" }}
+  {{ page.date | date: "%d %B %Y" }}<br />
+  {{ page.date | date: "%T %Z" }}
 </h6>
 
 {{ content }}
