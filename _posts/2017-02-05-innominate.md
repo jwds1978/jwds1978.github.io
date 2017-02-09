@@ -5,6 +5,7 @@ layout: post
 tags:
   - GitHub
   - Jekyll
+title: Blog #1
 ---
 
-I made a blog post &hellip; Woo hoo!
+I made a blog post&hellip; Woo hoo!
