@@ -24,6 +24,13 @@ wdcyvdsgrmupffee: true
   }
 </style>
 
+<p style="text-align: center;">
+  Filter by:&nbsp;
+  <a href="{{ site.github.url }}/blog" rel="me">All</a>
+  &bull;&nbsp; <a href="{{ site.github.url }}/blog/categories" rel="me">Category</a>&nbsp;
+  &bull;&nbsp; Tag
+</p>
+
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.tags %}
