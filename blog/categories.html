@@ -6,12 +6,10 @@ wdcyvdsgrmupffee: true
 <style>
   .post-tag {
     display: inline-block;
-    background: rgba(106, 159, 181, 0.15);
     padding: 0 .5rem;
     margin-right: .5rem;
     border-radius: 4px;
     color: #6a9fb5;
-    font-family: "PT Sans",Helvetica,Arial,sans-serif;
     font-size: 90%;
   }
   .post-tag:before {
@@ -32,6 +30,7 @@ wdcyvdsgrmupffee: true
     <a class="post-tag" href="#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
     {% endfor %}
   </div>
+  
   <hr />
   <div class="tags-expo-section">
     {% for tag in site.categories %}
