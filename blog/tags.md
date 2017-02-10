@@ -38,7 +38,6 @@ wdcyvdsgrmupffee: true
     {% endfor %}
   </div>
   <br />
-  <hr />
   <div class="tags-expo-section">
     {% for tag in site.tags %}
     <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
