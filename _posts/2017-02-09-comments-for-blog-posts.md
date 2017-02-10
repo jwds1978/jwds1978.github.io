@@ -4,6 +4,7 @@ comments: true
 date: 2017-02-09 19:06:19 America/Toronto
 layout: post
 tags:
+  - Forces.Army
   - GitHub
   - Jekyll
 title: "Comments for Blog Posts"
