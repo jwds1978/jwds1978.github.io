@@ -1,14 +1,16 @@
 ---
 ---
 
+* Android File Host
+  * <a href="https://www.androidfilehost.com/?w=profile&uid=24369303960683704" rel="me" target="_blank" title="stew721">stew721</a>
 * Bountysource
-  * <a href="https://www.bountysource.com/people/48199" rel="me" target="_blank" title="">jwds1978</a>
+  * <a href="https://www.bountysource.com/people/48199" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * Disqus
   * <a href="https://disqus.com/by/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * Facebook
   * <a href="https://www.facebook.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * GitHub
-  * <a href="https://github.com/jwds1978" rel="me" target="_blank" title="">jwds1978</a>
+  * <a href="https://github.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
     * <a href="https://resume.github.io/?jwds1978" target="_blank" title="GitHub Resume">R&eacute;sum&eacute;</a>
 * Gravatar
   * <a href="https://en.gravatar.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
