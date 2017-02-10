@@ -19,7 +19,7 @@ wdcyvdsgrmupffee: true
     padding-right: .5em;
   }
   .post-tag:hover {
-    background: rgb(79, 94, 104);
+    background: rgb(143, 200, 71);
     color: #fff;
     text-decoration: none;
   }
