@@ -21,7 +21,7 @@ wdcyvdsgrmupffee: true
   .post-tag:hover {
     background: rgb(143, 200, 71);
     color: rgb(79, 94, 104);
-    font-weight: bold;
+    font-weight: bolder;
     text-decoration: none;
   }
 </style>
