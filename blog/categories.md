@@ -5,9 +5,9 @@ wdcyvdsgrmupffee: true
 
 <style>
   .post-tag {
-    background: rgba(106, 159, 181, 0.15);
+    background: rgba(79, 94, 104, 0.15);
     border-radius: 4px;
-    color: #6a9fb5;
+    color: rgb(255, 204, 0);
     display: inline-block;
     font-size: 90%;
     margin-right: .5rem;
@@ -19,8 +19,8 @@ wdcyvdsgrmupffee: true
     padding-right: .5em;
   }
   .post-tag:hover {
-    background: #6a9fb5;
-    color: #fff;
+    background: rgb(255, 204, 0);
+    color: #ffffff;
     text-decoration: none;
   }
 </style>
