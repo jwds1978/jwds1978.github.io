@@ -19,8 +19,9 @@ wdcyvdsgrmupffee: true
     padding-right: .5em;
   }
   .post-tag:hover {
-    background: rgb(79, 94, 104);
-    color: #fff;
+    background: rgb(143, 200, 71);
+    color: rgb(79, 94, 104);
+    font-weight: bolder;
     text-decoration: none;
   }
 </style>
