@@ -23,4 +23,4 @@
 * Twitter
   * <a href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * XDA Developers
-  * <a href="https://forum.xda-developers.com/member.php?referrerid=4491991&u=4491991" rel="me" tartget="_blank" title="stew721">stew721</a>
+  * <a href="https://forum.xda-developers.com/member.php?referrerid=4491991&u=4491991" rel="me" target="_blank" title="stew721">stew721</a>
