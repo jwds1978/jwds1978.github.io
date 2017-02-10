@@ -6,12 +6,10 @@ layout: default
 <h6>
   <span style="float: right;">
     by <span style="font-size: larger;"><em>{{ page.author | default: site.author | escape }}</em></span>{% if page.comments %}<br />
-<a data-disqus-identifier="{{page.url}}" href="{{ page.url }}index.html#disqus_thread"></a>{% endif %}
+<a data-disqus-identifier="{{ page.url }}" href="{{ site.github.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
   </span>
   {{ page.date | date: "%d %B %Y" }}<br />
   {{ page.date | date: "%T %Z" }}
-<a href="{{ site.github.url }}{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>
-
 </h6>
 
 {{ content }}
