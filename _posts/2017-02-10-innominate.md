@@ -1,12 +1,10 @@
 ---
 categories: Uncategorized
 comments: true
-date: 2017-02-09 23:55:41 America/Toronto
+date: 2017-02-10 00:28:13 America/Toronto
 layout: post
-tags:
-  - Disqus
-  - Forces.Army
-title: "Disqus"
+tags: Untagged
+title: "Innominate"
 ---
 
 I made a post&hellip; Comments are enabled&hellip;
