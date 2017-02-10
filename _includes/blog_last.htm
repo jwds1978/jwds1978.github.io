@@ -1,0 +1,17 @@
+<div class="home">
+  <ul class="post-list">
+    <li>
+      {% if fzfneysekpthfcbx.comments %}
+      <span style="float: right;">
+        <span style="font-size: larger;">&nbsp;</span><br />
+        <span style="font-size: smaller;">
+          <a data-disqus-identifier="{{ fzfneysekpthfcbx.url }}" href="{{ site.github.url }}{{ fzfneysekpthfcbx.url }}#disqus_thread" rel="me"></a>
+        </span>
+      </span>
+      {% endif %}
+      <span style="font-size: larger;"><a class="post-link" href="{{ site.github.url }}{{ fzfneysekpthfcbx.url }}" rel="me">{{ fzfneysekpthfcbx.title | escape }}</a></span><br />
+      <span class="post-meta" style="font-size: smaller;">{{ fzfneysekpthfcbx.date | date: "%d %B %Y @ %T %Z" }}</span>
+      <span>{{ fzfneysekpthfcbx.excerpt }}</span>
+    </li>
+  </ul>
+</div>
