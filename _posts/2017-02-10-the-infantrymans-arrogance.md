@@ -1,13 +1,14 @@
 ---
 categories: Uncategorized
 comments: true
-date: 0000-00-00 00:00:00 America/Toronto
+date: 2017-02-10 10:35:19 America/Toronto
 layout: post
 tags: Untagged
 title: "The Infantryman's Arrogance"
 ---
 
 I don't recall who wrote this, but it's always stuck with me none-the-less&hellip;
+
 > Infantrymen have a pride and arrogance that most Canadians don't understand and don't like. Even soldiers who aren't infantrymen don't understand. The pride doesn't exist because we have a job that's physically impressive. It certainly doesn't exist because it takes a higher level of intelligence to perform our duties. It's sad and I hate to admit it, but any college student or high school grad can physically do what we do. It's not THAT demanding and doesn't take a physical anomaly. Nobody will ever be able to compare us to professional athletes or fitness models. And it doesn't take a very high IQ to read off serial numbers, pack bags according to a packing list, or know that incoming bullets have the right of way.
 > 
 > The pride of the infantryman comes not from knowing that he's doing a job that others can't, but that he's doing a job that others simply won't. Many infantrymen haven't seen a lot of combat. While that may sound ideal to the civilian or non-infantry soldier, it pains the grunt. We signed up to spit in the face of danger. To walk the line between life and death and live to do it again – or not. To come to terms with our own mortality and let others try to take our life instead of yours. We have raised our hands and said, "Take me, Canada. I am willing to kill for you. I am willing to sacrifice my limbs for you. I will come back to Canada scarred and disfigured for you. I will be the first to die for you."
