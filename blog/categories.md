@@ -27,7 +27,7 @@ wdcyvdsgrmupffee: true
 
 <p style="text-align: center;">
   Filter by:&nbsp;
-  <a href="{{ site.github.url }}/blog" rel="me">All</a>
+  <a href="{{ site.github.url }}/blog" rel="me">All</a>&nbsp;
   &bull;&nbsp; Category&nbsp;
   &bull;&nbsp; <a href="{{ site.github.url }}/blog/tags" rel="me">Tag</a>
 </p>
