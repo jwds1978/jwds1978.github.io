@@ -11,9 +11,11 @@
       {% endif %}
       <span style="font-size: larger;"><a class="post-link" href="{{ site.github.url }}{{ fzfneysekpthfcbx.url }}" rel="me">{{ fzfneysekpthfcbx.title | escape }}</a></span><br />
       <span class="post-meta" style="font-size: smaller;">{{ fzfneysekpthfcbx.date | date: "%d %B %Y @ %T %Z" }}</span>
-      <span>&nbsp;</span>
-      <blockquote>{{ fzfneysekpthfcbx.excerpt }}</blockquote>
-      <span>&nbsp;</span>
+      <blockquote>
+        <p>
+          {{ fzfneysekpthfcbx.excerpt }}
+        </p>
+      </blockquote>
       <span style="font-size: larger;"><a class="post-link" href="{{ site.github.url }}{{ fzfneysekpthfcbx.url }}" rel="me">Read more&hellip;</a></span>
     </li>
   </ul>
