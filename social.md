@@ -3,6 +3,8 @@
 
 * Bountysource
   * <a href="https://www.bountysource.com/people/48199" rel="me" target="_blank" title="">jwds1978</a>
+* Disqus
+  * <a href="https://disqus.com/by/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * Facebook
   * <a href="https://www.facebook.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * GitHub
