@@ -5,10 +5,13 @@ layout: default
 <h1>{{ page.title | escape }}</h1>
 <h6>
   <span style="float: right;">
-    by <span style="font-size: larger;"><em>{{ page.author | default: site.author | escape }}</em></span>
+    by <span style="font-size: larger;"><em>{{ page.author | default: site.author | escape }}</em></span>{% if page.comments %}<br />
+<a data-disqus-identifier="{{page.url}}" href="{{ page.url }}index.html#disqus_thread"></a>{% endif %}
   </span>
   {{ page.date | date: "%d %B %Y" }}<br />
   {{ page.date | date: "%T %Z" }}
+<a href="{{ site.github.url }}{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>
+
 </h6>
 
 {{ content }}
@@ -25,6 +28,25 @@ layout: default
   {% endfor %}
 </p>
 
-{% if page.comments_enabled %}
-{% include gpgc_comments.html post_title=page.title %}
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = {{ site.github.url }}{{ page.url }};  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = {{ page.url }}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//jwds.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" target="_blank">comments powered by Disqus.</a></noscript>
 {% endif %}

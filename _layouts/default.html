@@ -7,9 +7,7 @@
     <link rel="alternate" href="{{ site.github.url }}/feed.xml" title="{{ site.title }}" type="application/rss+xml" />
     <link rel="sitemap" href="{{ site.github.url }}/sitemap.xml" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css" />
-    {% if page.comments_enabled %}
-    <link rel="stylesheet" href="{{ site.github.url }}/public/css/gpgc_styles.css" type="text/css" />
-    {% elsif page.wdcyvdsgrmupffee %}
+    {% if page.wdcyvdsgrmupffee %}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
     {% endif %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
@@ -56,6 +54,10 @@
       </section>
 
     </div>
+
+  {% if page.comments%}
+  <script id="dsq-count-scr" src="//jwds.disqus.com/count.js" async></script>
+  {% endif %}
 
     {% if site.google_analytics %}
       <script type="text/javascript">
