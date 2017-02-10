@@ -30,7 +30,7 @@ wdcyvdsgrmupffee: true
   Filter by:&nbsp;
   <a href="{{ site.github.url }}/blog" rel="me">All</a>&nbsp;
   &bull;&nbsp; <a href="{{ site.github.url }}/blog/categories" rel="me">Category</a>&nbsp;
-  &bull;&nbsp; Tag
+  &bull;&nbsp; <span style="color: rgb(79, 94, 104);">Tag</span>
 </p>
 
 <div class="tags-expo">
