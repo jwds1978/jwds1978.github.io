@@ -31,7 +31,7 @@ layout: default
 <script>
   var disqus_config = function () {
     this.page.identifier = '{{ page.url }}';
-    this.page.title = '{{ page.title | replace: "\", "\\" | replace: "'", "\'" }}';
+    this.page.title = "{{ page.title }}";
     this.page.url = '{{ site.github.url }}{{ page.url }}';
   };
   (function() {
