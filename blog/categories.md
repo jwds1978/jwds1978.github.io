@@ -20,7 +20,7 @@ wdcyvdsgrmupffee: true
   }
   .post-tag:hover {
     background: rgb(79, 94, 104);
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
   }
 </style>
