@@ -10,7 +10,7 @@ comments: true
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
 
-### Stuff for You
+### Things for You
 * <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
 * <a href="http://go.forces.army/FastMail" target="_blank" title="FastMail">FastMail</a>
