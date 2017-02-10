@@ -1,4 +1,5 @@
 ---
+comments: true
 wdcyvdsgrmupffee: true
 ---
 
@@ -44,6 +45,14 @@ wdcyvdsgrmupffee: true
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
       <li>
+        {% if post.comments %}
+        <span style="float: right;">
+          <span style="font-size: larger;">&nbsp;</span><br />
+          <span style="font-size: smaller;">
+            <a data-disqus-identifier="{{ post.url }}" href="{{ site.github.url }}{{ post.url }}#disqus_thread" rel="me"></a>
+          </span>
+        </span>
+        {% endif %}
         <span style="font-size: larger;"><a class="post-link" href="{{ site.github.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a></span><br />
         <span class="post-meta" style="font-size: smaller;">{{ post.date | date: "%d %B %Y @ %T %Z" }}</span>
       </li>
