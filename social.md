@@ -22,6 +22,8 @@
     * <a href="https://keybase.io/verify" target="_blank" title="">Verify from Me</a>
 * Reddit
   * <a href="https://www.reddit.com/user/stew3721" rel="me" target="_blank" title="stew3721">stew3721</a>
+* Stack Exchange
+  * <a href="https://stackexchange.com/users/10230218/james-stewart" target="_blank" title="">James Stewart</a>
 * Twitter
   * <a href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * XDA Developers
