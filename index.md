@@ -7,7 +7,7 @@ dcuufhdpekkzdymn: true
   <p class="h-adr p-adr">
     <abbr class="p-country-name" title="Canada">CA</abbr>
     <span class="p-locality">Sudbury</span>
-    <span class="p-post-office-box">51042</span>>
+    <span class="p-post-office-box">51042</span>
     <span class="p-postal-code">P3C 1T0</span>
     <span class="p-region">Ontario</span>
     <span class="p-street-address">Elm PO</span>
