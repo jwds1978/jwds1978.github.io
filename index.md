@@ -3,6 +3,29 @@ comments: true
 dcuufhdpekkzdymn: true
 ---
 
+<div class="h-card" style="display: none;">
+  <p class="h-adr p-adr">
+    <abbr class="p-country-name" title="Canada">CA</abbr>
+    <span class="p-locality">Sudbury</span>
+    <span class="p-post-office-box">51042</span>>
+    <span class="p-postal-code">P3C 1T0</span>
+    <span class="p-region">Ontario</span>
+    <span class="p-street-address">Elm PO</span>
+  </p>
+  <a class="u-email" href="mailto:james.stewart@forces.army">james.stewart@forces.army</a>
+  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc">https://keybase.io/stew721/pgp_keys.asc</a>
+  <a class="u-url" href="http://forces.army">http://forces.army</a>
+  <img alt="James Stewart" class="u-logo u-photo" height="460" src="{{ site.github.owner_gravatar_url }}" style="border: 0px;" width="460" />
+  <p class="dt-bday">19781107</p>
+  <p class="p-additional-name">William Dean</p>
+  <p class="p-family-name">Stewart</p>
+  <p class="p-gender-identity">Alpha Male</p>
+  <p class="p-given-name">James</p>
+  <p class="p-honorific-prefix">Mr.</p>
+  <p class="p-name">James Stewart</p>
+  <p class="p-sex">M</p>
+</div>
+
 > This is James Stewart's Web site. He's an IT consultant and software developer.
 > 
 > That doesn't say much about him, eh? Read more <a href="{{ site.github.url }}/about" rel="me">here</a>.
