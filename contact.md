@@ -22,6 +22,11 @@ pyeccyxfjhpjefnd: true
   * <a href="http://www.google.com/recaptcha/mailhide/d?k=01cqy08ysKO4FMFViMSk2vXQ==&c=q4TlVm_OrETebmalKZCMTqQ0rJW1Q4j1cmEXKMgY8y4=" rel="me" target="_blank" title="">i&hellip;</a>@outlook.com
   * <a href="http://www.google.com/recaptcha/mailhide/d?k=01m7xXkwc1HQS8P1LnRnJFOQ==&c=jIrS8r6tcRqtPUQrI2uox9ntMz0-dfaqkiC2SGRW_fs=" rel="me" target="_blank" title="">s&hellip;</a>@outlook.com
 
+### Encrypt All of the Things
+* PGP
+  * Public Keys
+    * <a href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me" target="_blank" title="">614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D</a>
+
 ### Instant Messengers
 * AOL Instant Messenger
   * <a href="aim:goim?screenname=james%40stew721.ca" rel="me" target="_blank" title="">j&hellip;</a>@stew721.ca
