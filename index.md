@@ -13,7 +13,8 @@ dcuufhdpekkzdymn: true
     <span class="p-street-address">Elm PO</span>
   </p>
   <a class="u-email" href="mailto:james.stewart@forces.army">james.stewart@forces.army</a>
-  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc">https://keybase.io/stew721/pgp_keys.asc</a>
+  <a class="u-impp" href="xmpp:james.stewart@forces.army?roster;name=James%20Stewart">james.stewart@forces.army</a>
+  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc">614FFF680E92BAE869C878E361BCA817AFFA1F1D</a>
   <a class="u-url" href="http://forces.army">http://forces.army</a>
   <img alt="James Stewart" class="u-logo u-photo" height="460" src="{{ site.github.owner_gravatar_url }}" style="border: 0px;" width="460" />
   <p class="dt-bday">19781107</p>
