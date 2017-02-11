@@ -26,7 +26,7 @@ pyeccyxfjhpjefnd: true
 * PGP
   * Public Keys
     * <a href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me" target="_blank" title="">614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D</a>
-      * 64-bit: 61BC A817 AFFA 1F1D
+      * 64-bit:&nbsp; 61BC A817 AFFA 1F1D
 
 ### Instant Messengers
 * AOL Instant Messenger
