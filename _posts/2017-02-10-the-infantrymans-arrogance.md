@@ -7,7 +7,7 @@ tags: MyCAF
 title: "The Infantryman's Arrogance"
 ---
 
-I don't recall who wrote this, but it's always stuck with me none-the-less&hellip;
+I don't recall who wrote this, but should you though, feel free to comment&hellip;
 
 > Infantrymen have a pride and arrogance that most Canadians don't understand and don't like. Even soldiers who aren't infantrymen don't understand. The pride doesn't exist because we have a job that's physically impressive. It certainly doesn't exist because it takes a higher level of intelligence to perform our duties. It's sad and I hate to admit it, but any college student or high school grad can physically do what we do. It's not THAT demanding and doesn't take a physical anomaly. Nobody will ever be able to compare us to professional athletes or fitness models. And it doesn't take a very high IQ to read off serial numbers, pack bags according to a packing list, or know that incoming bullets have the right of way.
 > 
