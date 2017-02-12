@@ -8,9 +8,9 @@ To Be Completed&hellip;
   <span class="p-name" style="display: none; text-align: center;">
     <a class="p-contact" href="{{ site.github.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
   </span>
-  <h3>Summary</h3>
+  <h3 id="summary">Summary</h3>
   <p class="p-summary">Information Technology and Services</p>
-  <h3>Skills</h3>
+  <h3 id="skills">Skills</h3>
   <ul>
     <li class="p-skill">Amazon Web Services (AWS)</li>
     <li class="p-skill">Android</li>
