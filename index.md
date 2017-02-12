@@ -6,17 +6,17 @@ dcuufhdpekkzdymn: true
 <div class="h-card" style="display: none;">
   <a class="u-email" href="mailto:james.stewart@forces.army">james.stewart@forces.army</a>
   <a class="u-impp" href="xmpp:james.stewart@forces.army?roster;name=James%20Stewart">james.stewart@forces.army</a>
-  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc">614FFF680E92BAE869C878E361BCA817AFFA1F1D</a>
+  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d">614FFF680E92BAE869C878E361BCA817AFFA1F1D</a>
   <a class="u-url" href="http://forces.army">http://forces.army</a>
   <img alt="James Stewart" class="u-logo u-photo" height="460" src="{{ site.github.owner_gravatar_url }}" style="border: 0px;" width="460" />
   <p class="dt-bday">19781107</p>
   <p class="h-adr p-adr">
+    PO Box <span class="p-post-office-box">51042</span><br />
+    <span class="p-street-address">Elm PO</span><br />
+    <span class="p-locality">Sudbury</span>,
+    <abbr class="p-region" title="Ontario">ON</abbr>&nbsp;
+    <span class="p-postal-code">P3C 1T0</span><br />
     <abbr class="p-country-name" title="Canada">CA</abbr>
-    <span class="p-locality">Sudbury</span>
-    <span class="p-post-office-box">51042</span>
-    <span class="p-postal-code">P3C 1T0</span>
-    <span class="p-region">Ontario</span>
-    <span class="p-street-address">Elm PO</span>
   </p>
   <p class="p-additional-name">William Dean</p>
   <p class="p-family-name">Stewart</p>
