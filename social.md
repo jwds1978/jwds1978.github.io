@@ -18,8 +18,8 @@
   * <a href="https://news.ycombinator.com/user?id=stew721" rel="me" target="_blank" title="stew721">stew721</a>
 * Keybase
   * <a href="https://keybase.io/stew721" rel="me" target="_blank" title="stew721">stew721</a>
-    * <a href="https://keybase.io/encrypt#stew721" target="_blank" title="">Encrypt to Me</a>
-    * <a href="https://keybase.io/verify" target="_blank" title="">Verify from Me</a>
+    * <a href="https://keybase.io/encrypt#stew721" target="_blank" title="">Encrypt to James</a>
+    * <a href="https://keybase.io/verify" target="_blank" title="">Verify from James</a>
 * Reddit
   * <a href="https://www.reddit.com/user/stew3721" rel="me" target="_blank" title="stew3721">stew3721</a>
 * Stack Exchange
