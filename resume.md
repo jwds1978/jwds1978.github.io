@@ -1,12 +1,12 @@
 ---
-title: Resume
+title: "Curriculum Vitae"
 ---
 
 To Be Completed&hellip;
 
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
-    <a class="p-contact" href="{{ site.github.url }}" rel="me" title="James Stewart">James Stewart</a>'s Resume
+    <a class="p-contact" href="{{ site.github.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
   </span>
   <h3>Summary</h3>
   <p class="p-summary">Information Technology and Services</p>
