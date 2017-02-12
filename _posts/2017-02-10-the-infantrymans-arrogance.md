@@ -8,6 +8,9 @@ syndications:
   - href: "https://m.facebook.com/story.php?story_fbid=10154060158952084&id=719142083"
     text: Facebook
     title: ""
+  - href: "https://twitter.com/jwds1978/status/830786052897992705"
+    text: Twitter
+    title: ""
 tags: MyCAF
 title: "The Infantryman's Arrogance"
 ---
