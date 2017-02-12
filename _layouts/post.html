@@ -12,9 +12,12 @@ layout: default
   {{ page.date | date: "%T %Z" }}
 </h6>
 
+<p style="font-size: smaller;">&nbsp;</p>
+
 {{ content }}
 
 <p style="font-size: smaller;">
+  &nbsp;<br />
   Categories:
   {% for cat in page.categories %}
   &nbsp;<a href="{{ site.github.url }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>
