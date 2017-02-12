@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/01f0aa87819f4ec2b25d05e1a70bb2bb)](https://www.codacy.com/app/jwds1978/jwds1978-github-io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jwds1978/jwds1978.github.io&amp;utm_campaign=Badge_Grade)
+
 ### References
 * GitHub
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "This is intended as a quick reference.")
