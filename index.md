@@ -12,11 +12,16 @@ dcuufhdpekkzdymn: true
   <p class="dt-bday">19781107</p>
   <p class="h-adr p-adr">
     PO Box <span class="p-post-office-box">51042</span><br />
-    <span class="p-street-address">Elm PO</span><br />
+    <span class="p-extended-address">Elm PO</span><br />
     <span class="p-locality">Sudbury</span>,
     <abbr class="p-region" title="Ontario">ON</abbr>&nbsp;
     <span class="p-postal-code">P3C 1T0</span><br />
     <abbr class="p-country-name" title="Canada">CA</abbr>
+  </p>
+  <p class="h-geo p-geo">
+    <data class="p-longitude" value="46.49">46&deg; 29' 24&quot; N</data>,
+    <data class="p-latitude" value="-81.01">81&deg; 0' 36&quot; W</data>
+    (<data class="p-altitude" value="347.5">1,140.1 ft.</data>)
   </p>
   <p class="p-additional-name">William Dean</p>
   <p class="p-family-name">Stewart</p>
@@ -25,6 +30,7 @@ dcuufhdpekkzdymn: true
   <p class="p-honorific-prefix">Mr.</p>
   <p class="p-name">James Stewart</p>
   <p class="p-sex">M</p>
+  <p class="p-tel">+17055621887</p>
 </div>
 
 > This is James Stewart's Web site. He's an IT consultant and software developer.
