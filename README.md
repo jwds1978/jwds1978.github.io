@@ -1,5 +1,6 @@
 ### References
 * GitHub
+  * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "This is intended as a quick reference.")
   * Pages
     * [Repository metadata](https://help.github.com/articles/repository-metadata-on-github-pages "Repository metadata on GitHub Pages")
     * [Usage Limits](https://help.github.com/articles/what-is-github-pages/#usage-limits "Usage Limits")
