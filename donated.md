@@ -1,5 +1,6 @@
 ---
 sitemap: false
+title: Donated
 ---
 
 # Thank you!

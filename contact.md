@@ -1,5 +1,6 @@
 ---
 pyeccyxfjhpjefnd: true
+title: Contact
 ---
 
 > James' preferred method of communication is secure messaging, closely followed by Jabber/XMPP.

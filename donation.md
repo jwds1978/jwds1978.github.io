@@ -1,5 +1,6 @@
 ---
 fnrsfyyzkkwbxmrc: 16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j
+title: Donate
 ---
 
 ### Bitcoin <sup>Preferred</sup>

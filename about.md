@@ -1,4 +1,5 @@
 ---
+title: About
 ---
 
 James, a Canadian Forces veteran, is an information technology consultant. He's based in Sudbury, Ontario, Canada. However, he's able to telecommute globally.
