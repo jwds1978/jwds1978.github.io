@@ -26,6 +26,19 @@ layout: default
   {% endfor %}
 </p>
 
+{% if page.syndicated %}
+<p style="font-size: smaller;">
+  Syndicated to:
+  <ul>
+    {% for syndication in page.syndications %}
+    <li>
+      <a href="{{ syndication.href }}" rel="syndication" target="_blank" title="{{ syndication.title }}">{{ syndication.text }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</p>
+{% endif %}
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>

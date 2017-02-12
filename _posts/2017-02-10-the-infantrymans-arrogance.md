@@ -3,6 +3,11 @@ categories: Uncategorized
 comments: true
 date: 2017-02-10 10:35:19 America/Toronto
 layout: post
+syndicated: true
+syndications:
+  - href: "https://m.facebook.com/story.php?story_fbid=10154060158952084&id=719142083"
+    text: Facebook
+    title: ""
 tags: MyCAF
 title: "The Infantryman's Arrogance"
 ---
