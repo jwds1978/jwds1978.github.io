@@ -68,4 +68,137 @@ To Be Completed&hellip;
     <li class="p-skill">WHMCS</li>
     <li>More&hellip;</li>
   </ul>
+  <h3 id="experience">Experience</h3>
+  <div class="h-card h-event p-experience">
+    <p class="title">CEO / Founder / President</p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title="">TekStorm Inc.</a>
+    </p>
+    <p>
+      <time class="dt-start" datetime="2013-10">October 2013</time>
+      &#8211; <time class="dt-end" datetime="2016">2016</time>
+      (<time class="dt-duration" datetime="P3Y">3 Years</time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p class="title"></p>
+    <p>
+      <a class="p-name p-org u-url" target="_blank" title=""></a>
+    </p>
+    <p>
+      <time class="dt-start" datetime=""></time>
+      &#8211; <time class="dt-end" datetime=""></time>
+      (<time class="dt-duration" datetime=""></time>)
+    </p>
+  </div>
 </div>
