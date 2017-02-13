@@ -225,5 +225,4 @@ title: "Curriculum Vitae"
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     2005 &#8211; 2008
   </p>
-  <h3 id="education">Education</h3>
 </div>
