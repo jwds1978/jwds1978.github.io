@@ -194,6 +194,13 @@ title: "Curriculum Vitae"
       <sup><time class="dt-duration" datetime="P1Y2M">1 Year, 2 Months</time></sup>
     </p>
   </div>
+  <h3 id="languages">Languages</h3>
+  <ul>
+    <li>
+      English<br />
+      Bilingual or Native Proficiency
+    </li>
+  </ul>
   <h3 id="certifications">Certifications</h3>
   <p>
     Certificate of Proficiency in Radio &#8212; Restricted Operator &#8212; Aeronautical<br />
