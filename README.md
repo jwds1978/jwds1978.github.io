@@ -11,15 +11,3 @@
     * [Profile](http://gmpg.org/xfn/11 "Version 1.1 of the XFN meta data profile: the list of the values used in XFN with their significance.")
 * [microformat-shiv](http://microformatshiv.com "A cross browser javascript microformats parser which can also be used in browser extensions.")
 * [Microformats Wiki](http://microformats.org/wiki "This wiki is the central resource of the microformats community and provides microformats authoring guides, references, specifications, drafts, publishing patterns, research, brainstorming, and issue tracking.")
-
-``` html
-  <div class="h-card h-event p-experience">
-    <p>
-      <span class="title"></span><br />
-      <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
-      <time class="dt-start" datetime=""></time>
-      &#8211; <time class="dt-end" datetime=""></time>&nbsp;
-      <sup><time class="dt-duration" datetime="P"></time></sup>
-    </p>
-  </div>
-```
