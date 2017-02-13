@@ -176,4 +176,6 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <h3 id="volunteer">Volunteer Experience</h3>
+  <h3 id="certifications">Certifications</h3>
+  <h3 id="education">Education</h3>
 </div>
