@@ -19,7 +19,7 @@
       <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
       &#8211; <time class="dt-end" datetime=""></time>&nbsp;
-      (<time class="dt-duration" datetime="P"></time>)
+      <sup><time class="dt-duration" datetime="P"></time></sup>
     </p>
   </div>
 ```
