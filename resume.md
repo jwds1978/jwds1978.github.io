@@ -176,6 +176,24 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <h3 id="volunteer">Volunteer Experience</h3>
+  <div class="h-card h-event p-experience">
+    <p>
+      <span class="title">Big Brother</span><br />
+      <a class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" target="_blank" title="Big Brothers Big Sisters of South Niagara">Big Brothers Big Sisters of South Niagara</a><br />
+      <time class="dt-start" datetime="2000-04">April 2000</time>
+      &#8211; <time class="dt-end" datetime="2001-02">February 2001</time>&nbsp;
+      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p>
+      <span class="title">Assistant Training Officer / Board Member</span><br />
+      <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" target="_blank" title="Search and Rescue Niagara">Search and Rescue Niagara</a><br />
+      <time class="dt-start" datetime="2000-02">February 2000</time>
+      &#8211; <time class="dt-end" datetime="2001-03">March 2001</time>&nbsp;
+      <sup><time class="dt-duration" datetime="P1Y2M">1 Year, 2 Months</time></sup>
+    </p>
+  </div>
   <h3 id="certifications">Certifications</h3>
   <p>
     Certificate of Proficiency in Radio &#8212; Restricted Operator &#8212; Aeronautical<br />
