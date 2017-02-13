@@ -16,7 +16,7 @@
   <div class="h-card h-event p-experience">
     <p>
       <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
+      <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
       &#8211; <time class="dt-end" datetime=""></time>&nbsp;
       (<time class="dt-duration" datetime="P"></time>)

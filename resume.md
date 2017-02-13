@@ -72,7 +72,7 @@ To Be Completed&hellip;
   <div class="h-card h-event p-experience">
     <p>
       <span class="title">CEO / Founder / President</span><br />
-      <a class="p-name p-org u-url" target="_blank" title="">TekStorm Inc.</a><br />
+      <span class="p-name p-org">TekStorm Inc.</span><br />
       <time class="dt-start" datetime="2013-10">October 2013</time>
       &#8211; <time class="dt-end" datetime="2016">2016</time>&nbsp;
       (<time class="dt-duration" datetime="P3Y">3 Years</time>)
@@ -81,7 +81,7 @@ To Be Completed&hellip;
   <div class="h-card h-event p-experience">
     <p>
       <span class="title">Technical Analyst</span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a>WHMCS<br />
+      <a class="p-name p-org u-url" href="https://www.whmcs.com" target="_blank" title="">WHMCS</a><br />
       <time class="dt-start" datetime="2013-02">February 2013</time>
       &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp;
       (<time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time>)
@@ -89,8 +89,44 @@ To Be Completed&hellip;
   </div>
   <div class="h-card h-event p-experience">
     <p>
+      <span class="title">Software Architect, Sr. / Sole Proprietor</span><br />
+      <span class="p-name p-org">James Stewart</span><br />
+      <time class="dt-start" datetime="2011-11">November 2011</time>
+      &#8211; <time class="dt-end" datetime="2013-10">October 2013</time>&nbsp;
+      (<time class="dt-duration" datetime="P2Y">2 Years</time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p>
+      <span class="title">CSR I</span> &#8212; Time Warner Cable (New York City)<br />
+      <span class="p-name p-org">TeleTech</span><br />
+      <time class="dt-start" datetime="2011-09">September 2011</time>
+      &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp;
+      (<time class="dt-duration" datetime="P6M"></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p>
+      (Contingent) <span class="title">Senior IT Consultant</span><br />
+      <span class="p-name p-org">Near North Data Solutions</span><br />
+      <time class="dt-start" datetime="2011-03">March 2011</time>
+      &#8211; <time class="dt-end" datetime="2012-01">Jabuary 2012</time>&nbsp;
+      (<time class="dt-duration" datetime="P11M"></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p>
+      (Contingent) <span class="title">Operations Specialist</span><br />
+      <span class="p-name p-org">GG Web Hosting</span><br />
+      <time class="dt-start" datetime="2010-11">Novwmber 2010</time>
+      &#8211; <time class="dt-end" datetime="2011-09">September 2011</time>&nbsp;
+      (<time class="dt-duration" datetime="P11M"></time>)
+    </p>
+  </div>
+  <div class="h-card h-event p-experience">
+    <p>
       <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
+      <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
       &#8211; <time class="dt-end" datetime=""></time>&nbsp;
       (<time class="dt-duration" datetime="P"></time>)
@@ -99,7 +135,7 @@ To Be Completed&hellip;
   <div class="h-card h-event p-experience">
     <p>
       <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
+      <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
       &#8211; <time class="dt-end" datetime=""></time>&nbsp;
       (<time class="dt-duration" datetime="P"></time>)
@@ -108,7 +144,7 @@ To Be Completed&hellip;
   <div class="h-card h-event p-experience">
     <p>
       <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
+      <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
       &#8211; <time class="dt-end" datetime=""></time>&nbsp;
       (<time class="dt-duration" datetime="P"></time>)
@@ -117,7 +153,7 @@ To Be Completed&hellip;
   <div class="h-card h-event p-experience">
     <p>
       <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
+      <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
       &#8211; <time class="dt-end" datetime=""></time>&nbsp;
       (<time class="dt-duration" datetime="P"></time>)
@@ -126,7 +162,7 @@ To Be Completed&hellip;
   <div class="h-card h-event p-experience">
     <p>
       <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
+      <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
       &#8211; <time class="dt-end" datetime=""></time>&nbsp;
       (<time class="dt-duration" datetime="P"></time>)
@@ -135,43 +171,7 @@ To Be Completed&hellip;
   <div class="h-card h-event p-experience">
     <p>
       <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
-      <time class="dt-start" datetime=""></time>
-      &#8211; <time class="dt-end" datetime=""></time>&nbsp;
-      (<time class="dt-duration" datetime="P"></time>)
-    </p>
-  </div>
-  <div class="h-card h-event p-experience">
-    <p>
-      <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
-      <time class="dt-start" datetime=""></time>
-      &#8211; <time class="dt-end" datetime=""></time>&nbsp;
-      (<time class="dt-duration" datetime="P"></time>)
-    </p>
-  </div>
-  <div class="h-card h-event p-experience">
-    <p>
-      <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
-      <time class="dt-start" datetime=""></time>
-      &#8211; <time class="dt-end" datetime=""></time>&nbsp;
-      (<time class="dt-duration" datetime="P"></time>)
-    </p>
-  </div>
-  <div class="h-card h-event p-experience">
-    <p>
-      <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
-      <time class="dt-start" datetime=""></time>
-      &#8211; <time class="dt-end" datetime=""></time>&nbsp;
-      (<time class="dt-duration" datetime="P"></time>)
-    </p>
-  </div>
-  <div class="h-card h-event p-experience">
-    <p>
-      <span class="title"></span><br />
-      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
+      <a class="p-name p-org u-url" href="" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
       &#8211; <time class="dt-end" datetime=""></time>&nbsp;
       (<time class="dt-duration" datetime="P"></time>)
