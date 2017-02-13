@@ -14,14 +14,12 @@
 
 ``` html
   <div class="h-card h-event p-experience">
-    <p class="title"></p>
     <p>
-      <a class="p-name p-org u-url" target="_blank" title=""></a>
-    </p>
-    <p>
+      <span class="title"></span><br />
+      <a class="p-name p-org u-url" target="_blank" title=""></a><br />
       <time class="dt-start" datetime=""></time>
-      &#8211; <time class="dt-end" datetime=""></time>
-      (<time class="dt-duration" datetime=""></time>)
+      &#8211; <time class="dt-end" datetime=""></time>&nbsp;
+      (<time class="dt-duration" datetime="P"></time>)
     </p>
   </div>
 ```
