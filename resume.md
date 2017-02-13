@@ -197,8 +197,10 @@ title: "Curriculum Vitae"
   <h3 id="languages">Languages</h3>
   <ul>
     <li>
-      English<br />
-      Bilingual or Native Proficiency
+      English
+      <ul>
+        <li>Bilingual or Native Proficiency</li>
+      </ul>
     </li>
   </ul>
   <h3 id="certifications">Certifications</h3>
