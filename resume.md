@@ -177,5 +177,26 @@ title: "Curriculum Vitae"
   </div>
   <h3 id="volunteer">Volunteer Experience</h3>
   <h3 id="certifications">Certifications</h3>
+  <p>
+    Certificate of Proficiency in Radio &#8212; Restricted Operator &#8212; Aeronautical<br />
+    <a href="http://www.ic.gc.ca" target="_blank" title="Industry Canada">Industry Canada</a><br />
+    License #044600816
+    2004
+  </p>
+  <p>
+    Standard First Aid / CPR Level C<br />
+    <a href="http://www.redcross.ca" target="_blank" title="Canadian Red Cross">Canadian Red Cross</a><br />
+    June 2001 &#8211; 2004
+  </p>
+  <p>
+    Computer End-User Support Specialist<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    2005 &#8211; 2008
+  </p>
+  <p>
+    Network Support Specialist<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    2005 &#8211; 2008
+  </p>
   <h3 id="education">Education</h3>
 </div>
