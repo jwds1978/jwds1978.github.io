@@ -102,7 +102,7 @@ To Be Completed&hellip;
       <span class="p-name p-org">TeleTech</span><br />
       <time class="dt-start" datetime="2011-09">September 2011</time>
       &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp;
-      (<time class="dt-duration" datetime="P6M"></time>)
+      (<time class="dt-duration" datetime="P6M">6 Months</time>)
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -110,17 +110,17 @@ To Be Completed&hellip;
       (Contingent) <span class="title">Senior IT Consultant</span><br />
       <span class="p-name p-org">Near North Data Solutions</span><br />
       <time class="dt-start" datetime="2011-03">March 2011</time>
-      &#8211; <time class="dt-end" datetime="2012-01">Jabuary 2012</time>&nbsp;
-      (<time class="dt-duration" datetime="P11M"></time>)
+      &#8211; <time class="dt-end" datetime="2012-01">January 2012</time>&nbsp;
+      (<time class="dt-duration" datetime="P11M">11 Months</time>)
     </p>
   </div>
   <div class="h-card h-event p-experience">
     <p>
       (Contingent) <span class="title">Operations Specialist</span><br />
       <span class="p-name p-org">GG Web Hosting</span><br />
-      <time class="dt-start" datetime="2010-11">Novwmber 2010</time>
+      <time class="dt-start" datetime="2010-11">November 2010</time>
       &#8211; <time class="dt-end" datetime="2011-09">September 2011</time>&nbsp;
-      (<time class="dt-duration" datetime="P11M"></time>)
+      (<time class="dt-duration" datetime="P11M">11 Months</time>)
     </p>
   </div>
   <div class="h-card h-event p-experience">
