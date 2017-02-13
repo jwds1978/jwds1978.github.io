@@ -73,7 +73,7 @@ title: "Curriculum Vitae"
       <span class="p-name p-org">TekStorm Inc.</span><br />
       <time class="dt-start" datetime="2013-10">October 2013</time>
       &#8211; <time class="dt-end" datetime="2016">2016</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P3Y">3 Years</time>)</sup>
+      <sup><time class="dt-duration" datetime="P3Y">3 Years</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -82,7 +82,7 @@ title: "Curriculum Vitae"
       <a class="p-name p-org u-url" href="https://www.whmcs.com" target="_blank" title="WHMCS">WHMCS</a><br />
       <time class="dt-start" datetime="2013-02">February 2013</time>
       &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time>)</sup>
+      <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -91,7 +91,7 @@ title: "Curriculum Vitae"
       <span class="p-name p-org">James Stewart</span><br />
       <time class="dt-start" datetime="2011-11">November 2011</time>
       &#8211; <time class="dt-end" datetime="2013-10">October 2013</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P2Y">2 Years</time>)</sup>
+      <sup><time class="dt-duration" datetime="P2Y">2 Years</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -100,7 +100,7 @@ title: "Curriculum Vitae"
       <span class="p-name p-org">TeleTech</span><br />
       <time class="dt-start" datetime="2011-09">September 2011</time>
       &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P6M">6 Months</time>)</sup>
+      <sup><time class="dt-duration" datetime="P6M">6 Months</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -109,7 +109,7 @@ title: "Curriculum Vitae"
       <span class="p-name p-org">Near North Data Solutions</span><br />
       <time class="dt-start" datetime="2011-03">March 2011</time>
       &#8211; <time class="dt-end" datetime="2012-01">January 2012</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P11M">11 Months</time>)</sup>
+      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -118,7 +118,7 @@ title: "Curriculum Vitae"
       <span class="p-name p-org">GG Web Hosting</span><br />
       <time class="dt-start" datetime="2010-11">November 2010</time>
       &#8211; <time class="dt-end" datetime="2011-09">September 2011</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P11M">11 Months</time>)</sup>
+      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -127,7 +127,7 @@ title: "Curriculum Vitae"
       <a class="p-name p-org u-url" href="http://www.stream.com" target="_blank" title="Stream Global Services">Stream Global Services</a><br />
       <time class="dt-start" datetime="2009-11">November 2009</time>
       &#8211; <time class="dt-end" datetime="2010-11">November 2010</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time>)</sup>
+      <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -136,7 +136,7 @@ title: "Curriculum Vitae"
       <a class="p-name p-org u-url" href="http://www.sitel.com/countries/canada" target="_blank" title="Sitel Canada">Sitel</a><br />
       <time class="dt-start" datetime="2006-03">March 2006</time>
       &#8211; <time class="dt-end" datetime="2009-10">October 2009</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P3Y8M">3 Years, 8 Months</time>)</sup>
+      <sup><time class="dt-duration" datetime="P3Y8M">3 Years, 8 Months</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -145,7 +145,7 @@ title: "Curriculum Vitae"
       <span class="p-name p-org">Multi-Channel Communications, Inc.</span><br />
       <time class="dt-start" datetime="2005-05">May 2005</time>
       &#8211; <time class="dt-end" datetime="2006-03">March 2006</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P11M">11 Months</time>)</sup>
+      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -154,7 +154,7 @@ title: "Curriculum Vitae"
       <span class="p-name p-org">RMH Teleservices</span><br />
       <time class="dt-start" datetime="2001-06">June 2001</time>
       &#8211; <time class="dt-end" datetime="2005-05">May 2005</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P4Y">4 Years</time>)</sup>
+      <sup><time class="dt-duration" datetime="P4Y">4 Years</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -163,7 +163,7 @@ title: "Curriculum Vitae"
       <span class="p-name p-org">HiRize Discount Computer Systems</span><br />
       <time class="dt-start" datetime="2000">2000</time>
       &#8211; <time class="dt-end" datetime="2001">2001</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P1Y">1 Year</time>)</sup>
+      <sup><time class="dt-duration" datetime="P1Y">1 Year</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -172,7 +172,7 @@ title: "Curriculum Vitae"
       <a class="p-name p-org u-url" href="http://www.forces.gc.ca" target="_blank" title="National Defence and the Canadian Armed Forces">Canadian Armed Forces</a><br />
       <time class="dt-start" datetime="1994">1994</time>
       &#8211; <time class="dt-end" datetime="2000">2000</time>&nbsp;
-      <sup>(<time class="dt-duration" datetime="P6Y">6 Years</time>)</sup>
+      <sup><time class="dt-duration" datetime="P6Y">6 Years</time></sup>
     </p>
   </div>
   <h3 id="volunteer">Volunteer Experience</h3>
