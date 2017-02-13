@@ -180,7 +180,7 @@ title: "Curriculum Vitae"
   <p>
     Certificate of Proficiency in Radio &#8212; Restricted Operator &#8212; Aeronautical<br />
     <a href="http://www.ic.gc.ca" target="_blank" title="Industry Canada">Industry Canada</a><br />
-    License #044600816
+    License #044600816<br />
     2004
   </p>
   <p>
