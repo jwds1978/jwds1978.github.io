@@ -7,7 +7,7 @@ dcuufhdpekkzdymn: true
   <a class="u-email" href="mailto:james.stewart@forces.army">james.stewart@forces.army</a>
   <a class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551">james.stewart@forces.army</a>
   <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d">614FFF680E92BAE869C878E361BCA817AFFA1F1D</a>
-  <a class="u-url" href="{{ site.baseURL }}">{{ site.baseURL }}</a>
+  <a class="u-url" href="{{ site.url }}">{{ site.url }}</a>
   <img alt="James Stewart" class="u-logo u-photo" height="460" src="{{ site.github.owner_gravatar_url }}" style="border: 0px;" width="460" />
   <p class="dt-bday">19781107</p>
   <p class="h-adr p-adr">
@@ -35,7 +35,7 @@ dcuufhdpekkzdymn: true
 
 > This is James Stewart's Web site. He's an IT consultant and software developer.
 > 
-> That doesn't say much about him, eh? Read more <a href="{{ site.baseURL }}/about" rel="me">here</a>.
+> That doesn't say much about him, eh? Read more <a href="{{ site.url }}/about" rel="me">here</a>.
 
 ### Most Recent Blog Post
 {% assign fzfneysekpthfcbx = site.posts.first %}

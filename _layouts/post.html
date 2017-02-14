@@ -6,7 +6,7 @@ layout: default
 <h6>
   <span style="float: right;">
     by <span style="font-size: larger;"><em>{{ page.author | default: site.author | escape }}</em></span>{% if page.comments %}<br />
-<a data-disqus-identifier="{{ page.url }}" href="{{ site.baseURL }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
+<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
   </span>
   {{ page.date | date: "%d %B %Y" }}<br />
   {{ page.date | date: "%T %Z" }}
@@ -20,12 +20,12 @@ layout: default
   &nbsp;<br />
   Categories:
   {% for cat in page.categories %}
-  &nbsp;<a href="{{ site.baseURL }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>
+  &nbsp;<a href="{{ site.url }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>
   {% endfor %}
   <br />
   Tags:
   {% for tag in page.tags %}
-  &nbsp;<a href="{{ site.baseURL }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
+  &nbsp;<a href="{{ site.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
   {% endfor %}
 </p>
 
@@ -49,7 +49,7 @@ layout: default
   var disqus_config = function () {
     this.page.identifier = '{{ page.url }}';
     this.page.title = "{{ page.title }}";
-    this.page.url = '{{ site.baseURL }}{{ page.url }}';
+    this.page.url = '{{ site.url }}{{ page.url }}';
   };
   (function() {
     var d = document, s = d.createElement('script');

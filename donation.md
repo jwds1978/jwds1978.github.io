@@ -21,7 +21,7 @@ title: Donate
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
       <input name="cmd" type="hidden" value="_s-xclick">
       <input name="hosted_button_id" type="hidden" value="DY5LFFUVUNHTQ">
-      <input alt="PayPal - The safer, easier way to pay online!" height="47" name="submit" src="{{ site.baseURL }}/resources/images/PayPal_donate_147x047.gif" type="image" width="147">
+      <input alt="PayPal - The safer, easier way to pay online!" height="47" name="submit" src="{{ site.url }}/resources/images/PayPal_donate_147x047.gif" type="image" width="147">
       <img alt="" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" style="border: 0px;" width="1" />
     </form>
   </p>
