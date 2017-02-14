@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
-    <a class="p-contact h-card" href="{{ site.github.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
+    <a class="p-contact h-card" href="{{ site.baseURL }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
   </span>
   <h3 id="summary">Summary</h3>
   <p class="p-summary">Information Technology and Services</p>

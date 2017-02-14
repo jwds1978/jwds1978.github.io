@@ -1,4 +1,5 @@
 author: "James Stewart"
+baseURL: "https://forces.army"
 exclude: README.md
 gems:
   - jekyll-feed
@@ -10,6 +11,7 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 permalink: "/blog/:year/:month/:day/:title/"
 published: true
+shortURL: "http://go.forces.army"
 show_downloads: false
 sitemap: true
 theme: jekyll-theme-midnight

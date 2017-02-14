@@ -29,9 +29,9 @@ wdcyvdsgrmupffee: true
 
 <p style="text-align: center;">
   Filter by:&nbsp;
-  <a href="{{ site.github.url }}/blog" rel="me">All</a>&nbsp;
+  <a href="{{ site.baseURL }}/blog" rel="me">All</a>&nbsp;
   &bull;&nbsp; <span style="color: rgb(143, 200, 71);">Category</span>&nbsp;
-  &bull;&nbsp; <a href="{{ site.github.url }}/blog/tags" rel="me">Tag</a>
+  &bull;&nbsp; <a href="{{ site.baseURL }}/blog/tags" rel="me">Tag</a>
 </p>
 
 <div class="tags-expo">
@@ -51,11 +51,11 @@ wdcyvdsgrmupffee: true
         <span style="float: right;">
           <span style="font-size: larger;">&nbsp;</span><br />
           <span style="font-size: smaller;">
-            <a data-disqus-identifier="{{ post.url }}" href="{{ site.github.url }}{{ post.url }}#disqus_thread" rel="me"></a>
+            <a data-disqus-identifier="{{ post.url }}" href="{{ site.baseURL }}{{ post.url }}#disqus_thread" rel="me"></a>
           </span>
         </span>
         {% endif %}
-        <span style="font-size: larger;"><a class="post-link" href="{{ site.github.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a></span><br />
+        <span style="font-size: larger;"><a class="post-link" href="{{ site.baseURL }}{{ post.url }}" rel="me">{{ post.title | escape }}</a></span><br />
         <span class="post-meta" style="font-size: smaller;">{{ post.date | date: "%d %B %Y @ %T %Z" }}</span>
       </li>
       {% endfor %}
@@ -65,5 +65,5 @@ wdcyvdsgrmupffee: true
 </div>
 
 <p class="rss-subscribe">
-  Subscribe <a href="{{ site.github.url }}/feed.xml">via RSS</a>.
+  Subscribe <a href="{{ site.baseURL }}/feed.xml">via RSS</a>.
 </p>

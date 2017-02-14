@@ -7,7 +7,7 @@ dcuufhdpekkzdymn: true
   <a class="u-email" href="mailto:james.stewart@forces.army">james.stewart@forces.army</a>
   <a class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551">james.stewart@forces.army</a>
   <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d">614FFF680E92BAE869C878E361BCA817AFFA1F1D</a>
-  <a class="u-url" href="http://forces.army">http://forces.army</a>
+  <a class="u-url" href="{{ site.baseURL }}">{{ site.baseURL }}</a>
   <img alt="James Stewart" class="u-logo u-photo" height="460" src="{{ site.github.owner_gravatar_url }}" style="border: 0px;" width="460" />
   <p class="dt-bday">19781107</p>
   <p class="h-adr p-adr">
@@ -35,16 +35,16 @@ dcuufhdpekkzdymn: true
 
 > This is James Stewart's Web site. He's an IT consultant and software developer.
 > 
-> That doesn't say much about him, eh? Read more <a href="{{ site.github.url }}/about" rel="me">here</a>.
+> That doesn't say much about him, eh? Read more <a href="{{ site.baseURL }}/about" rel="me">here</a>.
 
 ### Most Recent Blog Post
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
 
 ### Things that I Like and/or Use
-* <a href="http://go.forces.army/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
+* <a href="{{ site.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
-* <a href="http://go.forces.army/FastMail" target="_blank" title="FastMail">FastMail</a>
+* <a href="{{ site.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
   * Experience e-mail done right.
-* <a href="http://go.forces.army/LastPass" target="_blank" title="LastPass">LastPass</a>
+* <a href="{{ site.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     * Your last password&hellip; Just remember your master password and LastPass remembers the rest. The best way to manage passwords.

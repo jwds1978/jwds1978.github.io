@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta content="chrome=1" http-equiv="X-UA-Compatible" />
     <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</title>
-    <link href="{{ site.github.url }}/feed.xml" rel="alternate" title="{{ site.title }}" type="application/rss+xml" />
+    <link href="{{ site.baseURL }}/feed.xml" rel="alternate" title="{{ site.title }}" type="application/rss+xml" />
     {% if page.dcuufhdpekkzdymn %}
     <link href="https://www.androidfilehost.com/?w=profile&uid=24369303960683704" rel="me" />
     <link href="http://www.bestgore.com/members/stew721" rel="me" />
@@ -32,14 +32,14 @@
     <link href="https://indieauth.com/openid" rel="openid.server" />
     <link href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="pgpkey" type="application/pgp-keys" />
     {% endif %}
-    <link href="{{ site.github.url }}/sitemap.xml" rel="sitemap" />
+    <link href="{{ site.baseURL }}/sitemap.xml" rel="sitemap" />
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet" type="text/css" />
     {% if page.wdcyvdsgrmupffee %}
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     {% endif %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
     {% if page.pyeccyxfjhpjefnd %}
-    <script src="{{ site.github.url }}/resources/js/mask-phone-numbers.js" ></script>
+    <script src="{{ site.baseURL }}/resources/js/mask-phone-numbers.js" ></script>
     {% endif %}
     <script src="{{ '/assets/js/respond.js' | relative_url }}" type="text/javascript"></script>
     <!--[if lt IE 9]>
@@ -65,7 +65,7 @@
       <section>
         <div id="title">
           <img alt="{{ site.title }}" height="75" src="{{ site.github.owner_gravatar_url }}" style="border: 0px; float: left; vertical-align: middle;" width="75" />
-          <img alt="Dandelion Pied Lashes :: Dandelion is a little bit crazy. He is gaily piebald like a pony and he casts magical spells." height="75" src="{{ site.github.url }}/resources/images/angry-unicorn_075x075.png" style="border: 0px; float: right; vertical-align: middle;" width="75" />
+          <img alt="Dandelion Pied Lashes :: Dandelion is a little bit crazy. He is gaily piebald like a pony and he casts magical spells." height="75" src="{{ site.baseURL }}/resources/images/angry-unicorn_075x075.png" style="border: 0px; float: right; vertical-align: middle;" width="75" />
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr />
