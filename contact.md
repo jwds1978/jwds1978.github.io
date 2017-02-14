@@ -3,12 +3,6 @@ pyeccyxfjhpjefnd: true
 title: Contact
 ---
 
-> James' preferred method of communication is secure messaging, closely followed by Jabber/XMPP.
-> 
-> For secure messaging, James' preference is with <a href="https://whispersystems.org/#messaging" target="_blank" title="Private Messaging">Signal</a> by <a href="https://whispersystems.org" target="_blank" title="Open Whisper Systems">Open Whisper Systems</a>. He uses their <a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms" target="_blank" title="Signal Private Messenger">Android app</a>, but it's available in <a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669" target="_blank" title="Signal - Private Messenger">iTunes</a> as well.
-> 
-> For Jabber/XMPP, James makes use of <a href="https://conversations.im" target="_blank" title="Conversations">Conversations</a>. He uses both their <a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations" target="_blank" title="">Android client</a> and their <a href="https://account.conversations.im/domain" target="_blank" title="">Jabber/XMPP domain hosting service</a>.
-
 ### Call James, Maybe <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
 * Mobile
   * <span data-last="3664" id="3664">+1 (646) 340-<span>3664</span></span>
@@ -38,8 +32,9 @@ title: Contact
 * ICQ
   * <a href="aim:goim?screenname=714663121" rel="me" target="_blank" title="714663121">714663121</a>
 * Jabber / XMPP <sup>Preferred</sup>
-  * ~~<a href="xmpp:stew721@conversations.im?roster;name=James%20Stewart" rel="me" target="_blank" title="">s&hellip;</a>@conversations.im~~
-  * <a href="xmpp:james.stewart@forces.army?roster;name=James%20Stewart" rel="me" target="_blank" title="">j&hellip;</a>@forces.army
+  * ~~<a href="https://conversations.im/i/stew721@conversations.im?omemo-sid-1412676728=fb329677d74a7d3f47d7eaa0bf3212d4b1fe52abf048de63d9a3102c5d5ed277" rel="me" target="_blank" title="">s&hellip;</a>@conversations.im~~
+  * <a href="https://conversations.im/i/james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551" rel="me" target="_blank" title="">j&hellip;</a>@forces.army
+    * <img alt="" height="75" src="{{ site.github.url }}/resources/images/Jabber_james-stewart-forces-army_1024x1024.png" style="border: 0px;" width="75" />
 
 ### Send Stuff to James
 * Mailing
