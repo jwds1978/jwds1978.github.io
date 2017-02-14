@@ -1,5 +1,6 @@
 author: "James Stewart"
 baseURL: "https://forces.army"
+enforce_ssl: "forces.army"
 exclude: README.md
 gems:
   - jekyll-feed
@@ -17,3 +18,4 @@ sitemap: true
 theme: jekyll-theme-midnight
 timezone: America/Toronto
 title: "James W.D. Stewart"
+url: "https://forces.army"
