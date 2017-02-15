@@ -29,7 +29,8 @@ title: Contact
   * <a href="aim:goim?screenname=james%40stew721.ca" rel="me" target="_blank" title="">james@stew721.ca</a>
 * BlackBerry Messenger
   * 7455ACFC
-    * STEW721 <sup>Custom for 7455ACFC</sup>
+    * STEW721 <sup>Custom for 7455ACFC</sup><br /><a href="{{ site.url }}/resources/images/BBM_stew721_640x640.jpg" rel="me" target="_blank" title=""><img alt="" height="75" src="{{ site.url }}/resources/images/BBM_stew721_640x640.jpg" style="border: 0px;" width="75" /></a>
+
 * ICQ
   * <a href="aim:goim?screenname=714663121" rel="me" target="_blank" title="714663121">714663121</a>
 * Jabber / XMPP <sup>Preferred</sup>
