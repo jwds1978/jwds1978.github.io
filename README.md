@@ -13,127 +13,131 @@
 * [Microformats Wiki](http://microformats.org/wiki "This wiki is the central resource of the microformats community and provides microformats authoring guides, references, specifications, drafts, publishing patterns, research, brainstorming, and issue tracking.")
 
 ### QR Code Minimum Size
-<table style="text-align: center;">
-  <tr>
-    <td rowspan="2">Modules</td>
-    <td rowspan="2">Characters</td>
-    <td colspan="3">Scan Distance</td>
-  </tr>
-  <tr>
-    <td>150mm (6")</td>
-    <td>300mm (12")</td>
-    <td>450mm (18")</td>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td>26</td>
-    <td>15mm (0.6")</td>
-    <td>30mm (1.2")</td>
-    <td>46mm (1.8")</td>
-  </tr>
-  <tr>
-    <td>30</td>
-    <td>49</td>
-    <td>18mm (0.7")</td>
-    <td>36mm (1.4")</td>
-    <td>55mm (2.1")</td>
-  </tr>
-  <tr>
-    <td>35</td>
-    <td>72</td>
-    <td>21mm (0.8")</td>
-    <td>42mm (1.7")</td>
-    <td>64mm (2.5")</td>
-  </tr>
-  <tr>
-    <td>40</td>
-    <td>98</td>
-    <td>24mm (0.9")</td>
-    <td>48mm (1.9")</td>
-    <td>73mm (2.9")</td>
-  </tr>
-  <tr>
-    <td>45</td>
-    <td>125</td>
-    <td>27mm (1.1")</td>
-    <td>54mm (2.1")</td>
-    <td>82mm (3.2")</td>
-  </tr>
-  <tr>
-    <td>50</td>
-    <td>163</td>
-    <td>30mm (1.2")</td>
-    <td>60mm (2.4")</td>
-    <td>91mm (3.6")</td>
-  </tr>
-  <tr>
-    <td>55</td>
-    <td>203</td>
-    <td>33mm (1.3")</td>
-    <td>66mm (2.6")</td>
-    <td>100mm (3.9")</td>
-  </tr>
-  <tr>
-    <td>60</td>
-    <td>249</td>
-    <td>36mm (1.4")</td>
-    <td>72mm (2.8")</td>
-    <td>109mm (4.3")</td>
-  </tr>
-  <tr>
-    <td>65</td>
-    <td>298</td>
-    <td>39mm (1.5")</td>
-    <td>78mm (3.1")</td>
-    <td>118mm (4.7")</td>
-  </tr>
-  <tr>
-    <td>70</td>
-    <td>351</td>
-    <td>42mm (1.7")</td>
-    <td>84mm (3.3")</td>
-    <td>127mm (5.0")</td>
-  </tr>
-  <tr>
-    <td>75</td>
-    <td>407</td>
-    <td>45mm (1.8")</td>
-    <td>90mm (3.5")</td>
-    <td>137mm (5.4")</td>
-  </tr>
-  <tr>
-    <td>80</td>
-    <td>468</td>
-    <td>48mm (1.9")</td>
-    <td>96mm (3.8")</td>
-    <td>146mm (5.7")</td>
-  </tr>
-  <tr>
-    <td>85</td>
-    <td>534</td>
-    <td>51mm (2.0")</td>
-    <td>102mm (4.0")</td>
-    <td>155mm (6.1")</td>
-  </tr>
-  <tr>
-    <td>90</td>
-    <td>601</td>
-    <td>54mm (2.1")</td>
-    <td>108mm (4.3")</td>
-    <td>164mm (6.4")</td>
-  </tr>
-  <tr>
-    <td>95</td>
-    <td>669</td>
-    <td>57mm (2.2")</td>
-    <td>114mm (4.5")</td>
-    <td>173mm (6.8")</td>
-  </tr>
-  <tr>
-    <td>100</td>
-    <td>739</td>
-    <td>60mm (2.4")</td>
-    <td>120mm (4.7")</td>
-    <td>182mm (7.2")</td>
-  </tr>
+<table style="margin: 0 auto;">
+  <thead>
+    <tr style="text-align: center;">
+      <td rowspan="2">Modules</td>
+      <td rowspan="2">Characters</td>
+      <td colspan="3">Scan Distance</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="text-align: center;">
+      <td>150mm (6")</td>
+      <td>300mm (12")</td>
+      <td>450mm (18")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>25</td>
+      <td>26</td>
+      <td>15mm (0.6")</td>
+      <td>30mm (1.2")</td>
+      <td>46mm (1.8")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>30</td>
+      <td>49</td>
+      <td>18mm (0.7")</td>
+      <td>36mm (1.4")</td>
+      <td>55mm (2.1")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>35</td>
+      <td>72</td>
+      <td>21mm (0.8")</td>
+      <td>42mm (1.7")</td>
+      <td>64mm (2.5")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>40</td>
+      <td>98</td>
+      <td>24mm (0.9")</td>
+      <td>48mm (1.9")</td>
+      <td>73mm (2.9")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>45</td>
+      <td>125</td>
+      <td>27mm (1.1")</td>
+      <td>54mm (2.1")</td>
+      <td>82mm (3.2")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>50</td>
+      <td>163</td>
+      <td>30mm (1.2")</td>
+      <td>60mm (2.4")</td>
+      <td>91mm (3.6")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>55</td>
+      <td>203</td>
+      <td>33mm (1.3")</td>
+      <td>66mm (2.6")</td>
+      <td>100mm (3.9")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>60</td>
+      <td>249</td>
+      <td>36mm (1.4")</td>
+      <td>72mm (2.8")</td>
+      <td>109mm (4.3")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>65</td>
+      <td>298</td>
+      <td>39mm (1.5")</td>
+      <td>78mm (3.1")</td>
+      <td>118mm (4.7")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>70</td>
+      <td>351</td>
+      <td>42mm (1.7")</td>
+      <td>84mm (3.3")</td>
+      <td>127mm (5.0")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>75</td>
+      <td>407</td>
+      <td>45mm (1.8")</td>
+      <td>90mm (3.5")</td>
+      <td>137mm (5.4")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>80</td>
+      <td>468</td>
+      <td>48mm (1.9")</td>
+      <td>96mm (3.8")</td>
+      <td>146mm (5.7")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>85</td>
+      <td>534</td>
+      <td>51mm (2.0")</td>
+      <td>102mm (4.0")</td>
+      <td>155mm (6.1")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>90</td>
+      <td>601</td>
+      <td>54mm (2.1")</td>
+      <td>108mm (4.3")</td>
+      <td>164mm (6.4")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>95</td>
+      <td>669</td>
+      <td>57mm (2.2")</td>
+      <td>114mm (4.5")</td>
+      <td>173mm (6.8")</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>100</td>
+      <td>739</td>
+      <td>60mm (2.4")</td>
+      <td>120mm (4.7")</td>
+      <td>182mm (7.2")</td>
+    </tr>
+  </tbody>
 </table>
