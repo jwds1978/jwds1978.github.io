@@ -22,7 +22,8 @@ title: Contact
 * PGP
   * Public Keys
     * <a href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me" target="_blank" title="">614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D</a>
-      * 61BC A817 AFFA 1F1D
+      * 0x61BCA817AFFA1F1D<br /><a href="{{ site.url }}/resources/images/PGP_0x61BCA817AFFA1F1D_854x854.jpg" rel="me" target="_blank" title=""><img alt="" height="83" src="{{ site.url }}/resources/images/PGP_0x61BCA817AFFA1F1D_854x854.jpg" style="border: 0px;" width="83" /></a>
+
 
 ### Instant Messengers
 * AOL Instant Messenger
