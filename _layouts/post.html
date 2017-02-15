@@ -44,6 +44,7 @@ layout: default
 {% endif %}
 
 {% if page.comments %}
+<!--sse-->
 <div id="disqus_thread"></div>
 <script>
   var disqus_config = function () {
@@ -59,4 +60,5 @@ layout: default
   })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" target="_blank">comments powered by Disqus.</a></noscript>
+<!--/sse-->
 {% endif %}

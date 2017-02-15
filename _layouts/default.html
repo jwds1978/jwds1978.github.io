@@ -6,6 +6,7 @@
     <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</title>
     <link href="{{ site.url }}/feed.xml" rel="alternate" title="{{ site.title }}" type="application/rss+xml" />
     {% if page.dcuufhdpekkzdymn %}
+    <!--sse-->
     <link href="https://www.androidfilehost.com/?w=profile&uid=24369303960683704" rel="me" />
     <link href="http://www.bestgore.com/members/stew721" rel="me" />
     <link href="https://www.bountysource.com/people/48199" rel="me" />
@@ -31,6 +32,7 @@
     <link href="http://forces.army" rel="openid.delegate" />
     <link href="https://indieauth.com/openid" rel="openid.server" />
     <link href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="pgpkey" type="application/pgp-keys" />
+    <!--/sse-->
     {% endif %}
     <link href="{{ site.url }}/sitemap.xml" rel="sitemap" />
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet" type="text/css" />
@@ -71,7 +73,13 @@
           <hr />
           {% include navigation.htm %}
         </div>
+        {% if page.cloudflareSSE %}
+        <!--sse-->
+        {% endif %}
         {{ content }}
+        {% if page.cloudflareSSE %}
+        <!--/sse-->
+        {% endif %}
         {% include footer.htm %}
       </section>
     </div>

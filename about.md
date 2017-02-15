@@ -1,4 +1,5 @@
 ---
+cloudflareSSE: true
 title: About
 ---
 

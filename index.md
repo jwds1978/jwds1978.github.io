@@ -3,6 +3,7 @@ comments: true
 dcuufhdpekkzdymn: true
 ---
 
+<!--sse-->
 <div class="h-card" style="display: none;">
   <a class="u-email" href="mailto:james.stewart@forces.army">james.stewart@forces.army</a>
   <a class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551">james.stewart@forces.army</a>
@@ -32,6 +33,7 @@ dcuufhdpekkzdymn: true
   <p class="p-sex">M</p>
   <p class="p-tel">+17055621887</p>
 </div>
+<!--/sse-->
 
 > This is James Stewart's Web site. He's an IT consultant and software developer.
 > 
