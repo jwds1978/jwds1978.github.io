@@ -20,13 +20,13 @@
       <td rowspan="2">Characters</td>
       <td colspan="3">Scan Distance</td>
     </tr>
-  </thead>
-  <tbody>
     <tr style="text-align: center;">
       <td>150mm (6")</td>
       <td>300mm (12")</td>
       <td>450mm (18")</td>
     </tr>
+  </thead>
+  <tbody>
     <tr style="text-align: center;">
       <td>25</td>
       <td>26</td>
