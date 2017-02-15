@@ -5,6 +5,7 @@
     <meta content="chrome=1" http-equiv="X-UA-Compatible" />
     <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</title>
     <link href="{{ site.url }}/feed.xml" rel="alternate" title="{{ site.title }}" type="application/rss+xml" />
+    <link href="{{ site.url }}{{ page.url | replace: 'index.htm', '' | replace: 'index.html', '' }}" rel="canonical" />
     {% if page.dcuufhdpekkzdymn %}
     <!--sse-->
     <link href="https://www.androidfilehost.com/?w=profile&uid=24369303960683704" rel="me" />
