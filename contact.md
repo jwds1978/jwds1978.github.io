@@ -10,13 +10,13 @@ title: Contact
   * <span data-last="1887" id="1887">+1 (705) 562-<span>1887</span></span> <sup>Primary</sup>
 
 ### E-mail <sup>Preferrably, PGP-Encrypted</sup>
-  * <a href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army <sup>Primary</sup>
-  * <a href="mailto:stew721@eml.cc" rel="me" target="_blank" title="">stew721@eml.cc
-  * <a href="mailto:innominate721@gmail.com" rel="me" target="_blank" title="">innominate721@gmail.com
-  * <a href="mailto:jamroar721@gmail.com" rel="me" target="_blank" title="">jamroar721@gmail.com
-  * <a href="mailto:stewart.jwd@gmail.com" rel="me" target="_blank" title="">stewart.jwd@gmail.com
-  * <a href="mailto:innominate721@outlook.com" rel="me" target="_blank" title="">innominate721@outlook.com
-  * <a href="mailto:stew721@outlook.com" rel="me" target="_blank" title="">stew721@outlook.com
+  * <a href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army</a> <sup>Primary</sup>
+  * <a href="mailto:stew721@eml.cc" rel="me" target="_blank" title="">stew721@eml.cc</a>
+  * <a href="mailto:innominate721@gmail.com" rel="me" target="_blank" title="">innominate721@gmail.com</a>
+  * <a href="mailto:jamroar721@gmail.com" rel="me" target="_blank" title="">jamroar721@gmail.com</a>
+  * <a href="mailto:stewart.jwd@gmail.com" rel="me" target="_blank" title="">stewart.jwd@gmail.com</a>
+  * <a href="mailto:innominate721@outlook.com" rel="me" target="_blank" title="">innominate721@outlook.com</a>
+  * <a href="mailto:stew721@outlook.com" rel="me" target="_blank" title="">stew721@outlook.com</a>
 
 ### Encrypt All of the Things
 * PGP
@@ -26,7 +26,7 @@ title: Contact
 
 ### Instant Messengers
 * AOL Instant Messenger
-  * <a href="aim:goim?screenname=james%40stew721.ca" rel="me" target="_blank" title="">james@stew721.ca
+  * <a href="aim:goim?screenname=james%40stew721.ca" rel="me" target="_blank" title="">james@stew721.ca</a>
 * BlackBerry Messenger
   * 7455ACFC
     * STEW721 <sup>Custom for 7455ACFC</sup>
