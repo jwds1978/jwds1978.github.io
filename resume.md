@@ -67,6 +67,21 @@ title: "Curriculum Vitae"
     <li class="p-skill">WHMCS</li>
     <li>More&hellip;</li>
   </ul>
+  <h3 id="recommendations">Recommendations</h3>
+  <p>
+    John Kennedy<br />
+    <a href="http://sudburychamber.ca" target="_blank" title="Greater Sudbury Chamber of Commerce">Greater Sudbury Chamber of Commerce</a>
+    <blockquote>
+      James services each of his clients in the same professional way&hellip; Friendly and knowledgeable. As a small business owner, James knows the value of one-on-one service.
+    </blockquote>
+  </p>
+  <p>
+    Matthew Fogel<br />
+    <a href="http://www.vmware.com" target="_blank" title="VMware">VMware</a>
+    <blockquote>
+      I worked with James at Sitel while he was a Hewlett-Packard technical support specialist. During the time that we worked together, James was a dedicated professional who showed commitment to his customers. I am deeply impressed by James and recommend him unhesitatingly. I am confident that he would provide the same high level of service and commitment that he demonstrated at Sitel.
+    </blockquote>
+  </p>
   <h3 id="experience">Experience</h3>
   <div class="h-card h-event p-experience">
     <p>
