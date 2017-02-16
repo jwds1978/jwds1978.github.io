@@ -5,9 +5,12 @@ date: 2017-02-16 11:44:43 America/Toronto
 layout: post
 syndicated: true
 syndications:
-  - href: "https://m.facebook.com/story.php?story_fbid=10154074264917084&id=719142083"
+  - href: "https://m.facebook.com/story.php?story_fbid=10154074301167084&id=719142083"
     text: Facebook
     title: Facebook
+  - href: "https://twitter.com/jwds1978/status/832276139213205508"
+    text: Twitter
+    title: Twitter
 tags:
   - Accessibility
   - Legal
