@@ -31,7 +31,7 @@ If you're not familiar with the accessibility laws in Ontario, have a look <a hr
 
 With that said, I was at <a href="http://www.themission.ca" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a> this morning for breakfast. While there, nature called, and I intended to answer. The door for the accessible washroom was locked. So, I went and asked the staff to open the door for me as I needed to use the washroom. I walked back to the washrooms with the staff. If not mistaken, his name is Jerry.
 
-Jerry proceeds to tell me that I can use the woman's washroom as somebody was in the men's washroom. I, again, reitereated the fact that I need access to the accessible washroom&hellip; I have a disability and need the grab bars and extra space to not fall on my face and/or in the toilet as has almost happeneded there before when I tried to use the much smaller 'normal' washroom there. He just shrugs, huffs at me, tells me to use the woman's washroom and/or leave to use a washroom elsewhere.
+Jerry proceeds to tell me that I can use the woman's washroom as somebody was in the men's washroom. I, again, reitereated the fact that I need access to the accessible washroom&hellip; I have a disability and need the grab bars and extra space to not fall on my face and/or in the toilet as has almost happeneded there before when I tried to use the much smaller *normal* washroom there. He just shrugs, huffs at me, tells me to use the woman's washroom and/or leave to use a washroom elsewhere.
 
 The image below, clearly, depicts the fact that said washroom is to be an accessible facility:<br />
 <br />
