@@ -35,7 +35,7 @@ The image below, clearly, depicts the fact that said washroom is to be an access
 
 At this point, I've really got to go and feel like I'm going to shit myself; literally. I follow him back into the main area and ask the other staff to let me in to the washroom as I'm going to shit myself and need to go. They also tell me that they can't let me in&hellip; Apparently, I'm not disabled enough for them, and should essentially leave the premise.
 
-Now, needless to say, I'm fucking pissed off at that point. But, I still have to relieve myself though. So, I hobble on over to Brady Square and use the accessible facilities there. All the while, I was just hoping that I'd not shit myself as I'm hobbling as fast as I can to get there.
+Now, needless to say, I'm fucking pissed off at that point. But, I still have to relieve myself though. So, I hobble on over to Brady Square and use their accessible facilities. All the while, I was just hoping that I'd not shit myself as I'm hobbling as fast as I can to get there.
 
 Once I've defectated, I return to The Mission. By this time, I'm even more pissed off; to say the least. And, I'd think that I should've been. To be honest, if this had happened just a few years ago, before I was medicated for fucksticks protection, I'd not have thought twice about laying him out on-the-spot; don't let the cane fool you. I may be a gimp, but I'm not a complete invalid just yet.
 
