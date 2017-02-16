@@ -30,7 +30,7 @@ The image below, clearly, depicts the fact that said washroom is to be an access
   <img alt="" height="877" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_02-03.jpeg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="585" />
 </a>
 
-At this point, I've really got to go and feel like I'm going to shit myself; literally. I follow him back into the main area and ask the other staff to let me in to the washroom as I'm going to shit myself and need to go. They also tell me that they can't let me in, apparently I'm not disabled enough for them, and go essentially leave the premise.
+At this point, I've really got to go and feel like I'm going to shit myself; literally. I follow him back into the main area and ask the other staff to let me in to the washroom as I'm going to shit myself and need to go. They also tell me that they can't let me in, apparently I'm not disabled enough for them, and to essentially leave the premise.
 
 Now, needless to say, I'm fucking pissed off at that point. But, I still have to releive myself though. So, I hobble on over to Bracy Square and use the accessible facilities there. All the while, I was just hoping that I'd not shit myself as I'm hobbling as fast as I can to get there.
 
