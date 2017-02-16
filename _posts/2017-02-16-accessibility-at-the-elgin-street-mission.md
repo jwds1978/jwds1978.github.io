@@ -41,4 +41,4 @@ Once I've defectated, I return to The Mission. By this time, I'm even more pisse
 
 I express my frustration and anger to yet another staff in the building, and am given the same attitude as from the rest&hellip; Leaving me with the feeling that nobody there gives a fuck about what had happened to me, the complete and utter degredation of myself, and/or the laws regarding accessibilty.
 
-I'd urge any and all who have anything, whether bad/good/indifferent, to comment do so in the comment/discussion area below.
+Should you have anything to say, whether bad/good/indifferent, feel free to do so in the comment/discussion area below.
