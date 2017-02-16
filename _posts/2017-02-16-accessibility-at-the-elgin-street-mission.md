@@ -3,11 +3,11 @@ categories: Uncategorized
 comments: true
 date: 2017-02-16 11:44:43 America/Toronto
 layout: post
-syndicated: false
+syndicated: true
 syndications:
-  - href: 
-    text: 
-    title: 
+  - href: "https://m.facebook.com/story.php?story_fbid=10154074264917084&id=719142083"
+    text: Facebook
+    title: Facebook
 tags:
   - Accessibility
   - Legal
