@@ -26,7 +26,7 @@ Jerry proceeds to tell me that I can use the woman's washroom as somebody was in
 
 The image below, clearly, depicts the fact that said washroom is to be an accessible facility:
 <a href="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_02-03.jpeg" target="_blank" title="">
-  <img alt="" height="877" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_02-03.jpeg" style="border: 0px; margin-left: auto; margin-right: auto;" width="585" />
+  <img alt="" height="877" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_02-03.jpeg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="585" />
 </a>
 
 At this point, I've really got to go and feel like I'm going to shit myself; literally. I follow him back into the main area and ask the other staff to let me in to the washroom as I'm going to shit myself and need to go. They also tell me that they can't let me in, apparently I'm not disabled enough for them, and go essentially leave the premise.
