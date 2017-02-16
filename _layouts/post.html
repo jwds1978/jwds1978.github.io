@@ -8,8 +8,8 @@ layout: default
     by <span style="font-size: larger;"><em>{{ page.author | default: site.author | escape }}</em></span>{% if page.comments %}<br />
 <a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
   </span>
-  {{ page.date | date: "%d %B %Y" }}<br />
-  {{ page.date | date: "%T %Z" }}
+  Published:&nbsp; {{ page.date | date: "%d %B %Y" }} @ {{ page.date | date: "%T %Z" }}<br />
+  Updated:&nbsp; {{ page.dateModified | date: "%d %B %Y" }} @ {{ page.date | date: "%T %Z" }}
 </h6>
 
 <p style="font-size: smaller;">&nbsp;</p>
