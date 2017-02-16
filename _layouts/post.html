@@ -9,7 +9,7 @@ layout: default
 <a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
   </span>
   Published:&nbsp; {{ page.date | date: "%d %B %Y" }} @ {{ page.date | date: "%T %Z" }}<br />
-  Updated:&nbsp; {{ page.dateModified | date: "%d %B %Y" }} @ {{ page.dateModified | date: "%T %Z" }}
+  Updated:&nbsp; {% if page.date != page.dateModified %}{{ page.dateModified | date: "%d %B %Y" }} @ {{ page.dateModified | date: "%T %Z" }}{% else %}N/A{% endif %}
 </h6>
 
 <p style="font-size: smaller;">&nbsp;</p>
