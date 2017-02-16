@@ -11,7 +11,7 @@ syndications:
 tags:
   - Accessibility
   - Legal
-title: "Innominate"
+title: "Accessibility at The Elgin Street Mission"
 ---
 
 This morning, aroundabout 0730-0800, I experienced discrimination and ignorance like no other.
