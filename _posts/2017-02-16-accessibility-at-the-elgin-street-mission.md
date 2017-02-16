@@ -18,7 +18,7 @@ tags:
 title: "Accessibility at The Elgin Street Mission"
 ---
 
-This morning, aroundabout 0730, I experienced discrimination and ignorance like no other.
+This morning, aroundabout 0730, I experienced discrimination, ignorance, and utter stupidity&hellip;
 
 I walk with a cane, take countless various medications daily for pain management, psych, etc., and have an orthosis that spans near the entire length of my left leg. Given that, I have a hard time getting up-and-down and on-and-off of the toilet. I have some difficulty in bending my left leg and putting weight on it. That knee is extremely unstable&hellip; Hence, my need for the orthosis and possible surgery down the road. If I'm somewhere without accessible facilities, I don't make an issue and do the best that I can with what they have. However, if somewhere does have clearly accessible washroom facilities, I fully expect to be able to use it, without a problem.
 
@@ -47,5 +47,9 @@ Now, needless to say, I'm fucking pissed off at that point. But, I still have to
 Once I've defectated, I return to The Mission. By this time, I'm even more pissed off; to say the least. And, I'd think that I should've been. To be honest, if this had happened just a few years ago, before having been medicated for the protection of such fucksticks, I'd not have thought twice about laying him out on-the-spot; don't let the cane fool you&hellip; I may be a gimp, but I'm not a complete invalid just yet.
 
 I express my frustration and anger to yet another staff in the building, and am given the same attitude as from the rest&hellip; Leaving me with the feeling that nobody there gives a fuck about what had happened to me, the complete and utter degredation of myself, and/or the laws regarding accessibilty.
+
+Below, is an excerpt from <a href="http://www.themission.ca/about/index.php" target="_blank" title="">their about Web page</a>. Take special note if the tex which I've marked. I'd have to say, I agree with the marked portion whole-fucking-heartedly.
+
+> The Elgin Street Mission is a place of refuge for those who need hope, encouragement, nourishment to their bodies and also to their souls. We are here to feed and clothe those who have nowhere else to go and <mark>we are no respecter of persons</mark>, if your hungry we feed you, if your cold we clothe you, if your needing to talk we listen without prejudices, and also we do have standards in place to provide a safe environment to all who enter our organization.
 
 Should you have anything to say, whether bad/good/indifferent, feel free to do so in the comment/discussion area below.
