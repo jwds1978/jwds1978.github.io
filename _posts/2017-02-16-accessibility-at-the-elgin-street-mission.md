@@ -51,7 +51,7 @@ I express my frustration and anger to yet another staff in the building, and am 
 Below, is an excerpt from <a href="http://www.themission.ca/about/index.php" target="_blank" title="">their about Web page</a>. Take special note of the text which I've marked. After this morning, I'd have to say, I agree with the marked portion whole-fucking-heartedly.
 
 > The Elgin Street Mission is a place of refuge for those who need hope, encouragement, nourishment to their bodies and also to their souls. We are here to feed and clothe those who have nowhere else to go and <mark>we are no respecter of persons</mark>, if your hungry we feed you, if your cold we clothe you, if your needing to talk we listen without prejudices, and also we do have standards in place to provide a safe environment to all who enter our organization.
-<br />
+
 <a href="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_17-49-28_09-16.png" target="_blank" title="">
   <img alt="" height="1040" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_17-49-28_09-16.png" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="585" />
 </a>
