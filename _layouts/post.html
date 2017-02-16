@@ -12,6 +12,11 @@ layout: default
   Updated:&nbsp; {% if page.date != page.dateModified %}{{ page.dateModified | date: "%d %B %Y" }} @ {{ page.dateModified | date: "%T %Z" }}{% else %}N/A{% endif %}
 </h6>
 
+<p>
+  page.date:&nbsp; &quot;{{ page.date }}&quot;<br />
+  page.dateModified:&nbsp; &quot;{{ page.dateModified }}&quot;
+</p>
+
 <p style="font-size: smaller;">&nbsp;</p>
 
 {{ content }}
