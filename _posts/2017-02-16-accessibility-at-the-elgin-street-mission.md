@@ -25,6 +25,7 @@ With that said, I was at <a href="http://www.themission.ca" target="_blank" titl
 Jerry proceeds to tell me that I can use the woman's washroom as somebody was in the men's washroom. I, again, reitereated the fact that I need access to the accessible washroom; I have a disability and need the grab bars and extra space to not fall on my face and/or in the toilet as has almost happeneded there before when I tried to use the much smaller 'normal' washroom there. He just shrugs, huffs at me, tells me to use the woman's washroom and/or leave to use a washroom elsewhere.
 
 The image below, clearly, depicts the fact that said washroom is to be an accessible facility:<br />
+<br />
 <a href="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_02-03.jpeg" target="_blank" title="">
   <img alt="" height="877" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_02-03.jpeg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="585" />
 </a>
