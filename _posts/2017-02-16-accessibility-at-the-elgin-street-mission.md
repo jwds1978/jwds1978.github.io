@@ -18,7 +18,7 @@ tags:
 title: "Accessibility at The Elgin Street Mission"
 ---
 
-This morning, aroundabout 0730-0800, I experienced discrimination and ignorance like no other.
+This morning, aroundabout 0730, I experienced discrimination and ignorance like no other.
 
 I walk with a cane, take countless various medications daily for pain management, psych, etc., and have an orthosis that spans near the entire length of my left leg. Given that, I have a hard time getting up-and-down and on-and-off of the toilet. I have some difficulty in bending my left leg and putting weight on it. That knee is extremely unstable&hellip; Hence, my need for the orthosis and possible surgery down the road. If I'm somewhere without accessible facilities, I don't make an issue and do the best that I can with what they have. However, if somewhere does have clearly accessible washroom facilities, I fully expect to be able to use it, without a problem.
 
