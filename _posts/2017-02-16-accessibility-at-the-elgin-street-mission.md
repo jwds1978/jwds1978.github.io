@@ -37,7 +37,7 @@ At this point, I've really got to go and feel like I'm going to shit myself; lit
 
 Now, needless to say, I'm fucking pissed off at that point. But, I still have to relieve myself though. So, I hobble on over to Brady Square and use their accessible facilities. All the while, I was just hoping that I'd not shit myself as I'm hobbling as fast as I can to get there.
 
-Once I've defectated, I return to The Mission. By this time, I'm even more pissed off; to say the least. And, I'd think that I should've been. To be honest, if this had happened just a few years ago, before I was medicated for fucksticks protection, I'd not have thought twice about laying him out on-the-spot; don't let the cane fool you. I may be a gimp, but I'm not a complete invalid just yet.
+Once I've defectated, I return to The Mission. By this time, I'm even more pissed off; to say the least. And, I'd think that I should've been. To be honest, if this had happened just a few years ago, before having been medicated for the protection of such fucksticks, I'd not have thought twice about laying him out on-the-spot; don't let the cane fool you. I may be a gimp, but I'm not a complete invalid just yet.
 
 I express my frustration and anger to yet another staff in the building, and am given the same attitude as from the rest&hellip; Leaving me with the feeling that nobody there gives a fuck about what had happened to me, the complete and utter degredation of myself, and/or the laws regarding accessibilty.
 
