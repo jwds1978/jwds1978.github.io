@@ -37,7 +37,7 @@ wdcyvdsgrmupffee: true
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.categories %}
-    <a class="post-tag" href="{{ site.url }}{{ page.url }}/blog#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
+    <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
     {% endfor %}
   </div>
   <br />
