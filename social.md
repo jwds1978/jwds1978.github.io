@@ -29,6 +29,7 @@ title: Social
 * Stack Exchange
   * <a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title="">James Stewart</a><br /><a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title=""><img alt="" height="58" src="http://stackexchange.com/users/flair/10230218.png" style="border: 0px;" width="208" /></a>
 * Twitter
-  * <a href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
+  * <a href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br /><a class="twitter-follow-button" data-show-count="false" data-size="large" href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">Follow @jwds1978</a><script async charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+
 * XDA Developers
   * <a href="https://forum.xda-developers.com/member.php?referrerid=4491991&u=4491991" rel="me" target="_blank" title="stew721">stew721</a>
