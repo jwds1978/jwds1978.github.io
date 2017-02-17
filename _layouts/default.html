@@ -102,8 +102,20 @@
         {% include footer.htm %}
       </section>
     </div>
+    <div id="outdated"></div>
+    <script src="{{ site.url }}/outdated-browser/outdatedbrowser/outdatedbrowser.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        outdatedBrowser({
+          bgColor: '#f25648',
+          color: '#ffffff',
+          lowerThan: 'transform',
+          languagePath: '{{ site.url }}/outdated-browser/outdatedbrowser/lang/en.html'
+        })
+      })
+    </script>
     {% if page.comments %}
-    <script async id="dsq-count-scr" src="//jwds.disqus.com/count.js"></script>
+    <script async id="dsq-count-scr" src="//jwds.disqus.com/count.js" type="text/javascript"></script>
     {% endif %}
     {% if site.google_analytics %}
     <script type="text/javascript">
