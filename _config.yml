@@ -1,3 +1,4 @@
+assetsURI: "https://assets.forces.army"
 author: "James Stewart"
 enforce_ssl: "forces.army"
 exclude: README.md
