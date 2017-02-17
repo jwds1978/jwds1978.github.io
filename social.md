@@ -27,7 +27,7 @@ title: Social
 * Reddit
   * <a href="https://www.reddit.com/user/stew3721" rel="me" target="_blank" title="stew3721">stew3721</a>
 * Stack Exchange
-  * <a href="https://stackexchange.com/users/10230218/james-stewart" target="_blank" title="">James Stewart</a>
+  * <a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title="">James Stewart</a><br /><a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title=""><img alt="" height="58" src="http://stackexchange.com/users/flair/10230218.png" style="border: 0px;" width="208" /></a>
 * Twitter
   * <a href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * XDA Developers
