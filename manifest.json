@@ -2,7 +2,6 @@
 ---
 
 {
-  "name": "{{ site.title | default: site.github.repository_name }}",
   "icons": [ {
     "src": "\/android-icon-36x36.png",
     "sizes": "36x36",
@@ -33,5 +32,6 @@
     "sizes": "192x192",
     "type": "image\/png",
     "density": "4.0"
-  } ]
+  } ],
+  "name": "{{ site.title | default: site.github.repository_name }}"
 }
