@@ -1,6 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/01f0aa87819f4ec2b25d05e1a70bb2bb)](https://www.codacy.com/app/jwds1978/jwds1978-github-io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jwds1978/jwds1978.github.io&amp;utm_campaign=Badge_Grade)
 
-### References
+### Resources
 * Conversions
   * [mm to px](http://endmemo.com/sconvert/millimeterpixel.php "mm to px Converter")
 * GitHub
@@ -11,6 +11,9 @@
 * Global Multimedia Protocols Group
   * [XHTML Friends Network](http://gmpg.org/xfn "XHTML Friends Network is a simple way to represent human relationships using hyperlinks.")
     * [Profile](http://gmpg.org/xfn/11 "Version 1.1 of the XFN meta data profile: the list of the values used in XFN with their significance.")
+* Javascript
+  * [Javascript Beautifier](http://jsbeautifier.org "Online JavaScript beautifier")
+  * [JSCompress](https://jscompress.com "JSCompress.com is an online javascript compressor that allows you to compress and minify your javascript files.")
 * [microformat-shiv](http://microformatshiv.com "A cross browser javascript microformats parser which can also be used in browser extensions.")
 * [Microformats Wiki](http://microformats.org/wiki "This wiki is the central resource of the microformats community and provides microformats authoring guides, references, specifications, drafts, publishing patterns, research, brainstorming, and issue tracking.")
 
