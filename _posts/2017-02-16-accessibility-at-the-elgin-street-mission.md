@@ -25,7 +25,7 @@ I walk with a cane, take countless various medications daily for pain management
 The image below is of my *permanent* Accessible Parking Permit:<br />
 <br />
 <a href="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_14-40-10_03-02.jpg" target="_blank" title="">
-  <img alt="" height="390" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_14-40-10_03-02.jpg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="585" />
+  <img alt="" height="390" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_14-40-10_585x390.jpg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="585" />
 </a>
 
 If you're not familiar with the accessibility laws in Ontario, have a look <a href="https://www.ontario.ca/page/accessibility-laws" target="_blank" title="Ontario :: Accessibility Laws">here</a>. The laws are pretty clear regarding this sort of thing.
@@ -53,7 +53,7 @@ Below, is an excerpt from <a href="http://www.themission.ca/about/index.php" tar
 > The Elgin Street Mission is a place of refuge for those who need hope, encouragement, nourishment to their bodies and also to their souls. We are here to feed and clothe those who have nowhere else to go and <mark>we are no respecter of persons</mark>, if your hungry we feed you, if your cold we clothe you, if your needing to talk we listen without prejudices, and also we do have standards in place to provide a safe environment to all who enter our organization.
 
 <a href="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_17-49-28_09-16.png" target="_blank" title="">
-  <img alt="" height="1040" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_17-49-28_09-16.png" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="585" />
+  <img alt="" height="1040" src="{{ site.url }}/resources/images/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_17-49-28_585x1040.jpg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="585" />
 </a>
 
 Should you have anything to say, whether bad/good/indifferent, feel free to do so in the comment/discussion area below.
