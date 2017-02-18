@@ -16,7 +16,7 @@ layout: default
 </style>
 
 <div class="h-feed home">
-  <div class="display: none;">
+  <div style="display: none;">
     <p class="p-name">{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</p>
     <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
   </div>
@@ -37,7 +37,7 @@ layout: default
     {% endcapture %}
     <li>
       <article class="h-entry">
-        <div class="display: none;">
+        <div style="display: none;">
           <p class="p-name">{{ post.title | escape }}</p>
           <p class="u-uid">{{ post.url }}</p>
         </div>
