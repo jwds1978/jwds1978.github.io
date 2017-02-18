@@ -55,9 +55,9 @@ layout: default
         <blockquote class="p-summary">
           {{ post.excerpt | replace: '<p>', '' | replace: '</p>', '' }}
         </blockquote>
-        <span style="font-size: xx-small; text-align: right;">
+        <div style="font-size: xx-small; text-align: right;">
           <a href="{{ site.url }}{{ post.url }}" rel="me">&hellip; Read More &hellip;</a>
-        </span>
+        </div>
       </article>
     </li>
     {% endfor %}
