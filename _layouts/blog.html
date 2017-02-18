@@ -41,9 +41,9 @@ layout: default
           <p class="p-name">{{ post.title | escape }}</p>
           <p class="u-uid">{{ post.url }}</p>
         </div>
-        <p style="font-size: larger;">
+        <span style="font-size: larger;">
           <a class="u-url" href="{{ site.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a>
-        </p>
+        </span>
         <h6>
           <span style="float: right;">
             by <span class="p-author" style="font-size: larger; font-style: italic;">{{ post.author | default: site.author | escape }}</span>{% if post.comments %}<br />
