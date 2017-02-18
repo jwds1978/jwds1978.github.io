@@ -49,8 +49,8 @@ layout: default
             by <span class="p-author" style="font-size: larger; font-style: italic;">{{ post.author | default: site.author | escape }}</span>{% if post.comments %}<br />
             <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me"></a>{% endif %}
           </span>
-          Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time>{% if postDatePublished != postDateModified %}<br />
-          Updated:&nbsp; <time class="dt-updated" datetime="{{ post.dateModified | date_to_xmlschema }}">{{ post.dateModified | date: "%d %B %Y @ %T %Z" }}</time>{% endif %}
+          Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time><br />
+          Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.dateModified | date_to_xmlschema }}">{{ post.dateModified | date: "%d %B %Y @ %T %Z" }}</time>{% elsif %}N/A{% endif %}
         </h6>
         <p class="p-summary">
           {{ post.excerpt | replace: '<p>', '' | replace: '</p>', '' }}
