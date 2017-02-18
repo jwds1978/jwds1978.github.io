@@ -77,8 +77,7 @@ wdcyvdsgrmupffee: true
             {{ post.excerpt | replace: '<p>', '' | replace: '</p>', '' }}
           </blockquote>
           <div style="font-size: xx-small; text-align: right;">
-            <a href="{{ site.url }}{{ post.url }}" rel="me">&hellip; Read More &hellip;</a><br />
-            &nbsp;
+            <a href="{{ site.url }}{{ post.url }}" rel="me">&hellip; Read More &hellip;</a>
           </div>
         </article>
       </li>
