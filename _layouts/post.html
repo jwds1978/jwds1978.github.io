@@ -9,46 +9,54 @@ layout: default
 {{ page.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
 {% endcapture %}
 
-<h1>{{ page.title | escape }}</h1>
-<h6>
-  <span style="float: right;">
-    by <span style="font-size: larger;"><em>{{ page.author | default: site.author | escape }}</em></span>{% if page.comments %}<br />
-<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
-  </span>
-  Published:&nbsp; {{ page.date | date: "%d %B %Y" }} @ {{ page.date | date: "%T %Z" }}<br />
-  Updated:&nbsp; {% if pageDatePublished != pagedateModified %}{{ page.dateModified | date: "%d %B %Y" }} @ {{ page.dateModified | date: "%T %Z" }}{% else %}N/A{% endif %}
-</h6>
+<article class="h-entry">
+  <div style="display: none;">
+    <p class="p-summary">{{ page.excerpt }}</p>
+    <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
+  </div>
+  <h1 class="p-name">{{ page.title | escape }}</h1>
+  <h6>
+    <span style="float: right;">
+      by <span class="p-author" style="font-size: larger; font-style: italic;">{{ page.author | default: site.author | escape }}</span>{% if page.comments %}<br />
+      <a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
+    </span>
+    Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }} @ {{ page.date | date: "%T %Z" }}</time><br />
+    Updated:&nbsp; {% if pageDatePublished != pagedateModified %}<time class="dt-updated" datetime="{{ page.dateModified | date_to_xmlschema }}">{{ page.dateModified | date: "%d %B %Y" }} @ {{ page.dateModified | date: "%T %Z" }}</time>{% else %}N/A{% endif %}
+  </h6>
 
-<p style="font-size: smaller;">&nbsp;</p>
+  <p style="font-size: smaller;">&nbsp;</p>
 
-{{ content }}
+  <div class="e-content">
+    {{ content }}
+  </div>
 
-<p style="font-size: smaller;">
-  &nbsp;<br />
-  Categories:
-  {% for cat in page.categories %}
-  &nbsp;<a href="{{ site.url }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>
-  {% endfor %}
-  <br />
-  Tags:
-  {% for tag in page.tags %}
-  &nbsp;<a href="{{ site.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
-  {% endfor %}
-</p>
-
-{% if page.syndicated %}
-<p style="font-size: smaller;">
-  &nbsp;<br />
-  Syndicated to:
-  <ul>
-    {% for syndication in page.syndications %}
-    <li>
-      <a href="{{ syndication.href }}" rel="syndication" target="_blank" title="{{ syndication.title }}">{{ syndication.text }}</a>
-    </li>
+  <p style="font-size: smaller;">
+    &nbsp;<br />
+    Categories:
+    {% for cat in page.categories %}
+    &nbsp;<a class="p-category" href="{{ site.url }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>
     {% endfor %}
-  </ul>
-</p>
-{% endif %}
+    <br />
+    Tags:
+    {% for tag in page.tags %}
+    &nbsp;<a class="p-category" href="{{ site.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
+    {% endfor %}
+  </p>
+
+  {% if page.syndicated %}
+  <p style="font-size: smaller;">
+    &nbsp;<br />
+    Syndicated to:
+    <ul>
+      {% for syndication in page.syndications %}
+      <li>
+        <a class="u-syndication" href="{{ syndication.href }}" rel="syndication" target="_blank" title="{{ syndication.title }}">{{ syndication.text }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </p>
+  {% endif %}
+</article>
 
 {% if page.comments %}
 <!--sse-->
