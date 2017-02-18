@@ -41,7 +41,11 @@ wdcyvdsgrmupffee: true
     {% endfor %}
   </div>
   <br />
-  <div class="tags-expo-section">
+  <div class="h-feed tags-expo-section">
+    <div style="display: none;">
+      <p class="p-name">{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</p>
+      <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
+    </div>
     {% for tag in site.tags %}
     <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
     <ul class="tags-expo-posts">
