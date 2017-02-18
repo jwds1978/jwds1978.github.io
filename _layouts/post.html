@@ -11,7 +11,7 @@ layout: default
 
 <article class="h-entry">
   <div style="display: none;">
-    <p class="p-summary">{{ page.excerpt }}</p>
+    <p class="p-summary">{{ page.excerpt | replace: '<p>', '' | replace: '</p>', '' }}</p>
     <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
   </div>
   <h1 class="p-name">{{ page.title | escape }}</h1>
