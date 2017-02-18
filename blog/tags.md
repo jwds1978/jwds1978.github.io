@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Blog (Tags)
+title: "Blog (Tags)"
 wdcyvdsgrmupffee: true
 ---
 
