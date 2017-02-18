@@ -5,7 +5,7 @@ layout: default
 {% capture pageDatePublished %}
 {{ page.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
 {% endcapture %}
-{% capture pagedateModified %}
+{% capture pageDateModified %}
 {{ page.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
 {% endcapture %}
 
@@ -21,8 +21,8 @@ layout: default
       by <span class="p-author" style="font-size: larger; font-style: italic;">{{ page.author | default: site.author | escape }}</span>{% if page.comments %}<br />
       <a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
     </span>
-    Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }} @ {{ page.date | date: "%T %Z" }}</time><br />
-    Updated:&nbsp; {% if pageDatePublished != pagedateModified %}<time class="dt-updated" datetime="{{ page.dateModified | date_to_xmlschema }}">{{ page.dateModified | date: "%d %B %Y" }} @ {{ page.dateModified | date: "%T %Z" }}</time>{% else %}N/A{% endif %}
+    Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
+    Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.dateModified | date_to_xmlschema }}">{{ page.dateModified | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}
   </h6>
 
   <p style="font-size: smaller;">&nbsp;</p>
