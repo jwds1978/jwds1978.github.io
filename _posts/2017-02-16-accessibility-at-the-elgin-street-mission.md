@@ -2,7 +2,7 @@
 categories: Uncategorized
 comments: true
 date: 2017-02-16 11:44:43 America/Toronto
-dateModified: 2017-02-18 12:11:53 America/Toronto
+dateModified: 2017-02-18 16:07:43 America/Toronto
 layout: post
 syndicated: true
 syndications:
@@ -15,6 +15,7 @@ syndications:
 tags:
   - Accessibility
   - Legal
+  - "The Suck"
 title: "Accessibility at The Elgin Street Mission"
 ---
 
