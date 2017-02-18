@@ -46,17 +46,37 @@ wdcyvdsgrmupffee: true
     <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
+      {% capture postDatePublished %}
+      {{ post.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
+      {% endcapture %}
+      {% capture postDateModified %}
+      {{ post.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
+      {% endcapture %}
       <li>
-        {% if post.comments %}
-        <span style="float: right;">
-          <span style="font-size: larger;">&nbsp;</span><br />
-          <span style="font-size: smaller;">
-            <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me"></a>
+        <article class="h-entry">
+          <div style="display: none;">
+            <p class="p-name">{{ post.title | escape }}</p>
+            <p class="u-uid">{{ post.url }}</p>
+          </div>
+          <span style="font-size: larger;">
+            <a class="u-url" href="{{ site.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a>
           </span>
-        </span>
-        {% endif %}
-        <span style="font-size: larger;"><a class="post-link" href="{{ site.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a></span><br />
-        <span class="post-meta" style="font-size: smaller;">{{ post.date | date: "%d %B %Y @ %T %Z" }}</span>
+          <h6>
+            <span style="float: right;">
+              by <span class="p-author" style="font-size: larger; font-style: italic;">{{ post.author | default: site.author | escape }}</span>{% if post.comments %}<br />
+              <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me"></a>{% endif %}
+            </span>
+            Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time><br />
+            Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.dateModified | date_to_xmlschema }}">{{ post.dateModified | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}
+          </h6>
+          <blockquote class="p-summary">
+            {{ post.excerpt | replace: '<p>', '' | replace: '</p>', '' }}
+          </blockquote>
+          <div style="font-size: xx-small; text-align: right;">
+            <a href="{{ site.url }}{{ post.url }}" rel="me">&hellip; Read More &hellip;</a><br />
+            &nbsp;
+          </div>
+        </article>
       </li>
       {% endfor %}
     </ul>
