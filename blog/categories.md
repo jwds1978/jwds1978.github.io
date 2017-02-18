@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Blog
+title: Blog (Categories)
 wdcyvdsgrmupffee: true
 ---
 
