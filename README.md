@@ -11,6 +11,7 @@
 ### Resources
 * Conversions
   * [DMS to Decimal](https://www.fcc.gov/media/radio/dms-decimal "DMS to Decimal")
+  * [GPS](http://www.gps-coordinates.net "Google Maps - GPS coordinates, latitude and longitude")
   * [mm to px](http://endmemo.com/sconvert/millimeterpixel.php "mm to px Converter")
 * GitHub
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "This is intended as a quick reference.")
