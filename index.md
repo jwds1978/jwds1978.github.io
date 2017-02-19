@@ -37,9 +37,9 @@ dcuufhdpekkzdymn: true
 <!--/email_off-->
 <!--/sse-->
 
-> This is James Stewart's Web site. He's an IT consultant and software developer.
-> 
-> That doesn't say much about him, eh? Read more <a href="{{ site.url }}/about" rel="me">here</a>.
+This is James Stewart's Web site. He's an IT consultant and software developer.
+
+That doesn't say much about him, eh? Read more <a href="{{ site.url }}/about" rel="me">here</a>.
 
 ### Most Recent Blog Post
 {% assign fzfneysekpthfcbx = site.posts.first %}
