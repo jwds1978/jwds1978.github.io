@@ -5,6 +5,7 @@ date: 2017-02-19 13:13:39 America/Toronto
 dateModified: 2017-02-19 13:55:15 America/Toronto
 layout: post
 location:
+  altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
