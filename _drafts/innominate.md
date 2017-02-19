@@ -5,6 +5,7 @@ date: 0000-00-00 00:00:00 America/Toronto
 dateModified: 0000-00-00 00:00:00 America/Toronto
 layout: post
 location:
+  altitude: 
   latitude: 
   longitude: 
   text: 
