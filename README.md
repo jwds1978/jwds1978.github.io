@@ -1,14 +1,14 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/01f0aa87819f4ec2b25d05e1a70bb2bb)](https://www.codacy.com/app/jwds1978/jwds1978-github-io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jwds1978/jwds1978.github.io&amp;utm_campaign=Badge_Grade)
 
-### GPS Coordinates
+### GPS Coordinates (Latitude, Longitude, Altitude)
 * Sudbury, Ontario, Canada
-  * 46.522099, -80.95303530000001
+  * 46.522099, -80.95303530000001, 267
 * The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada
-  * 46.4870493, -80.99035090000001
+  * 46.4870493, -80.99035090000001, 263
 * The Frood Hotel, 557 Kathleen St., Sudbury, Ontario, P3C 2N1, Canada
-  * 46.5001578, -81.004458
+  * 46.5001578, -81.004458, 277
 * Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada
-  * 46.4955102, -80.99748220000004
+  * 46.4955102, -80.99748220000004, 266
 
 ### Resources
 * Conversions
