@@ -1,17 +1,17 @@
 <span class="credits right">
-  <a href="{{ site.url }}" rel="me">Home</a>&nbsp;
+  {% if vsnwscxxmumhwvawURL != "/" %}<a href="{{ site.url }}" rel="me">Home</a>{% else %}Home{% endif %}&nbsp;
   <!--sse-->
-  &bull;&nbsp; <a href="{{ site.url }}/about" rel="me">About</a>&nbsp;
+  &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/about/" %}<a href="{{ site.url }}/about" rel="me">About</a>{% else %}About{% endif %}&nbsp;
   <!--/sse-->
-  &bull;&nbsp; <a href="{{ site.url }}/blog" rel="me">Blog</a>&nbsp;
+  &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/blog/" %}<a href="{{ site.url }}/blog" rel="me">Blog</a>{% else %}Blog{% endif %}&nbsp;
   <!--sse-->
-  &bull;&nbsp; <a href="{{ site.url }}/contact" rel="me">Contact</a>&nbsp;
+  &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/contact/" %}<a href="{{ site.url }}/contact" rel="me">Contact</a>{% else %}Contact{% endif %}&nbsp;
   <!--/sse-->
-  &bull;&nbsp; <a href="{{ site.url }}/donation" rel="me">Donate</a>&nbsp;
+  &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/donation/" %}<a href="{{ site.url }}/donation" rel="me">Donate</a>{% else %}Donate{% endif %}&nbsp;
   <!--sse-->
-  &bull;&nbsp; <a href="{{ site.url }}/resume" rel="me">R&eacute;sum&eacute;</a>&nbsp;
+  &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/resume/" %}<a href="{{ site.url }}/resume" rel="me">R&eacute;sum&eacute;</a>{% else %}R&eacute;sum&eacute;{% endif %}&nbsp;
   <!--/sse-->
   <!--sse-->
-  &bull;&nbsp; <a href="{{ site.url }}/social" rel="me">Socialize</a>
+  &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/social/" %}<a href="{{ site.url }}/social" rel="me">Socialize</a>{% else %}Socialize{% endif %}
   <!--/sse-->
 </span>
