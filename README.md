@@ -1,5 +1,11 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/01f0aa87819f4ec2b25d05e1a70bb2bb)](https://www.codacy.com/app/jwds1978/jwds1978-github-io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jwds1978/jwds1978.github.io&amp;utm_campaign=Badge_Grade)
 
+### GPS Coordinates
+* Sudbury, Ontario, Canada
+  * 46.522099, -80.95303530000001
+* Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada
+  * 46.4955102, -80.99748220000004
+
 ### Resources
 * Conversions
   * [DMS to Decimal](https://www.fcc.gov/media/radio/dms-decimal "DMS to Decimal")
