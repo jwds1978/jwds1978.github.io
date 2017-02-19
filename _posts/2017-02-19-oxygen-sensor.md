@@ -2,13 +2,16 @@
 categories: Uncategorized
 comments: true
 date: 2017-02-19 13:13:39 America/Toronto
-dateModified: 2017-02-19 13:13:39 America/Toronto
+dateModified: 2017-02-19 13:55:15 America/Toronto
 layout: post
-syndicated: false
+syndicated: true
 syndications:
-  - href: 
-    text: 
-    title: 
+  - href: "https://m.facebook.com/story.php?story_fbid=10154082994462084&id=719142083"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/833388093059321856"
+    text: Twitter
+    title: Twitter
 tags:
   - Automotive
   - "The Suck"
