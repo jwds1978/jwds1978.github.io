@@ -1,3 +1,4 @@
+{% if vsnwscxxmumhwvawURL != "/blog/" and vsnwscxxmumhwvawURL != "/blog/categories/" and vsnwscxxmumhwvawURL != "/blog/tags/"%}
 <style>
   .vgfrrjjgwxeyajsk {
     color: rgb(143, 200, 71);
@@ -6,12 +7,13 @@
     color: #ffeb9b;
   }
 </style>
+{% endif %}
 <span class="credits right">
   {% if vsnwscxxmumhwvawURL != "/" %}<a href="{{ site.url }}" rel="me">Home</a>{% else %}<span style="color: rgb(143, 200, 71);">Home</span>{% endif %}&nbsp;
   <!--sse-->
   &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/about/" %}<a href="{{ site.url }}/about" rel="me">About</a>{% else %}<span style="color: rgb(143, 200, 71);">About</span>{% endif %}&nbsp;
   <!--/sse-->
-  &bull;&nbsp; {% if vsnwscxxmumhwvawURL contains "/blog/" %}{% if vsnwscxxmumhwvawURL == "/blog/" or vsnwscxxmumhwvawURL contains "/categories/" or vsnwscxxmumhwvawURL contains "/tags/" %}<span style="color: rgb(143, 200, 71);">Blog</span>{% else %}<a class="vgfrrjjgwxeyajsk" href="{{ site.url }}/blog" rel="me">Blog</a>{% endif %}{% else %}<a href="{{ site.url }}/blog" rel="me">Blog</a>{% endif %}&nbsp;
+  &bull;&nbsp; {% if vsnwscxxmumhwvawURL == "/blog/" or vsnwscxxmumhwvawURL == "/blog/categories/" or vsnwscxxmumhwvawURL == "/blog/tags/" %}<span style="color: rgb(143, 200, 71);">Blog</span>{% elsif vsnwscxxmumhwvawURL contains "/blog/" %}<a class="vgfrrjjgwxeyajsk" href="{{ site.url }}/blog" rel="me">Blog</a>{% else %}<a href="{{ site.url }}/blog" rel="me">Blog</a>{% endif %}&nbsp;
   <!--sse-->
   &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/contact/" %}<a href="{{ site.url }}/contact" rel="me">Contact</a>{% else %}<span style="color: rgb(143, 200, 71);">Contact</span>{% endif %}&nbsp;
   <!--/sse-->
