@@ -4,6 +4,11 @@ comments: true
 date: 2017-02-10 00:28:13 America/Toronto
 dateModified: 2017-02-10 00:28:13 America/Toronto
 layout: post
+location:
+  altitude: 267
+  latitude: 46.522099
+  longitude: -80.95303530000001
+  text: "Sudbury, Ontario, Canada"
 syndicated: false
 tags: Disqus
 title: Innominate
