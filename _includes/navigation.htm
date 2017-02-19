@@ -3,7 +3,7 @@
   <!--sse-->
   &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/about/" %}<a href="{{ site.url }}/about" rel="me">About</a>{% else %}About{% endif %}&nbsp;
   <!--/sse-->
-  &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/blog/" %}<a href="{{ site.url }}/blog" rel="me">Blog</a>{% else %}Blog{% endif %}&nbsp;
+  &bull;&nbsp; {% if vsnwscxxmumhwvawURL contains "/blog/" %}Blog{% else %}<a href="{{ site.url }}/blog" rel="me">Blog</a>{% endif %}&nbsp;
   <!--sse-->
   &bull;&nbsp; {% if vsnwscxxmumhwvawURL != "/contact/" %}<a href="{{ site.url }}/contact" rel="me">Contact</a>{% else %}Contact{% endif %}&nbsp;
   <!--/sse-->
