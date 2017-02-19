@@ -23,4 +23,6 @@ Fuck&hellip; my&hellip; life&hellip; Having a look at the image below, what does
 
 Lately, I've been noticing that my car is burning through upward of &frac14; tank per day. Significantly, more than usual. Somebody who was driving behind me the other day told me that they saw something dragging under my vehicle.
 
-Upon inspection, I come to realize that one of the oxygen sensors was dragging the ground. FFS! Given that, it's now damaged beyond simply returning it to where it lives. I will now need to buy a new damn unit. While I can more than likely get one from the scrap yard, I'll have to replace it now regardless.
+Upon inspection, I come to realize that one of the oxygen sensors was dragging the ground. FFS! Given that, it's now damaged beyond simply returning it to where it lives. I will now need to buy a new damn unit.
+
+While I can more than likely get one from the scrap yard, I'll have to replace it now regardless. For the time being, I've simply zip-tied the damn thing up inside of the engine compartment.
