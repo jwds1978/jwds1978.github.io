@@ -19,4 +19,8 @@ sitemap: true
 theme: jekyll-theme-midnight
 timezone: America/Toronto
 title: "James W.D. Stewart"
+uri:
+  assets: "https://assets.forces.army"
+  googleMaps: "https://www.google.ca/maps/place"
+  site: "https://forces.army"
 url: "https://forces.army"
