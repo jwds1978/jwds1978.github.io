@@ -3,6 +3,8 @@
 ### GPS Coordinates
 * Sudbury, Ontario, Canada
   * 46.522099, -80.95303530000001
+* The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada
+  * 46.4870493, -80.99035090000001
 * Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada
   * 46.4955102, -80.99748220000004
 
