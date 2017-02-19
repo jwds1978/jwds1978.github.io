@@ -5,6 +5,7 @@ date: 2017-02-16 11:44:43 America/Toronto
 dateModified: 2017-02-18 16:07:43 America/Toronto
 layout: post
 location:
+  altitude: 263
   latitude: 46.4870493
   longitude: -80.99035090000001
   text: "The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada"
