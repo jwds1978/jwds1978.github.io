@@ -1,6 +1,10 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/01f0aa87819f4ec2b25d05e1a70bb2bb)](https://www.codacy.com/app/jwds1978/jwds1978-github-io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jwds1978/jwds1978.github.io&amp;utm_campaign=Badge_Grade)
 
 ### GPS Coordinates (Latitude, Longitude, Altitude)
+* Canada
+  * 56.130366, -106.34677099999999, 469
+* Ontario, Canada
+  * 51.253775, -85.32321389999998, 172
 * Sudbury, Ontario, Canada
   * 46.522099, -80.95303530000001, 267
 * The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada
