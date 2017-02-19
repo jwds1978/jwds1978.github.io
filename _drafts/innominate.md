@@ -14,5 +14,5 @@ syndications:
     text: 
     title: 
 tags: Untagged
-title: "Innominate"
+title: 
 ---
