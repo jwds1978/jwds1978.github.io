@@ -2,7 +2,7 @@
 categories: Uncategorized
 comments: true
 date: 2017-02-20 12:23:38 America/Toronto
-dateModified: 2017-02-20 12:52:26 America/Toronto
+dateModified: 2017-02-20 12:55:47 America/Toronto
 layout: post
 location:
   altitude: 259
@@ -17,7 +17,9 @@ syndications:
   - href: "https://twitter.com/jwds1978/status/833735138282500096"
     text: Twitter
     title: Twitter
-tags: Family
+tags:
+  - Family
+  - "The Suck"
 title: "Family Day"
 ---
 
