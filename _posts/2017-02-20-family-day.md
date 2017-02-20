@@ -2,18 +2,21 @@
 categories: Uncategorized
 comments: true
 date: 2017-02-20 12:23:38 America/Toronto
-dateModified: 2017-02-20 12:31:19 America/Toronto
+dateModified: 2017-02-20 12:52:26 America/Toronto
 layout: post
 location:
   altitude: 259
   latitude: 46.49145069999999
   longitude: -80.9899049
   text: "200 Larch St., Sudbury, Ontario, P3E 1C5, Canada"
-syndicated: false
+syndicated: true
 syndications:
-  - href: 
-    text: 
-    title: 
+  - href: "https://m.facebook.com/story.php?story_fbid=10154085137382084&id=719142083"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/833735138282500096"
+    text: Twitter
+    title: Twitter
 tags: Family
 title: "Family Day"
 ---
