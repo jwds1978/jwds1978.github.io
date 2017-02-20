@@ -14,7 +14,7 @@ syndications:
   - href: 
     text: 
     title: 
-tags: "Family Day"
+tags: ["Family Day"]
 title: "Family Day"
 ---
 
