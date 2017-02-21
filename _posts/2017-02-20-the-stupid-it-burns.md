@@ -9,11 +9,14 @@ location:
   latitude: 46.4870493
   longitude: -80.99035090000001
   text: "The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada"
-syndicated: false
+syndicated: true
 syndications:
-  - href: 
-    text: 
-    title: 
+  - href: "https://m.facebook.com/story.php?story_fbid=10154085862482084&id=719142083"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/833840701993521154"
+    text: Twitter
+    title: Twitter
 tags: ["The Suck"]
 title: "The Stupid, It Burns"
 ---
