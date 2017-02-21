@@ -1,4 +1,4 @@
-author: "James Stewart"
+author: jwds
 enforce_ssl: "forces.army"
 exclude: README.md
 gems:
