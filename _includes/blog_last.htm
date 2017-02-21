@@ -1,12 +1,6 @@
-{% capture fzfneysekpthfcbxAuthors %}
-{{ fzfneysekpthfcbx.author | default: site.author | replace: ' ', '' }}
-{% endcapture %}
-{% capture postDatePublished %}
-{{ fzfneysekpthfcbx.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
-{% endcapture %}
-{% capture postDateModified %}
-{{ fzfneysekpthfcbx.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
-{% endcapture %}
+{% capture fzfneysekpthfcbxAuthors %}{{ fzfneysekpthfcbx.author | default: site.author }}{% endcapture %}
+{% capture postDatePublished %}{{ fzfneysekpthfcbx.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
+{% capture postDateModified %}{{ fzfneysekpthfcbx.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
 {% assign fzfneysekpthfcbxAuthor = site.data.authors[fzfneysekpthfcbxAuthors] %}
 
 <div class="h-feed home">
