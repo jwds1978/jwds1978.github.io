@@ -50,12 +50,16 @@ wdcyvdsgrmupffee: true
     <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
+      {% capture postAuthors %}
+      {{ post.author | default: site.author }}
+      {% endcapture %}
       {% capture postDatePublished %}
       {{ post.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
       {% endcapture %}
       {% capture postDateModified %}
       {{ post.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
       {% endcapture %}
+      {% assign postAuthor = site.data.authors[postAuthors] %}
       <li>
         <article class="h-entry">
           <div style="display: none;">
@@ -67,7 +71,7 @@ wdcyvdsgrmupffee: true
           </span>
           <h6>
             <span style="float: right;">
-              by <span class="p-author" style="font-size: larger; font-style: italic;">{{ post.author | default: site.author | escape }}</span>{% if post.comments %}<br />
+              by <span class="p-author" style="font-size: larger; font-style: italic;">{{ postAuthor.name | escape }}</span>{% if post.comments %}<br />
               <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me"></a>{% endif %}
             </span>
             Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time><br />
