@@ -1,5 +1,6 @@
 jwds:
-  dateBirth: "1978-11-07 00:00:00 America/Toronto"
+  date:
+    birth: "1978-11-07 00:00:00 America/Toronto"
   email: james.stewart@forces.army
   initials: J.W.D.S.
   name: "James Stewart"
