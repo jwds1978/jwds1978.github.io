@@ -52,7 +52,7 @@ wdcyvdsgrmupffee: true
       {% for post in tag[1] %}
       {% capture postAuthors %}{{ post.author | default: site.author }}{% endcapture %}
       {% capture postDatePublished %}{{ post.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
-      {% capture postDateModified %}{{ post.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
+      {% capture postDateModified %}{{ post.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
       {% assign postAuthor = site.data.authors[postAuthors] %}
       <li>
         <article class="h-entry">
@@ -69,7 +69,7 @@ wdcyvdsgrmupffee: true
               <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me"></a>{% endif %}
             </span>
             Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time><br />
-            Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.dateModified | date_to_xmlschema }}">{{ post.dateModified | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
+            Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
             Location:&nbsp; {% if post.location.text %}<span class="h-geo p-location"><data class="p-altitude" value="{{ post.location.altitude }}"></data><data class="p-latitude" value="{{ post.location.latitude }}"></data><data class="p-longitude" value="{{ post.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ post.location.latitude }},{{ post.location.longitude }}" target="_blank" title="{{ post.location.latitude }}, {{ post.location.longitude }}">{{ post.location.text }}</a></span>{% else %}N/A{% endif %}
           </h6>
           <blockquote class="p-summary">
