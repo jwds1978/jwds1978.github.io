@@ -16,7 +16,7 @@ layout: default
   <h1 class="p-name">{{ page.title | escape }}</h1>
   <h6>
     <span style="float: right;">
-      by <span class="p-author" style="font-size: larger; font-style: italic;">{{ pageAuthor.name | escape }}</span>{% if page.comments %}<br />
+      by <span class="p-author" style="font-size: larger; font-style: italic;">{if pageAuthor.web %}<a href="{{ pageAuthor.web }}" {% if pageAuthors != "jwds" %}target="_blank"{% else %}rel="me"{% endif %} title="{{ pageAuthor.name | escape }}">{% endif %}{{ pageAuthor.name | escape }}{if pageAuthor.web %}</a>{% endif %}</span>{% if page.comments %}<br />
       <a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
     </span>
     Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
