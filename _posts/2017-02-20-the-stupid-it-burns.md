@@ -28,6 +28,6 @@ Needless to say, I refused to give Pip *my* cookies. He then proceeds to tell me
 
 Seriously; like, WTF?!? I walk away from Pip, before things escalate further with him, to seek out the 'captain' for the evening. We'll call him Ric Chackel.
 
-I tell Ric what happened and asked him what he's going to do about it. His redponse is for me to just 'let it go'. By this time, that just pissed me right the fuck off&hellip; If I weren't upset before, I most definitely was now.
+I tell Ric what happened and asked him what he's going to do about it. His response, is for me to just 'let it go'. By this time, that just pissed me right the fuck off&hellip; If I weren't upset before, I most definitely was now.
 
 Fuck this fucking shit. I don't know WTF is going on around there, but this comes on the heels of <a href="{{ site.url }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission" rel="me" title="Accessibility at The Elgin Street Mission">what happened the other day</a>. That place needs to unfuck itself right fucking swift-like.
