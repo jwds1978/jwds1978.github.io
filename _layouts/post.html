@@ -4,7 +4,7 @@ layout: default
 
 {% capture pageAuthors %}{{ page.author | default: site.author }}{% endcapture %}
 {% capture pageDatePublished %}{{ page.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
-{% capture pageDateModified %}{{ page.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
+{% capture pageDateModified %}{{ page.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 
 <article class="h-entry">
@@ -20,7 +20,7 @@ layout: default
       <a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
     </span>
     Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
-    Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.dateModified | date_to_xmlschema }}">{{ page.dateModified | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
+    Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
     Location:&nbsp; {% if page.location.text %}<span class="h-geo p-location"><data class="p-altitude" value="{{ page.location.altitude }}"></data><data class="p-latitude" value="{{ page.location.latitude }}"></data><data class="p-longitude" value="{{ page.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ page.location.latitude }},{{ page.location.longitude }}" target="_blank" title="{{ page.location.latitude }}, {{ page.location.longitude }}">{{ page.location.text }}</a></span>{% else %}N/A{% endif %}
   </h6>
 
