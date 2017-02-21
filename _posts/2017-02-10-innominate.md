@@ -1,8 +1,8 @@
 ---
 categories: ["Proving Ground"]
 comments: true
-date: 2017-02-10 00:28:13 America/Toronto
-last_modified_at: 2017-02-10 00:28:13 America/Toronto
+date: "2017-02-10 00:28:13 America/Toronto"
+last_modified_at: "2017-02-10 00:28:13 America/Toronto"
 layout: post
 location:
   altitude: 267
