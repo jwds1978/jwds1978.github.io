@@ -2,15 +2,9 @@
 layout: default
 ---
 
-{% capture pageAuthors %}
-{{ page.author | default: site.author }}
-{% endcapture %}
-{% capture pageDatePublished %}
-{{ page.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
-{% endcapture %}
-{% capture pageDateModified %}
-{{ page.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
-{% endcapture %}
+{% capture pageAuthors %}{{ page.author | default: site.author }}{% endcapture %}
+{% capture pageDatePublished %}{{ page.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
+{% capture pageDateModified %}{{ page.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 
 <article class="h-entry">
