@@ -29,15 +29,9 @@ layout: default
   {{ content }}
   <ul>
     {% for post in paginator.posts %}
-    {% capture postAuthors %}
-    {{ post.author | default: site.author }}
-    {% endcapture %}
-    {% capture postDatePublished %}
-    {{ post.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
-    {% endcapture %}
-    {% capture postDateModified %}
-    {{ post.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
-    {% endcapture %}
+    {% capture postAuthors %}{{ post.author | default: site.author }}{% endcapture %}
+    {% capture postDatePublished %}{{ post.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
+    {% capture postDateModified %}{{ post.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
     {% assign postAuthor = site.data.authors[postAuthors] %}
     <li>
       <article class="h-entry">
