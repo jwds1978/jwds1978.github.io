@@ -6,7 +6,7 @@ Embrace 'the suck'&hellip; It's a very Buddhist concept.
 
 When we deny what reality is giving us, what is really happening, then we create suffering. So, life is a dance between minimizing expectations and surrendering to what our lives actually reveal to us. By embracing our lives totally, even the stuff that 'sucks', we get through them.
 
-The Forces have no other choice. If we're out in the Iraqi desert or in the mountains of Afghanistan, the only way that we're going to get through those challenging experiences is by embracing (rather than denying or ignoring) them.
+The Forces have no other choice. If we're out in the Iraqi desert, or in the mountains of Afghanistan, the only way that we're going to get through those challenging experiences is by embracing (rather than denying or ignoring) them.
 
 But for those with modern conveniences, and a propensity for denial, one can distract themselves&hellip; Numb themselves, fool themselves; over and over&hellip; To avoid, disconnect, ignore, postpone, procrastinate, and put their heads in the sand when they don't want to look at what is.
 
