@@ -2,12 +2,16 @@
 layout: default
 ---
 
+{% capture pageAuthors %}
+{{ page.author | default: site.author }}
+{% endcapture %}
 {% capture pageDatePublished %}
 {{ page.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
 {% endcapture %}
 {% capture pageDateModified %}
 {{ page.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
 {% endcapture %}
+{% assign pageAuthor = site.data.authors[pageAuthors] %}
 
 <article class="h-entry">
   <div style="display: none;">
@@ -18,7 +22,7 @@ layout: default
   <h1 class="p-name">{{ page.title | escape }}</h1>
   <h6>
     <span style="float: right;">
-      by <span class="p-author" style="font-size: larger; font-style: italic;">{{ page.author | default: site.author | escape }}</span>{% if page.comments %}<br />
+      by <span class="p-author" style="font-size: larger; font-style: italic;">{{ pageAuthor.name | escape }}</span>{% if page.comments %}<br />
       <a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me"></a>{% endif %}
     </span>
     Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
