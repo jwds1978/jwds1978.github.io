@@ -51,3 +51,4 @@ That doesn't say much about him, eh? Read more <a href="{{ site.url }}/about" re
   * Experience e-mail done right.
 * <a href="{{ site.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     * Your last password&hellip; Just remember your master password and LastPass remembers the rest. The best way to manage passwords.
+* <a href="{{ site.shortURL }}/XDA-Depot" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
