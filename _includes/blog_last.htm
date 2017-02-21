@@ -1,5 +1,5 @@
 {% capture fzfneysekpthfcbxAuthors %}
-{{ fzfneysekpthfcbx.author | default: site.author }}
+{{ fzfneysekpthfcbx.author | default: site.author | replace: ' ', '' }}
 {% endcapture %}
 {% capture postDatePublished %}
 {{ fzfneysekpthfcbx.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
@@ -8,13 +8,6 @@
 {{ fzfneysekpthfcbx.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
 {% endcapture %}
 {% assign fzfneysekpthfcbxAuthor = site.data.authors[fzfneysekpthfcbxAuthors] %}
-
-<blockquote>
-  fzfneysekpthfcbx[author] :: &quot;{{ fzfneysekpthfcbx.author }}&quot;<br />
-  fzfneysekpthfcbxAuthor[name] :: &quot;{{ fzfneysekpthfcbxAuthor.name }}&quot;<br />
-  fzfneysekpthfcbxAuthors :: &quot;{{ fzfneysekpthfcbxAuthors }}&quot;<br />
-  site[author] :: &quot;{{ site.author }}&quot;
-</blockquote>
 
 <div class="h-feed home">
   <div style="display: none;">
