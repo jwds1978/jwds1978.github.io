@@ -20,6 +20,8 @@ title: Social
   * <a href="https://en.gravatar.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * Hacker News
   * <a href="https://news.ycombinator.com/user?id=stew721" rel="me" target="_blank" title="stew721">stew721</a>
+* Instagram
+  * <a href="https://www.instagram.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * Keybase
   * <a href="https://keybase.io/stew721" rel="me" target="_blank" title="stew721">stew721</a>
     * <a href="https://keybase.io/encrypt#stew721" target="_blank" title="">Encrypt to James</a>
