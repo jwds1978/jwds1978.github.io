@@ -1,9 +1,13 @@
+{% capture fzfneysekpthfcbxAuthors %}
+{{ fzfneysekpthfcbx.author | default: site.author }}
+{% endcapture %}
 {% capture postDatePublished %}
 {{ fzfneysekpthfcbx.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
 {% endcapture %}
 {% capture postDateModified %}
 {{ fzfneysekpthfcbx.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
 {% endcapture %}
+{% assign fzfneysekpthfcbxAuthor = site.data.authors[fzfneysekpthfcbxAuthors] %}
 
 <div class="h-feed home">
   <div style="display: none;">
@@ -22,7 +26,7 @@
         </span>
         <h6>
           <span style="float: right;">
-            by <span class="p-author" style="font-size: larger; font-style: italic;">{{ fzfneysekpthfcbx.author | default: site.author | escape }}</span>{% if fzfneysekpthfcbx.comments %}<br />
+            by <span class="p-author" style="font-size: larger; font-style: italic;">{{ fzfneysekpthfcbxAuthor.name | escape }}</span>{% if fzfneysekpthfcbx.comments %}<br />
             <a data-disqus-identifier="{{ fzfneysekpthfcbx.url }}" href="{{ site.url }}{{ fzfneysekpthfcbx.url }}#disqus_thread" rel="me"></a>{% endif %}
           </span>
           Published:&nbsp; <time class="dt-published" datetime="{{ fzfneysekpthfcbx.date | date_to_xmlschema }}">{{ fzfneysekpthfcbx.date | date: "%d %B %Y @ %T %Z" }}</time><br />
