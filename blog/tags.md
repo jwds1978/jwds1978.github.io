@@ -50,15 +50,9 @@ wdcyvdsgrmupffee: true
     <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
-      {% capture postAuthors %}
-      {{ post.author | default: site.author }}
-      {% endcapture %}
-      {% capture postDatePublished %}
-      {{ post.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
-      {% endcapture %}
-      {% capture postDateModified %}
-      {{ post.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}
-      {% endcapture %}
+      {% capture postAuthors %}{{ post.author | default: site.author }}{% endcapture %}
+      {% capture postDatePublished %}{{ post.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
+      {% capture postDateModified %}{{ post.dateModified | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
       {% assign postAuthor = site.data.authors[postAuthors] %}
       <li>
         <article class="h-entry">
