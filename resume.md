@@ -3,6 +3,14 @@ cloudflareSSE: true
 title: "Curriculum Vitae"
 ---
 
+<p style="text-align: center;">
+  <!-- Web2PDF Converter Button BEGIN -->
+  <script type="text/javascript">
+    var pdfbuttonlabel = "Save R&eacute;sum&eacute; as PDF"
+  </script>
+  <script id="Web2PDF" src="https://www.web2pdfconvert.com/pdfbutton2.js" type="text/javascript"></script>
+  <!-- Web2PDF Converter Button END -->
+</p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
     <a class="p-contact h-card" href="{{ site.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
