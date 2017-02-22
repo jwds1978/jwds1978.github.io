@@ -4,12 +4,11 @@ title: "Curriculum Vitae"
 ---
 
 <p style="text-align: center;">
-  <!-- Web2PDF Converter Button BEGIN -->
   <script type="text/javascript">
-    var pdfbuttonlabel = "Save as PDF"
+    var pdfbuttonlabel = "Save as PDF",
+      pdfbuttontitle = "Save as PDF";
   </script>
-  <script id="Web2PDF" src="https://www.web2pdfconvert.com/pdfbutton2.js" type="text/javascript"></script>
-  <!-- Web2PDF Converter Button END -->
+  <script id="Web2PDF" src="{{ site.url }}/resources/js/save-as-pdf_min.js" type="text/javascript"></script>
 </p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
