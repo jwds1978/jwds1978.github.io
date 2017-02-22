@@ -55,7 +55,6 @@
     {% endif %}
     <link href="{{ site.url }}/sitemap.xml" rel="sitemap" />
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet" type="text/css" />
-    <link href="{{ site.outdatedBrowserURI }}/outdatedbrowser/outdatedbrowser.css" rel="stylesheet" type="text/css" />
     {% if page.wdcyvdsgrmupffee %}
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     {% endif %}
@@ -104,18 +103,6 @@
         {% include footer.htm %}
       </section>
     </div>
-    <div id="outdated"></div>
-    <script src="{{ site.outdatedBrowserURI }}/outdatedbrowser/outdatedbrowser.min.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      $(document).ready(function () {
-        outdatedBrowser({
-          bgColor: "#f25648",
-          color: "#ffffff",
-          languagePath: "{{ site.outdatedBrowserURI }}/outdatedbrowser/lang/en.html",
-          lowerThan: "transform"
-        })
-      });
-    </script>
     {% if page.comments %}
     <script async id="dsq-count-scr" src="//jwds.disqus.com/count.js" type="text/javascript"></script>
     {% endif %}
