@@ -21,11 +21,11 @@ Web2PDFAddCss(Web2PDFStyles);
 var Web2PDFJSCode = "";
 
 if (pdfbuttonstyle == 'link') {
-  Web2PDFJSCode += '<a href="javascript:savePageAsPDF()" title="' + pdfbuttontitle + '">' + pdfbuttonlabel + '</a>';
+  Web2PDFJSCode += '<a href="javascript:savePageAsPDF()" target="_blank" title="' + pdfbuttontitle + '">' + pdfbuttonlabel + '</a>';
 } else if (pdfbuttonstyle == 'custimg') {
-  Web2PDFJSCode += '<a href="javascript:savePageAsPDF()" title="' + pdfbuttontitle + '"><img align="absmiddle" alt="' + pdfbuttontitle + '" border="0" src="' + custimg + '" /></a>';
+  Web2PDFJSCode += '<a href="javascript:savePageAsPDF()" target="_blank" title="' + pdfbuttontitle + '"><img alt="' + pdfbuttontitle + '" src="' + custimg + '" style="border: 0px; vertical-align: middle;" /></a>';
 } else {
-  Web2PDFJSCode += '<span class="save_as_pdf"><a href="javascript:savePageAsPDF()" title="' + pdfbuttontitle + '">' + pdfbuttonlabel + '</a></span>';
+  Web2PDFJSCode += '<span class="save_as_pdf"><a href="javascript:savePageAsPDF()" target="_blank" title="' + pdfbuttontitle + '">' + pdfbuttonlabel + '</a></span>';
 };
 
 var newcontent = document.createElement('span');
@@ -42,7 +42,7 @@ if (title == null) {
 }
 
 function savePageAsPDF() {
-  var pUrl = "http://www.web2pdfconvert.com/engine?curl=" + escape(document.location.href) + "&title=" + title + "&ref=imagebutton";
+  var pUrl = "https://www.web2pdfconvert.com/engine?curl=" + escape(document.location.href) + "&title=" + title + "&ref=imagebutton";
 
   window.open(pUrl);
 }
