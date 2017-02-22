@@ -1,5 +1,3 @@
-var pdfbuttontitle = 'Save web page to PDF free with www.web2pdfconvert.com';
-
 if (typeof (pdfbuttonlabel) == 'undefined') {
   pdfbuttonlabel = 'Save page as PDF';
 }
@@ -8,11 +6,15 @@ if (typeof (pdfbuttonstyle) == 'undefined') {
   pdfbuttonstyle = 'button';
 }
 
+if (typeof (pdfbuttontitle) == 'undefined') {
+  pdfbuttontitle = 'Save Web Page as PDF';
+}
+
 var Web2PDFStyles =
-  '.save_as_pdf {display:inline-block; width:128px;	height:26px;	background: url(http://www.web2pdfconvert.com/images/save-as-pdf-blank.gif) no-repeat; border-style:none 0px;text-align:center;}' +
-  '.save_as_pdf a  {	display:inline-block; 	width:115px;	height:20px; line-height:1.4em;   padding-left:17px;    padding-top:6px;	color:#000000;	text-decoration:none;	font-size:11px;	font-weight:bold;	font-family:Arial, Helvetica, sans-serif;	}' +
-  '.save_as_pdf a:hover  {	text-decoration:none; color:#000000;	}' +
-  '.save_as_pdf a:link  {	text-decoration:none; color:#000000;	}';
+  '.save_as_pdf { display: inline-block; width:128px; height: 26px; background: url(https://www.web2pdfconvert.com/images/save-as-pdf-blank.gif) no-repeat; border-style: none 0px; text-align: center; }' +
+  ' .save_as_pdf a { display: inline-block; width: 115px; height: 20px; line-height: 1.4em; padding-left: 17px; padding-top: 6px; color: #000000; text-decoration: none; font-size: 11px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; }' +
+  ' .save_as_pdf a:hover { text-decoration: none; color: #000000; }' +
+  ' .save_as_pdf a:link { text-decoration: none; color: #000000; }';
 
 Web2PDFAddCss(Web2PDFStyles);
 
