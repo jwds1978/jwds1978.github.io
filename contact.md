@@ -3,7 +3,7 @@ cloudflareSSE: true
 title: Contact
 ---
 
-<img alt="Download vCard" height="184" src="{{ site.uri.assets }}/naked/images/vCard_255x184.png" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="255" />
+<img alt="vCard" height="184" src="{{ site.uri.assets }}/naked/images/vCard_255x184.png" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="255" />
 
 ### Call James, Maybe <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
 * Mobile
