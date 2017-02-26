@@ -1,5 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9dccd26457ba4fe28b67f354aea20860)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jwds1978/jwds1978.github.io&amp;utm_campaign=Badge_Grade)
-
 ### GPS Coordinates (Latitude, Longitude, Altitude)
 * Canada
   * 56.130366, -106.34677099999999, 469
