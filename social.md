@@ -28,6 +28,8 @@ title: Social
     * <a href="https://keybase.io/verify" target="_blank" title="">Verify from James</a>
 * Reddit
   * <a href="https://www.reddit.com/user/stew3721" rel="me" target="_blank" title="stew3721">stew3721</a>
+* SamMobile
+  * <a href="https://www.sammobile.com/forum/member.php?referrerid=5112056&u=5112056" rel="me" target="_blank" title="stew3721">stew3721</a>
 * Stack Exchange
   * <a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title="">James Stewart</a><br /><a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title=""><img alt="" height="58" src="http://stackexchange.com/users/flair/10230218.png" style="border: 0px;" width="208" /></a>
 * Twitter
