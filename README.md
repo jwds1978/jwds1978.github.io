@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/01f0aa87819f4ec2b25d05e1a70bb2bb)](https://www.codacy.com/app/jwds1978/jwds1978-github-io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jwds1978/jwds1978.github.io&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9dccd26457ba4fe28b67f354aea20860)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jwds1978/jwds1978.github.io&amp;utm_campaign=Badge_Grade)
 
 ### GPS Coordinates (Latitude, Longitude, Altitude)
 * Canada
