@@ -13,7 +13,14 @@ title: "Curriculum Vitae"
     <a class="p-contact h-card" href="{{ site.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
   </span>
   <h3 id="summary">Summary</h3>
-  <p class="p-summary">Information Technology and Services</p>
+  <p class="p-summary">
+    Takes the standard elements of quality customer service and experience, and then kicks it up a notch.&nbsp;
+    Offers more than just a repair service &#8212; makes clients feel like they've learned something.&nbsp;
+    Solves technical difficulties and 'just makes it work'.<br />
+    &nbsp;<br />
+    Technical expertise is important, but equal in significance is the presentment to the customer.&nbsp;
+    The way you act, explain what the issues at hand are, and confidence (not arrogance &#8212; there's a difference) in which you remedy the situation is a direct reflection on the company itself.
+  </p>
   <h3 id="skills">Skills</h3>
   <ul>
     <li class="p-skill">Amazon Web Services (AWS)</li>
@@ -77,14 +84,18 @@ title: "Curriculum Vitae"
     John Kennedy<br />
     <a href="http://sudburychamber.ca" target="_blank" title="Greater Sudbury Chamber of Commerce">Greater Sudbury Chamber of Commerce</a>
     <blockquote>
-      James services each of his clients in the same professional way&hellip; Friendly and knowledgeable. As a small business owner, James knows the value of one-on-one service.
+      James services each of his clients in the same professional way&hellip; Friendly and knowledgeable.&nbsp;
+      As a small business owner, James knows the value of one-on-one service.
     </blockquote>
   </p>
   <p>
     Matthew Fogel<br />
     <a href="http://www.vmware.com" target="_blank" title="VMware">VMware</a>
     <blockquote>
-      I worked with James at Sitel while he was a Hewlett-Packard technical support specialist. During the time that we worked together, James was a dedicated professional who showed commitment to his customers. I am deeply impressed by James and recommend him unhesitatingly. I am confident that he would provide the same high level of service and commitment that he demonstrated at Sitel.
+      I worked with James at Sitel while he was a Hewlett-Packard technical support specialist.&nbsp;
+      During the time that we worked together, James was a dedicated professional who showed commitment to his customers.&nbsp;
+      I am deeply impressed by James and recommend him unhesitatingly.&nbsp;
+      I am confident that he would provide the same high level of service and commitment that he demonstrated at Sitel.
     </blockquote>
   </p>
   <h3 id="experience">Experience</h3>
