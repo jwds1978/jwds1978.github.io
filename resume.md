@@ -5,12 +5,7 @@ title: "Curriculum Vitae"
 
 <p style="text-align: center;">
   Save as:&nbsp;
-  <script type="text/javascript">
-    var pdfbuttonlabel = "PDF",
-      pdfbuttonstyle = "link",
-      pdfbuttontitle = "Save {{ page.title }} as PDF";
-  </script>
-  <script id="Web2PDF" src="{{ site.url }}/resources/js/save-as-pdf_min.js" type="text/javascript"></script>&nbsp;
+  <a href="https://www.web2pdfconvert.com/convert" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
   &bull;&nbsp; <a href="javascript:window.print()" target="_blank" title="Print {{ page.title }}">Print</a>
 </p>
 <div class="h-resume">
