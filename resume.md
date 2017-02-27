@@ -302,6 +302,36 @@ title: "Curriculum Vitae"
     June 2001 &#8211; 2004
   </p>
   <p>
+    Customer Assistance<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of interpreting a policy guide and resolving customer issues and problems based on policy, procedures, and guidelines within a scenario or reference guide.
+  </p>
+  <p>
+    Information Technology Terminology<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of the terms associated with the IT industry.&nbsp;
+    Designed for all IT professionals, this test covers the following topics:
+    <ul>
+      <li>Data Communication</li>
+      <li>Data Security</li>
+      <li>Data Storage Standards and Practices</li>
+      <li>Internet and WWW Standards and Practices</li>
+      <li>IT Management</li>
+      <li>Network Topology</li>
+      <li>Operating Systems Standards and Practices</li>
+      <li>PC Hardware</li>
+      <li>Portable Storage</li>
+    </ul>
+  </p>
+  <p>
+    Listening Skills<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures retention and listening skills.&nbsp;
+    This test assesses knowledge and recognition of everyday spoken English; and, it's not focused on any specific topical areas.&nbsp;
+    The items presented in audio format consist of everyday spoken English phrases, sentences, short announcements, statements, or exclamations.&nbsp;
+    Designed for all professionals, this test requires to listen to passages and then answer questions related to what was said.
+  </p>
+  <p>
     Network Technical Support<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of network technical support.&nbsp;
@@ -318,6 +348,78 @@ title: "Curriculum Vitae"
       <li>WAN Support</li>
       <li>Wired LAN Support</li>
       <li>Wireless LAN Support</li>
+    </ul>
+  </p>
+  <p>
+    Networking Concepts<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of the core aspects of local area networks.&nbsp;
+    Designed for experienced network administrators, this test covers the following topics:
+    <ul>
+      <li>Administration</li>
+      <li>Configuration Troubleshooting</li>
+      <li>Connectivity Troubleshooting</li>
+      <li>Design</li>
+      <li>LAN and WAN Technologies</li>
+      <li>Network Devices</li>
+      <li>Network Standards</li>
+      <li>Protocol Stacks</li>
+      <li>Routing Protocols</li>
+    </ul>
+  </p>
+  <p>
+    TCP/IP Administration<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures ability to administer a network using the transmission control protocol/Internet protocol.&nbsp;
+    Designed for experienced network administrators, this test covers the following topics:
+    <ul>
+      <li>DHCP/BOOTP</li>
+      <li>DNS</li>
+      <li>General Knowledge</li>
+      <li>IP Addressing</li>
+      <li>IP Security</li>
+      <li>IPv6</li>
+      <li>Routing</li>
+      <li>Subnetting</li>
+      <li>TCP/IP Standards</li>
+      <li>TCP/IP Suite</li>
+      <li>Troubleshooting</li>
+      <li>WINS</li>
+    </ul>
+  </p>
+  <p>
+    Technical Help Desk<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of core end-user problems using common office software and hardware.&nbsp;
+    Designed for experienced help desk professionals, this test covers the following topics:
+    <ul>
+      <li>Computer Systems</li>
+      <li>Configuring PC Peripherals</li>
+      <li>Hardware</li>
+      <li>Help Desk Operations</li>
+      <li>Networking</li>
+      <li>PC and System Terminology</li>
+      <li>Security</li>
+      <li>Software</li>
+      <li>Troubleshooting Process</li>
+      <li>User Problems</li>
+    </ul>
+  </p>
+  <p>
+    Telephone Etiquette<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of how to conduct telephone conversations in a professional manner.&nbsp;
+    Designed for anyone dealing with clients or customers on the phone, this test covers the following topics:
+    <ul>
+      <li>Answering Phones</li>
+      <li>Communication</li>
+      <li>Customers</li>
+      <li>Handling the Call</li>
+      <li>Listening</li>
+      <li>Professionalism</li>
+      <li>Telephone Equipment</li>
+      <li>Telephone Personality</li>
+      <li>Terminology</li>
     </ul>
   </p>
 </div>
