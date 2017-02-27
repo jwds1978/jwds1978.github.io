@@ -5,8 +5,8 @@ title: "Curriculum Vitae"
 
 <p style="text-align: center;">
   Save as:&nbsp;
-  <a href="https://www.web2pdfconvert.com/convert" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
-  &bull;&nbsp; <a href="javascript:window.print()" target="_blank" title="Print {{ page.title }}">Print</a>
+  <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
+  &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a>
 </p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
