@@ -269,6 +269,17 @@ title: "Curriculum Vitae"
       <span class="p-description">Network Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
+        Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp;
+        A computer end-user support specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers, power supplies, soundcards, and so forth.&nbsp;
+        A person in this position may also be called upon to determine the organization's software and hardware needs&hellip; including upgrades, and to train users on new equipment and programs.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
+      <span class="p-description">Computer End-User Support Specialist</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
         Responsible for providing support to users of a local area network (LAN).&nbsp;
         A network support specialist sets up, configures, and maintains a LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp;
         A person in this position also addresses, diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp;
