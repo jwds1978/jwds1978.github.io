@@ -6,9 +6,9 @@ title: "Curriculum Vitae"
 <p style="text-align: center;">
   Save as:&nbsp;
   <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
-  &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a>
+  &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a><br />
+  &nbsp;
 </p>
-<p>&nbsp;</p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
     <a class="p-contact h-card" href="{{ site.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
