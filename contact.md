@@ -35,6 +35,8 @@ title: Contact
 * ICQ
   * <a href="aim:goim?screenname=714663121" rel="me" target="_blank" title="714663121">714663121</a>
 * IRC
+  * DALnet
+    * <a href="https://users.dal.net/userinfo.php?nick=stew721" rel="me" target="_blank" title="stew721">stew721</a>
   * freenode
     * <a href="ircs://chat.freenode.net:6697/stew721,isnick" rel="me" target="_blank" title="stew721">stew721</a>
   * IRCCloud
