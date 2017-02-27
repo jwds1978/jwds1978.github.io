@@ -269,9 +269,10 @@ title: "Curriculum Vitae"
       <span class="p-description">Network Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
-        Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp;
-        A computer end-user support specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers, power supplies, soundcards, and so forth.&nbsp;
-        A person in this position may also be called upon to determine the organization's software and hardware needs&hellip; including upgrades, and to train users on new equipment and programs.
+        Responsible for providing support to users of a local area network (LAN).&nbsp;
+        A network support specialist sets up, configures, and maintains a LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp;
+        A person in this position also addresses, diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp;
+        A network support specialist might also be called upon to train users in LAN usage.
       </span>
     </p>
   </div>
@@ -280,10 +281,9 @@ title: "Curriculum Vitae"
       <span class="p-description">Computer End-User Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
-        Responsible for providing support to users of a local area network (LAN).&nbsp;
-        A network support specialist sets up, configures, and maintains a LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp;
-        A person in this position also addresses, diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp;
-        A network support specialist might also be called upon to train users in LAN usage.
+        Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp;
+        A computer end-user support specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers, power supplies, soundcards, and so forth.&nbsp;
+        A person in this position may also be called upon to determine the organization's software and hardware needs&hellip; including upgrades, and to train users on new equipment and programs.
       </span>
     </p>
   </div>
@@ -332,6 +332,43 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>
+    Computer Fundamentals (Win 2000)<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures basic knowledge using a personal computer.&nbsp;
+    While the test focuses on the skills of using any PC, it uses Windows 2000 as its basis.&nbsp;
+    Designed for all computers users, this test has the following topics:
+    <ul>
+      <li>File Management</li>
+      <li>GUI</li>
+      <li>Hardware</li>
+      <li>Networks</li>
+      <li>Security</li>
+      <li>Software</li>
+      <li>Storage</li>
+      <li>Win 2000</li>
+    </ul>
+  </p>
+  <p>
+    Computer Technical Support<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of how to set up and maintain a PC.&nbsp;
+    It's designed for IT professionals who are responsible for end-user hardware support.&nbsp;
+    This support could be face-to-face or via a help desk.&nbsp;
+    It's designed for the experienced user, but an average performer in this role should pass this test.&nbsp;
+    This test covers the following topics:
+    <ul>
+      <li>Backup and Recovery</li>
+      <li>Biometrics</li>
+      <li>Device Support Software</li>
+      <li>Hardware Components</li>
+      <li>Hardware Troubleshooting</li>
+      <li>Network Troubleshooting</li>
+      <li>New Hardware Installation</li>
+      <li>Peripheral Troubleshooting</li>
+      <li>Security</li>
+    </ul>
+  </p>
+  <p>
     Customer Assistance<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of interpreting a policy guide and resolving customer issues and problems based on policy, procedures, and guidelines within a scenario or reference guide.
@@ -377,6 +414,68 @@ title: "Curriculum Vitae"
     This test assesses knowledge and recognition of everyday spoken English; and, it's not focused on any specific topical areas.&nbsp;
     The items presented in audio format consist of everyday spoken English phrases, sentences, short announcements, statements, or exclamations.&nbsp;
     Designed for all professionals, this test requires to listen to passages and then answer questions related to what was said.
+  </p>
+  <p>
+    MS Excel 2010<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of Excel 2010.&nbsp;
+    Designed for experienced users, this test covers the following topics:
+    <ul>
+      <li>Advanced User Features</li>
+      <li>Functions and Analytical Tools</li>
+      <li>Multiple Worksheets</li>
+      <li>Printing and Views</li>
+      <li>Privacy and Security</li>
+      <li>Tables and Graphics</li>
+      <li>Workbook and Worksheet Features</li>
+      <li>Worksheet Formatting</li>
+    </ul>
+  </p>
+  <p>
+    MS Internet Explorer 6.0 Fundamentals<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of the skills necessary to proficiently use MS Internet Explorer at a user level.&nbsp;
+    Designed for all users, this test covers the following topics:
+    <ul>
+      <li>Basic Features and Functions</li>
+      <li>Browser Usage</li>
+      <li>Customization</li>
+      <li>Privacy</li>
+      <li>Security</li>
+      <li>Setup and Installation</li>
+    </ul>
+  </p>
+  <p>
+    MS PowerPoint 2010<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of MS PowerPoint 2010.&nbsp;
+    Designed for experienced users, this test covers the following topics:
+    <ul>
+      <li>Animation and Slideshows</li>
+      <li>Content</li>
+      <li>Interface</li>
+      <li>Objects</li>
+      <li>Presentation Management and Delivery</li>
+      <li>Presentations and Files</li>
+      <li>Proof and Review</li>
+      <li>Slide Setup and Preparation</li>
+    </ul>
+  </p>
+  <p>
+    MS Word 2013<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of using MS Word 2013 in a work environment.&nbsp;
+    Designed for experienced users, this test covers the following topics:
+    <ul>
+      <li>Document Creation</li>
+      <li>Document Features</li>
+      <li>Document Window Views</li>
+      <li>Formatting</li>
+      <li>Graphics and Tables</li>
+      <li>Options</li>
+      <li>Page Layout</li>
+      <li>Reviewing</li>
+    </ul>
   </p>
   <p>
     Network Technical Support<br />
