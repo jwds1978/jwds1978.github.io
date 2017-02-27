@@ -42,6 +42,7 @@ title: "Curriculum Vitae"
       </li>
     </ul>
   </p>
+  <p>&nbsp;</p>
   <h3 id="skills">Skills</h3>
   <ul>
     <li class="p-skill">Amazon Web Services (AWS)</li>
@@ -100,6 +101,7 @@ title: "Curriculum Vitae"
     <li class="p-skill">WHMCS</li>
     <li>More&hellip;</li>
   </ul>
+  <p>&nbsp;</p>
   <h3 id="recommendations">Recommendations</h3>
   <p>
     John Kennedy<br />
@@ -119,6 +121,7 @@ title: "Curriculum Vitae"
       I am confident that he would provide the same high level of service and commitment that he demonstrated at Sitel.
     </blockquote>
   </p>
+  <p>&nbsp;</p>
   <h3 id="experience">Experience</h3>
   <div class="h-card h-event p-experience">
     <p>
@@ -228,6 +231,7 @@ title: "Curriculum Vitae"
       <sup><time class="dt-duration" datetime="P6Y">6 Years</time></sup>
     </p>
   </div>
+  <p>&nbsp;</p>
   <h3 id="volunteer">Volunteer Experience</h3>
   <div class="h-card h-event p-experience">
     <p>
@@ -247,6 +251,7 @@ title: "Curriculum Vitae"
       <sup><time class="dt-duration" datetime="P1Y2M">1 Year, 2 Months</time></sup>
     </p>
   </div>
+  <p>&nbsp;</p>
   <h3 id="languages">Languages</h3>
   <ul>
     <li>
@@ -256,6 +261,7 @@ title: "Curriculum Vitae"
       </ul>
     </li>
   </ul>
+  <p>&nbsp;</p>
   <h3 id="education">Education</h3>
   <div class="h-card h-event p-education">
     <p>
@@ -269,6 +275,7 @@ title: "Curriculum Vitae"
       <a class="p-name p-org u-url" href="http://www.nrischools.com" target="_blank" title="NRI Schools">NRI Schools</a>
     </p>
   </div>
+  <p>&nbsp;</p>
   <h3 id="certifications">Certifications</h3>
   <p>
     Certificate of Proficiency in Radio &#8212; Restricted Operator &#8212; Aeronautical<br />
