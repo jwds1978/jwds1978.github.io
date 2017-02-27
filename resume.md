@@ -8,6 +8,7 @@ title: "Curriculum Vitae"
   <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a>
 </p>
+<p>&nbsp;</p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
     <a class="p-contact h-card" href="{{ site.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
