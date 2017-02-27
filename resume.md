@@ -278,23 +278,23 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <span class="p-description">Customer Service Representative</span><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-      <span class="p-summary">
-        Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp;
-        A customer service representative handles such tasks as soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or billing&hellip; and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp;
-        Additionally, a person in this position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes records&hellip; and prepares reports dealing with orders, complaints, and adjustments.
-      </span>
-    </p>
-  </div>
-  <div class="h-card h-event p-education">
-    <p>
       <span class="p-description">Computer End-User Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
         Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp;
         A computer end-user support specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers, power supplies, soundcards, and so forth.&nbsp;
         A person in this position may also be called upon to determine the organization's software and hardware needs&hellip; including upgrades, and to train users on new equipment and programs.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
+      <span class="p-description">Customer Service Representative</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
+        Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp;
+        A customer service representative handles such tasks as soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or billing&hellip; and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp;
+        Additionally, a person in this position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes records&hellip; and prepares reports dealing with orders, complaints, and adjustments.
       </span>
     </p>
   </div>
