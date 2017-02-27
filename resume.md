@@ -266,6 +266,18 @@ title: "Curriculum Vitae"
   <h3 id="education">Education</h3>
   <div class="h-card h-event p-education">
     <p>
+      <span class="p-description">Network Support Specialist</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
+        Responsible for providing support to users of a local area network (LAN).&nbsp;
+        A network support specialist sets up, configures, and maintains a LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp;
+        A person in this position also addresses, diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp;
+        A network support specialist might also be called upon to train users in LAN usage.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
       <span class="p-description">Aviation &#8212; Flight Management</span><br />
       <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a>
     </p>
@@ -290,15 +302,10 @@ title: "Curriculum Vitae"
     June 2001 &#8211; 2004
   </p>
   <p>
-    Computer End-User Support Specialist<br />
-    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    2005 &#8211; 2008
-  </p>
-  <p>
     Network Technical Support<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of network technical support.&nbsp;
-    It's designed for IT professionals who are responsible for the setup, configuration, and maintenance of a network and those responsible for end user network support.&nbsp;
+    It's designed for IT professionals who are responsible for the setup, configuration, and maintenance of a network and those responsible for end-user network support.&nbsp;
     This support could be face-to-face or via a help desk.&nbsp;
     An average performer in this role should pass this test.&nbsp;
     The test covers the following topics:
