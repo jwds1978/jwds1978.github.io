@@ -302,6 +302,25 @@ title: "Curriculum Vitae"
     June 2001 &#8211; 2004
   </p>
   <p>
+    Apache 2.0 Administration<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of Apache 2.0 administration.&nbsp;
+    Designed for the experienced user, but an average performer in this role should pass this test.&nbsp;
+    This test covers the following topics:
+    <ul>
+      <li>Customization<li>
+      <li>Dynamic Content<li>
+      <li>Manipulating URL<li>
+      <li>Modules<li>
+      <li>Performance Optimization<li>
+      <li>Securing Web Server<li>
+      <li>Server Configuration<li>
+      <li>Setup<li>
+      <li>Tracking Server Activities<li>
+      <li>Virtual Hosts</li>
+    </ul>
+  </p>
+  <p>
     Customer Assistance<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of interpreting a policy guide and resolving customer issues and problems based on policy, procedures, and guidelines within a scenario or reference guide.
@@ -321,6 +340,23 @@ title: "Curriculum Vitae"
       <li>Operating Systems Standards and Practices</li>
       <li>PC Hardware</li>
       <li>Portable Storage</li>
+    </ul>
+  </p>
+  <p>
+    Linux Administration (General)<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of the key issues and concepts of administering in a Linux environment.&nbsp;
+    This is the core Linux administration test and is focused on the general aspects of Linux that span all Linux variations.&nbsp;
+    Designed for experienced system administrators, this test covers the following topics:
+    <ul>
+      <li>Application Management</li>
+      <li>Configuration and Administration</li>
+      <li>Installation</li>
+      <li>Kernel Customization</li>
+      <li>Networking</li>
+      <li>Performance and Accounting</li>
+      <li>Security</li>
+      <li>System Monitoring</li>
     </ul>
   </p>
   <p>
