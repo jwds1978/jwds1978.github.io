@@ -308,15 +308,15 @@ title: "Curriculum Vitae"
     Designed for the experienced user, but an average performer in this role should pass this test.&nbsp;
     This test covers the following topics:
     <ul>
-      <li>Customization<li>
-      <li>Dynamic Content<li>
-      <li>Manipulating URL<li>
-      <li>Modules<li>
-      <li>Performance Optimization<li>
-      <li>Securing Web Server<li>
-      <li>Server Configuration<li>
-      <li>Setup<li>
-      <li>Tracking Server Activities<li>
+      <li>Customization</li>
+      <li>Dynamic Content</li>
+      <li>Manipulating URL</li>
+      <li>Modules</li>
+      <li>Performance Optimization</li>
+      <li>Securing Web Server</li>
+      <li>Server Configuration</li>
+      <li>Setup</li>
+      <li>Tracking Server Activities</li>
       <li>Virtual Hosts</li>
     </ul>
   </p>
