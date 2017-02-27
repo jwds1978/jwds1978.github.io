@@ -295,8 +295,22 @@ title: "Curriculum Vitae"
     2005 &#8211; 2008
   </p>
   <p>
-    Network Support Specialist<br />
+    Network Technical Support<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    2005 &#8211; 2008
+    Measures knowledge of network technical support.&nbsp;
+    It's designed for IT professionals who are responsible for the setup, configuration, and maintenance of a network and those responsible for end user network support.&nbsp;
+    This support could be face-to-face or via a help desk.&nbsp;
+    An average performer in this role should pass this test.&nbsp;
+    The test covers the following topics:
+    <ul>
+      <li>End-User Support</li>
+      <li>Network Design</li>
+      <li>Network Health</li>
+      <li>Network Security</li>
+      <li>Switching and Routing</li>
+      <li>WAN Support</li>
+      <li>Wired LAN Support</li>
+      <li>Wireless LAN Support</li>
+    </ul>
   </p>
 </div>
