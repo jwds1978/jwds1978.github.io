@@ -23,12 +23,14 @@ title: "Curriculum Vitae"
     <ul>
       <li>
         <span style="font-weight: bolder;">Outstanding Leadership Abilities:</span>&nbsp;
-        Able to coordinate and direct all phases of project-based efforts while managing, motivating, and leading project teams.
+        Able to coordinate and direct all phases of project-based efforts while managing, motivating, and leading project teams.<br />
+        &nbsp;
       </li>
       <li>
         <span style="font-weight: bolder;">Strong Customer Service:</span>&nbsp;
         Able to explain something complicated in a way that the average person can understand &#8212; down to Earth, not above their heads in techno-babble.&nbsp;
-        Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores&hellip; consistently scoring 95&#8211;100% on all calls.
+        Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores&hellip; consistently scoring 95&#8211;100% on all calls.<br />
+        &nbsp;
       </li>
       <li>
         <span style="font-weight: bolder;">Strong Technical Expertise:</span>&nbsp;
