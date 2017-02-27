@@ -278,6 +278,17 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
+      <span class="p-description">Customer Service Representative</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
+        Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp;
+        A customer service representative handles such tasks as soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or billing&hellip; and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp;
+        Additionally, a person in this position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes records&hellip; and prepares reports dealing with orders, complaints, and adjustments.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
       <span class="p-description">Computer End-User Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
@@ -374,6 +385,21 @@ title: "Curriculum Vitae"
     Measures knowledge of interpreting a policy guide and resolving customer issues and problems based on policy, procedures, and guidelines within a scenario or reference guide.
   </p>
   <p>
+    English Listening Comprehension (U.S.)<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures retention and listening skills.&nbsp;
+    Designed for all English speakers and also those for whom English is a second language (ESL), this test requires that listening to passages and then answering questions related to what was said.&nbsp;
+    This test, which focuses on English spoken in the workplace, covers the following topics:
+    <ul>
+      <li>Communicating in the Workplace</li>
+      <li>Comprehending the Media</li>
+      <li>Dealing with Professionals</li>
+      <li>Organizing Trips and Activities</li>
+      <li>Responding to Social Situations</li>
+      <li>Speaking Interpersonally</li>
+    </ul>
+  </p>
+  <p>
     Information Technology Terminology<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of the terms associated with the IT industry.&nbsp;
@@ -388,6 +414,22 @@ title: "Curriculum Vitae"
       <li>Operating Systems Standards and Practices</li>
       <li>PC Hardware</li>
       <li>Portable Storage</li>
+    </ul>
+  </p>
+  <p>
+    ITAA Information Security Awareness<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of information security.&nbsp;
+    Designed for general computer users, this test includes the following topics:
+    <ul>
+      <li>Computer Best Practices</li>
+      <li>Computer Ethics &amp; Misuse</li>
+      <li>ID &amp; Data Information Theft</li>
+      <li>Internet Best Practices</li>
+      <li>Passwords</li>
+      <li>Physical Security</li>
+      <li>Sensitive Information</li>
+      <li>Viruses &amp; Other Harmful Software</li>
     </ul>
   </p>
   <p>
@@ -566,6 +608,31 @@ title: "Curriculum Vitae"
       <li>Telephone Equipment</li>
       <li>Telephone Personality</li>
       <li>Terminology</li>
+    </ul>
+  </p>
+  <p>
+    Typing Speed &amp; Accuracy<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures typing ability.&nbsp;
+    The test consists of timed passages with the score based on the average words per minute adjusted for accuracy.
+  </p>
+  <p>
+    Written English<br />
+    <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+    Measures knowledge of English grammar and English reading comprehension.&nbsp;
+    Designed for experienced users, this test covers the following topics:
+    <ul>
+      <li>Articles</li>
+      <li>Comparisons</li>
+      <li>Conjunctions</li>
+      <li>General Questions</li>
+      <li>Misused Words</li>
+      <li>Nouns</li>
+      <li>Parallel Structure</li>
+      <li>Prepositions</li>
+      <li>Pronouns</li>
+      <li>Specific Questions</li>
+      <li>Verbs</li>
     </ul>
   </p>
 </div>
