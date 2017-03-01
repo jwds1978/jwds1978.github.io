@@ -6,8 +6,12 @@ comments: true
 <!--email_off-->
 <div class="h-card" style="display: none;">
   <a class="u-email" href="mailto:james.stewart@forces.army">james.stewart@forces.army</a>
-  <a class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551">james.stewart@forces.army</a>
-  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d">614FFF680E92BAE869C878E361BCA817AFFA1F1D</a>
+  <a class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551">
+    james.stewart@forces.army
+  </a>
+  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d">
+    614FFF680E92BAE869C878E361BCA817AFFA1F1D
+  </a>
   <a class="u-url" href="{{ site.url }}">{{ site.url }}</a>
   <img alt="James Stewart" class="u-logo u-photo" height="460" src="{{ site.github.owner_gravatar_url }}" style="border: 0px;" width="460" />
   <p class="dt-bday">19781107</p>
@@ -36,9 +40,9 @@ comments: true
 <!--/email_off-->
 <!--/sse-->
 
-This is James Stewart's Web site. He's an IT consultant and software developer.
+This is James Stewart's Web site.&nbsp; He's an IT consultant and software developer.
 
-That doesn't say much about him, eh? Read more <a href="{{ site.url }}/about" rel="me">here</a>.
+That doesn't say much about him, eh?&nbsp; Read some <a href="{{ site.url }}/about" rel="me" title="">more here</a>.
 
 ### Most Recent Blog Post
 {% assign fzfneysekpthfcbx = site.posts.first %}

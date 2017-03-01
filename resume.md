@@ -15,31 +15,30 @@ title: "Curriculum Vitae"
   </span>
   <h3 id="summary">Summary</h3>
   <p class="p-summary">
-    Takes the standard elements of quality customer service and experience, and then kicks it up a notch.&nbsp;
-    Offers more than just a repair service &#8212; makes clients feel like they've learned something.&nbsp;
-    Solves technical difficulties and 'just makes it work'.<br />
+    Takes the standard elements of quality customer service and experience, and then kicks it up a notch.&nbsp; Offers more than just a repair service &#8212;
+    makes clients feel like they've learned something.&nbsp; Solves technical difficulties and 'just makes it work'.<br />
     &nbsp;<br />
-    Technical expertise is important, but equal in significance is the presentment to the customer.&nbsp;
-    The way you act, explain what the issues at hand are, and confidence (not arrogance &#8212; there's a difference) in which you remedy the situation is a direct reflection on the company itself.
+    Technical expertise is important, but equal in significance is the presentment to the customer.&nbsp; The way you act, explain what the issues at hand are,
+    and confidence (not arrogance &#8212; there's a difference) in which you remedy the situation is a direct reflection on the company itself.
     <ul>
+      <li>
+        <span style="font-weight: bolder;">Strong Customer Service:</span>&nbsp;
+        Able to explain something complicated in a way that the average person can understand &#8212; down to Earth, not above their heads in
+        techno-babble.&nbsp; Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores&hellip; consistently scoring 95&#8211;100% on
+        all calls.<br />
+        &nbsp;
+      </li>
       <li>
         <span style="font-weight: bolder;">Outstanding Leadership Abilities:</span>&nbsp;
         Able to coordinate and direct all phases of project-based efforts while managing, motivating, and leading project teams.<br />
         &nbsp;
       </li>
       <li>
-        <span style="font-weight: bolder;">Strong Customer Service:</span>&nbsp;
-        Able to explain something complicated in a way that the average person can understand &#8212; down to Earth, not above their heads in techno-babble.&nbsp;
-        Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores&hellip; consistently scoring 95&#8211;100% on all calls.<br />
-        &nbsp;
-      </li>
-      <li>
         <span style="font-weight: bolder;">Strong Technical Expertise:</span>&nbsp;
-        Will solve the problem; the right way&hellip; not just tell you to re-format your hard drive.&nbsp;
-        Consistently recognized for technical troubleshooting skills used to rapidly and cost-effectively resolve challenging technical issues.&nbsp;
-        Quickly learn and master new technology.&nbsp;
-        Equally successful in both team and self-directed settings.&nbsp;
-        Proficient in a range of computer systems, languages, tools, and testing methodologies.
+        Will solve the problem; the right way&hellip; not just tell you to re-format your hard drive.&nbsp; Consistently recognized for technical
+        troubleshooting skills used to rapidly and cost-effectively resolve challenging technical issues.&nbsp; Quickly learn and master new technology.&nbsp;
+        Equally successful in both team and self-directed settings.&nbsp; Proficient in a range of computer systems, languages, tools, and testing
+        methodologies.
       </li>
     </ul>
   </p>
@@ -226,7 +225,9 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-experience">
     <p>
       <span class="p-job-title">Soldier</span><br />
-      <a class="p-name p-org u-url" href="http://www.forces.gc.ca" target="_blank" title="National Defence and the Canadian Armed Forces">Canadian Armed Forces</a><br />
+      <a class="p-name p-org u-url" href="http://www.forces.gc.ca" target="_blank" title="National Defence and the Canadian Armed Forces">
+        Canadian Armed Forces
+      </a><br />
       <time class="dt-start" datetime="1994">1994</time>
       &#8211; <time class="dt-end" datetime="2000">2000</time>&nbsp;
       <sup><time class="dt-duration" datetime="P6Y">6 Years</time></sup>
@@ -237,7 +238,9 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-experience">
     <p>
       <span class="p-job-title">Big Brother</span><br />
-      <a class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" target="_blank" title="Big Brothers Big Sisters of South Niagara">Big Brothers Big Sisters of South Niagara</a><br />
+      <a class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" target="_blank" title="Big Brothers Big Sisters of South Niagara">
+        Big Brothers Big Sisters of South Niagara
+      </a><br />
       <time class="dt-start" datetime="2000-04">April 2000</time>
       &#8211; <time class="dt-end" datetime="2001-02">February 2001</time>&nbsp;
       <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
@@ -246,7 +249,9 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-experience">
     <p>
       <span class="p-job-title">Assistant Training Officer / Board Member</span><br />
-      <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" target="_blank" title="Search and Rescue Niagara">Search and Rescue Niagara</a><br />
+      <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" target="_blank" title="Search and Rescue Niagara">
+        Search and Rescue Niagara
+      </a><br />
       <time class="dt-start" datetime="2000-02">February 2000</time>
       &#8211; <time class="dt-end" datetime="2001-03">March 2001</time>&nbsp;
       <sup><time class="dt-duration" datetime="P1Y2M">1 Year, 2 Months</time></sup>
@@ -269,10 +274,10 @@ title: "Curriculum Vitae"
       <span class="p-description">Network Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
-        Responsible for providing support to users of a local area network (LAN).&nbsp;
-        A network support specialist sets up, configures, and maintains a LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp;
-        A person in this position also addresses, diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp;
-        A network support specialist might also be called upon to train users in LAN usage.
+        Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a LAN
+        and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in this position also addresses,
+        diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp; A network
+        support specialist might also be called upon to train users in LAN usage.
       </span>
     </p>
   </div>
@@ -281,9 +286,10 @@ title: "Curriculum Vitae"
       <span class="p-description">Computer End-User Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
-        Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp;
-        A computer end-user support specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers, power supplies, soundcards, and so forth.&nbsp;
-        A person in this position may also be called upon to determine the organization's software and hardware needs&hellip; including upgrades, and to train users on new equipment and programs.
+        Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp; A computer end-user support
+        specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers, power
+        supplies, soundcards, and so forth.&nbsp; A person in this position may also be called upon to determine the organization's software and hardware
+        needs&hellip; including upgrades, and to train users on new equipment and programs.
       </span>
     </p>
   </div>
@@ -292,9 +298,11 @@ title: "Curriculum Vitae"
       <span class="p-description">Customer Service Representative</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
-        Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp;
-        A customer service representative handles such tasks as soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or billing&hellip; and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp;
-        Additionally, a person in this position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes records&hellip; and prepares reports dealing with orders, complaints, and adjustments.
+        Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp; A customer service representative handles such tasks as
+        soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or billing&hellip;
+        and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp; Additionally, a person in this
+        position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes records&hellip; and prepares
+        reports dealing with orders, complaints, and adjustments.
       </span>
     </p>
   </div>
@@ -326,8 +334,7 @@ title: "Curriculum Vitae"
   <p>
     Apache 2.0 Administration<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of Apache 2.0 administration.&nbsp;
-    Designed for the experienced user, but an average performer in this role should pass this test.&nbsp;
+    Measures knowledge of Apache 2.0 administration.&nbsp; Designed for the experienced user, but an average performer in this role should pass this test.&nbsp;
     This test covers the following topics:
     <ul>
       <li>Customization</li>
@@ -345,8 +352,7 @@ title: "Curriculum Vitae"
   <p>
     Computer Fundamentals (Win 2000)<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures basic knowledge using a personal computer.&nbsp;
-    While the test focuses on the skills of using any PC, it uses Windows 2000 as its basis.&nbsp;
+    Measures basic knowledge using a personal computer.&nbsp; While the test focuses on the skills of using any PC, it uses Windows 2000 as its basis.&nbsp;
     Designed for all computers users, this test has the following topics:
     <ul>
       <li>File Management</li>
@@ -362,11 +368,9 @@ title: "Curriculum Vitae"
   <p>
     Computer Technical Support<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of how to set up and maintain a PC.&nbsp;
-    It's designed for IT professionals who are responsible for end-user hardware support.&nbsp;
-    This support could be face-to-face or via a help desk.&nbsp;
-    It's designed for the experienced user, but an average performer in this role should pass this test.&nbsp;
-    This test covers the following topics:
+    Measures knowledge of how to set up and maintain a PC.&nbsp; It's designed for IT professionals who are responsible for end-user hardware support.&nbsp;
+    This support could be face-to-face or via a help desk.&nbsp; It's designed for the experienced user, but an average performer in this role should pass this
+    test.&nbsp; This test covers the following topics:
     <ul>
       <li>Backup and Recovery</li>
       <li>Biometrics</li>
@@ -382,14 +386,15 @@ title: "Curriculum Vitae"
   <p>
     Customer Assistance<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of interpreting a policy guide and resolving customer issues and problems based on policy, procedures, and guidelines within a scenario or reference guide.
+    Measures knowledge of interpreting a policy guide and resolving customer issues and problems based on policy, procedures, and guidelines within a scenario
+    or reference guide.
   </p>
   <p>
     English Listening Comprehension (U.S.)<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures retention and listening skills.&nbsp;
-    Designed for all English speakers and also those for whom English is a second language (ESL), this test requires that listening to passages and then answering questions related to what was said.&nbsp;
-    This test, which focuses on English spoken in the workplace, covers the following topics:
+    Measures retention and listening skills.&nbsp; Designed for all English speakers and also those for whom English is a second language (ESL), this test
+    requires that listening to passages and then answering questions related to what was said.&nbsp; This test, which focuses on English spoken in the
+    workplace, covers the following topics:
     <ul>
       <li>Communicating in the Workplace</li>
       <li>Comprehending the Media</li>
@@ -402,8 +407,7 @@ title: "Curriculum Vitae"
   <p>
     Information Technology Terminology<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of the terms associated with the IT industry.&nbsp;
-    Designed for all IT professionals, this test covers the following topics:
+    Measures knowledge of the terms associated with the IT industry.&nbsp; Designed for all IT professionals, this test covers the following topics:
     <ul>
       <li>Data Communication</li>
       <li>Data Security</li>
@@ -419,8 +423,7 @@ title: "Curriculum Vitae"
   <p>
     ITAA Information Security Awareness<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of information security.&nbsp;
-    Designed for general computer users, this test includes the following topics:
+    Measures knowledge of information security.&nbsp; Designed for general computer users, this test includes the following topics:
     <ul>
       <li>Computer Best Practices</li>
       <li>Computer Ethics &amp; Misuse</li>
@@ -435,9 +438,8 @@ title: "Curriculum Vitae"
   <p>
     Linux Administration (General)<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of the key issues and concepts of administering in a Linux environment.&nbsp;
-    This is the core Linux administration test and is focused on the general aspects of Linux that span all Linux variations.&nbsp;
-    Designed for experienced system administrators, this test covers the following topics:
+    Measures knowledge of the key issues and concepts of administering in a Linux environment.&nbsp; This is the core Linux administration test and is focused
+    on the general aspects of Linux that span all Linux variations.&nbsp; Designed for experienced system administrators, this test covers the following topics:
     <ul>
       <li>Application Management</li>
       <li>Configuration and Administration</li>
@@ -452,16 +454,14 @@ title: "Curriculum Vitae"
   <p>
     Listening Skills<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures retention and listening skills.&nbsp;
-    This test assesses knowledge and recognition of everyday spoken English; and, it's not focused on any specific topical areas.&nbsp;
-    The items presented in audio format consist of everyday spoken English phrases, sentences, short announcements, statements, or exclamations.&nbsp;
-    Designed for all professionals, this test requires to listen to passages and then answer questions related to what was said.
+    Measures retention and listening skills.&nbsp; This test assesses knowledge and recognition of everyday spoken English; and, it's not focused on any
+    specific topical areas.&nbsp; The items presented in audio format consist of everyday spoken English phrases, sentences, short announcements, statements, or
+    exclamations.&nbsp; Designed for all professionals, this test requires to listen to passages and then answer questions related to what was said.
   </p>
   <p>
     MS Excel 2010<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of Excel 2010.&nbsp;
-    Designed for experienced users, this test covers the following topics:
+    Measures knowledge of Excel 2010.&nbsp; Designed for experienced users, this test covers the following topics:
     <ul>
       <li>Advanced User Features</li>
       <li>Functions and Analytical Tools</li>
@@ -476,8 +476,8 @@ title: "Curriculum Vitae"
   <p>
     MS Internet Explorer 6.0 Fundamentals<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of the skills necessary to proficiently use MS Internet Explorer at a user level.&nbsp;
-    Designed for all users, this test covers the following topics:
+    Measures knowledge of the skills necessary to proficiently use MS Internet Explorer at a user level.&nbsp; Designed for all users, this test covers the
+    following topics:
     <ul>
       <li>Basic Features and Functions</li>
       <li>Browser Usage</li>
@@ -490,8 +490,7 @@ title: "Curriculum Vitae"
   <p>
     MS PowerPoint 2010<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of MS PowerPoint 2010.&nbsp;
-    Designed for experienced users, this test covers the following topics:
+    Measures knowledge of MS PowerPoint 2010.&nbsp; Designed for experienced users, this test covers the following topics:
     <ul>
       <li>Animation and Slideshows</li>
       <li>Content</li>
@@ -506,8 +505,7 @@ title: "Curriculum Vitae"
   <p>
     MS Word 2013<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of using MS Word 2013 in a work environment.&nbsp;
-    Designed for experienced users, this test covers the following topics:
+    Measures knowledge of using MS Word 2013 in a work environment.&nbsp; Designed for experienced users, this test covers the following topics:
     <ul>
       <li>Document Creation</li>
       <li>Document Features</li>
@@ -522,11 +520,9 @@ title: "Curriculum Vitae"
   <p>
     Network Technical Support<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of network technical support.&nbsp;
-    It's designed for IT professionals who are responsible for the setup, configuration, and maintenance of a network and those responsible for end-user network support.&nbsp;
-    This support could be face-to-face or via a help desk.&nbsp;
-    An average performer in this role should pass this test.&nbsp;
-    The test covers the following topics:
+    Measures knowledge of network technical support.&nbsp; It's designed for IT professionals who are responsible for the setup, configuration, and maintenance
+    of a network and those responsible for end-user network support.&nbsp; This support could be face-to-face or via a help desk.&nbsp; An average performer in
+    this role should pass this test.&nbsp; The test covers the following topics:
     <ul>
       <li>End-User Support</li>
       <li>Network Design</li>
@@ -541,8 +537,7 @@ title: "Curriculum Vitae"
   <p>
     Networking Concepts<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of the core aspects of local area networks.&nbsp;
-    Designed for experienced network administrators, this test covers the following topics:
+    Measures knowledge of the core aspects of local area networks.&nbsp; Designed for experienced network administrators, this test covers the following topics:
     <ul>
       <li>Administration</li>
       <li>Configuration Troubleshooting</li>
@@ -558,8 +553,8 @@ title: "Curriculum Vitae"
   <p>
     TCP/IP Administration<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures ability to administer a network using the transmission control protocol/Internet protocol.&nbsp;
-    Designed for experienced network administrators, this test covers the following topics:
+    Measures ability to administer a network using the transmission control protocol/Internet protocol.&nbsp; Designed for experienced network administrators,
+    this test covers the following topics:
     <ul>
       <li>DHCP/BOOTP</li>
       <li>DNS</li>
@@ -578,8 +573,8 @@ title: "Curriculum Vitae"
   <p>
     Technical Help Desk<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of core end-user problems using common office software and hardware.&nbsp;
-    Designed for experienced help desk professionals, this test covers the following topics:
+    Measures knowledge of core end-user problems using common office software and hardware.&nbsp; Designed for experienced help desk professionals, this test
+    covers the following topics:
     <ul>
       <li>Computer Systems</li>
       <li>Configuring PC Peripherals</li>
@@ -596,8 +591,8 @@ title: "Curriculum Vitae"
   <p>
     Telephone Etiquette<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of how to conduct telephone conversations in a professional manner.&nbsp;
-    Designed for anyone dealing with clients or customers on the phone, this test covers the following topics:
+    Measures knowledge of how to conduct telephone conversations in a professional manner.&nbsp; Designed for anyone dealing with clients or customers on the
+    phone, this test covers the following topics:
     <ul>
       <li>Answering Phones</li>
       <li>Communication</li>
@@ -613,14 +608,12 @@ title: "Curriculum Vitae"
   <p>
     Typing Speed &amp; Accuracy<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures typing ability.&nbsp;
-    The test consists of timed passages with the score based on the average words per minute adjusted for accuracy.
+    Measures typing ability.&nbsp; The test consists of timed passages with the score based on the average words per minute adjusted for accuracy.
   </p>
   <p>
     Written English<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-    Measures knowledge of English grammar and English reading comprehension.&nbsp;
-    Designed for experienced users, this test covers the following topics:
+    Measures knowledge of English grammar and English reading comprehension.&nbsp; Designed for experienced users, this test covers the following topics:
     <ul>
       <li>Articles</li>
       <li>Comparisons</li>
