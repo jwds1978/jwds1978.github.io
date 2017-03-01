@@ -27,6 +27,7 @@ Given that I'll now be, primarily, comitting to Git from my notebook, I'll be ab
 Note 3 will still be unsigned.&nbsp; However, all of the ones from my notebook will be PGP-signed though.
 
 Having forgotten to pick-up a mouse the other day, below is a cheap-ass mouse that I just got from Dollarama.
+
 <a href="{{ site.uri.assets }}/blog/2017/02/28/the-git-life/2017-03-01_09-44-00_03-02.jpeg" target="_blank" title="">
   <img alt="" height="240" src="{{ site.uri.assets }}/blog/2017/02/28/the-git-life/2017-03-01_09-44-00_360x240.jpg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="360" />
 </a>

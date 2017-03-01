@@ -25,8 +25,10 @@ title: "Family Day"
 
 Lest we forget&hellip;
 
-Why is Family Day a holiday, yet Rememberance Day isn't? Today is just another excuse for those in the public sector to not work and a day for people like me to remember how fucked up their family really is.
+Why is Family Day a holiday, yet Rememberance Day isn't?&nbsp; Today is just another excuse for those in the public sector to not work and a day for people like
+me to remember how fucked up their family really is.
 
-I left home when I was 16 years old; never looking back. However, in recent years, I have made overt efforts to reconcile with my family though. But, now as then, they showed exactly how little they actually care about me&hellip; As in, not in the least.
+I left home when I was 16 years old; never looking back.&nbsp; However, in recent years, I have made overt efforts to reconcile with my family though.&nbsp;
+But, now as then, they showed exactly how little they actually care about me&hellip;&nbsp; As in, not in the fucking least.
 
-At this point in my life, I'm done trying. I've long since abandoned all hope for any sort of family reconcile.
+At this point in my life, I'm done trying.&nbsp; I've long since abandoned all hope for any sort of family reconcile.

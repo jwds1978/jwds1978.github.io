@@ -30,8 +30,11 @@ Fuck&hellip; my&hellip; life&hellip; Having a look at the image below, what does
   <img alt="" height="240" src="{{ site.uri.assets }}/blog/2017/02/19/oxygen-sensor/2017-02-19_11-59-29_360x240.jpg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="360" />
 </a>
 
-Lately, I've been noticing that my car is burning through upward of &frac14; tank per day. Significantly, more than usual. Somebody who was driving behind me the other day told me that they saw something dragging under my vehicle.
+Lately, I've been noticing that my car is burning through upward of &frac14; tank per day.&nbsp; Significantly, more than usual.&nbsp; Somebody who was driving
+behind me the other day told me that they saw something dragging under my vehicle.
 
-Upon inspection, I come to realize that one of the oxygen sensors was dragging the ground. FFS! Given that, it's now damaged beyond simply returning it to where it lives. I will now need to buy a new damn unit.
+Upon inspection, I come to realize that one of the oxygen sensors was dragging the ground.&nbsp; FFS!&nbsp; Given that, it's now damaged beyond simply returning
+it to where it lives.&nbsp; I will now need to buy a new damn unit.
 
-While I can more than likely get one from the scrap yard, I'll have to replace it now regardless. For the time being, I've simply zip-tied the damn thing up inside of the engine compartment.
+While I can more than likely get one from the scrap yard, I'll have to replace it now regardless.&nbsp; For the time being, I've simply zip-tied the damn thing
+up inside of the engine compartment.
