@@ -14,11 +14,13 @@ wdcyvdsgrmupffee: true
     margin-right: .5rem;
     padding: 0 .5rem;
   }
+
   .post-tag:before {
     content: "\f02b";
     font-family: FontAwesome;
     padding-right: .5em;
   }
+
   .post-tag:hover {
     background: rgb(143, 200, 71);
     color: rgb(79, 94, 104);
@@ -29,15 +31,15 @@ wdcyvdsgrmupffee: true
 
 <p style="text-align: center;">
   Filter by:&nbsp;
-  <a href="{{ site.url }}/blog" rel="me">All</a>&nbsp;
+  <a href="{{ site.url }}/blog" rel="me" title="">All</a>&nbsp;
   &bull;&nbsp; <span style="color: rgb(143, 200, 71);">Category</span>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}/blog/tags" rel="me">Tag</a>
+  &bull;&nbsp; <a href="{{ site.url }}/blog/tags" rel="me" title="">Tag</a>
 </p>
 
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.categories %}
-    <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me">{{ tag[0] }}</a>
+    <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me" title="">{{ tag[0] }}</a>
     {% endfor %}
   </div>
   <br />
@@ -66,7 +68,7 @@ wdcyvdsgrmupffee: true
           <h6>
             <span style="float: right;">
               by <span class="p-author" style="font-size: larger;">{% if postAuthor.hyperlink.uri %}<a href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}target="_blank"{% else %}rel="me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}{{ postAuthor.name | escape }}{% if postAuthor.hyperlink.uri %}</a>{% endif %}</span>{% if post.comments %}<br />
-              <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me"></a>{% endif %}
+              <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
             </span>
             Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time><br />
             Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
@@ -77,7 +79,7 @@ wdcyvdsgrmupffee: true
           </blockquote>
           <div style="font-size: xx-small; text-align: right;">
             &nbsp;<br />
-            <a href="{{ site.url }}{{ post.url }}" rel="me">&hellip; Read More &hellip;</a><br />
+            <a href="{{ site.url }}{{ post.url }}" rel="me" title="">&hellip; Read More &hellip;</a><br />
             &nbsp;
           </div>
         </article>
@@ -89,5 +91,5 @@ wdcyvdsgrmupffee: true
 </div>
 
 <p class="rss-subscribe">
-  Subscribe <a href="{{ site.url }}/feed.xml">via RSS</a>.
+  Subscribe <a href="{{ site.url }}/feed.xml" rel="me" title="">via RSS</a>.
 </p>

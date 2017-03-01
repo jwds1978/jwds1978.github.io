@@ -21,7 +21,7 @@
         <h6>
           <span style="float: right;">
             by <span class="p-author" style="font-size: larger;">{% if postAuthor.hyperlink.uri %}<a href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}target="_blank"{% else %}rel="me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}{{ postAuthor.name | escape }}{% if postAuthor.hyperlink.uri %}</a>{% endif %}</span>{% if fzfneysekpthfcbx.comments %}<br />
-            <a data-disqus-identifier="{{ fzfneysekpthfcbx.url }}" href="{{ site.url }}{{ fzfneysekpthfcbx.url }}#disqus_thread" rel="me"></a>{% endif %}
+            <a data-disqus-identifier="{{ fzfneysekpthfcbx.url }}" href="{{ site.url }}{{ fzfneysekpthfcbx.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
           </span>
           Published:&nbsp; <time class="dt-published" datetime="{{ fzfneysekpthfcbx.date | date_to_xmlschema }}">{{ fzfneysekpthfcbx.date | date: "%d %B %Y @ %T %Z" }}</time><br />
           Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ fzfneysekpthfcbx.last_modified_at | date_to_xmlschema }}">{{ fzfneysekpthfcbx.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
