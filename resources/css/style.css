@@ -1,3 +1,7 @@
+---
+sitemap: false
+---
+
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 {
   display:block;
@@ -262,7 +266,7 @@ table
   font-family:OpenSansBoldItalic;
   font-style:normal;
   font-weight:400;
-  src:url(../fonts/OpenSans-BoldItalic-webfont.eot?#iefix) format(embedded-opentype),url(../fonts/OpenSans-BoldItalic-webfont.woff) format(woff),url(../fonts/OpenSans-BoldItalic-webfont.ttf) format(truetype),url(../fonts/OpenSans-BoldItalic-webfont.svg#OpenSansBoldItalic) format(svg);
+  src:url({{ site.url }}/assets/fonts/OpenSans-BoldItalic-webfont.eot?#iefix) format(embedded-opentype),url({{ site.url }}/assets/fonts/OpenSans-BoldItalic-webfont.woff) format(woff),url({{ site.url }}/assets/fonts/OpenSans-BoldItalic-webfont.ttf) format(truetype),url({{ site.url }}/assets/fonts/OpenSans-BoldItalic-webfont.svg#OpenSansBoldItalic) format(svg);
 }
 
 .highlight table td
@@ -352,7 +356,7 @@ a small
 
 ul
 {
-  list-style-image:url(../images/bullet.png);
+  list-style-image:url({{ site.url }}/assets/images/bullet.png);
 }
 
 strong
@@ -421,7 +425,7 @@ td
 
 hr
 {
-  background:url(../images/hr.gif) repeat-x center center;
+  background:url({{ site.url }}/assets/images/hr.gif) repeat-x center center;
   border:0;
   height:3px;
   margin:0 0 20px;
@@ -437,7 +441,7 @@ dt
 
 #header
 {
-  background:url(../images/nav-bg.gif) #353535;
+  background:url({{ site.url }}/assets/images/nav-bg.gif) #353535;
   border-bottom:4px solid #434343;
   box-shadow:0 1px 3px rgba(0,0,0,0.25);
   height:60px;
