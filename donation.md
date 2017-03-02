@@ -4,7 +4,7 @@ title: Donate
 ---
 
 ### Bitcoin&nbsp; <sup>Preferred</sup>
-* <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>&nbsp; <sup>Preferrably, Use the Widget Below</sup>
+* <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>&nbsp; <sup>Preferred</sup>
 
 <p align="center">
   <script src="https://gateway.gear.mycelium.com/gear-widget-host.js" type="text/javascript"></script>
