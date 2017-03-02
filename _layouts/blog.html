@@ -15,7 +15,6 @@ layout: default
     padding: 10px;
   }
 </style>
-
 <div class="h-feed home">
   <div style="display: none;">
     <p class="p-name">{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</p>
@@ -27,6 +26,7 @@ layout: default
     &bull;&nbsp; <a href="{{ site.url }}/blog/categories" rel="me" title="">Category</a>&nbsp;
     &bull;&nbsp; <a href="{{ site.url }}/blog/tags" rel="me" title="">Tag</a>
   </p>
+  <p>&nbsp;</p>
   {{ content }}
   <ul>
     {% for post in paginator.posts %}
@@ -64,7 +64,6 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-
   {% if paginator.total_pages > 1 %}
   <ul class="pager">
     {% if paginator.previous_page %}
