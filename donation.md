@@ -3,8 +3,8 @@ fnrsfyyzkkwbxmrc: 16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j
 title: Donate
 ---
 
-### Bitcoin<sup>&nbsp; Preferred</sup>
-* <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a><sup>&nbsp; Preferrably, Use the Widget Below</sup>
+### Bitcoin&nbsp; <sup>Preferred</sup>
+* <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>&nbsp; <sup>Preferrably, Use the Widget Below</sup>
 
 <p align="center">
   <script src="https://gateway.gear.mycelium.com/gear-widget-host.js" type="text/javascript"></script>
@@ -14,7 +14,7 @@ title: Donate
 * Coinbase
   * <a href="https://www.coinbase.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * PayPal
-  * <a href="https://www.paypal.me/stew721" rel="me" target="_blank" title="">WNS329B9N2G3G</a><sup>&nbsp; Preferrably, Use the Button Below</sup>
+  * <a href="https://www.paypal.me/stew721" rel="me" target="_blank" title="">WNS329B9N2G3G</a>&nbsp; <sup>Preferrably, Use the Button Below</sup>
 
 <div align="center">
   <p>
