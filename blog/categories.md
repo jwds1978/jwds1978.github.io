@@ -28,27 +28,27 @@ wdcyvdsgrmupffee: true
     text-decoration: none;
   }
 </style>
-
 <p style="text-align: center;">
   Filter by:&nbsp;
   <a href="{{ site.url }}/blog" rel="me" title="">All</a>&nbsp;
   &bull;&nbsp; <span style="color: rgb(143, 200, 71);">Category</span>&nbsp;
   &bull;&nbsp; <a href="{{ site.url }}/blog/tags" rel="me" title="">Tag</a>
 </p>
-
+<p>&nbsp;</p>
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.categories %}
     <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me" title="">{{ tag[0] }}</a>
     {% endfor %}
   </div>
-  <br />
+  <p>&nbsp;</p>
   <div class="h-feed tags-expo-section">
     <div style="display: none;">
       <p class="p-name">{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</p>
       <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
     </div>
     {% for tag in site.categories %}
+    <p>&nbsp;</p>
     <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
@@ -89,7 +89,7 @@ wdcyvdsgrmupffee: true
     {% endfor %}
   </div>
 </div>
-
+<p>&nbsp;</p>
 <p class="rss-subscribe">
   Subscribe <a href="{{ site.url }}/feed.xml" rel="me" title="">via RSS</a>.
 </p>
