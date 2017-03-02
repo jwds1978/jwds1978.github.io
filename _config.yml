@@ -8,7 +8,7 @@ gems:
 include: .well-known
 layout: default
 outdatedBrowserURI: "https://ob.forces.army"
-paginate: 2
+paginate: 5
 paginate_path: "/blog/page:num/"
 permalink: "/blog/:year/:month/:day/:title/"
 published: true
