@@ -112,7 +112,7 @@ sitemap: false
                     .replace( 'webmention-', '' )
             );
         }
-        //console.log(existing_webmentions);
+        console.log(existing_webmentions);
         $existing_webmentions = null;
     }
     window.AG.existing_webmentions = existing_webmentions;
@@ -140,7 +140,7 @@ sitemap: false
     
     function addMention( mention )
     {
-        //console.log(mention);
+        console.log(mention);
         var streaming = !( 'data' in mention ),
             data = streaming ? mention : mention.data,
             id = streaming ? mention.element_id : mention.id,
@@ -162,7 +162,7 @@ sitemap: false
         }
         
         // No need to replace
-        //console.log( existing_webmentions, id, existing_webmentions.indexOf( id ) );
+        console.log( existing_webmentions, id, existing_webmentions.indexOf( id ) );
         if ( existing_webmentions.indexOf( id ) > -1 )
         {
             return;
