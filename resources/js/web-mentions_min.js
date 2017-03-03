@@ -1,8 +1,3 @@
----
-sitemap: false
----
-
-{{ site.copyright.comment.java }}
 jQuery(function (a) {
   var c, b = [];
   a("*[data-webmention-count]").each(function (d, e) {
