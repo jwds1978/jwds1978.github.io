@@ -508,7 +508,7 @@ strong {
 
 .wrapper {
   margin: 0 auto;
-  max-width: 650px;
+  max-width: 871px;
   padding: 0 20px;
   position: relative;
 }
@@ -600,7 +600,7 @@ dt {
   background: blue;
   margin: 0 auto;
   margin: 6px auto;
-  max-width: 650px;
+  max-width: 871px;
   padding: 0 10px;
 }
 
@@ -656,7 +656,7 @@ dt {
 section {
   margin: 20px 0;
   margin-top: 70px;
-  max-width: 650px;
+  max-width: 871px;
   padding: 30px 0px 50px 0px;
 }
 
@@ -699,7 +699,7 @@ section #title .credits.right {
   float: right;
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 965px) {
   #title .credits {
     display: block;
     line-height: 30px;
@@ -718,7 +718,7 @@ section #title .credits.right {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 643px) {
   #header {
     margin-top: -20px;
   } section {
