@@ -7,6 +7,7 @@
     <meta content="#ffffff" name="msapplication-TileColor" />
     <meta content="{{ site.url }}/ms-icon-144x144.png" name="msapplication-TileImage" />
     <meta content="#ffffff" name="theme-color" />
+    <meta content="{{ page.url }}" property="webmention:redirected_from" />
     <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</title>
     <link href="{{ site.url }}/feed.xml" rel="alternate" title="{{ site.title }}" type="application/rss+xml" />
     <link href="{{ site.url }}/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
@@ -57,7 +58,9 @@
     <link href="sms:+17055621887" rel="me" />
     <link href="http://forces.army" rel="openid.delegate" />
     <link href="https://indieauth.com/openid" rel="openid.server" />
+    <link href="https://webmention.io/forces.army/xmlrpc" rel="pingback" />
     <link href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="pgpkey" type="application/pgp-keys" />
+    <link href="https://webmention.io/forces.army/webmention" rel="webmention" />
     <!--/sse-->
     {% endif %}
     <link href="{{ site.url }}/sitemap.xml" rel="sitemap" />
@@ -116,6 +119,7 @@
     {% if page.url == "/social/" %}
     <script async charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
     {% endif %}
+    <script src="{{ site.url }}/resources/js/webmention-io_min.js" type="text/javascript"></script>
     {% if site.google_analytics %}
     <script type="text/javascript">
       var gaJsHost = "https:" == document.location.protocol ? "https://ssl." : "http://www.";
