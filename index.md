@@ -37,9 +37,9 @@ comments: true
 <!--/email_off-->
 <!--/sse-->
 
-This is James Stewart's Web site.&nbsp; He's an IT consultant and software developer.
+This is James Stewart's Web site.&hellip;&nbsp; There are others like it, but this one is his.
 
-That doesn't say much about him, eh?&nbsp; Read some <a href="{{ site.url }}/about" rel="me" title="">more here</a>.
+James is an IT consultant.&nbsp; That doesn't say much about him, eh?&nbsp; Well, read some <a href="{{ site.url }}/about" rel="me" title="">more about him</a>.
 
 <p>&nbsp;</p>
 ### Most Recent Blog Post
@@ -49,9 +49,9 @@ That doesn't say much about him, eh?&nbsp; Read some <a href="{{ site.url }}/abo
 <p>&nbsp;</p>
 ### Things that I Like and/or Use
 * <a href="{{ site.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
-  * Spend bitcoins with a Visa Debit card. Get a bitcoin debit card with a 25% discount!
+  * Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
 * <a href="{{ site.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
   * Experience e-mail done right.
 * <a href="{{ site.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
-    * Your last password&hellip; Just remember your master password and LastPass remembers the rest. The best way to manage passwords.
+    * Your last password&hellip;&nbsp; Just remember your master password and LastPass remembers the rest.&nbsp; The best way to manage passwords.
 * <a href="{{ site.shortURL }}/XDA-Depot" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
