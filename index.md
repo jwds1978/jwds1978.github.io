@@ -37,9 +37,9 @@ comments: true
 <!--/email_off-->
 <!--/sse-->
 
-This is James Stewart's Web site.&hellip;&nbsp; There are others like it, but this one is his.
+This is James Stewart's Web site.&hellip;&nbsp; While there may be others like it, this one is his.
 
-James is an IT consultant.&nbsp; That doesn't say much about him, eh?&nbsp; Well, read some <a href="{{ site.url }}/about" rel="me" title="">more about him</a>.
+James is an IT consultant.&nbsp; That doesn't really say all that much about him, eh?&nbsp; Well, read some <a href="{{ site.url }}/about" rel="me" title="">more about him</a>.
 
 <p>&nbsp;</p>
 ### Most Recent Blog Post
