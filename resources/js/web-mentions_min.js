@@ -3,7 +3,7 @@ jQuery(function (a) {
   a("*[data-webmention-count]").each(function (d, e) {
     var f = document.createElement("a");
     f.href = a(e).data("url"), c = f.protocol + "//" + f.hostname, b.push(f.pathname + f.search)
-  }), a.getJSON("https://webmention.io/api/count?jsonp=?", {
+  }), a.getJSON("https://webmention.io/api/count?jsonp=f?", {
     base: c,
     targets: b.join(",")
   }, function (b) {
