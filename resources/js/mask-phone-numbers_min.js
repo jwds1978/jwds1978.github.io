@@ -1,3 +1,8 @@
+---
+sitemap: false
+---
+
+{{ site.copyright.comment.java }}
 $(function () {
   $("#1887").toggle(function () {
     $(this).find("span").html("&times;&times;&times;&times;")

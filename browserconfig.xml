@@ -2,6 +2,7 @@
 sitemap: false
 ---
 
+{{ site.copyright.comment.xml }}
 <?xml encoding="utf-8" version="1.0"?>
 <browserconfig>
   <msapplication>
