@@ -1,3 +1,8 @@
+* Maximum Width:&nbsp; 643 px
+  * Images
+    * General (75%):&nbsp; 482 px
+    * Resume (25%):&nbsp; 161 px
+
 ### GPS Coordinates (Latitude, Longitude, Altitude)
 * Canada
   * 56.130366, -106.34677099999999, 469
