@@ -2,7 +2,7 @@
 categories: Uncategorized
 comments: true
 date: "2017-03-03 19:38:53 America/Toronto"
-last_modified_at: "2017-03-03 19:38:53 America/Toronto"
+last_modified_at: "2017-03-04 13:02:37 America/Toronto"
 layout: post
 location:
   altitude: 274
@@ -33,7 +33,7 @@ account.
 Pictured above, is just one of the alerts that I'd received.&nbsp; There were actually numerous failed attempts to gain access to my account.&nbsp; All of
 them were from the same IP address.
 
-If the would-be intruder were, in fact, from Sarnia, I only know one person in that area&hellip;&nbsp; At least, that I'm aware of anyhow.&nbsp; That person
+If the would-be intruder were, in fact from Sarnia, I only know one person in that area&hellip;&nbsp; At least, that I'm aware of anyhow.&nbsp; That person
 would be my ex-wife, Debra.&nbsp; And, to be brutally honest, I wasn't with her for her brains&hellip;&nbsp; She's a stereotypical blonde woman.
 
 Regardless of who it actually was, they failed miserably.&nbsp; Nobody has ever, to-date, successfully infiltrated any of my accounts&hellip;&nbsp; And,
