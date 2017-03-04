@@ -236,6 +236,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Search-and-Rescue-Niagara_71x40.png" style="border: 0px; float: right;" width="71" />
       <span class="p-job-title">Assistant Training Officer / Board Member</span><br />
       <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" target="_blank" title="Search and Rescue Niagara">
         Search and Rescue Niagara
