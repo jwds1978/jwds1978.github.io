@@ -171,6 +171,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Stream-Global-Services_86x40.png" style="border: 0px; float: right;" width="86" />
       <span class="p-job-title">Technical Support Professional</span> &#8212; Hewlett-Packard<br />
       <a class="p-name p-org u-url" href="http://www.stream.com" target="_blank" title="Stream Global Services">Stream Global Services</a><br />
       <time class="dt-start" datetime="2009-11">November 2009</time> &#8211; <time class="dt-end" datetime="2010-11">November 2010</time>&nbsp;
