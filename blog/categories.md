@@ -57,7 +57,7 @@ wdcyvdsgrmupffee: true
       {% capture postDateModified %}{{ post.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
       {% assign postAuthor = site.data.authors[postAuthors] %}
       <li>
-        <article class="h-entry" data-file="{{ site.url }}{{ post.url }}" data-target="article">
+        <article class="h-entry">
           <div style="display: none;">
             <p class="p-name">{{ post.title | escape }}</p>
             <p class="u-uid">{{ post.url }}</p>
@@ -67,7 +67,6 @@ wdcyvdsgrmupffee: true
           </span>
           <h6>
             <span style="float: right;">
-              <span class="word-count"></span> Words&nbsp; (<span class="reading-time"></span>)<br />
               by <span class="p-author" style="font-size: larger;">{% if postAuthor.hyperlink.uri %}<a href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}target="_blank"{% else %}rel="me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}{{ postAuthor.name | escape }}{% if postAuthor.hyperlink.uri %}</a>{% endif %}</span>{% if post.comments %}<br />
               <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
             </span>
@@ -94,15 +93,3 @@ wdcyvdsgrmupffee: true
 <p class="rss-subscribe">
   Subscribe <a href="{{ site.url }}/feed.xml" rel="me" title="">via RSS</a>.
 </p>
-<script>
-  $(function () {
-    $("article").each(function () {
-      $(this).readingTime({
-        readingTimeTarget: $(this).find(".reading-time"),
-        wordCountTarget: $(this).find(".word-count"),
-        remotePath: $(this).attr("data-file"),
-        remoteTarget: $(this).attr("data-target")
-      })
-    })
-  });
-</script>
