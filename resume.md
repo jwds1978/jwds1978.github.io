@@ -211,7 +211,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="136" src="{{ site.uri.assets }}/naked/images/CAF_107x136.png" style="border: 0px; float: right;" width="107" />
+      <img alt="" class="u-logo" height="34" src="{{ site.uri.assets }}/naked/images/CAF_27x34.png" style="border: 0px; float: right;" width="27" />
       <span class="p-job-title">Soldier</span><br />
       <a class="p-name p-org u-url" href="http://www.forces.gc.ca" target="_blank" title="National Defence and the Canadian Armed Forces">
         Canadian Armed Forces
