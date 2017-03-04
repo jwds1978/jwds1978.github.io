@@ -42,12 +42,12 @@ This is James Stewart's Web site.&hellip;&nbsp; While there may be others like i
 James is an IT consultant.&nbsp; That doesn't really say all that much about him, eh?&nbsp; Well, read some <a href="{{ site.url }}/about" rel="me" title="">more about him</a>.
 
 <p>&nbsp;</p>
-### Most Recent Blog Post
+### Most Recent Blog Thing
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
 
 <p>&nbsp;</p>
-### Use All of the Things
+### Use the Things
 * <a href="{{ site.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
 * <a href="{{ site.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
