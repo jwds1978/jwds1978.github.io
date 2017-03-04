@@ -47,7 +47,7 @@ James is an IT consultant.&nbsp; That doesn't really say all that much about him
 {% include blog_last.htm %}
 
 <p>&nbsp;</p>
-### Things that I Like and/or Use
+### Things to Use
 * <a href="{{ site.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
 * <a href="{{ site.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>

@@ -179,6 +179,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
+      <img alt="" class="u-logo" height="159" src="{{ site.uri.assets }}/naked/images/Sitel_161x159.png" style="border: 0px; float: right;" width="161" />
       <span class="p-job-title">Technical Support Specialist</span> &#8212; Hewlett-Packard<br />
       <a class="p-name p-org u-url" href="http://www.sitel.com/countries/canada" target="_blank" title="Sitel Canada">Sitel</a><br />
       <time class="dt-start" datetime="2006-03">March 2006</time> &#8211; <time class="dt-end" datetime="2009-10">October 2009</time>&nbsp;
