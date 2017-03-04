@@ -110,6 +110,7 @@ title: "Curriculum Vitae"
     </blockquote>
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/VMware_262x40.png" style="border: 0px; float: right;" width="262" />
     Matthew Fogel<br />
     <a href="http://www.vmware.com" target="_blank" title="VMware">VMware</a>
     <blockquote>
