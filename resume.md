@@ -179,7 +179,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="27" src="{{ site.uri.assets }}/naked/images/Sitel_27x27.png" style="border: 0px; float: right;" width="27" />
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Sitel_40x40.png" style="border: 0px; float: right;" width="40" />
       <span class="p-job-title">Technical Support Specialist</span> &#8212; Hewlett-Packard<br />
       <a class="p-name p-org u-url" href="http://www.sitel.com/countries/canada" target="_blank" title="Sitel Canada">Sitel</a><br />
       <time class="dt-start" datetime="2006-03">March 2006</time> &#8211; <time class="dt-end" datetime="2009-10">October 2009</time>&nbsp;
@@ -212,7 +212,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="34" src="{{ site.uri.assets }}/naked/images/CAF_27x34.png" style="border: 0px; float: right;" width="27" />
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/CAF_32x40.png" style="border: 0px; float: right;" width="32" />
       <span class="p-job-title">Soldier</span><br />
       <a class="p-name p-org u-url" href="http://www.forces.gc.ca" target="_blank" title="National Defence and the Canadian Armed Forces">
         Canadian Armed Forces
