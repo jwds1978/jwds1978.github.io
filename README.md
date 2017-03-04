@@ -1,9 +1,9 @@
-* Maximum Width:&nbsp; 643 px
+* Overall Width:&nbsp; 643 px
   * Images
-    * General (75%):&nbsp; 482 px
+    * General
+      * Width:&nbsp; 482 px
     * Resume
-      * Horizontal (25%):&nbsp; 161 px
-      * Vertical (1/6):&nbsp; 107 px
+      * Height:&nbsp; 40 px
 
 ### GPS Coordinates (Latitude, Longitude, Altitude)
 * Canada
