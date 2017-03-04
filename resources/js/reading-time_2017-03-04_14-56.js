@@ -24,7 +24,7 @@ Licensed under the MIT license
     var defaults = {
         readingTimeTarget: '.eta',
         wordCountTarget: null,
-        wordsPerMinute: 270,
+        wordsPerMinute: 300,
         round: true,
         lang: 'en',
         lessThanAMinuteString: '',

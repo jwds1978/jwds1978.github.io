@@ -9,7 +9,7 @@ sitemap: false
     var d = {
         readingTimeTarget: ".eta",
         wordCountTarget: null,
-        wordsPerMinute: 270,
+        wordsPerMinute: 300,
         round: !0,
         lang: "en",
         lessThanAMinuteString: "",
