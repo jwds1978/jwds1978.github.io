@@ -110,7 +110,7 @@ title: "Curriculum Vitae"
     </blockquote>
   </p>
   <p>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/VMware_262x40.png" style="border: 0px; float: right;" width="262" />
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/VMware_262x040.png" style="border: 0px; float: right;" width="262" />
     Matthew Fogel<br />
     <a href="http://www.vmware.com" target="_blank" title="VMware">VMware</a>
     <blockquote>
@@ -131,7 +131,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/WHMCS_178x40.png" style="border: 0px; float: right;" width="178" />
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/WHMCS_178x040.png" style="border: 0px; float: right;" width="178" />
       <span class="p-job-title">Technical Analyst</span><br />
       <a class="p-name p-org u-url" href="https://www.whmcs.com" target="_blank" title="WHMCS">WHMCS</a><br />
       <time class="dt-start" datetime="2013-02">February 2013</time> &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp;
@@ -148,8 +148,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/TeleTech_156x040.png" style="border: 0px; float: right;" width="156" />
       <span class="p-job-title">CSR I</span> &#8212; Time Warner Cable (New York City)<br />
-      <span class="p-name p-org">TeleTech</span><br />
+      <a class="p-name p-org u-url" href="http://www.teletech.com" target="_blank" title="TeleTech">TeleTech</a><br />
       <time class="dt-start" datetime="2011-09">September 2011</time> &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp;
       <sup><time class="dt-duration" datetime="P6M">6 Months</time></sup>
     </p>
@@ -227,7 +228,7 @@ title: "Curriculum Vitae"
   <h3 id="volunteer">Volunteer Experience</h3>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Big-Brothers-Big-Sisters-of-South-Niagara_155x40.png" style="border: 0px; float: right;" width="155" />
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Big-Brothers-Big-Sisters-of-South-Niagara_155x040.png" style="border: 0px; float: right;" width="155" />
       <span class="p-job-title">Big Brother</span><br />
       <a class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" target="_blank" title="Big Brothers Big Sisters of South Niagara">
         Big Brothers Big Sisters of South Niagara
