@@ -20,6 +20,7 @@
         </span>
         <h6>
           <span style="float: right;">
+            <span class="word-count"></span> Words&nbsp; (<span class="reading-time"></span>)<br />
             by <span class="p-author" style="font-size: larger;">{% if postAuthor.hyperlink.uri %}<a href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}target="_blank"{% else %}rel="me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}{{ postAuthor.name | escape }}{% if postAuthor.hyperlink.uri %}</a>{% endif %}</span>{% if fzfneysekpthfcbx.comments %}<br />
             <a data-disqus-identifier="{{ fzfneysekpthfcbx.url }}" href="{{ site.url }}{{ fzfneysekpthfcbx.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
           </span>
@@ -38,3 +39,18 @@
     </li>
   </ul>
 </div>
+<script>
+  $(function () {
+    var a = $("article");
+    a.readingTime({
+      readingTimeTarget: a.find(".reading-time"),
+      wordCountTarget: a.find(".word-count"),
+      success: function () {
+        console.log("It worked!")
+      },
+      error: function (b) {
+        console.log(b), a.find(".reading-time").remove()
+      }
+    })
+  });
+</script>
