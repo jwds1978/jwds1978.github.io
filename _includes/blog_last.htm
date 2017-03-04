@@ -39,15 +39,3 @@
     </li>
   </ul>
 </div>
-<script>
-  $(function () {
-    $("article").each(function () {
-      $(this).readingTime({
-        readingTimeTarget: $(this).find(".reading-time"),
-        wordCountTarget: $(this).find(".word-count"),
-        remotePath: $(this).attr("data-file"),
-        remoteTarget: $(this).attr("data-target")
-      })
-    })
-  });
-</script>
