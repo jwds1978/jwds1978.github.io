@@ -200,9 +200,9 @@ Licensed under the MIT license
 
             //set reading time by the minute
             if (readingTimeMinutes > 1) {
-              $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ' ' + minShortForm);
-            } else {
               $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ' ' + minShortForm + 's');
+            } else {
+              $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ' ' + minShortForm);
             }
 
           } else {

@@ -66,7 +66,7 @@ sitemap: false
         if (b = d / e, g.round === !0) var f = Math.round(b / 60);
         else var f = Math.floor(b / 60);
         var j = Math.round(b - 60 * f);
-        if (g.round === !0) f > 0 ? f > 1 ? a(g.readingTimeTarget).text(g.prependTimeString + f + " " + i) : a(g.readingTimeTarget).text(g.prependTimeString + f + " " + i + "s") : a(g.readingTimeTarget).text(g.prependTimeString + h);
+        if (g.round === !0) f > 0 ? f > 1 ? a(g.readingTimeTarget).text(g.prependTimeString + f + " " + i + "s") : a(g.readingTimeTarget).text(g.prependTimeString + f + " " + i) : a(g.readingTimeTarget).text(g.prependTimeString + h);
         else {
           var k = f + ":" + j;
           a(g.readingTimeTarget).text(g.prependTimeString + k)
