@@ -226,6 +226,7 @@ title: "Curriculum Vitae"
   <h3 id="volunteer">Volunteer Experience</h3>
   <div class="h-card h-event p-experience">
     <p>
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Big-Brothers-Big-Sisters-of-South-Niagara_155x40.png" style="border: 0px; float: right;" width="155" />
       <span class="p-job-title">Big Brother</span><br />
       <a class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" target="_blank" title="Big Brothers Big Sisters of South Niagara">
         Big Brothers Big Sisters of South Niagara
