@@ -57,7 +57,7 @@ wdcyvdsgrmupffee: true
       {% capture postDateModified %}{{ post.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
       {% assign postAuthor = site.data.authors[postAuthors] %}
       <li>
-        <article class="h-entry">
+        <article class="h-entry" data-file="{{ site.url }}{{ post.url }}" data-target="article">
           <div style="display: none;">
             <p class="p-name">{{ post.title | escape }}</p>
             <p class="u-uid">{{ post.url }}</p>
