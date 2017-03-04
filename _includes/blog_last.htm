@@ -10,7 +10,7 @@
   </div>
   <ul class="post-list">
     <li>
-      <article class="h-entry">
+      <article class="h-entry" data-file="{{ site.url }}{{ fzfneysekpthfcbx.url }}" data-target="article">
         <div style="display: none;">
           <p class="p-name">{{ fzfneysekpthfcbx.title | escape }}</p>
           <p class="u-uid">{{ fzfneysekpthfcbx.url }}</p>
@@ -41,16 +41,13 @@
 </div>
 <script>
   $(function () {
-    var a = $("article");
-    a.readingTime({
-      readingTimeTarget: a.find(".reading-time"),
-      wordCountTarget: a.find(".word-count"),
-      success: function () {
-        console.log("It worked!")
-      },
-      error: function (b) {
-        console.log(b), a.find(".reading-time").remove()
-      }
+    $("article").each(function () {
+      $(this).readingTime({
+        readingTimeTarget: $(this).find(".reading-time"),
+        wordCountTarget: $(this).find(".word-count"),
+        remotePath: $(this).attr("data-file"),
+        remoteTarget: $(this).attr("data-target")
+      })
     })
   });
 </script>
