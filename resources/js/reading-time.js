@@ -157,9 +157,9 @@ Licensed under the MIT license
       //default s.lang is english
     } else {
 
-      var lessThanAMinute = s.lessThanAMinuteString || 'Less than a minute';
+      var lessThanAMinute = s.lessThanAMinuteString || 'Less than a Minute';
 
-      var minShortForm = 'min';
+      var minShortForm = 'Minute';
 
     }
 
@@ -199,7 +199,11 @@ Licensed under the MIT license
           if (readingTimeMinutes > 0) {
 
             //set reading time by the minute
-            $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ' ' + minShortForm);
+            if (readingTimeMinutes > 1) {
+              $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ' ' + minShortForm);
+            } else {
+              $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ' ' + minShortForm + 's');
+            }
 
           } else {
 

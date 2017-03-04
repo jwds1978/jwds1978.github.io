@@ -57,8 +57,8 @@ sitemap: false
       i = "мой";
     else if ("sv" == g.lang) var h = g.lessThanAMinuteString || "Mindre än en minut",
       i = "min";
-    else var h = g.lessThanAMinuteString || "Less than a minute",
-      i = "min";
+    else var h = g.lessThanAMinuteString || "Less than a Minute",
+      i = "Minute";
     var j = function (c) {
       if ("" !== c) {
         var d = c.trim().split(/\s+/g).length,
@@ -66,7 +66,7 @@ sitemap: false
         if (b = d / e, g.round === !0) var f = Math.round(b / 60);
         else var f = Math.floor(b / 60);
         var j = Math.round(b - 60 * f);
-        if (g.round === !0) f > 0 ? a(g.readingTimeTarget).text(g.prependTimeString + f + " " + i) : a(g.readingTimeTarget).text(g.prependTimeString + h);
+        if (g.round === !0) f > 0 ? f > 1 ? a(g.readingTimeTarget).text(g.prependTimeString + f + " " + i) : a(g.readingTimeTarget).text(g.prependTimeString + f + " " + i + "s") : a(g.readingTimeTarget).text(g.prependTimeString + h);
         else {
           var k = f + ":" + j;
           a(g.readingTimeTarget).text(g.prependTimeString + k)
