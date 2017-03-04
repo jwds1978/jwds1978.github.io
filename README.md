@@ -9,6 +9,8 @@
   * 46.4870493, -80.99035090000001, 263
 * The Frood Hotel, 557 Kathleen St., Sudbury, Ontario, P3C 2N1, Canada
   * 46.5001578, -81.004458, 277
+* Tim Hortons, 1003 Kingsway, Sudbury, Ontario, P3B 2E6, Canada
+  * 46.4998513, -80.96398699999997, 274
 * 200 Larch St., Sudbury, Ontario, P3E 1C5, Canada
   * 46.49145069999999, -80.9899049, 259
 * Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada
