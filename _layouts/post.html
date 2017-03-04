@@ -16,6 +16,7 @@ layout: default
   <h1 class="p-name">{{ page.title | escape }}</h1>
   <h6>
     <span style="float: right;">
+      <span class="reading-time"></span>&nbsp; (<span class="word-count"></span>)<br />
       by <span class="p-author" style="font-size: larger;">{% if pageAuthor.hyperlink.uri %}<a href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}target="_blank"{% else %}rel="me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}{{ pageAuthor.name | escape }}{% if pageAuthor.hyperlink.uri %}</a>{% endif %}</span><br />
       {% if page.comments %}<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me" title=""></a>&nbsp; &bull;&nbsp;{% endif %}
       <a href="{{ site.url }}{{ page.url }}#web-mentions" rel="me" title=""><span data-webmention-count data-url="{{ site.url }}{{ page.url }}"></span> Web Mentions</a>
@@ -91,4 +92,19 @@ layout: default
       }
     }
   }
+</script>
+<script>
+  $(function () {
+    var a = $("article");
+    a.readingTime({
+      readingTimeTarget: a.find(".reading-time"),
+      wordCountTarget: a.find(".word-count"),
+      success: function () {
+        console.log("It worked!")
+      },
+      error: function (b) {
+        console.log(b), a.find(".reading-time").remove()
+      }
+    })
+  });
 </script>
