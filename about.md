@@ -4,7 +4,7 @@ title: About
 ---
 
 <div style="text-align: center;">
-  <span style="font-size: larger;">&hellip;And, if you don't know&hellip;&nbsp; Now, you know&hellip;</span><br />
+  <span style="font-size: larger;">&hellip;&nbsp; And, if you don't know.&nbsp; Now, you know.</span><br />
   &nbsp;<br />
   &nbsp;
 </div>
