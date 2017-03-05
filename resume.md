@@ -102,6 +102,7 @@ title: "Curriculum Vitae"
   <p>&nbsp;</p>
   <h3 id="recommendations">Recommendations</h3>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Greater-Sudbury-Chamber-of-Commerce_210x40.png" style="border: 0px; float: right;" width="210" />
     John Kennedy<br />
     <a href="http://sudburychamber.ca" target="_blank" title="Greater Sudbury Chamber of Commerce">Greater Sudbury Chamber of Commerce</a>
     <blockquote>
