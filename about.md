@@ -6,7 +6,7 @@ title: About
 <div style="text-align: center;">
   <span style="font-size: larger;">
     And, if you don't know&hellip;&nbsp; Now, you know.<br />
-    James&hellip;&nbsp; The one that gets things done.
+    James&hellip;&nbsp; He gets all of the things done.
   </span><br />
   &nbsp;<br />
   &nbsp;
