@@ -148,7 +148,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/TeleTech_156x040.png" style="border: 0px; float: right;" width="156" />
+      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Teletech_40x40.png" style="border: 0px; float: right;" width="40" />
       <span class="p-job-title">CSR I</span> &#8212; Time Warner Cable (New York City)<br />
       <a class="p-name p-org u-url" href="http://www.teletech.com" target="_blank" title="TeleTech">TeleTech</a><br />
       <time class="dt-start" datetime="2011-09">September 2011</time> &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp;
