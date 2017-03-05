@@ -39,7 +39,7 @@ comments: true
 
 This is James Stewart's Web site.&hellip;&nbsp; While there may be others like it, this one is his.
 
-James is an IT consultant.&nbsp; That doesn't really say all that much about him, eh?&nbsp; Well, read some <a href="{{ site.url }}/about" rel="me" title="">more about him</a>.
+James is a consultant for all of the IT things.&nbsp; That doesn't really say all that much about him, eh?&nbsp; Well, read some <a href="{{ site.url }}/about" rel="me" title="">more about him</a>.
 
 <p>&nbsp;</p>
 ### Most Recent Blog Thing
