@@ -40,5 +40,7 @@ title: Social
     * <a href="https://travis-ci.org/profile/jwds1978" rel="me" target="_blank" title="jwds1978">Public</a>
 * Twitter
   * <a href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br /><a class="twitter-follow-button" data-show-count="false" data-size="large" href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">Follow @jwds1978</a>
+* Upwork
+  * <a href="https://www.upwork.com/o/profiles/users/_~0198400aaaa47b7cb7" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * XDA Developers
   * <a href="https://forum.xda-developers.com/member.php?referrerid=4491991&u=4491991" rel="me" target="_blank" title="stew721">stew721</a>
