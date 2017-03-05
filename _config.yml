@@ -49,9 +49,6 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 permalink: "/blog/:year/:month/:day/:title/"
 published: true
-seo:
-  publisher:
-    type: Person
 shortURL: "https://go.forces.army"
 show_downloads: false
 sitemap: true
