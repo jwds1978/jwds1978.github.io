@@ -3,7 +3,7 @@ cloudflareSSE: true
 title: About
 ---
 
-James, a Canadian Forces veteran, is an information technology consultant.&nbsp; He's based in Sudbury, Ontario, Canada.&hellip;&nbsp; However, he's able to
+James, a Canadian Forces veteran, is an information technology consultant.&nbsp; He's based in Sudbury, Ontario, Canada&hellip;&nbsp; However, he's able to
 telecommute globally though.
 
 James has been professionally developing software since circa 2000.&nbsp; You may recognize him from
