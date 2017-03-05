@@ -81,6 +81,7 @@
     <!--[if lt IE 8]>
       <link href="{{ site.url }}/assets/css/ie.css" rel="stylesheet" type="text/css" />
     <![endif]-->
+    {% seo title=false %}
   </head>
   <body>
     {% if site.show_downloads %}
@@ -97,7 +98,7 @@
       <section>
         <div id="title">
           <img alt="{{ site.title }}" height="75" src="{{ site.github.owner_gravatar_url }}" style="border: 0px; float: left; vertical-align: middle;" width="75" />
-          <img alt="Dandelion Pied Lashes :: Dandelion is a little bit crazy. He is gaily piebald like a pony and he casts magical spells." height="75" src="{{ site.uri.assets }}/naked/images/angry-unicorn_075x075.png" style="border: 0px; float: right; vertical-align: middle;" width="75" />
+          <img alt="Dandelion Pied Lashes :: Dandelion is a little bit crazy. He is gaily piebald like a pony and he casts magical spells." height="75" src="{{ site.uri.assets }}/naked/images/dandelion-pied-lashes_076x075.png" style="border: 0px; float: right; vertical-align: middle;" width="76" />
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr />
