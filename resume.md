@@ -254,7 +254,12 @@ title: "Curriculum Vitae"
     <li>
       English
       <ul>
-        <li>Bilingual or Native Proficiency</li>
+        <li>
+          Native or Bilingual
+          <ul>
+            <li>I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.</li>
+          </ul>
+        </li>
       </ul>
     </li>
   </ul>
