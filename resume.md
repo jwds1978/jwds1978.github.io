@@ -348,6 +348,22 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
+      <div style="float: right;">
+        <img alt="Brainbench :: Web Developer :: Client-Side" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Developer_Client-Side_136x40.png" style="border: 0px;" width="136" />
+        <img alt="Brainbench :: Web Developer :: Database" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Developer_Database_136x40.png" style="border: 0px;" width="136" />
+        <img alt="Brainbench :: Web Developer :: Server-Side" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Developer_Server-Side_136x40.png" style="border: 0px;" width="136" />
+      </div>
+      <span class="p-description">Web Developer (BCIP)</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
+        Responsible for using programming, scripting, and database integration tools to develop professional, effective, and well-organized client-side and
+        server-side Web sites.&nbsp; Web developers must know HTML, XML, and object-oriented design and should be able to use a variety of programming
+        languages and Web development tools.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
       <span class="p-description">Aviation &#8212; Flight Management</span><br />
       <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a>
     </p>
