@@ -268,7 +268,7 @@ title: "Curriculum Vitae"
   <h3 id="education">Education</h3>
   <div class="h-card h-event p-education">
     <p>
-      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
+      <img alt="Brainbench :: Certified Internet Professional (BCIP)" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
       <span class="p-description">Internet Professional (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
@@ -316,12 +316,12 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-education">
     <p>
       <div style="float: right;">
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Internetworking-with-Cisco_139x40.png" style="border: 0px;" width="139" />
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Linux_139x40.png" style="border: 0px;" width="139" />
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-2000_139x40.png" style="border: 0px;" width="139" /><br />
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-NT_139x40.png" style="border: 0px;" width="139" />
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Novell-Netware_139x40.png" style="border: 0px;" width="139" />
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Unux_139x40.png" style="border: 0px;" width="139" />
+        <img alt="Brainbench :: Web Administrator :: Internetworking with Cisco" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Internetworking-with-Cisco_139x40.png" style="border: 0px;" width="139" />
+        <img alt="Brainbench :: Web Administrator :: Linux" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Linux_139x40.png" style="border: 0px;" width="139" />
+        <img alt="Brainbench :: Web Administrator :: Microsoft Windows 2000" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-2000_139x40.png" style="border: 0px;" width="139" /><br />
+        <img alt="Brainbench :: Web Administrator :: Microsoft Windows NT" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-NT_139x40.png" style="border: 0px;" width="139" />
+        <img alt="Brainbench :: Web Administrator :: Novell Netware" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Novell-Netware_139x40.png" style="border: 0px;" width="139" />
+        <img alt="Brainbench :: Web Administrator :: Unix" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Unix_139x40.png" style="border: 0px;" width="139" />
       </div>
       <span class="p-description">Web Administrator (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
@@ -334,9 +334,9 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-education">
     <p>
       <div style="float: right;">
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Graphic-Design_136x40.png" style="border: 0px;" width="136" />
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Multimedia_136x40.png" style="border: 0px;" width="136" />
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Page-Layout_136x40.png" style="border: 0px;" width="136" />
+        <img alt="Brainbench :: Web Designer :: Graphic Design" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Graphic-Design_136x40.png" style="border: 0px;" width="136" />
+        <img alt="Brainbench :: Web Designer :: Multimedia" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Multimedia_136x40.png" style="border: 0px;" width="136" />
+        <img alt="Brainbench :: Web Designer :: Page Layout" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Page-Layout_136x40.png" style="border: 0px;" width="136" />
       </div>
       <span class="p-description">Web Designer (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
