@@ -268,13 +268,11 @@ title: "Curriculum Vitae"
   <h3 id="education">Education</h3>
   <div class="h-card h-event p-education">
     <p>
-      <span class="p-description">Network Support Specialist</span><br />
+      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
+      <span class="p-description">Certified Internet Professional (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
-        Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a
-        LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in this position also addresses,
-        diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp; A network
-        support specialist might also be called upon to train users in LAN usage.
+        The Brainbench Certified Internet Professional (BCIP) has validated their skills in Internet-related technologies.
       </span>
     </p>
   </div>
@@ -300,6 +298,18 @@ title: "Curriculum Vitae"
         billing&hellip; and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp;
         Additionally, a person in this position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes
         records&hellip; and prepares reports dealing with orders, complaints, and adjustments.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
+      <span class="p-description">Network Support Specialist</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
+        Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a
+        LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in this position also addresses,
+        diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp; A network
+        support specialist might also be called upon to train users in LAN usage.
       </span>
     </p>
   </div>
