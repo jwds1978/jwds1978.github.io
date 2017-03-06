@@ -269,7 +269,7 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-education">
     <p>
       <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
-      <span class="p-description">Certified Internet Professional (BCIP)</span><br />
+      <span class="p-description">Internet Professional (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
         The Brainbench Certified Internet Professional (BCIP) has validated their skills in Internet-related technologies.
@@ -391,6 +391,7 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Customer-Assistance_137x40.png" style="border: 0px; float: right;" width="137" />
     Customer Assistance<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of interpreting a policy guide and resolving customer issues and problems based on policy, procedures, and guidelines within a
@@ -412,6 +413,7 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Information-Technology-Terminology_137x40.png" style="border: 0px; float: right;" width="137" />
     Information Technology Terminology<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of the terms associated with the IT industry.&nbsp; Designed for all IT professionals, this test covers the following topics:
@@ -460,6 +462,7 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Listening-Skills_137x40.png" style="border: 0px; float: right;" width="137" />
     Listening Skills<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures retention and listening skills.&nbsp; This test assesses knowledge and recognition of everyday spoken English; and, it's not focused on any
@@ -468,6 +471,7 @@ title: "Curriculum Vitae"
     was said.
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Microsoft-Excel-2010_140x40.png" style="border: 0px; float: right;" width="140" />
     MS Excel 2010<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of Excel 2010.&nbsp; Designed for experienced users, this test covers the following topics:
