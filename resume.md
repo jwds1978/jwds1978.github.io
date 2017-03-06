@@ -333,6 +333,21 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
+      <div style="float: right;">
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Graphic-Design_136x40.png" style="border: 0px;" width="136" />
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Multimedia_136x40.png" style="border: 0px;" width="136" />
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Page-Layout_136x40.png" style="border: 0px;" width="136" />
+      </div>
+      <span class="p-description">Web Designer (BCIP)</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
+        Responsible for creating Web sites using HTML and Web design software.&nbsp; In addition to designing a Web site that's attractive, interesting,
+        functional, and useful, a Web designer must also ensure that the Web site is easily navigable and accessible to all who may want to use it.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
       <span class="p-description">Aviation &#8212; Flight Management</span><br />
       <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a>
     </p>
