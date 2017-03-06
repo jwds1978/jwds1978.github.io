@@ -501,6 +501,7 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Microsoft-PowerPoint-2010_140x40.png" style="border: 0px; float: right;" width="140" />
     MS PowerPoint 2010<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of MS PowerPoint 2010.&nbsp; Designed for experienced users, this test covers the following topics:
@@ -516,6 +517,7 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Microsoft-Word-2013_135x40.png" style="border: 0px; float: right;" width="135" />
     MS Word 2013<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of using MS Word 2013 in a work environment.&nbsp; Designed for experienced users, this test covers the following topics:
@@ -548,6 +550,7 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Networking-Concepts_137x40.png" style="border: 0px; float: right;" width="137" />
     Networking Concepts<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of the core aspects of local area networks.&nbsp; Designed for experienced network administrators, this test covers the following
@@ -585,6 +588,7 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Technical-Help-Desk_137x40.png" style="border: 0px; float: right;" width="137" />
     Technical Help Desk<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of core end-user problems using common office software and hardware.&nbsp; Designed for experienced help desk professionals, this
@@ -625,6 +629,7 @@ title: "Curriculum Vitae"
     Measures typing ability.&nbsp; The test consists of timed passages with the score based on the average words per minute adjusted for accuracy.
   </p>
   <p>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Written-English_137x40.png" style="border: 0px; float: right;" width="137" />
     Written English<br />
     <a href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
     Measures knowledge of English grammar and English reading comprehension.&nbsp; Designed for experienced users, this test covers the following topics:
