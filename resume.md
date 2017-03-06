@@ -318,7 +318,7 @@ title: "Curriculum Vitae"
       <div style="float: right;">
         <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Internetworking-with-Cisco_139x40.png" style="border: 0px;" width="139" />
         <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Linux_139x40.png" style="border: 0px;" width="139" />
-        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-2000_139x40.png" style="border: 0px;" width="139" />
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-2000_139x40.png" style="border: 0px;" width="139" /><br />
         <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-NT_139x40.png" style="border: 0px;" width="139" />
         <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Novell-Netware_139x40.png" style="border: 0px;" width="139" />
         <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Unux_139x40.png" style="border: 0px;" width="139" />
