@@ -315,6 +315,24 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
+      <div style="float: right;">
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Internetworking-with-Cisco_139x40.png" style="border: 0px;" width="139" />
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Linux_139x40.png" style="border: 0px;" width="139" />
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-2000_139x40.png" style="border: 0px;" width="139" /><br />
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-NT_139x40.png" style="border: 0px;" width="139" />
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Novell-Netware_139x40.png" style="border: 0px;" width="139" />
+        <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Unux_139x40.png" style="border: 0px;" width="139" />
+      </div>
+      <span class="p-description">Web Administrator (BCIP)</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
+        Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including
+        installation, configuration, and administration, and be well versed in such areas as Web site security and troubleshooting.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
       <span class="p-description">Aviation &#8212; Flight Management</span><br />
       <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a>
     </p>
