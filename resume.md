@@ -402,21 +402,25 @@ title: "Curriculum Vitae"
   <h3 id="projects">Projects</h3>
   <p>
     Root Availability Check&nbsp; <sup>Android</sup><br />
+    Lead Developer<br />
     March 2015 &#8211; 2016<br />
     Check for the availability of root functions.
   </p>
   <p>
     SELinux Enforcer&nbsp; <sup>Android</sup><br />
+    Lead Developer<br />
     March 2015 &#8211; 2016<br />
     Control the state of SELinux.
   </p>
   <p>
     Media (Re)scanner&nbsp; <sup>Android</sup><br />
+    Lead Developer<br />
     February 2015 &#8211; 2016<br />
     (Re)scan for deleted and/or new media.
   </p>
   <p>
     HostAudit&nbsp; <sup>cPanel/WHM &amp; WHMCS Addon</sup><br />
+    Lead Developer<br />
     November 2011 &#8211; 2016<br />
     Automagically detect abusive clients on your cPanel/WHM servers.&nbsp; Warn them, and optionally, suspend them if the abuse continues.
   </p>
