@@ -7,7 +7,17 @@ title: "Curriculum Vitae"
   Save as:&nbsp;
   <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a><br />
-  &nbsp;
+  &nbsp;<br />
+  Jump to:&nbsp;
+  <a href="{{ site.url }}{{ page.url }}#certifications" rel="me" title="">Certifications</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#education" rel="me" title="">Education</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#experience" rel="me" title="">Experience</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#languages" rel="me" title="">Languages</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#projects" rel="me" title="">Projects</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#recommendations" rel="me" title="">Recommendations</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#skills" rel="me" title="">Skills</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#summary" rel="me" title="">Summary</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" title="">Volunteer Experience</a>
 </p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
@@ -226,7 +236,7 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <p>&nbsp;</p>
-  <h3 id="volunteer">Volunteer Experience</h3>
+  <h3 id="volunteer-experience">Volunteer Experience</h3>
   <div class="h-card h-event p-experience">
     <p>
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Big-Brothers-Big-Sisters-of-South-Niagara_155x040.png" style="border: 0px; float: right;" width="155" />
@@ -387,4 +397,6 @@ title: "Curriculum Vitae"
     <a href="http://www.redcross.ca" target="_blank" title="Canadian Red Cross">Canadian Red Cross</a><br />
     June 2001 &#8211; 2004
   </p>
+  <p>&nbsp;</p>
+  <h3 id="projects">Projects</h3>
 </div>
