@@ -8,7 +8,7 @@ title: "Curriculum Vitae"
   <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a><br />
   &nbsp;<br />
-  Jump to:&nbsp;
+  Jump to:<br />
   <a href="{{ site.url }}{{ page.url }}#certifications" rel="me" title="">Certifications</a>
   &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#education" rel="me" title="">Education</a>
   &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#experience" rel="me" title="">Experience</a>
@@ -17,7 +17,7 @@ title: "Curriculum Vitae"
   &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#recommendations" rel="me" title="">Recommendations</a>
   &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#skills" rel="me" title="">Skills</a>
   &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#summary" rel="me" title="">Summary</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" title="">Volunteer Experience</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" style="white-space: nowrap;" title="">Volunteer Experience</a>
 </p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
