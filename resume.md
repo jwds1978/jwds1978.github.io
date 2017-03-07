@@ -400,24 +400,19 @@ title: "Curriculum Vitae"
   </p>
   <p>&nbsp;</p>
   <h3 id="projects">Projects</h3>
-  Android
-  <ul>
-    <li>
-      Media (Re)scanner<br />
-      February 2015 &#8211; 2016<br />
-      (Re)scan for deleted and/or new media.<br />
-      &nbsp;
-    </li>
-    <li>
-      Root Availability Check<br />
-      March 2015 &#8211; 2016<br />
-      Check for the availability of root functions.<br />
-      &nbsp;
-    </li>
-    <li>
-      SELinux Enforcer<br />
-      March 2015 &#8211; 2016<br />
-      Control the state of SELinux.
-    </li>
-  </ul>
+  <p>
+    Root Availability Check&nbsp; <sup>Android</sup><br />
+    March 2015 &#8211; 2016<br />
+    Check for the availability of root functions.
+  </p>
+  <p>
+    SELinux Enforcer&nbsp; <sup>Android</sup><br />
+    March 2015 &#8211; 2016<br />
+    Control the state of SELinux.
+  </p>
+  <p>
+    Media (Re)scanner&nbsp; <sup>Android</sup><br />
+    February 2015 &#8211; 2016<br />
+    (Re)scan for deleted and/or new media.
+  </p>
 </div>
