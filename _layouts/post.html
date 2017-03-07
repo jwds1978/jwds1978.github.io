@@ -16,7 +16,7 @@ layout: default
   <h1 class="p-name">{{ page.title | escape }}</h1>
   <h6>
     <span style="float: right;">
-      by <span class="p-author" style="font-size: larger;">{% if pageAuthor.hyperlink.uri %}<a href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}target="_blank"{% else %}rel="me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}{{ pageAuthor.name | escape }}{% if pageAuthor.hyperlink.uri %}</a>{% endif %}</span><br />
+      by {% if pageAuthor.hyperlink.uri %}<a {% if pageAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}{% if pageAuthor.hyperlink.hcard %}rel="author" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}<span {% if pageAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ pageAuthor.name | escape }}</span>{% if pageAuthor.hyperlink.uri %}</a>{% endif %}<br />
       {% if page.comments %}<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me" title=""></a>&nbsp; &bull;&nbsp;{% endif %}
       <a href="{{ site.url }}{{ page.url }}#web-mentions" rel="me" title=""><span data-webmention-count data-url="{{ site.url }}{{ page.url }}"></span> Web Mentions</a>
     </span>

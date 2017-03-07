@@ -20,7 +20,7 @@
         </span>
         <h6>
           <span style="float: right;">
-            by <span class="p-author" style="font-size: larger;">{% if postAuthor.hyperlink.uri %}<a href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}target="_blank"{% else %}rel="me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}{{ postAuthor.name | escape }}{% if postAuthor.hyperlink.uri %}</a>{% endif %}</span>{% if fzfneysekpthfcbx.comments %}<br />
+            by {% if postAuthor.hyperlink.uri %}<a {% if postAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}{% if postAuthor.hyperlink.hcard %}rel="author" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}<span {% if postAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ postAuthor.name | escape }}</span>{% if postAuthor.hyperlink.uri %}</a>{% endif %}{% if fzfneysekpthfcbx.comments %}<br />
             <a data-disqus-identifier="{{ fzfneysekpthfcbx.url }}" href="{{ site.url }}{{ fzfneysekpthfcbx.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
           </span>
           Published:&nbsp; <time class="dt-published" datetime="{{ fzfneysekpthfcbx.date | date_to_xmlschema }}">{{ fzfneysekpthfcbx.date | date: "%d %B %Y @ %T %Z" }}</time><br />
