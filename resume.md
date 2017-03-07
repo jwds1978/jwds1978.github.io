@@ -315,44 +315,39 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <div style="float: right;">
-        <img alt="Brainbench :: Web Administrator :: Internetworking with Cisco" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Internetworking-with-Cisco_139x40.png" style="border: 0px;" width="139" />
-        <img alt="Brainbench :: Web Administrator :: Linux" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Linux_139x40.png" style="border: 0px;" width="139" />
-        <img alt="Brainbench :: Web Administrator :: Microsoft Windows 2000" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-2000_139x40.png" style="border: 0px;" width="139" /><br />
-        <img alt="Brainbench :: Web Administrator :: Microsoft Windows NT" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Microsoft-Windows-NT_139x40.png" style="border: 0px;" width="139" />
-        <img alt="Brainbench :: Web Administrator :: Novell Netware" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Novell-Netware_139x40.png" style="border: 0px;" width="139" />
-        <img alt="Brainbench :: Web Administrator :: Unix" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Administrator_Unix_139x40.png" style="border: 0px;" width="139" />
-      </div>
       <span class="p-description">Web Administrator (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
         Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including
         installation, configuration, and administration, and be well versed in such areas as Web site security and troubleshooting.
       </span>
+      <ul>
+        <li>Internetworking with Cisco</li>
+        <li>Linux</li>
+        <li>Microsoft Windows 2000</li>
+        <li>Microsoft Windows NT</li>
+        <li>Novell Netware</li>
+        <li>Unix</li>
+      </ul>
     </p>
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <div style="float: right;">
-        <img alt="Brainbench :: Web Designer :: Graphic Design" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Graphic-Design_136x40.png" style="border: 0px;" width="136" />
-        <img alt="Brainbench :: Web Designer :: Multimedia" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Multimedia_136x40.png" style="border: 0px;" width="136" />
-        <img alt="Brainbench :: Web Designer :: Page Layout" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Designer_Page-Layout_136x40.png" style="border: 0px;" width="136" />
-      </div>
       <span class="p-description">Web Designer (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
         Responsible for creating Web sites using HTML and Web design software.&nbsp; In addition to designing a Web site that's attractive, interesting,
         functional, and useful, a Web designer must also ensure that the Web site is easily navigable and accessible to all who may want to use it.
       </span>
+      <ul>
+        <li>Graphic Design</li>
+        <li>Multimedia</li>
+        <li>Page Layout</li>
+      </ul>
     </p>
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <div style="float: right;">
-        <img alt="Brainbench :: Web Developer :: Client-Side" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Developer_Client-Side_136x40.png" style="border: 0px;" width="136" />
-        <img alt="Brainbench :: Web Developer :: Database" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Developer_Database_136x40.png" style="border: 0px;" width="136" />
-        <img alt="Brainbench :: Web Developer :: Server-Side" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Web-Developer_Server-Side_136x40.png" style="border: 0px;" width="136" />
-      </div>
       <span class="p-description">Web Developer (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
@@ -360,6 +355,11 @@ title: "Curriculum Vitae"
         server-side Web sites.&nbsp; Web developers must know HTML, XML, and object-oriented design and should be able to use a variety of programming
         languages and Web development tools.
       </span>
+      <ul>
+        <li>Client-Side</li>
+        <li>Database</li>
+        <li>Server-Side</li>
+      </ul>
     </p>
   </div>
   <div class="h-card h-event p-education">
