@@ -415,4 +415,9 @@ title: "Curriculum Vitae"
     February 2015 &#8211; 2016<br />
     (Re)scan for deleted and/or new media.
   </p>
+  <p>
+    HostAudit&nbsp; <sup>cPanel/WHM &amp; WHMCS Addon</sup><br />
+    November 2011 &#8211; 2016<br />
+    Automagically detect abusive clients on your cPanel/WHM servers.&nbsp; Warn them, and optionally, suspend them if the abuse continues.
+  </p>
 </div>
