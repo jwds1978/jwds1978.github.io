@@ -13,7 +13,7 @@ comments: true
     614FFF680E92BAE869C878E361BCA817AFFA1F1D
   </a>
   <a class="u-url" href="{{ site.url }}">{{ site.url }}</a>
-  <img alt="James Stewart" class="u-logo u-photo" height="460" src="{{ site.github.owner_gravatar_url }}" style="border: 0px;" width="460" />
+  <img alt="James Stewart" class="u-logo u-photo" height="960" src="{{ site.uri.assets }}/naked/images/JWDS_960x960.jpg" style="border: 0px;" width="960" />
   <p class="dt-bday">19781107</p>
   <p class="h-adr p-adr">
     PO Box <span class="p-post-office-box">51042</span><br />
