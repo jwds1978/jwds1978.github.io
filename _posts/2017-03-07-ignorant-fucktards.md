@@ -9,11 +9,14 @@ location:
   latitude: 46.49145069999999
   longitude: -80.9899049
   text: "200 Larch St., Sudbury, Ontario, P3E 1C5, Canada"
-syndicated: false
+syndicated: true
 syndications:
-  - href: 
-    text: 
-    title: 
+  - href: "https://www.facebook.com/jwds1978/posts/10154120293682084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/839188403522523137"
+    text: Twitter
+    title: Twitter
 tags: ["The Suck"]
 title: "Ignorant Fucktards"
 ---
