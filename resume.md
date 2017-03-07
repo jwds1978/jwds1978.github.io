@@ -17,7 +17,8 @@ title: "Curriculum Vitae"
   &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#recommendations" rel="me" title="{{ page.title }} :: Recommendations">Recommendations</a>&nbsp;
   &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#skills" rel="me" title="{{ page.title }} :: Skills">Skills</a>&nbsp;
   &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#summary" rel="me" title="{{ page.title }} :: Summary">Summary</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" style="white-space: nowrap;" title="{{ page.title }} :: Volunteer Experience">Volunteer Experience</a>
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" style="white-space: nowrap;" title="{{ page.title }} :: Volunteer Experience">Volunteer Experience</a><br />
+  &nbsp;
 </p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
