@@ -3,6 +3,7 @@ jwds:
     birthday: "1978-11-07 00:00:00 America/Toronto"
   email: james.stewart@forces.army
   hyperlink:
+    hcard: true
     title: "James W.D. Stewart"
     uri: "https://forces.army"
   initials: J.W.D.S.
