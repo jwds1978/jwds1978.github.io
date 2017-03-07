@@ -9,15 +9,15 @@ title: "Curriculum Vitae"
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a><br />
   &nbsp;<br />
   Jump to:<br />
-  <a href="{{ site.url }}{{ page.url }}#certifications" rel="me" title="">Certifications</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#education" rel="me" title="">Education</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#experience" rel="me" title="">Experience</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#languages" rel="me" title="">Languages</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#projects" rel="me" title="">Projects</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#recommendations" rel="me" title="">Recommendations</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#skills" rel="me" title="">Skills</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#summary" rel="me" title="">Summary</a>
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" style="white-space: nowrap;" title="">Volunteer Experience</a>
+  <a href="{{ site.url }}{{ page.url }}#certifications" rel="me" title="{{ page.title }} :: Certifications">Certifications</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#education" rel="me" title="{{ page.title }} :: Education">Education</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#experience" rel="me" title="{{ page.title }} :: Experience">Experience</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#languages" rel="me" title="{{ page.title }} :: Languages">Languages</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#projects" rel="me" title="{{ page.title }} :: Projects">Projects</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#recommendations" rel="me" title="{{ page.title }} :: Recommendations">Recommendations</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#skills" rel="me" title="{{ page.title }} :: Skills">Skills</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#summary" rel="me" title="{{ page.title }} :: Summary">Summary</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" style="white-space: nowrap;" title="{{ page.title }} :: Volunteer Experience">Volunteer Experience</a>
 </p>
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
