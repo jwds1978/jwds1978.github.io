@@ -24,10 +24,10 @@ This is what I found this morning&hellip;
   <img alt="" height="321" src="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02_482x321.jpg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
 </a>
 
-The fucking junkies leaving their used and uncapped needles, along with all of the other associated paraphernalia, laying around everyw-fucking-where are
-bad enough.&nbsp; But, like, WTF?!?&nbsp; Now, the fucksticks are shitting themselves and leaving their shitty fucking clothes just laying around too?&nbsp;
-Not only were there shitty fucking clothes every-fucking-where, but the toilet was full of shit as well.&nbsp; Seemingly, even the simple act of flushing is
-too much for some.
+The fucking junkies leaving their used and uncapped needles, along with all of the other associated paraphernalia, laying around every-fucking-where are bad
+enough.&nbsp; But, like, WTF?!?&nbsp; Now, the fucksticks are shitting themselves and leaving their shitty fucking clothes just laying around too?&nbsp; Not
+only were there shitty fucking clothes every-fucking-where, but the toilet was full of shit as well.&nbsp; Seemingly, even the simple act of flushing is too
+much for some.
 
 This is what I'd found a few mornings ago&hellip;
 
@@ -35,6 +35,7 @@ This is what I'd found a few mornings ago&hellip;
   <img alt="" height="321" src="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-02_06-30-22_03-02_482x321.jpg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
 </a>
 
-When I walked in that morning, upon opening the door, the smell damn near made me fucking puke.&nbsp; I've smelled some bad, and unforgettable, things in my
-life.&nbsp; However, that was something fucking else altogether.&nbsp; Honestly, I'd have preferred the smell of burning flesh and/or hair over that.&nbsp;
-Like, fuck; it was intensely fucking strong&hellip; With the dor having been closed, it just concentrated inside of the washroom.
+When I'd walked in that morning, upon opening the door, the smell damn near made me fucking puke.&nbsp; I've smelled some bad, and rather unforgettable
+regardless of how much you try, things in my life.&nbsp; However, that was something fucking else altogether.&nbsp; Honestly, I'd have preferred the smell
+of burning flesh and/or hair over what I'd smelled that fucking morning.&nbsp; Like, fuck; it was intensely fucking strong&hellip; With the door having been
+closed, it just concentrated inside of the washroom.
