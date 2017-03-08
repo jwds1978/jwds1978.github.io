@@ -12,7 +12,6 @@ title: Contact
     <option value="{{ site.url }}{{ page.url }}#phone">Phone</option>
     <option value="{{ site.url }}{{ page.url }}#mail">Snail Mail</option>
   </select>
-  &nbsp;
 </p>
 <p>&nbsp;</p>
 <span style="float: right; font-size: xx-small;">

@@ -19,7 +19,7 @@ title: "Curriculum Vitae"
     <option value="{{ site.url }}{{ page.url }}#skills">Skills</option>
     <option value="{{ site.url }}{{ page.url }}#summary">Summary</option>
     <option value="{{ site.url }}{{ page.url }}#volunteer-experience">Volunteer Experience</option>
-  </select>
+  </select><br />
   &nbsp;
 </p>
 <div class="h-resume">
