@@ -9,15 +9,17 @@ title: "Curriculum Vitae"
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a><br />
   &nbsp;<br />
   Jump to:<br />
-  <a href="{{ site.url }}{{ page.url }}#certifications" rel="me" title="{{ page.title }} :: Certifications">Certifications</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#education" rel="me" title="{{ page.title }} :: Education">Education</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#experience" rel="me" title="{{ page.title }} :: Experience">Experience</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#languages" rel="me" title="{{ page.title }} :: Languages">Languages</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#projects" rel="me" title="{{ page.title }} :: Projects">Projects</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#recommendations" rel="me" title="{{ page.title }} :: Recommendations">Recommendations</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#skills" rel="me" title="{{ page.title }} :: Skills">Skills</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#summary" rel="me" title="{{ page.title }} :: Summary">Summary</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" style="white-space: nowrap;" title="{{ page.title }} :: Volunteer Experience">Volunteer Experience</a><br />
+  <div style="text-align: justify;">
+    <a href="{{ site.url }}{{ page.url }}#certifications" rel="me" title="{{ page.title }} :: Certifications">Certifications</a>&nbsp;
+    &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#education" rel="me" title="{{ page.title }} :: Education">Education</a>&nbsp;
+    &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#experience" rel="me" title="{{ page.title }} :: Experience">Experience</a>&nbsp;
+    &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#languages" rel="me" title="{{ page.title }} :: Languages">Languages</a>&nbsp;
+    &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#projects" rel="me" title="{{ page.title }} :: Projects">Projects</a>&nbsp;
+    &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#recommendations" rel="me" title="{{ page.title }} :: Recommendations">Recommendations</a>&nbsp;
+    &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#skills" rel="me" title="{{ page.title }} :: Skills">Skills</a>&nbsp;
+    &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#summary" rel="me" title="{{ page.title }} :: Summary">Summary</a>&nbsp;
+    &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" style="white-space: nowrap;" title="{{ page.title }} :: Volunteer Experience">Volunteer Experience</a><br />
+  </div>
   &nbsp;
 </p>
 <div class="h-resume">
@@ -50,6 +52,89 @@ title: "Curriculum Vitae"
         Proficient in a range of computer systems, languages, tools, and testing methodologies.
       </li>
     </ul>
+  </p>
+  <p>&nbsp;</p>
+  <h3 id="projects">Projects</h3>
+  <p>
+    &nbsp; <sup></sup><br />
+    <br />
+    &#8211; &nbsp; <sup></sup><br />
+    
+  </p>
+  <p>
+    Root Availability Check&nbsp; <sup>Android</sup><br />
+    Lead Developer<br />
+    March 2015 &#8211; 2016&nbsp; <sup>1 Year</sup><br />
+    Check for the availability of root functions.
+  </p>
+  <p>
+    SELinux Enforcer&nbsp; <sup>Android</sup><br />
+    Lead Developer<br />
+    March 2015 &#8211; 2016&nbsp; <sup>1 Year</sup><br />
+    Control the state of SELinux.
+  </p>
+  <p>
+    Media (Re)scanner&nbsp; <sup>Android</sup><br />
+    Lead Developer<br />
+    February 2015 &#8211; 2016&nbsp; <sup>1 Year</sup><br />
+    (Re)scan for deleted and/or new media.
+  </p>
+  <p>
+    Kur-Uhn-See&nbsp; <sup>WHMCS Addon</sup><br />
+    Lead Developer<br />
+    April 2013 &#8211; 2016&nbsp; <sup>3 Years</sup><br />
+    Correct transaction fees; reflecting the transaction exchange rate.
+  </p>
+  <p>
+    StripeXS&nbsp; <sup>Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Blesta Addon, WHMCS Addon</sup><br />
+    Lead Developer<br />
+    November 2012 &#8211; 2016&nbsp; <sup>4 Years</sup><br />
+    <ul>
+      <li>
+        October 2013 &#8211; 2016:<br />
+        North American (Canada and United States of America) business owners can begin accepting payments quickly and easily with a Pivotal Payment merchant
+        account; no matter the business type.&nbsp; International business owners, outside of North America, can begin accepting eCommerce and/or
+        mail-order/telephone-order payments quickly and easily with a Stripe account.<br />
+        &nbsp;<br />
+        <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for
+        WHMCS to provide complete/full tokenization functionality/integration (including, but not limited to, within the cart/checkout and the
+        administrative area) and payment dispute automation/management (Stripe-specific) from within WHMCS.
+      </li>
+      <li>
+        November 2012 &#8211; October 2013:<br />
+        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for WHMCS to provide complete/full tokenization functionality/integration (including,
+        but not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management from within WHMCS.
+      </li>
+    </ul>
+  </p>
+  <p>
+    NXS&nbsp; <sup>WHMCS Addon</sup><br />
+    Lead Developer<br />
+    November 2011 &#8211; 2016&nbsp; <sup>5 Years</sup><br />
+    Automagically purge the log tables in order to reduce the overall size of the database.
+  </p>
+  <p>
+    WHMCS Order Status&nbsp; <sup>WHMCS Addon</sup><br />
+    Lead Developer<br />
+    December 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
+    Automagically cancel pending orders which remain unpaid for X number of days past their due date.
+  </p>
+  <p>
+    HostAudit&nbsp; <sup>cPanel/WHM &amp; WHMCS Addon</sup><br />
+    Lead Developer<br />
+    September 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
+    Automagically detect abusive clients on your cPanel/WHM servers.&nbsp; Warn them, and optionally, suspend them if the abuse continues.
+  </p>
+  <p>
+    Nshare&nbsp; <sup>WHMCS Addon</sup><br />
+    Lead Developer<br />
+    December 2012 &#8211; October 2013&nbsp; <sup>11 Months</sup><br />
+    Automagically activate/delete the affiliate status of clients when their account is created and/or closed.
+  </p>
+  <p>
+    Mypoint&nbsp; <sup>Google Gadget</sup><br />
+    Lead Developer<br />
+    Allows for the insertion of a Google (public) location badge.
   </p>
   <p>&nbsp;</p>
   <h3 id="skills">Skills</h3>
@@ -397,31 +482,5 @@ title: "Curriculum Vitae"
     Standard First Aid / CPR Level C<br />
     <a href="http://www.redcross.ca" target="_blank" title="Canadian Red Cross">Canadian Red Cross</a><br />
     June 2001 &#8211; 2004
-  </p>
-  <p>&nbsp;</p>
-  <h3 id="projects">Projects</h3>
-  <p>
-    Root Availability Check&nbsp; <sup>Android</sup><br />
-    Lead Developer<br />
-    March 2015 &#8211; 2016<br />
-    Check for the availability of root functions.
-  </p>
-  <p>
-    SELinux Enforcer&nbsp; <sup>Android</sup><br />
-    Lead Developer<br />
-    March 2015 &#8211; 2016<br />
-    Control the state of SELinux.
-  </p>
-  <p>
-    Media (Re)scanner&nbsp; <sup>Android</sup><br />
-    Lead Developer<br />
-    February 2015 &#8211; 2016<br />
-    (Re)scan for deleted and/or new media.
-  </p>
-  <p>
-    HostAudit&nbsp; <sup>cPanel/WHM &amp; WHMCS Addon</sup><br />
-    Lead Developer<br />
-    November 2011 &#8211; 2016<br />
-    Automagically detect abusive clients on your cPanel/WHM servers.&nbsp; Warn them, and optionally, suspend them if the abuse continues.
   </p>
 </div>
