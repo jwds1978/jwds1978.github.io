@@ -44,7 +44,7 @@ title: "Curriculum Vitae"
   <ul>
     <li>
       Coding
-      <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2;">
+      <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
         <li>ApacheConf</li>
         <li>Batchfile</li>
         <li>CSS</li>
@@ -461,7 +461,7 @@ title: "Curriculum Vitae"
         Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including
         installation, configuration, and administration, and be well versed in such areas as Web site security and troubleshooting.
       </span>
-      <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2;">
+      <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
         <li>Internetworking with Cisco</li>
         <li>Linux</li>
         <li>Microsoft Windows 2000</li>
@@ -481,7 +481,7 @@ title: "Curriculum Vitae"
         Responsible for creating Web sites using HTML and Web design software.&nbsp; In addition to designing a Web site that's attractive, interesting,
         functional, and useful, a Web designer must also ensure that the Web site is easily navigable and accessible to all who may want to use it.
       </span>
-      <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2;">
+      <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
         <li>Graphic Design</li>
         <li>Multimedia</li>
         <li>Page Layout</li>
@@ -499,7 +499,7 @@ title: "Curriculum Vitae"
         server-side Web sites.&nbsp; Web developers must know HTML, XML, and object-oriented design and should be able to use a variety of programming
         languages and Web development tools.
       </span>
-      <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2;">
+      <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
         <li>Client-Side</li>
         <li>Database</li>
         <li>Server-Side</li>
