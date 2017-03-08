@@ -474,7 +474,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <span class="p-description">Computer End-User Support Specialist</span><br />
+      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=73" target="_blank" title="Computer End-User Support Specialist">
+        <span class="p-description">Computer End-User Support Specialist</span>
+      </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp; A computer end-user support
@@ -486,7 +488,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <span class="p-description">Customer Service Representative</span><br />
+      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=57" target="_blank" title="Customer Service Representative">
+        <span class="p-description">Customer Service Representative</span>
+      </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp; A customer service representative handles such tasks as
@@ -500,7 +504,9 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-education">
     <p>
       <img alt="Brainbench :: Certified Internet Professional (BCIP)" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
-      <span class="p-description">Internet Professional (BCIP)</span><br />
+      <a href="https://www.brainbench.com/xml/default/common/testcenter/bcip.xml" target="_blank" title="Brainbench Certified Internet Professional (BCIP)">
+        <span class="p-description">Internet Professional (BCIP)</span>
+      </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
         The Brainbench Certified Internet Professional (BCIP) has validated their skills in Internet-related technologies.
@@ -515,7 +521,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <span class="p-description">Network Support Specialist</span><br />
+      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=68" target="_blank" title="Network Support Specialist">
+        <span class="p-description">Network Support Specialist</span>
+      </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a
@@ -527,7 +535,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <span class="p-description">Web Administrator (BCIP)</span><br />
+      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=17" target="_blank" title="Web Administrator (BCIP)">
+        <span class="p-description">Web Administrator (BCIP)</span>
+      </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including
@@ -545,7 +555,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <span class="p-description">Web Designer (BCIP)</span><br />
+      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=16" target="_blank" title="Web Designer (BCIP)">
+        <span class="p-description">Web Designer (BCIP)</span>
+      </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for creating Web sites using HTML and Web design software.&nbsp; In addition to designing a Web site that's attractive, interesting,
@@ -560,7 +572,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <span class="p-description">Web Developer (BCIP)</span><br />
+      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=14" target="_blank" title="Web Developer (BCIP)">
+        <span class="p-description">Web Developer (BCIP)</span>
+      </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for using programming, scripting, and database integration tools to develop professional, effective, and well-organized client-side and
