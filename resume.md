@@ -27,7 +27,7 @@ title: "Curriculum Vitae"
     <a class="p-contact h-card" href="{{ site.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
   </span>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="summary">Summary</h3>
   <p class="p-summary">
@@ -58,7 +58,7 @@ title: "Curriculum Vitae"
   </p>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="languages">Languages</h3>
   <ul>
@@ -130,7 +130,7 @@ title: "Curriculum Vitae"
   </ul>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="projects">Projects</h3>
   <p>
@@ -213,7 +213,7 @@ title: "Curriculum Vitae"
   </p>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="skills">Skills</h3>
   <ul>
@@ -275,7 +275,7 @@ title: "Curriculum Vitae"
   </ul>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="recommendations">Recommendations</h3>
   <p>
@@ -299,7 +299,7 @@ title: "Curriculum Vitae"
   </p>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="experience">Experience</h3>
   <div class="h-card h-event p-experience">
@@ -407,7 +407,7 @@ title: "Curriculum Vitae"
   </div>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="volunteer-experience">Volunteer Experience</h3>
   <div class="h-card h-event p-experience">
@@ -434,7 +434,7 @@ title: "Curriculum Vitae"
   </div>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="education">Education</h3>
   <div class="h-card h-event p-education">
@@ -547,7 +547,7 @@ title: "Curriculum Vitae"
   </div>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
-    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="certifications">Certifications</h3>
   <p>

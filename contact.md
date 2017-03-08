@@ -15,7 +15,7 @@ title: Contact
   &nbsp;
 </p>
 <span style="float: right; font-size: xx-small;">
-  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="phone">Call and/or Text James, Maybe&nbsp; <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup></h3>
 * Mobile
@@ -25,7 +25,7 @@ title: Contact
 
 <p>&nbsp;</p>
 <span style="float: right; font-size: xx-small;">
-  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="e-mail">E-mail&nbsp; <sup>Preferrably, PGP-Encrypted</sup></h3>
   * <a href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army</a>&nbsp; <sup>Primary</sup>
@@ -38,7 +38,7 @@ title: Contact
 
 <p>&nbsp;</p>
 <span style="float: right; font-size: xx-small;">
-  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="encryption">Encrypt the Things</h3>
 * PGP
@@ -47,7 +47,7 @@ title: Contact
 
 <p>&nbsp;</p>
 <span style="float: right; font-size: xx-small;">
-  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="instant-messengers">Instant Messengers</h3>
 * AOL Instant Messenger
@@ -70,7 +70,7 @@ title: Contact
 
 <p>&nbsp;</p>
 <span style="float: right; font-size: xx-small;">
-  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="mail">Send Things to James</h3>
 * Mailing
