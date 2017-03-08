@@ -123,6 +123,15 @@
     {% if page.url contains "/blog/" and page.url != "/blog/" %}
     <script async src="//webmention.io/js/mentions.js" type="text/javascript"></script>
     {% endif %}
+    {% if page.url == "/resume/" %}
+    <script charset="utf-8" type="text/javascript">
+      $(document).ready(function () {
+        $(".quickJumpMenu").change(function () {
+          window.location.href = $(this).val()
+        })
+      });
+    </script>
+    {% endif %}
     {% if site.google_analytics %}
     <script type="text/javascript">    
       var gaJsHost = "https:" == document.location.protocol ? "https://ssl." : "http://www.";

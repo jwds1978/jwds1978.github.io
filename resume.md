@@ -8,16 +8,18 @@ title: "Curriculum Vitae"
   <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a><br />
   &nbsp;<br />
-  Jump to:<br />
-  <a href="{{ site.url }}{{ page.url }}#certifications" rel="me" title="{{ page.title }} :: Certifications">Certifications</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#education" rel="me" title="{{ page.title }} :: Education">Education</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#experience" rel="me" title="{{ page.title }} :: Experience">Experience</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#languages" rel="me" title="{{ page.title }} :: Languages">Languages</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#projects" rel="me" title="{{ page.title }} :: Projects">Projects</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#recommendations" rel="me" title="{{ page.title }} :: Recommendations">Recommendations</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#skills" rel="me" title="{{ page.title }} :: Skills">Skills</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#summary" rel="me" title="{{ page.title }} :: Summary">Summary</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#volunteer-experience" rel="me" style="white-space: nowrap;" title="{{ page.title }} :: Volunteer Experience">Volunteer Experience</a><br />
+  Jump to:&nbsp; <select class="quickJumpMenu">
+    <option value="{{ site.url }}{{ page.url }}"></option>
+    <option value="{{ site.url }}{{ page.url }}#certifications">Certifications</option>
+    <option value="{{ site.url }}{{ page.url }}#education">Education</option>
+    <option value="{{ site.url }}{{ page.url }}#experience">Experience</option>
+    <option value="{{ site.url }}{{ page.url }}#languages">Languages</option>
+    <option value="{{ site.url }}{{ page.url }}#projects">Projects</option>
+    <option value="{{ site.url }}{{ page.url }}#recommendations">Recommendations</option>
+    <option value="{{ site.url }}{{ page.url }}#skills">Skills</option>
+    <option value="{{ site.url }}{{ page.url }}#summary">Summary</option>
+    <option value="{{ site.url }}{{ page.url }}#volunteer-experience">Volunteer Experience</option>
+  </select>
   &nbsp;
 </p>
 <div class="h-resume">
