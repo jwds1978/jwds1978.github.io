@@ -3,17 +3,32 @@ cloudflareSSE: true
 title: Contact
 ---
 
-<img alt="vCard" height="184" src="{{ site.uri.assets }}/naked/images/vCard_255x184.png" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="255" />
-
+<p id="top" style="text-align: center;">
+  Jump to:&nbsp; <select class="quickJumpMenu">
+    <option value="{{ site.url }}{{ page.url }}"></option>
+    <option value="{{ site.url }}{{ page.url }}#e-mail">E-mail</option>
+    <option value="{{ site.url }}{{ page.url }}#encryption">Encryption</option>
+    <option value="{{ site.url }}{{ page.url }}#instant-messengers">Instant Messengers</option>
+    <option value="{{ site.url }}{{ page.url }}#phone">Phone</option>
+    <option value="{{ site.url }}{{ page.url }}#mail">Snail Mail</option>
+  </select>
+  &nbsp;
+</p>
 <p>&nbsp;</p>
-### Call and/or Text James, Maybe&nbsp; <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
+<span style="float: right; font-size: xx-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+</span>
+<h3 id="phone">Call and/or Text James, Maybe</h3>&nbsp; <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
 * Mobile
   * <span data-last="3664" id="3664">+1 (646) 340-<span>3664</span></span>
   * <span data-last="3403" id="3403">+1 (650) 741-<span>3403</span></span>
   * <span data-last="1887" id="1887">+1 (705) 562-<span>1887</span></span>&nbsp; <sup>Primary</sup>
 
 <p>&nbsp;</p>
-### E-mail&nbsp; <sup>Preferrably, PGP-Encrypted</sup>
+<span style="float: right; font-size: xx-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+</span>
+<h3 id="e-mail">E-mail</h3>&nbsp; <sup>Preferrably, PGP-Encrypted</sup>
   * <a href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army</a>&nbsp; <sup>Primary</sup>
   * <a href="mailto:stew721@eml.cc" rel="me" target="_blank" title="">stew721@eml.cc</a>
   * <a href="mailto:innominate721@gmail.com" rel="me" target="_blank" title="">innominate721@gmail.com</a>
@@ -23,13 +38,19 @@ title: Contact
   * <a href="mailto:stew721@outlook.com" rel="me" target="_blank" title="">stew721@outlook.com</a>
 
 <p>&nbsp;</p>
-### Encrypt the Things
+<span style="float: right; font-size: xx-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+</span>
+<h3 id="encryption">Encrypt the Things</h3>
 * PGP
   * Public Keys
     * <a href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me" target="_blank" title="">614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D</a><br />0x61BCA817AFFA1F1D<br /><a href="{{ site.uri.assets }}/innominate/images/qr-codes/PGP_0x61BCA817AFFA1F1D_854x854.jpg" rel="me" target="_blank" title=""><img alt="" height="83" src="{{ site.uri.assets }}/innominate/images/qr-codes/PGP_0x61BCA817AFFA1F1D_083x083.jpg" style="border: 0px;" width="83" /></a>
 
 <p>&nbsp;</p>
-### Instant Messengers
+<span style="float: right; font-size: xx-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+</span>
+<h3 id="instant-messengers">Instant Messengers</h3>
 * AOL Instant Messenger
   * <a href="aim:goim?screenname=james%40stew721.ca" rel="me" target="_blank" title="">james@stew721.ca</a>
 * BlackBerry Messenger
@@ -49,6 +70,9 @@ title: Contact
   * ~~<a href="https://conversations.im/i/stew721@conversations.im?omemo-sid-1412676728=fb329677d74a7d3f47d7eaa0bf3212d4b1fe52abf048de63d9a3102c5d5ed277" rel="me" target="_blank" title="">stew721@conversations.im</a>~~<br /><a href="{{ site.uri.assets }}/innominate/images/qr-codes/XMPP_stew721-conversations-im_1024x1024.png" rel="me" target="_blank" title=""><img alt="" height="86" src="{{ site.uri.assets }}/innominate/images/qr-codes/XMPP_stew721-conversations-im_0086x0086.png" style="border: 0px;" width="86" /></a>
 
 <p>&nbsp;</p>
-### Send Things to James
+<span style="float: right; font-size: xx-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+</span>
+<h3 id="mail">Send Things to James</h3>
 * Mailing
   * PO Box 51042<br />Elm PO<br />Sudbury, Ontario&nbsp; P3C 1T0<br />Canada
