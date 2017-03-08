@@ -112,6 +112,22 @@ title: "Curriculum Vitae"
       </ul>
     </li>
     <li>
+      Speaking
+      <ul>
+        <li>
+          English
+          <ul>
+            <li>
+              Native or Bilingual
+              <ul>
+                <li>I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
       Writing
       <ul>
         <li>
