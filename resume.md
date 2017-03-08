@@ -54,12 +54,6 @@ title: "Curriculum Vitae"
   <p>&nbsp;</p>
   <h3 id="projects">Projects</h3>
   <p>
-    &nbsp; <sup></sup><br />
-    <br />
-    &#8211; &nbsp; <sup></sup><br />
-    
-  </p>
-  <p>
     Root Availability Check&nbsp; <sup>Android</sup><br />
     Lead Developer<br />
     March 2015 &#8211; 2016&nbsp; <sup>1 Year</sup><br />
@@ -86,20 +80,23 @@ title: "Curriculum Vitae"
   <p>
     StripeXS&nbsp; <sup>Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Blesta Addon, WHMCS Addon</sup><br />
     Lead Developer<br />
-    November 2012 &#8211; 2016&nbsp; <sup>4 Years</sup><br />
+    November 2012 &#8211; 2016&nbsp; <sup>4 Years</sup>
     <ul>
       <li>
         October 2013 &#8211; 2016:<br />
+        &nbsp;<br />
         North American (Canada and United States of America) business owners can begin accepting payments quickly and easily with a Pivotal Payment merchant
         account; no matter the business type.&nbsp; International business owners, outside of North America, can begin accepting eCommerce and/or
         mail-order/telephone-order payments quickly and easily with a Stripe account.<br />
         &nbsp;<br />
         <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for
         WHMCS to provide complete/full tokenization functionality/integration (including, but not limited to, within the cart/checkout and the
-        administrative area) and payment dispute automation/management (Stripe-specific) from within WHMCS.
+        administrative area) and payment dispute automation/management (Stripe-specific) from within WHMCS.<br />
+        &nbsp;
       </li>
       <li>
         November 2012 &#8211; October 2013:<br />
+        &nbsp;<br />
         Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for WHMCS to provide complete/full tokenization functionality/integration (including,
         but not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management from within WHMCS.
       </li>
