@@ -461,12 +461,10 @@ title: "Curriculum Vitae"
   <h3 id="education">Education</h3>
   <div class="h-card h-event p-education">
     <p>
-      <img alt="Brainbench :: Certified Internet Professional (BCIP)" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
-      <span class="p-description">Internet Professional (BCIP)</span><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-      <span class="p-summary">
-        The Brainbench Certified Internet Professional (BCIP) has validated their skills in Internet-related technologies.
-      </span>
+      <a href="http://www.confederationcollege.ca/program/aviation-flight-management" target="_blank" title="Aviation - Flight Management">
+        <span class="p-description">Aviation &#8212; Flight Management</span>
+      </a><br />
+      <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a>
     </p>
   </div>
   <div class="h-card h-event p-education">
@@ -492,6 +490,22 @@ title: "Curriculum Vitae"
         Additionally, a person in this position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes
         records&hellip; and prepares reports dealing with orders, complaints, and adjustments.
       </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
+      <img alt="Brainbench :: Certified Internet Professional (BCIP)" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
+      <span class="p-description">Internet Professional (BCIP)</span><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <span class="p-summary">
+        The Brainbench Certified Internet Professional (BCIP) has validated their skills in Internet-related technologies.
+      </span>
+    </p>
+  </div>
+  <div class="h-card h-event p-education">
+    <p>
+      <span class="p-description">Microcomputers &amp; Microprocessors</span><br />
+      <a class="p-name p-org u-url" href="http://www.nrischools.com" target="_blank" title="NRI Schools">NRI Schools</a>
     </p>
   </div>
   <div class="h-card h-event p-education">
@@ -553,18 +567,6 @@ title: "Curriculum Vitae"
         <li>Database</li>
         <li>Server-Side</li>
       </ul>
-    </p>
-  </div>
-  <div class="h-card h-event p-education">
-    <p>
-      <span class="p-description">Aviation &#8212; Flight Management</span><br />
-      <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a>
-    </p>
-  </div>
-  <div class="h-card h-event p-education">
-    <p>
-      <span class="p-description">Microcomputers &amp; Microprocessors</span><br />
-      <a class="p-name p-org u-url" href="http://www.nrischools.com" target="_blank" title="NRI Schools">NRI Schools</a>
     </p>
   </div>
   <p>&nbsp;</p>
