@@ -35,25 +35,6 @@ title: "Curriculum Vitae"
     &nbsp;<br />
     Technical expertise is important, but equal in significance is the presentment to the customer.&nbsp; The way you act, explain what the issues at hand
     are, and confidence (not arrogance &#8212; there's a difference) in which you remedy the situation is a direct reflection on the company itself.
-    <ul>
-      <li>
-        <span style="font-weight: bolder;">Strong Customer Service:</span>&nbsp; Able to explain something complicated in a way that the average person can
-        understand &#8212; down to Earth, not above their heads in techno-babble.&nbsp; Exceeded issue-resolution targets and achieved exemplary customer
-        satisfaction scores&hellip; consistently scoring 95&#8211;100% on all calls.<br />
-        &nbsp;
-      </li>
-      <li>
-        <span style="font-weight: bolder;">Outstanding Leadership Abilities:</span>&nbsp; Able to coordinate and direct all phases of project-based efforts
-        while managing, motivating, and leading project teams.<br />
-        &nbsp;
-      </li>
-      <li>
-        <span style="font-weight: bolder;">Strong Technical Expertise:</span>&nbsp; Will solve the problem; the right way&hellip; not just tell you to
-        re-format your hard drive.&nbsp; Consistently recognized for technical troubleshooting skills used to rapidly and cost-effectively resolve
-        challenging technical issues.&nbsp; Quickly learn and master new technology.&nbsp; Equally successful in both team and self-directed settings.&nbsp;
-        Proficient in a range of computer systems, languages, tools, and testing methodologies.
-      </li>
-    </ul>
   </p>
   <p>&nbsp;</p>
   <span style="float: right; font-size: xx-small;">
