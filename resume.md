@@ -134,6 +134,12 @@ title: "Curriculum Vitae"
   </span>
   <h3 id="projects">Projects</h3>
   <p>
+    <a href="https://forces.army" rel="me" title="{{ site.title }}">forces.army</a>&nbsp; <sup>Web</sup><br />
+    Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, JavaScript, JSON, Liquid, Markdown, Regular Expression, Text, XML, YAML</sup><br />
+    January 2017 &#8211; Present&nbsp; <sup>3 Months</sup><br />
+    Embrace &quot;The Suck&quot;
+  </p>
+  <p>
     Root Availability Check&nbsp; <sup>Android</sup><br />
     Lead Developer&nbsp; <sup>Java, SQL</sup><br />
     March 2015 &#8211; 2016&nbsp; <sup>1 Year</sup><br />
