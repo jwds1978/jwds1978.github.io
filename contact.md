@@ -17,7 +17,7 @@ title: Contact
 <span style="float: right; font-size: xx-small;">
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
 </span>
-<h3 id="phone">Call and/or Text James, Maybe</h3>&nbsp; <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
+<h3 id="phone">Call and/or Text James, Maybe&nbsp; <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup></h3>
 * Mobile
   * <span data-last="3664" id="3664">+1 (646) 340-<span>3664</span></span>
   * <span data-last="3403" id="3403">+1 (650) 741-<span>3403</span></span>
@@ -27,7 +27,7 @@ title: Contact
 <span style="float: right; font-size: xx-small;">
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
 </span>
-<h3 id="e-mail">E-mail</h3>&nbsp; <sup>Preferrably, PGP-Encrypted</sup>
+<h3 id="e-mail">E-mail&nbsp; <sup>Preferrably, PGP-Encrypted</sup></h3>
   * <a href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army</a>&nbsp; <sup>Primary</sup>
   * <a href="mailto:stew721@eml.cc" rel="me" target="_blank" title="">stew721@eml.cc</a>
   * <a href="mailto:innominate721@gmail.com" rel="me" target="_blank" title="">innominate721@gmail.com</a>
