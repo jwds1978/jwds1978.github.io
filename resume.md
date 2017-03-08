@@ -471,7 +471,7 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-description">Computer End-User Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-      <span class="p-summary">
+      <span class="p-summary" style="display: none;">
         Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp; A computer end-user support
         specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers,
         power supplies, soundcards, and so forth.&nbsp; A person in this position may also be called upon to determine the organization's software and
@@ -483,7 +483,7 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-description">Customer Service Representative</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-      <span class="p-summary">
+      <span class="p-summary" style="display: none;">
         Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp; A customer service representative handles such tasks as
         soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or
         billing&hellip; and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp;
@@ -512,7 +512,7 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-description">Network Support Specialist</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-      <span class="p-summary">
+      <span class="p-summary" style="display: none;">
         Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a
         LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in this position also addresses,
         diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp; A network
@@ -524,7 +524,7 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-description">Web Administrator (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-      <span class="p-summary">
+      <span class="p-summary" style="display: none;">
         Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including
         installation, configuration, and administration, and be well versed in such areas as Web site security and troubleshooting.
       </span>
@@ -542,7 +542,7 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-description">Web Designer (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-      <span class="p-summary">
+      <span class="p-summary" style="display: none;">
         Responsible for creating Web sites using HTML and Web design software.&nbsp; In addition to designing a Web site that's attractive, interesting,
         functional, and useful, a Web designer must also ensure that the Web site is easily navigable and accessible to all who may want to use it.
       </span>
@@ -557,7 +557,7 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-description">Web Developer (BCIP)</span><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
-      <span class="p-summary">
+      <span class="p-summary" style="display: none;">
         Responsible for using programming, scripting, and database integration tools to develop professional, effective, and well-organized client-side and
         server-side Web sites.&nbsp; Web developers must know HTML, XML, and object-oriented design and should be able to use a variety of programming
         languages and Web development tools.
