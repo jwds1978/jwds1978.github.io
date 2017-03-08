@@ -165,7 +165,7 @@ title: "Curriculum Vitae"
   </p>
   <p>
     StripeXS&nbsp; <sup>Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon, WHMCS Addon</sup><br />
-    Lead Developer&nbsp; <sup>CSS, HTML, Java, JavaScript, JSON, PHP, Regular Expression, Smali, Smarty, SQL, XML</sup><br />
+    Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, Java, JavaScript, JSON, PHP, Regular Expression, Smali, Smarty, SQL, XML</sup><br />
     November 2012 &#8211; 2016&nbsp; <sup>4 Years</sup>
     <ul>
       <li>
