@@ -8,7 +8,7 @@ title: "Curriculum Vitae"
   <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a><br />
   &nbsp;<br />
-  Jump to:<br />
+  Jump to:
   <div style="text-align: justify;">
     <a href="{{ site.url }}{{ page.url }}#certifications" rel="me" title="{{ page.title }} :: Certifications">Certifications</a>&nbsp;
     &bull;&nbsp; <a href="{{ site.url }}{{ page.url }}#education" rel="me" title="{{ page.title }} :: Education">Education</a>&nbsp;
