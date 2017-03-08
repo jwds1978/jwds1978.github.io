@@ -7,7 +7,7 @@
 
 [Brainbench Certification](https://www.brainbench.com/images/certlogo/color/cert/webdesignergraphicdesign.gif "https://www.brainbench.com/images/certlogo/color/cert/webdesignergraphicdesign.gif")
 
-### GPS Coordinates (Latitude, Longitude, Altitude)
+### GPS Coordinates [Latitude, Longitude, Altitude]
 * Canada
   * 56.130366, -106.34677099999999, 469
 * Ontario, Canada
