@@ -54,6 +54,75 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>&nbsp;</p>
+  <h3 id="languages">Languages</h3>
+  <ul>
+    <li>
+      Coding
+      <ul>
+        <li>ApacheConf</li>
+        <li>Batchfile</li>
+        <li>CSS</li>
+        <li>CSV</li>
+        <li>desktop</li>
+        <li>Diff</li>
+        <li>DNS Zone</li>
+        <li>ECLiPSe</li>
+        <li>HTML</li>
+        <li>HTML+PHP</li>
+        <li>HTTP</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>JSON</li>
+        <li>Liquid</li>
+        <li>Markdown</li>
+        <li>Perl</li>
+        <li>PHP</li>
+        <li>Python</li>
+        <li>Regular Expression</li>
+        <li>Shell</li>
+        <li>Smali</li>
+        <li>Smarty</li>
+        <li>SQL</li>
+        <li>Text</li>
+        <li>Vim Script</li>
+        <li>XML</li>
+        <li>YAML</li>
+      </ul>
+    </li>
+    <li>
+      Reading
+      <ul>
+        <li>
+          English
+          <ul>
+            <li>
+              Native or Bilingual
+              <ul>
+                <li>I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Writing
+      <ul>
+        <li>
+          English
+          <ul>
+            <li>
+              Native or Bilingual
+              <ul>
+                <li>I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <p>&nbsp;</p>
   <h3 id="projects">Projects</h3>
   <p>
     Root Availability Check&nbsp; <sup>Android</sup><br />
@@ -342,21 +411,6 @@ title: "Curriculum Vitae"
       <sup><time class="dt-duration" datetime="P1Y2M">1 Year, 2 Months</time></sup>
     </p>
   </div>
-  <p>&nbsp;</p>
-  <h3 id="languages">Languages</h3>
-  <ul>
-    <li>
-      English
-      <ul>
-        <li>
-          Native or Bilingual
-          <ul>
-            <li>I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
   <p>&nbsp;</p>
   <h3 id="education">Education</h3>
   <div class="h-card h-event p-education">
