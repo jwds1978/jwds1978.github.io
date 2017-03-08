@@ -464,7 +464,12 @@ title: "Curriculum Vitae"
       <a href="http://www.confederationcollege.ca/program/aviation-flight-management" target="_blank" title="Aviation - Flight Management">
         <span class="p-description">Aviation &#8212; Flight Management</span>
       </a><br />
-      <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a>
+      <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a><br />
+      <span class="p-summary">
+        This program is very well known within the aviation industry and is recognized as one of the best of its kind.&nbsp; Aviation &#8212; Flight
+        Management has been running at Confederation since 1973.&nbsp; It's a demanding academic program and it has flight standards that are rigorous
+        throughout the program; resulting in highly qualified and competent graduates who do well in the industry.
+      </span>
     </p>
   </div>
   <div class="h-card h-event p-education">
