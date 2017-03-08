@@ -3,7 +3,7 @@ cloudflareSSE: true
 title: "Curriculum Vitae"
 ---
 
-<p style="text-align: center;">
+<p id="top" style="text-align: center;">
   Save as:&nbsp;
   <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">PDF</a>&nbsp;
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">Print</a><br />
@@ -25,6 +25,9 @@ title: "Curriculum Vitae"
 <div class="h-resume">
   <span class="p-name" style="display: none; text-align: center;">
     <a class="p-contact h-card" href="{{ site.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
+  </span>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
   </span>
   <h3 id="summary">Summary</h3>
   <p class="p-summary">
@@ -54,6 +57,9 @@ title: "Curriculum Vitae"
     </ul>
   </p>
   <p>&nbsp;</p>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  </span>
   <h3 id="languages">Languages</h3>
   <ul>
     <li>
@@ -123,6 +129,9 @@ title: "Curriculum Vitae"
     </li>
   </ul>
   <p>&nbsp;</p>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  </span>
   <h3 id="projects">Projects</h3>
   <p>
     Root Availability Check&nbsp; <sup>Android</sup><br />
@@ -203,6 +212,9 @@ title: "Curriculum Vitae"
     Allows for the insertion of a Google (public) location badge.
   </p>
   <p>&nbsp;</p>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  </span>
   <h3 id="skills">Skills</h3>
   <ul>
     <li class="p-skill">Amazon Web Services (AWS)</li>
@@ -262,6 +274,9 @@ title: "Curriculum Vitae"
     <li>More&hellip;</li>
   </ul>
   <p>&nbsp;</p>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  </span>
   <h3 id="recommendations">Recommendations</h3>
   <p>
     <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Greater-Sudbury-Chamber-of-Commerce_210x40.png" style="border: 0px; float: right;" width="210" />
@@ -283,6 +298,9 @@ title: "Curriculum Vitae"
     </blockquote>
   </p>
   <p>&nbsp;</p>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  </span>
   <h3 id="experience">Experience</h3>
   <div class="h-card h-event p-experience">
     <p>
@@ -388,6 +406,9 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <p>&nbsp;</p>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  </span>
   <h3 id="volunteer-experience">Volunteer Experience</h3>
   <div class="h-card h-event p-experience">
     <p>
@@ -412,6 +433,9 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <p>&nbsp;</p>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  </span>
   <h3 id="education">Education</h3>
   <div class="h-card h-event p-education">
     <p>
@@ -522,6 +546,9 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <p>&nbsp;</p>
+  <span style="float: right; font-size: xx-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">Top</a>
+  </span>
   <h3 id="certifications">Certifications</h3>
   <p>
     Certificate of Proficiency in Radio &#8212; Restricted Operator &#8212; Aeronautical<br />
