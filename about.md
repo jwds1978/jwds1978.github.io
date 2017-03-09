@@ -13,7 +13,7 @@ title: About
 </div>
 
 James, a Canadian Forces veteran, is an information technology consultant.&nbsp; He's based in Sudbury, Ontario, Canada&hellip;&nbsp; However, he's able to
-telecommute globally though.
+telecommute globally though.&nbsp; He's willing to travel, upon pre-payment of associated expenses (i.e. airfare, hotel, etc.), as well.
 
 James has been professionally developing software since circa 2000.&nbsp; You may recognize him from cPanel and/or WHMCS.&nbsp; Although he's versed in
 <a href="{{ site.url }}/resume#languages" rel="me" title="">several programming languages</a>, he has focused primarily on PHP.
