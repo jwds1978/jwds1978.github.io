@@ -19,6 +19,6 @@ James has been professionally developing software since circa 2000.&nbsp; You ma
 <a href="{{ site.url }}/resume#languages" rel="me" title="">several programming languages</a>, he has focused primarily on PHP.
 
 &nbsp;<br />
-<span style="font-weight: bolder;">Web Development:</span>&nbsp; James writes CSS, HTML, JavaScript, and PHP to make a Web site come alive.&nbsp; He also works
-with various CMS' to give full control over a Web site.&nbsp; From individual business Web sites, to blogs, or even Web apps&hellip;&nbsp; He's happy to
-take on any project.&nbsp; So, just <a href="{{ site.url }}/contact" rel="me" title="">get in touch</a> with him!
+<span style="font-weight: bolder;">Web Development:</span>&nbsp; James writes CSS, HTML, JavaScript, and PHP to make a Web site come alive.&nbsp; From
+individual business Web sites, to blogs, or even Web apps&hellip;&nbsp; He's happy to take on most any project.&nbsp; So,
+<a href="{{ site.url }}/contact" rel="me" title="">get in touch</a> with him!
