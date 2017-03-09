@@ -18,7 +18,7 @@ layout: default
     <span style="float: right;">
       by {% if pageAuthor.hyperlink.uri %}<a {% if pageAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}{% if pageAuthor.hyperlink.hcard %}rel="author" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}<span {% if pageAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ pageAuthor.name | escape }}</span>{% if pageAuthor.hyperlink.uri %}</a>{% endif %}<br />
       {% if page.comments %}<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me" title=""></a>&nbsp; &bull;&nbsp;{% endif %}
-      <a href="{{ site.url }}{{ page.url }}#web-mentions" rel="me" title=""><span data-webmention-count data-url="{{ site.url }}{{ page.url }}"></span> Web Mentions</a>
+      <a href="{{ site.url }}{{ page.url }}#web-mentions" rel="me" title="">{% webmentions {{ site.url }}{{ page.url }} %} Web Mentions</a>
     </span>
     Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
     Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
@@ -77,18 +77,4 @@ layout: default
 {% endif %}
 <p>&nbsp;</p>
 <h3 id="web-mentions">Web Mentions</h3>
-<script>
-  var commentContainerSelector = "#comments ul";
-  if ($(commentContainerSelector).length > 0 && "WebSocket" in window) {
-    var ws = new WebSocket("wss://webmention.forces.army:8080");
-    ws.onopen = function (a) {
-      ws.send(window.location)
-    }, ws.onmessage = function (a) {
-      var b = JSON.parse(a.data);
-      if (b && "webmention" == b.type) {
-        var c = $("<li/>").html('<a href="' + b.author.url + '"><img src="' + b.author.photo + '" width="48" /></a> <a href="' + b.author.url + '">' + b.author.name + "</a><br />" + b.content + '<br /><a href="' + b.url + '">' + b.published + "</a>");
-        0 == $("#" + b.element_id).length ? $(commentContainerSelector).append(c) : $("#" + b.element_id + " li").html(c)
-      }
-    }
-  }
-</script>
+{% webmentions {{ site.url }}{{ page.url }} %}

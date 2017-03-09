@@ -65,6 +65,7 @@ title: "Curriculum Vitae"
         <li>PHP</li>
         <li>Python</li>
         <li>Regular Expression</li>
+        <li>Ruby</li>
         <li>Shell</li>
         <li>Smali</li>
         <li>Smarty</li>
@@ -131,7 +132,7 @@ title: "Curriculum Vitae"
   <h3 id="projects">Projects</h3>
   <p>
     <a href="https://forces.army" rel="me" title="{{ site.title }}">forces.army</a>&nbsp; <sup>Web</sup><br />
-    Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, JavaScript, JSON, Liquid, Markdown, Regular Expression, Text, XML, YAML</sup><br />
+    Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, JavaScript, JSON, Liquid, Markdown, Regular Expression, Ruby, Text, XML, YAML</sup><br />
     January 2017 &#8211; Present&nbsp; <sup>3 Months</sup><br />
     Embrace &quot;The Suck&quot;
   </p>
