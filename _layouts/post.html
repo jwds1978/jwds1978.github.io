@@ -18,7 +18,7 @@ layout: default
     <span style="float: right;">
       by {% if pageAuthor.hyperlink.uri %}<a {% if pageAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}{% if pageAuthor.hyperlink.hcard %}rel="author" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}<span {% if pageAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ pageAuthor.name | escape }}</span>{% if pageAuthor.hyperlink.uri %}</a>{% endif %}<br />
       {% if page.comments %}<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me" title=""></a>&nbsp; &bull;&nbsp;{% endif %}
-      <a href="{{ site.url }}{{ page.url }}#web-mentions" rel="me" title="">{% webmentions {{ site.url }}{{ page.url }} %} Web Mentions</a>
+      <a href="{{ site.url }}{{ page.url }}#web-mentions" rel="me" title=""> Web Mentions</a>
     </span>
     Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
     Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
@@ -77,4 +77,3 @@ layout: default
 {% endif %}
 <p>&nbsp;</p>
 <h3 id="web-mentions">Web Mentions</h3>
-{% webmentions {{ site.url }}{{ page.url }} %}

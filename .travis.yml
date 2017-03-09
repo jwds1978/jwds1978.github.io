@@ -2,8 +2,9 @@ env:
   global:
     secure: "mO1iaqXZ4bQUZakJJsRCBAnXK8b9vzcFGkdArhBc6tAgGmlKoObMdmdGufIXGVA8DjV+OgL6xjYHJh/i/jAMnaLLCFoaoreNuBqDTMThxuFoaXGMeQDSzHmZ3x3R2Z7lLdEK6MZazcw4bjOxJSZryXylhkIw/tq8UNj4kR0uur1ziusigfzQkw6oBRUys6Oa4REjISRQmBgtQCQshqgmvJjWiFk/6WqcabLbVGwNe8L2VR6ekL7ZmgVDr87brhlphYlxaXna75/GCo7b/j0d5CUI6bR7UBCOE/f3EC4XcnzU93iHwTKIFxoklb5dpIfkeSbF4yQx+qdP0/DM3Q+vs7P0xUu4WjMK2esk0TxURfI75bFxQ1/uA41tnZrRIkjHPvfgBiI/quvhK3+6FBMdeN4veDlQ5BsV0NzxbeerR8NyeyeAXdWLZamMkgRiw3921R6nj3oOs/RlnNrfMyn2/VQptq9TmEAIm3ld9RQnSi86OON6xQClYc6/6kIWkLr0ab/4cJAsBF+qM4XQiVgFf5kHRDSM6hMUF75Mz0QvWbU8Bf8SESBj67FcHohlctxvgEosseo47kULNzFm+A1EnQrAAXZ6aHcXWnPn2HllZ+Qp9/BIiT3mDah2b0a9uSXvPBiQZTgHGIs5wvmxeBx2M2wBlqsEEFqmLqn2voIMTSw="
 install:
-  - bundle install
+  - bundle update
 language: ruby
 rvm:
   - 2.3.3
-script: bundle exec rake site:deploy --quiet
+script:
+  - bundle exec rake site:deploy --quiet
