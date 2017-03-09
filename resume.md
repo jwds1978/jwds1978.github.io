@@ -25,7 +25,7 @@ title: "Curriculum Vitae"
   <span class="p-name" style="display: none; text-align: center;">
     <a class="p-contact h-card" href="{{ site.url }}" rel="me" title="James Stewart">James Stewart</a>'s Curriculum Vitae
   </span>
-  <span style="float: right; font-size: xx-small;">
+  <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="summary">Summary</h3>
@@ -37,7 +37,7 @@ title: "Curriculum Vitae"
     are, and confidence (not arrogance &#8212; there's a difference) in which you remedy the situation is a direct reflection on the company itself.
   </p>
   <p>&nbsp;</p>
-  <span style="float: right; font-size: xx-small;">
+  <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="languages">Languages</h3>
@@ -125,7 +125,7 @@ title: "Curriculum Vitae"
     </li>
   </ul>
   <p>&nbsp;</p>
-  <span style="float: right; font-size: xx-small;">
+  <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="projects">Projects</h3>
@@ -214,7 +214,7 @@ title: "Curriculum Vitae"
     Allows for the insertion of a Google (public) location badge.
   </p>
   <p>&nbsp;</p>
-  <span style="float: right; font-size: xx-small;">
+  <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="recommendations">Recommendations</h3>
@@ -238,7 +238,7 @@ title: "Curriculum Vitae"
     </blockquote>
   </p>
   <p>&nbsp;</p>
-  <span style="float: right; font-size: xx-small;">
+  <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="experience">Experience</h3>
@@ -346,7 +346,7 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <p>&nbsp;</p>
-  <span style="float: right; font-size: xx-small;">
+  <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="volunteer-experience">Volunteer Experience</h3>
@@ -373,7 +373,7 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <p>&nbsp;</p>
-  <span style="float: right; font-size: xx-small;">
+  <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="education">Education</h3>
@@ -507,7 +507,7 @@ title: "Curriculum Vitae"
     </p>
   </div>
   <p>&nbsp;</p>
-  <span style="float: right; font-size: xx-small;">
+  <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="certifications">Certifications</h3>

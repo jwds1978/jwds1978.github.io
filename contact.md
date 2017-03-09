@@ -14,7 +14,7 @@ title: Contact
   </select><br />
   &nbsp;
 </p>
-<span style="float: right; font-size: xx-small;">
+<span style="float: right; font-size: x-small;">
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="phone">Call and/or Text James, Maybe&nbsp; <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup></h3>
@@ -24,7 +24,7 @@ title: Contact
   * <span data-last="1887" id="1887">+1 (705) 562-<span>1887</span></span>&nbsp; <sup>Primary</sup>
 
 <p>&nbsp;</p>
-<span style="float: right; font-size: xx-small;">
+<span style="float: right; font-size: x-small;">
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="e-mail">E-mail&nbsp; <sup>Preferrably, PGP-Encrypted</sup></h3>
@@ -37,7 +37,7 @@ title: Contact
   * <a href="mailto:stew721@outlook.com" rel="me" target="_blank" title="">stew721@outlook.com</a>
 
 <p>&nbsp;</p>
-<span style="float: right; font-size: xx-small;">
+<span style="float: right; font-size: x-small;">
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="encryption">Encrypt the Things</h3>
@@ -46,7 +46,7 @@ title: Contact
     * <a href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me" target="_blank" title="">614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D</a><br />0x61BCA817AFFA1F1D<br /><a href="{{ site.uri.assets }}/innominate/images/qr-codes/PGP_0x61BCA817AFFA1F1D_854x854.jpg" rel="me" target="_blank" title=""><img alt="" height="83" src="{{ site.uri.assets }}/innominate/images/qr-codes/PGP_0x61BCA817AFFA1F1D_083x083.jpg" style="border: 0px;" width="83" /></a>
 
 <p>&nbsp;</p>
-<span style="float: right; font-size: xx-small;">
+<span style="float: right; font-size: x-small;">
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="instant-messengers">Instant Messengers</h3>
@@ -69,7 +69,7 @@ title: Contact
   * ~~<a href="https://conversations.im/i/stew721@conversations.im?omemo-sid-1412676728=fb329677d74a7d3f47d7eaa0bf3212d4b1fe52abf048de63d9a3102c5d5ed277" rel="me" target="_blank" title="">stew721@conversations.im</a>~~<br /><a href="{{ site.uri.assets }}/innominate/images/qr-codes/XMPP_stew721-conversations-im_1024x1024.png" rel="me" target="_blank" title=""><img alt="" height="86" src="{{ site.uri.assets }}/innominate/images/qr-codes/XMPP_stew721-conversations-im_0086x0086.png" style="border: 0px;" width="86" /></a>
 
 <p>&nbsp;</p>
-<span style="float: right; font-size: xx-small;">
+<span style="float: right; font-size: x-small;">
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="mail">Send Things to James</h3>
