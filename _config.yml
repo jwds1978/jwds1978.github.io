@@ -1,4 +1,5 @@
 author: jwds
+branch: source
 copyright:
   comment:
     groovy: |
@@ -35,9 +36,11 @@ copyright:
     text: "Copyright (c) 2017 James W.D. Stewart.  All rights reserved."
     html: "&copy;2017 James W.D. Stewart.&nbsp; All rights reserved."
 description: "Embrace 'The Suck'"
+destination: _site
 enforce_ssl: "forces.army"
 exclude:
   - README.md
+  - vendor
 gems:
   - jekyll-feed
   - jekyll-paginate
@@ -51,6 +54,7 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 permalink: "/blog/:year/:month/:day/:title/"
 published: true
+repo: "jwds1978.github.io"
 repository: "jwds1978/jwds1978.github.io"
 shortURL: "https://go.forces.army"
 show_downloads: false
@@ -60,6 +64,7 @@ social:
     - https://www.facebook.com/jwds1978
     - https://www.instagram.com/jwds1978
     - https://twitter.com/jwds1978
+source: .
 theme: jekyll-theme-midnight
 timezone: America/Toronto
 title: "James W.D. Stewart"
@@ -69,3 +74,4 @@ uri:
   assets: "https://assets.forces.army"
   googleMaps: "https://www.google.ca/maps/place"
 url: "https://forces.army"
+username: jwds1978
