@@ -207,9 +207,6 @@ namespace :site do
     # Make sure destination folder exists as git repo
     check_destination
 
-    # Fetch branches
-    # sh "git fetch"
-
     sh "git checkout #{SOURCE_BRANCH}"
     Dir.chdir(CONFIG["destination"]) { sh "git checkout -b #{DESTINATION_BRANCH}" }
 
