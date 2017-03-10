@@ -216,7 +216,7 @@ namespace :site do
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
     Dir.chdir(CONFIG["destination"]) do
-      sh "git add --all ./_site/"
+      sh "git add --all _site/"
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
 
       # Get the deploy key by using Travis' stored variables to decrypt travis-ci.enc
