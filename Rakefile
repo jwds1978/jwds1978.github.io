@@ -225,7 +225,8 @@ namespace :site do
       # sh "eval $(ssh-agent -s)"
       # sh "ssh-add travis-ci_org"
       # sh "git push --quiet git@github.com:jwds1978/jwds1978.github.io.git #{DESTINATION_BRANCH}"
-      sh "eval $(ssh-agent -s); ssh-add travis-ci_org; git push --force-with-lease --quiet git@github.com:jwds1978/jwds1978.github.io.git #{DESTINATION_BRANCH}"
+      # sh "eval $(ssh-agent -s); ssh-add travis-ci_org; git push --force-with-lease --quiet git@github.com:jwds1978/jwds1978.github.io.git #{DESTINATION_BRANCH}"
+      sh "eval $(ssh-agent -s); ssh-add travis-ci_org; git push --quiet git@github.com:jwds1978/jwds1978.github.io.git +#{DESTINATION_BRANCH}"
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
   end
