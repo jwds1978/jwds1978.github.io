@@ -90,6 +90,7 @@ permalink: "/blog/:year/:month/:day/:title/"
 published: true
 repo: "jwds1978.github.io"
 repository: "jwds1978/jwds1978.github.io"
+safe: false
 shortURL: "https://go.forces.army"
 show_downloads: false
 sitemap: true
