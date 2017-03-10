@@ -218,7 +218,18 @@ namespace :site do
     Dir.chdir(CONFIG["destination"]) do
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
-      sh "git push --quiet origin #{DESTINATION_BRANCH}"
+
+      # Get the deploy key by using Travis's stored variables to decrypt travis-ci.enc
+      ENCRYPTED_KEY_VAR="encrypted_${ENCRYPTION_LABEL}_key"
+      ENCRYPTED_IV_VAR="encrypted_${ENCRYPTION_LABEL}_iv"
+      ENCRYPTED_KEY=${!ENCRYPTED_KEY_VAR}
+      ENCRYPTED_IV=${!ENCRYPTED_IV_VAR}
+      openssl aes-256-cbc -K $ENCRYPTED_KEY -iv $ENCRYPTED_IV -in travis-ci.enc -out travis-ci -d
+      chmod 600 travis-ci
+      eval `ssh-agent -s`
+      ssh-add travis-ci
+
+      sh "git push --quiet git@github.com:jwds1978/jwds1978.github.io.git #{DESTINATION_BRANCH}"
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
   end
