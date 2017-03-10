@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jwds1978/jwds1978.github.io.svg?branch=source)](https://travis-ci.org/jwds1978/jwds1978.github.io)
+
 * Overall Width:&nbsp; 643 px
   * Images
     * General
@@ -40,7 +42,7 @@
     * [Profile](http://gmpg.org/xfn/11 "Version 1.1 of the XFN meta data profile: the list of the values used in XFN with their significance.")
 * Javascript
   * [Javascript Beautifier](https://js-beautify.forces.army "Online JavaScript beautifier")
-  * [JSCompress](https://js-compress.forces.army "JSCompress.com is an online javascript compressor that allows you to compress and minify your javascript files.")
+  * [JSCompress](https://jscompress.com "JSCompress.com is an online javascript compressor that allows you to compress and minify your javascript files.")
 * [microformat-shiv](http://microformatshiv.com "A cross browser javascript microformats parser which can also be used in browser extensions.")
 * [Microformats Wiki](http://microformats.org/wiki "This wiki is the central resource of the microformats community and provides microformats authoring guides, references, specifications, drafts, publishing patterns, research, brainstorming, and issue tracking.")
 * [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest "The Web app manifest provides information about an application (i.e. author, description, icon, and name) in a JSON text file.")

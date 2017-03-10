@@ -39,6 +39,9 @@ description: "Embrace 'The Suck'"
 destination: _site
 enforce_ssl: "forces.army"
 exclude:
+  - .gitattributes
+  - .gitignore
+  - .travis.yml
   - README.md
   - vendor
 gems:
@@ -49,6 +52,7 @@ gems:
 include:
   - .nojekyll
   - .well-known
+  - CNAME
 layout: default
 logo: "https://assets.forces.army/naked/images/dandelion-pied-lashes_479x471.png"
 paginate: 5
