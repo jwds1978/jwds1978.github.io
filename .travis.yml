@@ -1,7 +1,3 @@
-env:
-  global:
-    - COMMIT_AUTHOR_EMAIL: "james.stewart@forces.army"
-    - ENCRYPTION_LABEL: 7cc380a2bb71
 install:
   - bundle update
 language: ruby
