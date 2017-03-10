@@ -75,7 +75,7 @@ logo: "https://assets.forces.army/naked/images/dandelion-pied-lashes_479x471.png
 pagination:
   category: posts
   collection: posts
-  debug: false
+  debug: true
   enabled: true
   limit: 0
   per_page: 5
