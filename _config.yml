@@ -42,6 +42,7 @@ exclude:
   - .gitattributes
   - .gitignore
   - .travis.yml
+  - Rakefile
   - README.md
   - vendor
 gems:
