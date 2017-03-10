@@ -220,7 +220,7 @@ namespace :site do
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
 
       # Get the deploy key by using Travis' stored variables to decrypt travis-ci.enc
-      sh "openssl aes-256-cbc -K #{ENV['encrypted_7cc380a2bb71_key']} -iv #{ENV['encrypted_7cc380a2bb71_iv']} -in travis-ci.enc -out travis-ci -d"
+      sh "openssl aes-256-cbc -K #{ENV['encrypted_4c9ffbc517b5_key']} -iv #{ENV['encrypted_4c9ffbc517b5_iv']} -in travis-ci.enc -out travis-ci -d"
       sh "chmod 600 travis-ci"
       eval `ssh-agent -s`
       sh "ssh-add travis-ci"

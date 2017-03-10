@@ -221,5 +221,5 @@ pip-log.txt
 #############
 
 vendor/
-travis-ci
-travis-ci.pub
+travis-ci_org
+travis-ci_org.pub
