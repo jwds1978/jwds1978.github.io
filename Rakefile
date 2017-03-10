@@ -222,7 +222,7 @@ namespace :site do
       # Get the deploy key by using Travis' stored variables to decrypt travis-ci.enc
       sh "openssl aes-256-cbc -K #{ENV['encrypted_4c9ffbc517b5_key']} -iv #{ENV['encrypted_4c9ffbc517b5_iv']} -in travis-ci_org.enc -out travis-ci_org -d"
       sh "chmod 600 travis-ci_org"
-      eval `ssh-agent -s`
+      sh "eval $(ssh-agent -s)"
       sh "ssh-add travis-ci_org"
 
       sh "git push --quiet git@github.com:jwds1978/jwds1978.github.io.git #{DESTINATION_BRANCH}"
