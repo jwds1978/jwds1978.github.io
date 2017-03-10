@@ -207,8 +207,11 @@ namespace :site do
     # Make sure destination folder exists as git repo
     check_destination
 
+    # Fetch branches
+    sh "git fetch"
+
     sh "git checkout #{SOURCE_BRANCH}"
-    Dir.chdir(CONFIG["destination"]) { sh "git checkout -t -b #{DESTINATION_BRANCH} origin/#{DESTINATION_BRANCH}" }
+    Dir.chdir(CONFIG["destination"]) { sh "git checkout #{DESTINATION_BRANCH}" }
 
     # Generate the site
     sh "bundle exec jekyll build"
