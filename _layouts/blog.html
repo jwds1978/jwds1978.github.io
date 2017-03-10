@@ -1,7 +1,5 @@
 ---
 layout: default
-pagination:
-  enabled: true
 ---
 
 <style>
@@ -85,13 +83,6 @@ pagination:
     <li class="previous">
       <a href="{{ site.url }}{{ paginator.previous_page_path }}" rel="me" title="">&larr;&nbsp; Newer Things</a>
     </li>
-    {% endif %}
-    {% if paginator.page_trail %}
-    {% for trail in paginator.page_trail %}
-    <li{% if page.url == trail.path %} class="selected"{% endif %}>
-      <a href="{{ site.url }}{{ trail.path }}" rel="me" title="{{ trail.title }}">{{ trail.num }}</a>
-    </li>
-    {% endfor %}
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">

@@ -1,16 +1,4 @@
 author: jwds
-autopages:
-  categories:
-    layouts:
-      - "autopage_category.html"
-    permalink: "/category/:cat"
-    title: "Posts Within the ':cat' Category"
-  tags:
-    layouts:
-      - "autopage_tags.html"
-    permalink: "/tag/:tag"
-    title: "Posts Tagged with ':tag'"
-  enabled: false
 branch: source
 copyright:
   comment:
@@ -61,7 +49,7 @@ exclude:
   - vendor
 gems:
   - jekyll-feed
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
 include:
@@ -70,35 +58,20 @@ include:
   - CNAME
 layout: default
 logo: "https://assets.forces.army/naked/images/dandelion-pied-lashes_479x471.png"
-# paginate: 5
-# paginate_path: "/blog/page:num/"
-pagination:
-  category: posts
-  collection: posts
-  debug: true
-  enabled: true
-  limit: 0
-  per_page: 5
-  permalink: "/blog/page:num/"
-  sort_field: date
-  sort_reverse: true
-  title: "Page :num of :max :: :title"
-  trail:
-    after: 2
-    before: 2
+paginate: 5
+paginate_path: "/blog/page:num/"
 permalink: "/blog/:year/:month/:day/:title/"
 published: true
 repo: "jwds1978.github.io"
 repository: "jwds1978/jwds1978.github.io"
 safe: false
-shortURL: "https://go.forces.army"
 show_downloads: false
 sitemap: true
 social:
   links:
-    - "https://www.facebook.com/jwds1978"
-    - "https://www.instagram.com/jwds1978"
-    - "https://twitter.com/jwds1978"
+    - https://www.facebook.com/jwds1978
+    - https://www.instagram.com/jwds1978
+    - https://twitter.com/jwds1978
 source: .
 theme: jekyll-theme-midnight
 timezone: America/Toronto
@@ -108,5 +81,6 @@ twitter:
 uri:
   assets: "https://assets.forces.army"
   googleMaps: "https://www.google.ca/maps/place"
+  shortURL: "https://go.forces.army"
 url: "https://forces.army"
 username: jwds1978

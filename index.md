@@ -48,12 +48,12 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
 
 <p>&nbsp;</p>
 ### Use the Things
-* <a href="{{ site.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
+* <a href="{{ site.uri.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
-* <a href="{{ site.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
+* <a href="{{ site.uri.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
   * Experience e-mail done right.
-* <a href="{{ site.shortURL }}/Iconfinder" target="_blank" title="Iconfinder">Iconfinder</a>
+* <a href="{{ site.uri.shortURL }}/Iconfinder" target="_blank" title="Iconfinder">Iconfinder</a>
   * Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
-* <a href="{{ site.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
+* <a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     * Your last password&hellip;&nbsp; Just remember your master password and LastPass remembers the rest.&nbsp; The best way to manage passwords.
-* <a href="{{ site.shortURL }}/XDA-Depot" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
+* <a href="{{ site.uri.shortURL }}/XDA-Depot" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
