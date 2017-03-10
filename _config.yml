@@ -47,6 +47,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 include:
+  - .nojekyll
   - .well-known
 layout: default
 logo: "https://assets.forces.army/naked/images/dandelion-pied-lashes_479x471.png"
