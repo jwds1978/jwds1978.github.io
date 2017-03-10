@@ -62,9 +62,9 @@ show_downloads: false
 sitemap: true
 social:
   links:
-    - https://www.facebook.com/jwds1978
-    - https://www.instagram.com/jwds1978
-    - https://twitter.com/jwds1978
+    - "https://www.facebook.com/jwds1978"
+    - "https://www.instagram.com/jwds1978"
+    - "https://twitter.com/jwds1978"
 source: .
 theme: jekyll-theme-midnight
 timezone: America/Toronto
