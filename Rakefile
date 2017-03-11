@@ -250,7 +250,7 @@ namespace :site do
     end
 
     # Generate the site
-    sh "bundle exec jekyll build -p #{ENV['folder']}/_plugins"
+    sh "bundle exec jekyll build -p $PWD/_plugins"
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
