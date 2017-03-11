@@ -217,7 +217,14 @@ pip-log.txt
 
 
 #############
-## Travis-CI
+## Jekyll
+#############
+
+.cache/
+
+
+#############
+## Travis CI
 #############
 
 vendor/
