@@ -39,7 +39,6 @@ description: "Embrace 'The Suck'"
 destination: _site
 enforce_ssl: "forces.army"
 exclude:
-  - .cache
   - .travis.yml
   - Gemfile
   - Gemfile.lock
