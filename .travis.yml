@@ -6,4 +6,6 @@ rvm:
 script:
   - openssl aes-256-cbc -K $encrypted_4c9ffbc517b5_key -iv $encrypted_4c9ffbc517b5_iv -in travis-ci_org.enc -out travis-ci_org -d
   - chmod 600 travis-ci_org
+  - echo $PWD
+  - ls
   - bundle exec rake site:deploy --trace

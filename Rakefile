@@ -250,6 +250,7 @@ namespace :site do
     end
 
     # Generate the site
+    sh "cp ./_plugins #{PWD}"
     sh "bundle exec jekyll build"
 
     # Commit and push to github
