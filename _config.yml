@@ -39,8 +39,6 @@ description: "Embrace 'The Suck'"
 destination: _site
 enforce_ssl: "forces.army"
 exclude:
-  - .gitattributes
-  - .gitignore
   - .travis.yml
   - Gemfile
   - Gemfile.lock
@@ -53,6 +51,8 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 include:
+  - .gitattributes
+  - .gitignore
   - .nojekyll
   - .well-known
   - CNAME
