@@ -204,7 +204,8 @@ namespace :site do
     Dir.chdir(CONFIG["destination"]) { sh "git checkout -b #{DESTINATION_BRANCH}" }
 
     # Trigger webmentions
-    cache = File.expand_path('.cache', __FILE__)
+    wmpath = ENV["folder"] || "."
+    cache = File.expand_path('../.cache', wmpath)
     FileUtils.mkdir_p( cache )
     cache_all_webmentions = "#{cache}/webmentions.yml"
     cache_sent_webmentions = "#{cache}/webmentions_sent.yml"
