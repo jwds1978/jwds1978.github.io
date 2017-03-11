@@ -2,19 +2,19 @@
 categories: Uncategorized
 comments: true
 date: "2017-03-11 12:10:39 America/Toronto"
-last_modified_at: "2017-03-11 12:10:39 America/Toronto"
+last_modified_at: "2017-03-11 12:21:46 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
-syndicated: false
+syndicated: true
 syndications:
-  - href: 
+  - href: "https://www.facebook.com/jwds1978/posts/10154134014892084"
     text: Facebook
     title: Facebook
-  - href: 
+  - href: "https://twitter.com/jwds1978/status/840613373213605889"
     text: Twitter
     title: Twitter
 tags:
@@ -25,7 +25,7 @@ title: "Rigors of War"
 
 There's a saying in the military&hellip;
 
-> Pain is your friend.&nbsp; Unless, your 'light infantry'.&nbsp; Then, it's probably (degenerative) arthritis.
+> Pain is your friend.&nbsp; Unless, you're 'light infantry'.&nbsp; Then, it's probably (degenerative) arthritis.
 
 Below, are photos of my left leg that I'd taken yesterday and today.&nbsp; While I had a somewhat hard time getting the angle(s) right to capture the scope
 of it, you can still see that shit ain't quite right anyhow.
