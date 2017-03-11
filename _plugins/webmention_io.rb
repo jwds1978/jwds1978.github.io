@@ -13,7 +13,7 @@ require 'net/http'
 require 'uri'
 require 'openssl'
 
-WEBMENTION_CACHE_DIR = File.expand_path('../.cache', __FILE__)
+WEBMENTION_CACHE_DIR = File.expand_path('../../.cache', __FILE__)
 FileUtils.mkdir_p(WEBMENTION_CACHE_DIR)
 
 module Jekyll
