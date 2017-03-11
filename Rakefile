@@ -1,10 +1,3 @@
-#############################################################################
-#
-# Modified version of jekyllrb Rakefile
-# https://github.com/jekyll/jekyll/blob/master/Rakefile
-#
-#############################################################################
-
 require 'rake'
 require 'date'
 require 'yaml'
@@ -218,10 +211,6 @@ namespace :site do
     Dir.chdir(CONFIG["destination"]) do
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
-
-      # Get the deploy key by using Travis' stored variables to decrypt travis-ci.enc
-      # sh "openssl aes-256-cbc -K #{ENV['encrypted_4c9ffbc517b5_key']} -iv #{ENV['encrypted_4c9ffbc517b5_iv']} -in travis-ci_org.enc -out travis-ci_org -d"
-      # sh "chmod 600 travis-ci_org"
       sh "eval $(ssh-agent -s); ssh-add travis-ci_org; git push --force-with-lease --quiet git@github.com:jwds1978/jwds1978.github.io.git +#{DESTINATION_BRANCH}"
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
