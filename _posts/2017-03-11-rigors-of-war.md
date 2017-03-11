@@ -2,7 +2,7 @@
 categories: Uncategorized
 comments: true
 date: "2017-03-11 12:10:39 America/Toronto"
-last_modified_at: "2017-03-11 12:21:46 America/Toronto"
+last_modified_at: "2017-03-11 12:27:35 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -55,7 +55,7 @@ predominately.&nbsp; My prosthetist orthotist (who happens to hold the position 
 as such markings go away within 15 minutes or so, there's not an issue with the device itself.
 
 The device was custom-designed to off-load weight from that knee.&nbsp; Given the damage to that knee, and its extreme instability, a rather large amount of
-force is required in order to move and keep me leg in the proper alignment.&nbsp; Therefore, it's to be expected, there will be some degree of marking and
+force is required in order to move and keep the leg in the proper alignment.&nbsp; Therefore, it's to be expected, there will be some degree of marking and
 such after removing the device.&nbsp; Said markings are only considered an issue if they don't go away within a relatively short period of time.
 
 With that said, I've been walking a lot more lately than I have in some time&hellip;&nbsp; My leg, it's not happy with me; at all.
