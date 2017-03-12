@@ -9,7 +9,6 @@ location:
   latitude: 46.522099
   longitude: -80.95303530000001
   text: "Sudbury, Ontario, Canada"
-syndicated: false
 tags: Disqus
 title: Innominate
 ---

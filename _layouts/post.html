@@ -21,7 +21,7 @@ layout: default
     </span>
     Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
     Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
-    Location:&nbsp; {% if page.location.text %}<span class="h-geo p-location"><data class="p-altitude" value="{{ page.location.altitude }}"></data><data class="p-latitude" value="{{ page.location.latitude }}"></data><data class="p-longitude" value="{{ page.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ page.location.latitude }},{{ page.location.longitude }}" target="_blank" title="{{ page.location.latitude }}, {{ page.location.longitude }}">{{ page.location.text }}</a></span>{% else %}N/A{% endif %}
+    Location:&nbsp; {% if page.location %}<span class="h-geo p-location"><data class="p-altitude" value="{{ page.location.altitude }}"></data><data class="p-latitude" value="{{ page.location.latitude }}"></data><data class="p-longitude" value="{{ page.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ page.location.latitude }},{{ page.location.longitude }}" target="_blank" title="{{ page.location.latitude }}, {{ page.location.longitude }}">{{ page.location.text }}</a></span>{% else %}N/A{% endif %}
   </h6>
 
   <p style="font-size: smaller;">&nbsp;</p>
@@ -43,17 +43,34 @@ layout: default
     {% endfor %}
   </p>
 
-  {% if page.syndicated %}
+  {% if page.syndications %}
   <p style="font-size: smaller;">
     &nbsp;<br />
     Syndicated to:
     <ul>
       {% for syndication in page.syndications %}
       <li>
-        <a class="u-syndication" href="{{ syndication.href }}" rel="syndication" target="_blank" title="{{ syndication.title }}">{{ syndication.text }}</a>
+        <a class="u-syndication" href="{{ syndication.href }}" rel="syndication" target="_blank"{% if syndication.title != blank %} title="{{ syndication.title }}"{% endif %}>{{ syndication.text }}</a>
       </li>
       {% endfor %}
     </ul>
+  </p>
+  {% endif %}
+
+  {% if page.citations %}
+  <p style="font-size: smaller;">
+    &nbsp;<br />
+    References:
+    <ol>
+      {% for citation in page.citations %}
+      <li class="h-cite"{% if citation.slug and citation.slug != blank %} id="cite-{{ citation.slug }}"{% endif %}>
+        {% if citation.href and citation.href != blank %}<cite><a class="p-name u-url" href="" target="_blank" title="{{ citation.name | escape }}">{% else %}<cite class="p-name">{% endif %}{{ citation.name | escape }}{% if citation.href and citation.href != blank %}</a>{% endif %}<cite><br />
+        {% if citation.author and citation.author != blank %}<span class="p-author" style="float: right;">by {{ citation.author | escape }}</span>{% endif %}
+        {% if citation.date.published and citation.date.published != blank %}Published:&nbsp; <time class="dt-published" datetime="{{ citation.date.published | date_to_xmlschema }}">{{ citation.date.published | date: "%d %B %Y @ %T %Z" }}</time><br />{% endif %}
+        {% if citation.date.accessed and citation.date.accessed != blank %}Referenced:&nbsp; <time class="dt-accessed" datetime="{{ citation.date.accessed | date_to_xmlschema }}">{{ citation.date.accessed | date: "%d %B %Y @ %T %Z" }}</time><br />{% endif %}
+      </li>
+      {% endfor %}
+    </ol>
   </p>
   {% endif %}
 </article>

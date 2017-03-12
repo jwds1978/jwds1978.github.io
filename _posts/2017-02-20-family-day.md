@@ -9,7 +9,6 @@ location:
   latitude: 46.49145069999999
   longitude: -80.9899049
   text: "200 Larch St., Sudbury, Ontario, P3E 1C5, Canada"
-syndicated: true
 syndications:
   - href: "https://m.facebook.com/story.php?story_fbid=10154085137382084&id=719142083"
     text: Facebook
