@@ -16,6 +16,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154138183252084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/840980584767852545"
+    text: Twitter
+    title: Twitter
 tags: ["The Suck"]
 title: "Vita Monster"
 ---
@@ -27,5 +34,6 @@ I'm not sure as to what specific brands and/or models are approved and/or covere
 
 <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/fJ9-axht5Z8?rel=0" style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 
+&nbsp;<br />
 Given that I like to outdoor stuffs (i.e. camping, fishing, hunting, etc.), one such as that in the video above would be ideal for me.&nbsp; But, I'll need
 to talk to an ADP vendor though and see what they have that's ADP-approved though.
