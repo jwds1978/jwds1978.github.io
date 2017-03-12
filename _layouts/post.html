@@ -64,7 +64,7 @@ layout: default
     <ol>
       {% for citation in page.citations %}
       <li class="h-cite"{% if citation.slug and citation.slug != blank %} id="cite-{{ citation.slug }}"{% endif %}>
-        {% if citation.href and citation.href != blank %}<cite><a class="p-name u-url" href="" target="_blank" title="{{ citation.name | escape }}">{% else %}<cite class="p-name">{% endif %}{{ citation.name | escape }}{% if citation.href and citation.href != blank %}</a>{% endif %}<cite><br />
+        {% if citation.href and citation.href != blank %}<cite><a class="p-name u-url" href="{{ citation.href }}" target="_blank" title="{{ citation.name | escape }}">{% else %}<cite class="p-name">{% endif %}{{ citation.name | escape }}{% if citation.href and citation.href != blank %}</a>{% endif %}<cite><br />
         {% if citation.author and citation.author != blank %}<span class="p-author" style="float: right;">by {{ citation.author | escape }}</span>{% endif %}
         {% if citation.date.published and citation.date.published != blank %}Published:&nbsp; <time class="dt-published" datetime="{{ citation.date.published | date_to_xmlschema }}">{{ citation.date.published | date: "%d %B %Y @ %T %Z" }}</time><br />{% endif %}
         {% if citation.date.accessed and citation.date.accessed != blank %}Referenced:&nbsp; <time class="dt-accessed" datetime="{{ citation.date.accessed | date_to_xmlschema }}">{{ citation.date.accessed | date: "%d %B %Y @ %T %Z" }}</time><br />{% endif %}
