@@ -3,6 +3,7 @@ cloudflareSSE: true
 title: Social
 ---
 
+<iframe allowtransparency="true" data-aa="453848" height="600" scrolling="no" src="//ad.a-ads.com/453848?size=160x600" style="border: none; float: right; padding: 0; overflow: hidden;" width="160"></iframe>
 * Android File Host
   * <a href="https://www.androidfilehost.com/?w=profile&uid=24369303960683704" rel="me" target="_blank" title="jwds1978">jwds1978</a>
 * Best Gore
