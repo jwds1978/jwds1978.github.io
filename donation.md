@@ -17,19 +17,7 @@ title: Donate
 <p>&nbsp;</p>
 ### Fiat
 * Flattr
-  * <a href="https://flattr.com/profile/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br />
-<script id='fb8zz0h'>
-  (function (i) {
-    var f, s = document.getElementById(i);
-    f = document.createElement('iframe');
-    f.src = '//button.flattr.com/view/?fid=0yx0qk&url=https%3A%2F%2Fforces.army';
-    f.title = 'Flattr';
-    f.height = 62;
-    f.width = 55;
-    f.style.borderWidth = 0;
-    s.parentNode.insertBefore(f, s);
-  })('fb8zz0h');
-</script>
+  * <a href="https://flattr.com/profile/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br /><a href="https://flattr.com/submit/auto?fid=0yx0qk&url=https%3A%2F%2Fforces.army" target="_blank" title=""><img alt="Flattr this" height="20" src="{{ site.uri.assets }}/naked/images/Flattr_93x20.png" style="border: 0px;" width="93" /></a>
 * PayPal
   * <a href="https://www.paypal.me/stew721" rel="me" target="_blank" title="WNS329B9N2G3G">WNS329B9N2G3G</a>&nbsp; <sup>Preferrably, Use the Button Below</sup>
 
