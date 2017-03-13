@@ -7,6 +7,8 @@ layout: default
 {% capture pageDateModified %}{{ page.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 
+<iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+<p style="font-size: smaller;">&nbsp;</p>
 <article class="h-entry">
   <div style="display: none;">
     <p class="p-summary">{{ page.excerpt | replace: '<p>', '' | replace: '</p>', '' }}</p>
@@ -23,13 +25,10 @@ layout: default
     Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
     Location:&nbsp; {% if page.location %}<span class="h-geo p-location"><data class="p-altitude" value="{{ page.location.altitude }}"></data><data class="p-latitude" value="{{ page.location.latitude }}"></data><data class="p-longitude" value="{{ page.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ page.location.latitude }},{{ page.location.longitude }}" target="_blank" title="{{ page.location.latitude }}, {{ page.location.longitude }}">{{ page.location.text }}</a></span>{% else %}N/A{% endif %}
   </h6>
-
   <p style="font-size: smaller;">&nbsp;</p>
-
   <div class="e-content">
     {{ content }}
   </div>
-
   <p style="font-size: smaller;">
     &nbsp;<br />
     Categories:
@@ -42,7 +41,6 @@ layout: default
     &nbsp;<a class="p-category" href="{{ site.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
     {% endfor %}
   </p>
-
   {% if page.syndications %}
   <p style="font-size: smaller;">
     &nbsp;<br />
@@ -56,7 +54,6 @@ layout: default
     </ul>
   </p>
   {% endif %}
-
   {% if page.citations %}
   <p style="font-size: smaller;">
     &nbsp;<br />
@@ -74,10 +71,8 @@ layout: default
   </p>
   {% endif %}
 </article>
-
 <p style="font-size: smaller;">&nbsp;</p>
 <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
-
 {% if page.comments %}
 <!--sse-->
 <p style="font-size: smaller;">&nbsp;</p>
