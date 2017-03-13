@@ -2,7 +2,7 @@
 categories: Uncategorized
 comments: true
 date: "2017-03-13 15:51:26 America/Toronto"
-last_modified_at: "2017-03-13 15:51:26 America/Toronto"
+last_modified_at: "2017-03-13 16:25:16 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -15,7 +15,7 @@ title: "Advertising Network"
 ---
 
 <img alt="" height="75" src="{{ site.uri.assets }}/blog/2017/03/13/advertising-network/project-revenue_75x75.png" style="border: 0px; float: right;" width="75" />
-As you may or may not have noticed, I've started adding various add units throughout the Web site.
+As you may or may not have noticed, I've started adding various ad units throughout the Web site.
 
 While I'd considered AdSense, I've opted for <a href="{{ site.uri.shortURL }}/Anonymous-Ads" target="_blank" title="Anonymous Ads">Anonymous Ads</a> instead.&nbsp; I
 like their network model, in as much as, it's extremely easy to get setup and they payout in Bitcoin.&nbsp; Google doesn't support Bitcoin
