@@ -3,6 +3,7 @@ fnrsfyyzkkwbxmrc: 16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j
 title: Donate
 ---
 
+<iframe allowtransparency="true" data-aa="453848" height="600" scrolling="no" src="//ad.a-ads.com/453848?size=160x600" style="border: none; float: right; padding: 0; overflow: hidden;" width="160"></iframe>
 ### Bitcoin&nbsp; <sup>Preferred</sup>
 * <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>&nbsp; <sup>Primary</sup>
 
