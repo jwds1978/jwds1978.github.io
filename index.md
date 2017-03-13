@@ -46,8 +46,15 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
 
+<iframe allowtransparency="true" data-aa="453725" height="60" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+
 <p>&nbsp;</p>
 ### Use the Things
+* <a href="{{ site.uri.shortURL }}/Anonymous-Ads" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
+  * For Advertisers
+    * You don't need to pay for fake clicks and impressions.&nbsp; Create your advertising campaign in less than a minute.&nbsp; No registration required!
+  * For Publishers
+    * Ads are safe and lightweight, no scripts or cookies, just plain HTML+CSS!&nbsp; Automatic withdrawals to your Bitcoin address.&nbsp; Any Web site will do.
 * <a href="{{ site.uri.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
 * <a href="{{ site.uri.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
