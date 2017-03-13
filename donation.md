@@ -29,3 +29,5 @@ title: Donate
     </form>
   </p>
 </div>
+
+<p>&nbsp;</p>
