@@ -2,6 +2,9 @@
 title: "Embrace 'The Suck'"
 ---
 
+<iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+
+<p>&nbsp;</p>
 Embrace 'the suck'&hellip;&nbsp; It's a very Buddhist concept.
 
 When we deny what reality is giving us, what is really happening, then we create suffering.&nbsp; So, life is a dance between minimizing expectations and
@@ -48,3 +51,6 @@ Be brave&hellip;&nbsp; Have faith&hellip;&nbsp; Move on to the next level of gro
 alive.&nbsp; It's how one was meant to feel.
 
 One has just forgotten because they've gotten used to 'the suck'.
+
+<p>&nbsp;</p>
+<iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
