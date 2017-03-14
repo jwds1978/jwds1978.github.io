@@ -131,10 +131,13 @@ title: "Curriculum Vitae"
   </span>
   <h3 id="projects">Projects</h3>
   <p>
+    <a href="{{ site.uri.assets }}/naked/images/project_forces-army_700x700.jpg" target="_blank" title="">
+      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/project_forces-army_040x040.jpg" style="border: 0px; float: right;" width="40" />
+    </a>
     <a href="https://forces.army" rel="me" title="{{ site.title }}">forces.army</a>&nbsp; <sup>Web</sup><br />
     Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, JavaScript, JSON, Liquid, Markdown, Regular Expression, Ruby, Text, XML, YAML</sup><br />
     January 2017 &#8211; Present&nbsp; <sup>3 Months</sup><br />
-    <object data="https://travis-ci.org/jwds1978/jwds1978.github.io.svg?branch=source" style="border: 0px; float: right; vertical-align: middle;" type="image/svg+xml"></object>
+    <object data="https://travis-ci.org/jwds1978/jwds1978.github.io.svg?branch=source" style="border: 0px; float: left; vertical-align: middle;" type="image/svg+xml"></object>
     Embrace &quot;The Suck&quot;
   </p>
   <p>
