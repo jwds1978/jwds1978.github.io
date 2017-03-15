@@ -24,7 +24,7 @@ GEM
     ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
-    gh (0.15.0)
+    gh (0.15.1)
       addressable (~> 2.4.0)
       backports
       faraday (~> 0.8)
