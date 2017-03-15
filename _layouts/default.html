@@ -138,9 +138,14 @@
     {% endif %}
     {% if page.url contains "/blog/" and page.url != "/blog/categories/" and page.url != "/blog/tags/" %}
     <script type="text/javascript">
-      ! function (a, b, c, d, e, f, g) {
-        a[c] = a[c] || [], f = b.createElement(d), f.async = 1, f.src = e, g = b.getElementsByTagName(d)[0], g.parentNode.insertBefore(f, g)
-      }(window, document, "_gscq", "script", "https://widgets.getsitecontrol.com/75985/script.js");
+      (function (w, i, d, g, e, t, s) {
+        w[d] = w[d] || [];
+        t = i.createElement(g);
+        t.async = 1;
+        t.src = e;
+        s = i.getElementsByTagName(g)[0];
+        s.parentNode.insertBefore(t, s);
+      })(window, document, '_gscq', 'script', 'https://widgets.getsitecontrol.com/75985/script.js');
     </script>
     <script type="text/javascript">
       _gscq.push(["show", 157641]);
