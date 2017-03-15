@@ -121,10 +121,10 @@
       </section>
     </div>
     {% if page.comments %}
-    <script async id="dsq-count-scr" src="//jwds.disqus.com/count.js" type="text/javascript"></script>
+    <script async id="dsq-count-scr" src="https://jwds.disqus.com/count.js" type="text/javascript"></script>
     {% endif %}
     {% if page.url == "/social/" %}
-    <script async charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+    <script async charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
     {% endif %}
     {% if site.google_analytics %}
     <script type="text/javascript">    
@@ -136,10 +136,15 @@
       } catch (a) {}
     </script>
     {% endif %}
+    {% if page.url contains "/blog/" and page.url != "/blog/categories/" and page.url != "/blog/tags/" %}
     <script type="text/javascript">
       ! function (a, b, c, d, e, f, g) {
         a[c] = a[c] || [], f = b.createElement(d), f.async = 1, f.src = e, g = b.getElementsByTagName(d)[0], g.parentNode.insertBefore(f, g)
-      }(window, document, "_gscq", "script", "//widgets.getsitecontrol.com/75985/script.js"){% if page.url contains "/blog/" and page.url != "/blog/categories/" and page.url != "/blog/tags/" %}, _gscq.push(["show", 157641]){% endif %};
+      }(window, document, "_gscq", "script", "https://widgets.getsitecontrol.com/75985/script.js");
     </script>
+    <script type="text/javascript">
+      _gscq.push(["show", 157641]);
+    </script>
+    {% endif %}
   </body>
 </html>
