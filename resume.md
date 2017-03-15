@@ -131,8 +131,8 @@ title: "Curriculum Vitae"
   </span>
   <h3 id="projects">Projects</h3>
   <p>
-    <a href="{{ site.uri.assets }}/naked/images/project_forces-army_700x700.jpg" target="_blank" title="">
-      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/project_forces-army_040x040.jpg" style="border: 0px; float: right;" width="40" />
+    <a href="{{ site.uri.assets }}/naked/images/project_forces-army_1080x1080.png" target="_blank" title="">
+      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/project_forces-army_0040x0040.png" style="border: 0px; float: right;" width="40" />
     </a>
     <a href="https://forces.army" rel="me" title="{{ site.title }}">forces.army</a>&nbsp; <sup>Web</sup><br />
     Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, JavaScript, JSON, Liquid, Markdown, Regular Expression, Ruby, Text, XML, YAML</sup><br />
