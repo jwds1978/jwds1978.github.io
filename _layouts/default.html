@@ -127,7 +127,7 @@
     <script async charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
     {% endif %}
     {% if site.google_analytics %}
-    <script type="text/javascript">    
+    <script type="text/javascript">
       var gaJsHost = "https:" == document.location.protocol ? "https://ssl." : "http://www.";
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
       try {
@@ -136,7 +136,6 @@
       } catch (a) {}
     </script>
     {% endif %}
-    {% if page.url contains "/blog/" and page.url != "/blog/" and page.url != "/blog/categories/" and page.url != "/blog/tags/" %}
     <script type="text/javascript">
       (function (w, i, d, g, e, t, s) {
         w[d] = w[d] || [];
@@ -145,8 +144,7 @@
         t.src = e;
         s = i.getElementsByTagName(g)[0];
         s.parentNode.insertBefore(t, s);
-      })(window, document, '_gscq', 'script', 'https://widgets.getsitecontrol.com/75985/script.js'), _gscq.push(["show", 157641]);
+      })(window, document, '_gscq', 'script', 'https://widgets.getsitecontrol.com/75985/script.js');
     </script>
-    {% endif %}
   </body>
 </html>
