@@ -35,7 +35,7 @@ copyright:
   singleLine:
     text: "Copyright (c) 2017 James W.D. Stewart.  All rights reserved."
     html: "&copy;2017 James W.D. Stewart.&nbsp; All rights reserved."
-description: "Embrace 'The Suck'"
+# description: "Embrace 'The Suck'"
 destination: _site
 enforce_ssl: "forces.army"
 exclude:
