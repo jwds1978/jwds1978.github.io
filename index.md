@@ -64,4 +64,6 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
   * Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
 * <a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     * Your last password&hellip;&nbsp; Just remember your master password and LastPass remembers the rest.&nbsp; The best way to manage passwords.
+* <a href="{{ site.uri.shortURL }}/xCoins" target="_blank" title="xCoins">xCoins</a>
+  * Get bitcoin quickly; receive bitcoin as a secured loan&hellip;&nbsp; Lend bitcoin for a fee.&nbsp; Secured lending is just like exchanging, only better.&nbsp; It allows you to get bitcoin quickly.&nbsp; Most bitcoin exchanges do not allow payments with credit cards or make you wait several days before receiving bitcoin.&nbsp; In contrast, xCoins is instant!&nbsp; The entire process takes only a few minutes.
 * <a href="{{ site.uri.shortURL }}/XDA-Depot" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
