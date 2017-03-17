@@ -252,7 +252,8 @@ title: "Curriculum Vitae"
       <span class="p-job-title">CEO / Founder / President</span><br />
       <span class="p-name p-org">TekStorm Inc.</span><br />
       <time class="dt-start" datetime="2013-10">October 2013</time> &#8211; <time class="dt-end" datetime="2016">2016</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P3Y">3 Years</time></sup>
+      <sup><time class="dt-duration" datetime="P3Y">3 Years</time></sup><br />
+      $237,151 CAD per Year
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -261,7 +262,9 @@ title: "Curriculum Vitae"
       <span class="p-job-title">Technical Analyst</span><br />
       <a class="p-name p-org u-url" href="https://www.whmcs.com" target="_blank" title="WHMCS">WHMCS</a><br />
       <time class="dt-start" datetime="2013-02">February 2013</time> &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup>
+      <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
+      $2,234 USD per Month&nbsp;
+      <sup>~$2,984 CAD per Month</sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -278,7 +281,8 @@ title: "Curriculum Vitae"
       <span class="p-job-title">CSR I</span> &#8212; Time Warner Cable (New York City)<br />
       <a class="p-name p-org u-url" href="http://www.teletech.com" target="_blank" title="TeleTech">TeleTech</a><br />
       <time class="dt-start" datetime="2011-09">September 2011</time> &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P6M">6 Months</time></sup>
+      <sup><time class="dt-duration" datetime="P6M">6 Months</time></sup><br />
+      $16 CAD per Hour
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -303,7 +307,8 @@ title: "Curriculum Vitae"
       <span class="p-job-title">Technical Support Professional</span> &#8212; Hewlett-Packard<br />
       <a class="p-name p-org u-url" href="http://www.stream.com" target="_blank" title="Stream Global Services">Stream Global Services</a><br />
       <time class="dt-start" datetime="2009-11">November 2009</time> &#8211; <time class="dt-end" datetime="2010-11">November 2010</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup>
+      <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
+      $10 CAD per Hour
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -312,7 +317,8 @@ title: "Curriculum Vitae"
       <span class="p-job-title">Technical Support Specialist</span> &#8212; Hewlett-Packard<br />
       <a class="p-name p-org u-url" href="http://www.sitel.com/countries/canada" target="_blank" title="Sitel Canada">Sitel</a><br />
       <time class="dt-start" datetime="2006-03">March 2006</time> &#8211; <time class="dt-end" datetime="2009-10">October 2009</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P3Y8M">3 Years, 8 Months</time></sup>
+      <sup><time class="dt-duration" datetime="P3Y8M">3 Years, 8 Months</time></sup><br />
+      $20 CAD per Hour
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -320,7 +326,8 @@ title: "Curriculum Vitae"
       <span class="p-job-title">Technical Relationship Manager</span> &#8212; Verizon DSL<br />
       <span class="p-name p-org">Multi-Channel Communications, Inc.</span><br />
       <time class="dt-start" datetime="2005-05">May 2005</time> &#8211; <time class="dt-end" datetime="2006-03">March 2006</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
+      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup><br />
+      $36 CAD per Hour
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -328,7 +335,8 @@ title: "Curriculum Vitae"
       <span class="p-job-title">Technical Support Manager</span> &#8212; Verizon DSL<br />
       <span class="p-name p-org">RMH Teleservices</span><br />
       <time class="dt-start" datetime="2001-06">June 2001</time> &#8211; <time class="dt-end" datetime="2005-05">May 2005</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P4Y">4 Years</time></sup>
+      <sup><time class="dt-duration" datetime="P4Y">4 Years</time></sup><br />
+      $36 CAD per Hour
     </p>
   </div>
   <div class="h-card h-event p-experience">
