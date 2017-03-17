@@ -33,16 +33,16 @@ fact that out-of-the-box software might not meet all of your expectations.&nbsp;
 personalize your shop to stand out from the crowd and maximize your earnings.
 
 <p>&nbsp;</p>
+### Web Development
+James writes CSS, HTML, JavaScript, and PHP to make a Web site come alive.&nbsp; From individual business Web sites, to blogs, or even Web
+apps.
+
+<p>&nbsp;</p>
 ### Web Hosting Software
 To stay competitive in the ever-evolving market of broadly-defined Web hosting &#8212; you can't stay idle.&nbsp; To avoid being left far behind the others,
 you should undoubtedly consider using top-of-the-line systems and Web applications.&nbsp; However, since the possibilities they offer are usually not
 sufficient for a modern business' needs, this is only half of the battle.&nbsp; James will customize the software for you, to automate your daily tasks
 and/or to help you achieve all of your goals.
-
-<p>&nbsp;</p>
-### Web Development
-James writes CSS, HTML, JavaScript, and PHP to make a Web site come alive.&nbsp; From individual business Web sites, to blogs, or even Web
-apps.
 
 <p>&nbsp;</p>
 James is happy to take on most any project&hellip;&nbsp; So, <a href="{{ site.url }}/contact" rel="me" title="">get in touch</a> with him!
