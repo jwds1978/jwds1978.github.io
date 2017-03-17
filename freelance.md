@@ -17,16 +17,6 @@ Below are just a few of the services that James provides on a freelance basis.&n
     </ul>
   </li>
   <li>
-    Web Master
-    <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
-      <li>Hourly:&nbsp; $21&#8211;39 CAD</li>
-      <li>Weekly:&nbsp; $829&#8211;1,549 CAD</li>
-      <li>Bi-Weekly:&nbsp; $1,657&#8211;3,099 CAD</li>
-      <li>Monthly:&nbsp; $3,590&#8211;6,714 CAD</li>
-      <li>Annually:&nbsp; $46,086&#8211;80,562 CAD</li>
-    </ul>
-  </li>
-  <li>
     Web Applications Developer
     <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
       <li>Hourly:&nbsp; $30&#8211;45 CAD</li>
@@ -34,6 +24,16 @@ Below are just a few of the services that James provides on a freelance basis.&n
       <li>Bi-Weekly:&nbsp; $2,393&#8211;3,581 CAD</li>
       <li>Monthly:&nbsp; $5,185&#8211;7,759 CAD</li>
       <li>Annually:&nbsp; $62,224&#8211;93,109 CAD</li>
+    </ul>
+  </li>
+  <li>
+    Web Master
+    <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
+      <li>Hourly:&nbsp; $21&#8211;39 CAD</li>
+      <li>Weekly:&nbsp; $829&#8211;1,549 CAD</li>
+      <li>Bi-Weekly:&nbsp; $1,657&#8211;3,099 CAD</li>
+      <li>Monthly:&nbsp; $3,590&#8211;6,714 CAD</li>
+      <li>Annually:&nbsp; $46,086&#8211;80,562 CAD</li>
     </ul>
   </li>
 </ul>
