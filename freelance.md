@@ -37,3 +37,13 @@ Below are just a few of the services that James provides on a freelance basis.&n
     </ul>
   </li>
 </ul>
+
+<p>&nbsp;</p>
+### (Maximum) Paid/Working Time
+<ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
+  <li>Hourly:&nbsp; 1 Hour</li>
+  <li>Weekly:&nbsp; 35 Hours</li>
+  <li>Bi-Weekly:&nbsp; 70 Hours</li>
+  <li>Monthly:&nbsp; 152 Hours</li>
+  <li>Annually:&nbsp; 1,820 Hours</li>
+</ul>
