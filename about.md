@@ -42,4 +42,7 @@ and/or to help you achieve all of your goals.
 <p>&nbsp;</p>
 ### Web Development
 James writes CSS, HTML, JavaScript, and PHP to make a Web site come alive.&nbsp; From individual business Web sites, to blogs, or even Web
-apps&hellip;&nbsp; He's happy to take on most any project.&nbsp; So, <a href="{{ site.url }}/contact" rel="me" title="">get in touch</a> with him!
+apps.
+
+<p>&nbsp;</p>
+James is happy to take on most any project&hellip;&nbsp; So, <a href="{{ site.url }}/contact" rel="me" title="">get in touch</a> with him!
