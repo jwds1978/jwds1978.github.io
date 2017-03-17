@@ -27,13 +27,13 @@ Below are just a few of the services that James provides on a freelance basis.&n
     </ul>
   </li>
   <li>
-    Web Software Developer
+    Web Applications Developer
     <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
-      <li>Hourly:&nbsp; $25&#8211;42 CAD</li>
-      <li>Weekly:&nbsp; $985&#8211;1,671 CAD</li>
-      <li>Bi-Weekly:&nbsp; $1,970&#8211;3,342 CAD</li>
-      <li>Monthly:&nbsp; $4,269&#8211;7,240 CAD</li>
-      <li>Annually:&nbsp; $51,223&#8211;86,885 CAD</li>
+      <li>Hourly:&nbsp; $30&#8211;45 CAD</li>
+      <li>Weekly:&nbsp; $1,197&#8211;1,791 CAD</li>
+      <li>Bi-Weekly:&nbsp; $2,393&#8211;3,581 CAD</li>
+      <li>Monthly:&nbsp; $5,185&#8211;7,759 CAD</li>
+      <li>Annually:&nbsp; $62,224&#8211;93,109 CAD</li>
     </ul>
   </li>
 </ul>
