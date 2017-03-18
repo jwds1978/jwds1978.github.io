@@ -50,7 +50,7 @@ specifics of your project(s) and/or needs for a personalized estimate/quotation.
 </ul>
 
 <p>&nbsp;</p>
-### Work-Time&nbsp; <sup>No Rollovers</sup>
+### Work-Time Things&nbsp; <sup>No Rollovers</sup>
 <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
   <li>Hourly:&nbsp; 1 Hour</li>
   <li>Weekly:&nbsp; 35 Hours</li>
@@ -61,16 +61,16 @@ specifics of your project(s) and/or needs for a personalized estimate/quotation.
 
 <p>&nbsp;</p>
 ### About the Rate Things
-Clients obsessed with nickel and diming are pathological&hellip;&nbsp; Although James is open to negotiation, and his rates are variable depending upon the
-individual project(s), there are acceptable ranges for the associated pay rate(s).
+Clients obsessed with nickel-and-diming are pathological&hellip;&nbsp; Although James is open to negotiation, and his rates are variable depending upon the
+individual project(s), there are acceptable and realistic ranges for the associated pay rate(s).
 
 James only wants to work with clients who treat him with the professionalism and respect he deserves.&nbsp; If you see him in the same light as your kid
-nephew who 'builds websites', then you're setting him up to be screwed over.&nbsp; Trust me &#8212; the only bad clients he's ever worked with were bad from
-the start.&nbsp; There was always something unsettling about how their engagement was drafted, and not trusting his gut always led to a nightmare situation
-at the 11<sup>th</sup> hour.
+nephew who 'builds Web sites', then you're setting him up to be screwed over.&nbsp; Trust me &#8212; the only bad clients he's ever worked with were bad
+from the start.&nbsp; There was always something unsettling about how their engagement was drafted, and not trusting his gut always led to a nightmare
+situation at the 11<sup>th</sup> hour.
 
 James' bandwidth is limited &#8212; he can only work on so many projects at any given time.&nbsp; And, while fear often irrationally leads us to accepting
-whatever we can get, its always better to suffer short-term (and, do a little more lead generation and cultivation) instead of working long-term with a
+whatever we can get, it's always better to suffer short-term (and, do a little more lead generation and cultivation) instead of working long-term with a
 toxic client.
 
 If the math doesn't work out with what you want to do and the budget you have to do it&hellip; do less.
