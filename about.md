@@ -34,8 +34,7 @@ personalize your shop to stand out from the crowd and maximize your earnings.
 
 <p>&nbsp;</p>
 ### Web Development
-James writes CSS, HTML, JavaScript, and PHP to make a Web site come alive.&nbsp; From individual business Web sites, to blogs, or even Web
-apps.
+James writes CSS, HTML, JavaScript, and PHP to make a Web site come alive.&nbsp; From individual business Web sites, to blogs, or even Web apps.
 
 <p>&nbsp;</p>
 ### Web Hosting Software

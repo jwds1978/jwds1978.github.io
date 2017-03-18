@@ -2,7 +2,8 @@
 title: "Freelance"
 ---
 
-Below are just a few of the services that James provides on a freelance basis.&nbsp; Contact him with specifics of your project(s) and/or needs for a personalized estimate/quotation.
+Below are just a few of the services that James provides on a freelance basis.&nbsp; <a href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with
+specifics of your project(s) and/or needs for a personalized estimate/quotation.
 
 <p>&nbsp;</p>
 <ul>
