@@ -56,6 +56,8 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
     * You don't need to pay for fake clicks and impressions.&nbsp; Create your advertising campaign in less than a minute.&nbsp; No registration required!
   * For Publishers
     * Ads are safe and lightweight, no scripts or cookies, just plain HTML+CSS!&nbsp; Automatic withdrawals to your Bitcoin address.&nbsp; Any Web site will do.
+* <a href="{{ site.uri.shortURL }}/ASUS-WebStorage" target="_blank" title="ASUS WebStorage">ASUS WebStorage</a>
+  * With ASUS WebStorage, you can backup your files automatically, listen to your latest music collection over the cloud, and edit important file(s) on different devices.&nbsp; Now you can truly travel at ease, without the loads of cables and devices, on the road.
 * <a href="{{ site.uri.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
 * <a href="{{ site.uri.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
