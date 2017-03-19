@@ -7,8 +7,10 @@ layout: default
 {% capture pageDateModified %}{{ page.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 
+{% if page.adsDisplay != false %}
 <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
 <p style="font-size: smaller;">&nbsp;</p>
+{% endif %}
 <article class="h-entry">
   <div style="display: none;">
     <p class="p-summary">{{ page.excerpt | replace: '<p>', '' | replace: '</p>', '' }}</p>
@@ -71,8 +73,10 @@ layout: default
   </p>
   {% endif %}
 </article>
+{% if page.adsDisplay != false %}
 <p style="font-size: smaller;">&nbsp;</p>
 <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+{% endif %}
 {% if page.comments %}
 <!--sse-->
 <p style="font-size: smaller;">&nbsp;</p>
@@ -88,8 +92,10 @@ layout: default
   }();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" target="_blank">comments powered by Disqus.</a></noscript>
+<!--/sse-->
+{% endif %}
+{% if page.adsDisplay != false %}
 <p style="font-size: smaller;">&nbsp;</p>
 <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
-<!--/sse-->
 {% endif %}
 <p style="font-size: smaller;">&nbsp;</p>

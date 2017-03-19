@@ -1,4 +1,5 @@
 ---
+adsDisplay: false
 categories: Uncategorized
 comments: true
 date: "2017-03-13 15:51:26 America/Toronto"
@@ -9,8 +10,7 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
-tags:
-  - Monetization
+tags: Monetization
 title: "Advertising Network"
 ---
 
