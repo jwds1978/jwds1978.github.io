@@ -24,6 +24,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $19 CAD</li>
       <li>Weekly:&nbsp; &#8793; $757 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $1,514 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $1,640 CAD</li>
       <li>Monthly:&nbsp; &#8793; $3,280 CAD</li>
       <li>Annually:&nbsp; &#8793; $39,365 CAD</li>
     </ul>
@@ -38,6 +39,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $43 CAD</li>
       <li>Weekly:&nbsp; &#8793; $1,719 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $3,439 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $3,725 CAD</li>
       <li>Monthly:&nbsp; &#8793; $7,451 CAD</li>
       <li>Annually:&nbsp; &#8793; $89,409 CAD</li>
     </ul>
@@ -50,6 +52,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $25 CAD</li>
       <li>Weekly:&nbsp; &#8793; $994 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $1,987 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $2,153 CAD</li>
       <li>Monthly:&nbsp; &#8793; $4,306 CAD</li>
       <li>Annually:&nbsp; &#8793; $51,669 CAD</li>
     </ul>
@@ -61,6 +64,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $27 CAD</li>
       <li>Weekly:&nbsp; &#8793; $1,085 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $2,169 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $2,351 CAD</li>
       <li>Monthly:&nbsp; &#8793; $4,701 CAD</li>
       <li>Annually:&nbsp; &#8793; $56,412 CAD</li>
     </ul>
@@ -73,6 +77,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $23 CAD</li>
       <li>Weekly:&nbsp; &#8793; $897 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $1,794 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $1,943 CAD</li>
       <li>Monthly:&nbsp; &#8793; $3,886 CAD</li>
       <li>Annually:&nbsp; &#8793; $46,639 CAD</li>
     </ul>
@@ -84,6 +89,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $45 CAD</li>
       <li>Weekly:&nbsp; &#8793; $1,794 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $3,586 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $3,885 CAD</li>
       <li>Monthly:&nbsp; &#8793; $7,772 CAD</li>
       <li>Annually:&nbsp; &#8793; $93,258 CAD</li>
     </ul>
@@ -97,6 +103,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $31 CAD</li>
       <li>Weekly:&nbsp; &#8793; $1,232 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $2,465 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $2,670 CAD</li>
       <li>Monthly:&nbsp; &#8793; $5,339 CAD</li>
       <li>Annually:&nbsp; &#8793; $64,074 CAD</li>
     </ul>
@@ -108,6 +115,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $33 CAD</li>
       <li>Weekly:&nbsp; &#8793; $1,321 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $2,641 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $2,861 CAD</li>
       <li>Monthly:&nbsp; &#8793; $5,723 CAD</li>
       <li>Annually:&nbsp; &#8793; $68,674 CAD</li>
     </ul>
@@ -119,6 +127,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $29 CAD</li>
       <li>Weekly:&nbsp; &#8793; $1,134 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $2,267 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $2,456 CAD</li>
       <li>Monthly:&nbsp; &#8793; $4,913 CAD</li>
       <li>Annually:&nbsp; &#8793; $58,958 CAD</li>
     </ul>
@@ -130,6 +139,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
       <li>Hourly:&nbsp; &#8793; $22 CAD</li>
       <li>Weekly:&nbsp; &#8793; $885 CAD</li>
       <li>Bi-Weekly:&nbsp; &#8793; $1,771 CAD</li>
+      <li>Semi-Monthly:&nbsp; &#8793; $1,919 CAD</li>
       <li>Monthly:&nbsp; &#8793; $3,838 CAD</li>
       <li>Annually:&nbsp; &#8793; $46,054 CAD</li>
     </ul>
@@ -142,6 +152,7 @@ the specifics of your particular project(s) and/or needs for a personalized esti
   <li>Hourly:&nbsp; 1 Hour</li>
   <li>Weekly:&nbsp; 35 Hours</li>
   <li>Bi-Weekly:&nbsp; 70 Hours</li>
+  <li>Semi-Monthly:&nbsp; 76 Hours</li>
   <li>Monthly:&nbsp; 152 Hours</li>
   <li>Annually:&nbsp; 1,820 Hours</li>
 </ul>
