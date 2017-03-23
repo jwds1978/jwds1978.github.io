@@ -47,11 +47,9 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
 {% include blog_last.htm %}
 
 <p>&nbsp;</p>
-### Give the Things
-<div style="text-align: center;">
-  <script async charset="utf-8" src="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=CA&ID=V20070822%2FCA%2Fjwds-20%2F8004%2F1923f93f-485f-4fa2-b257-f34287709d05" type="text/javascript"></script>
-  <noscript><a href="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=CA&ID=V20070822%2FCA%2Fjwds-20%2F8004%2F1923f93f-485f-4fa2-b257-f34287709d05&Operation=NoScript" rel="nofollow" target="_blank">Amazon.ca Widgets</a></noscript>
-</div>
+### Gift/Give the Things
+* Amazon
+  * <a href="{{ site.uri.shortURL }}/Amazon_Wish-List" target="_blank" title="">(Universal) Wish List</a><img alt="" height="1" src="https://ir-ca.amazon-adsystem.com/e/ir?t=forces-army-20" style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
 
 <p>&nbsp;</p>
 <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
