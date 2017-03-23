@@ -49,8 +49,8 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
 <p>&nbsp;</p>
 ### Give the Things
 <div style="text-align: center;">
-  <script charset="utf-8" src="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=CA&ID=V20070822%2FCA%2Fjwds-20%2F8004%2Ffa57ae9e-2d34-4a35-b17f-fc943322646a" type="text/javascript"></script>
-  <noscript><a href="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=CA&ID=V20070822%2FCA%2Fjwds-20%2F8004%2Ffa57ae9e-2d34-4a35-b17f-fc943322646a&Operation=NoScript" rel="nofollow" target="_blank">Amazon.ca Widgets</a></noscript>
+  <script async charset="utf-8" src="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=CA&ID=V20070822%2FCA%2Fjwds-20%2F8004%2F1923f93f-485f-4fa2-b257-f34287709d05" type="text/javascript"></script>
+  <noscript><a href="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=CA&ID=V20070822%2FCA%2Fjwds-20%2F8004%2F1923f93f-485f-4fa2-b257-f34287709d05&Operation=NoScript" rel="nofollow" target="_blank">Amazon.ca Widgets</a></noscript>
 </div>
 
 <p>&nbsp;</p>
