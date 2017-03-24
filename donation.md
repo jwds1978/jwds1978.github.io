@@ -32,6 +32,7 @@ title: Donate
   </p>
 </div>
 
+<p>&nbsp;</p>
 ### Wish List
 * <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Amazon_wish-list_99x40.png" style="border: 0px; float: right;" width="99" />Amazon
   * <a href="{{ site.uri.shortURL }}/Amazon_Wish-List" target="_blank" title="">(Universal) Wish List</a><img alt="" height="1" src="https://ir-ca.amazon-adsystem.com/e/ir?t=forces-army-20" style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
