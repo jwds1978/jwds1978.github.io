@@ -16,16 +16,18 @@
   * 51.253775, -85.32321389999998, 172
 * Sudbury, Ontario, Canada
   * 46.522099, -80.95303530000001, 267
-* The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada
-  * 46.4870493, -80.99035090000001, 263
-* The Frood Hotel, 557 Kathleen St., Sudbury, Ontario, P3C 2N1, Canada
-  * 46.5001578, -81.004458, 277
-* Tim Hortons, 1003 Kingsway, Sudbury, Ontario, P3B 2E6, Canada
-  * 46.4998513, -80.96398699999997, 274
 * 200 Larch St., Sudbury, Ontario, P3E 1C5, Canada
   * 46.49145069999999, -80.9899049, 259
 * Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada
   * 46.4955102, -80.99748220000004, 266
+* The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada
+  * 46.4870493, -80.99035090000001, 263
+* The Frood Hotel, 557 Kathleen St., Sudbury, Ontario, P3C 2N1, Canada
+  * 46.5001578, -81.004458, 277
+* Tim Hortons, 196 Cedar St., Sudbury, Ontario, P3E 1B4, Canada
+  * 46.4922063, -80.99056200000001, 260
+* Tim Hortons, 1003 Kingsway, Sudbury, Ontario, P3B 2E6, Canada
+  * 46.4998513, -80.96398699999997, 274
 
 ### Resources
 * Conversions
