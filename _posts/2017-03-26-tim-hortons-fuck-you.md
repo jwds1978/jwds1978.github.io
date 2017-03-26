@@ -15,7 +15,7 @@ citations:
     slug: "keppra-side-effects"
 comments: true
 date: "2017-03-26 15:07:22 America/Toronto"
-last_modified_at: "2017-03-26 15:07:22 America/Toronto"
+last_modified_at: "2017-03-26 15:49:47 America/Toronto"
 layout: post
 location:
   altitude: 260
@@ -65,8 +65,8 @@ shitbag, on the behalf of that group of people the other day?&nbsp; While I can'
 peoples full-out sleeping and snoring-a-way.&nbsp; These people, in particular, weren't bothered in any way whatsoever; at least, not duing my time in th store
 anyway.&nbsp; Moreover, I've seen a few of these people on different occasions being somewhat friendly-like with the staff.&nbsp; So, take that as you will.
 
-<iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/fIwQeGnn0so?rel=0" style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+<iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/aUF-Bbf3iwg?rel=0" style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 
 &nbsp;<br />
 I stumbled upon the video above while searching the InterWeb for other digruntled Tim Hortons customers.&nbsp; In doing so, I came along the Fuck Tim Hortons Web
-site.
+site. <sup> <a href="#cite-fuck-tim-hortons" rel="me" title="">1</a></sup>
