@@ -7,6 +7,10 @@ title: "Store"
     <a href="https://store.forces.army" rel="alternate me" target="_blank" title="">https://store.forces.army</a>
   </span><br />
   &nbsp;<br />
+  <span style="font-size: smaller;">
+    Search is unavailable from within this Web page&hellip;&nbsp; Click the hyperlink above to search the aStore directly.
+  </span><br />
+  &nbsp;<br />
   &nbsp;
 </div>
 
