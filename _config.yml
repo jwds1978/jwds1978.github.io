@@ -80,6 +80,7 @@ tld: "forces.army"
 twitter:
   username: jwds1978
 uri:
+  aStore: "http://store.forces.army"
   assets: "https://assets.forces.army"
   googleMaps: "https://www.google.ca/maps/place"
   shortURL: "https://go.forces.army"
