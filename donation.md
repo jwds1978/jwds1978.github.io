@@ -76,6 +76,12 @@ title: Donate
         Low
         <ul>
           <li>
+            <a href="{{ site.uri.aStore }}/#detail/B01N4JZ295" rel="me" title="">
+              MSI 2017 Newest GT83VR 7RF-200CA Titan SLI. VR-Ready, i7-7920HQ GTX1080 SLI, 64GB/1TBSSD Plus 1TB Notebook Computer, Aluminum Black	MSI 2017 Newest
+              GT83VR 7RF-200CA Titan SLI. VR-Ready, i7-7920HQ GTX1080 SLI, 64GB/1TBSSD Plus 1TB Notebook Computer, Aluminum Black
+            </a>
+          </li>
+          <li>
             <a href="{{ site.uri.aStore }}/#detail/B00XC774SE" rel="me" title="">Seek Thermal XR-Extended Range Thermal Camera for Android</a>
           </li>
         </ul>
@@ -132,11 +138,6 @@ title: Donate
           <li>
             <a href="http://www.bestbuy.ca/en-ca/product/m6h77aa/10418304.aspx" target="_blank" title="">
               HP Power Pack Plus 18000mAh Portable Charger (M6H77AA) - Black/Blue
-            </a>
-          </li>
-          <li>
-            <a href="http://www.bestbuy.ca/en-ca/product/gt83vr-7rf-200ca/10581967.aspx" target="_blank" title="">
-              MSI Notebook GT83VR 7RF-200CA - 18.4 inch - Core i7-7920HQ - GTX1080x2 - 16GBx4 - 1TB+1TB - Windows 10 Retail - Online Only
             </a>
           </li>
           <li>
