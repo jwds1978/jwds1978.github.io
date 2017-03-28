@@ -40,14 +40,12 @@ title: Donate
     Amazon<br />
     <span style="font-size: smaller;">
       &nbsp;<br />
-      Ship to:<br />
-      &nbsp;<br />
       <!--sse-->
-      &nbsp; James Stewart<br />
-      &nbsp; c/o David Solomon<br />
-      &nbsp; 1607 - 720 Bruce Ave.<br />
-      &nbsp; Sudbury, Ontario&nbsp; P3C 5C4<br />
-      &nbsp; Canada<br />
+      James Stewart<br />
+      c/o David Solomon<br />
+      1607 - 720 Bruce Ave.<br />
+      Sudbury, Ontario&nbsp; P3C 5C4<br />
+      Canada<br />
       &nbsp;<br />
       +1 (705) 562-1887<br />
       <!--/sse-->
@@ -88,14 +86,12 @@ title: Donate
     Best Buy<br />
     <span style="font-size: smaller;">
       &nbsp;<br />
-      Ship to:<br />
-      &nbsp;<br />
       <!--sse-->
-      &nbsp; James Stewart @ +1 (705) 562-1887<br />
-      &nbsp; c/o BestBuy 901<br />
-      &nbsp; 1099 Marcus Dr.<br />
-      &nbsp; Sudbury, Ontario&nbsp; P3B 4K6<br />
-      &nbsp; Canada<br />
+      James Stewart @ +1 (705) 562-1887<br />
+      c/o BestBuy 901<br />
+      1099 Marcus Dr.<br />
+      Sudbury, Ontario&nbsp; P3B 4K6<br />
+      Canada<br />
       &nbsp;<br />
       +1 (705) 664-0070<br />
       <!--/sse-->
