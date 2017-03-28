@@ -39,15 +39,13 @@ title: Donate
     <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Amazon_wish-list_99x40.png" style="border: 0px; float: right;" width="99" />
     Amazon<br />
     <span style="font-size: smaller;">
-      Ship to:
+      &nbsp; Ship to:<br />
       <!--sse-->
-      <blockquote>
-        James Stewart<br />
-        c/o David Solomon<br />
-        1607 - 720 Bruce Ave.<br />
-        Sudbury, Ontario&nbsp; P3C 5C4<br />
-        Canada
-      </blockquote>
+      &nbsp;&nbsp;&nbsp; James Stewart<br />
+      &nbsp;&nbsp;&nbsp; c/o David Solomon<br />
+      &nbsp;&nbsp;&nbsp; 1607 - 720 Bruce Ave.<br />
+      &nbsp;&nbsp;&nbsp; Sudbury, Ontario&nbsp; P3C 5C4<br />
+      &nbsp;&nbsp;&nbsp; Canada
       <!--/sse-->
     </span>
     <ul>
