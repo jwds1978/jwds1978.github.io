@@ -41,13 +41,13 @@ title: Donate
     <span style="font-size: smaller;">
       &nbsp;<br />
       <!--sse-->
-      James Stewart<br />
+      James Stewart @ +1 (705) 562-1887<br />
       c/o David Solomon<br />
       1607 - 720 Bruce Ave.<br />
       Sudbury, Ontario&nbsp; P3C 5C4<br />
       Canada<br />
       &nbsp;<br />
-      +1 (705) 562-1887<br />
+      +1 (705) 524-7859<br />
       <!--/sse-->
       &nbsp;
     </span>
@@ -113,9 +113,6 @@ title: Donate
         <ul>
           <li>
             <a href="http://www.bestbuy.ca/en-ca/product/910-004337/10363127.aspx" target="_blank" title="">Logitech MX Master Wireless Laser Mouse - Black</a>
-          </li>
-          <li>
-            <a href="" target="_blank" title=""></a>
           </li>
         </ul>
       </li>
