@@ -75,7 +75,7 @@ title: Donate
             <a href="{{ site.uri.aStore }}/#detail/B00TZR3WRM" rel="me" title="">Logitech MX Master Wireless Mouse (910-004337)</a>
           </li>
           <li>
-            &infin;&times;&nbsp;
+            &infin; &times;&nbsp;
             <a href="{{ site.uri.aStore }}/#detail/B00063BLG8" rel="me" title="">World of Warcraft 60 Day Pre-Paid Card</a>
           </li>
         </ul>
