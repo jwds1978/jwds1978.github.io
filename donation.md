@@ -113,5 +113,5 @@ title: Donate
         </ul>
       </li>
     </ul>
-  </il>
+  </li>
 </ul>
