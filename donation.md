@@ -60,6 +60,9 @@ title: Donate
               Kensington Microsaver 2.0 Keyed Cable Lock for Laptops and Other Devices (K65035AM)
             </a>
           </li>
+          <li>
+            <a href="{{ site.uri.aStore }}/#detail/B00TZR3WRM" rel="me" title="">Logitech MX Master Wireless Mouse (910-004337)</a>
+          </li>
         </ul>
       </li>
       <li>
@@ -116,14 +119,6 @@ title: Donate
             <a href="http://www.bestbuy.ca/en-ca/product/mz-75e1t0b-am/10366522.aspx" target="_blank" title="">
               Samsung 850 EVO 1TB Internal Solid State Drive (MZ-75E1T0B/AM)
             </a>
-          </li>
-        </ul>
-      </li>
-      <li>
-        High
-        <ul>
-          <li>
-            <a href="http://www.bestbuy.ca/en-ca/product/910-004337/10363127.aspx" target="_blank" title="">Logitech MX Master Wireless Laser Mouse - Black</a>
           </li>
         </ul>
       </li>
