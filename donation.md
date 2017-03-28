@@ -76,6 +76,11 @@ title: Donate
         Low
         <ul>
           <li>
+            <a href="{{ site.uri.aStore }}/#detail/B012PN29IA" rel="me" title="">
+              Lexar Professional 1000x microSDXC 256GB UHS-II/U3 W/USB 3.0 Reader Flash Memory Card - LSDMI256CBNL1000R
+            </a>
+          </li>
+          <li>
             <a href="{{ site.uri.aStore }}/#detail/B01N4JZ295" rel="me" title="">
               MSI 2017 Newest GT83VR 7RF-200CA Titan SLI. VR-Ready, i7-7920HQ GTX1080 SLI, 64GB/1TBSSD Plus 1TB Notebook Computer, Aluminum Black	MSI 2017 Newest
               GT83VR 7RF-200CA Titan SLI. VR-Ready, i7-7920HQ GTX1080 SLI, 64GB/1TBSSD Plus 1TB Notebook Computer, Aluminum Black
