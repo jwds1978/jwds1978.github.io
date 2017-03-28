@@ -117,6 +117,16 @@ title: Donate
         </ul>
       </li>
       <li>
+        Medium
+        <ul>
+          <li>
+            <a href="http://www.bestbuy.ca/en-ca/product/gt83vr-7rf-200ca/10581967.aspx" target="_blank" title="">
+              MSI Notebook GT83VR 7RF-200CA - 18.4 inch - Core i7-7920HQ - GTX1080x2 - 16GBx4 - 1TB+1TB - Windows 10 Retail - Online Only
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
         Low
         <ul>
           <li>
