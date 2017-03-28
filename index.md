@@ -46,11 +46,6 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
 
-### Gift/Give the Things
-* <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Amazon_wish-list_99x40.png" style="border: 0px; float: right;" width="99" />Amazon
-  * <a href="{{ site.uri.shortURL }}/Amazon_Wish-List" target="_blank" title="">(Universal) Wish List</a><img alt="" height="1" src="https://ir-ca.amazon-adsystem.com/e/ir?t=forces-army-20" style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
-    * This list doesn't strictly consist of Amazon-only items&hellip;&nbsp; There are items listed from other Web sites as well.
-
 <p>&nbsp;</p>
 <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
 
