@@ -120,8 +120,8 @@ title: Donate
         Medium
         <ul>
           <li>
-            <a href="http://www.bestbuy.ca/en-ca/product/gt83vr-7rf-200ca/10581967.aspx" target="_blank" title="">
-              MSI Notebook GT83VR 7RF-200CA - 18.4 inch - Core i7-7920HQ - GTX1080x2 - 16GBx4 - 1TB+1TB - Windows 10 Retail - Online Only
+            <a href="http://www.bestbuy.ca/en-ca/product/mm450-x/10581219.aspx" target="_blank" title="">
+              Sennheiser MM450-X Bluetooth Travel Headset - Online Only
             </a>
           </li>
         </ul>
@@ -130,9 +130,17 @@ title: Donate
         Low
         <ul>
           <li>
-            <a href="http://www.bestbuy.ca/en-ca/product/mm450-x/10581219.aspx" target="_blank" title="">
-              Sennheiser MM450-X Bluetooth Travel Headset - Online Only
+            <a href="http://www.bestbuy.ca/en-ca/product/m6h77aa/10418304.aspx" target="_blank" title="">
+              HP Power Pack Plus 18000mAh Portable Charger (M6H77AA) - Black/Blue
             </a>
+          </li>
+          <li>
+            <a href="http://www.bestbuy.ca/en-ca/product/gt83vr-7rf-200ca/10581967.aspx" target="_blank" title="">
+              MSI Notebook GT83VR 7RF-200CA - 18.4 inch - Core i7-7920HQ - GTX1080x2 - 16GBx4 - 1TB+1TB - Windows 10 Retail - Online Only
+            </a>
+          </li>
+          <li>
+            <a href="http://www.bestbuy.ca/en-ca/product/pth651/10270039.aspx" target="_blank" title="">Wacom Intuos Pro Graphic Tablet &amp; Pen - Medium</a>
           </li>
         </ul>
       </li>
