@@ -55,7 +55,9 @@ title: Donate
         High
         <ul>
           <li>
-            <a href="{{ site.uri.aStore }}/#detail/B01K1JUO14" rel="me" title="">Kensington Microsaver 2.0 Keyed Cable Lock for Laptops and Other Devices (K65035AM)</a>
+            <a href="{{ site.uri.aStore }}/#detail/B01K1JUO14" rel="me" title="">
+              Kensington Microsaver 2.0 Keyed Cable Lock for Laptops and Other Devices (K65035AM)
+            </a>
           </li>
         </ul>
       </li>
@@ -63,7 +65,9 @@ title: Donate
         Medium
         <ul>
           <li>
-            <a href="{{ site.uri.aStore }}/#detail/B00FR795WA" rel="me" title="">HooToo 9-Port 60 Watts USB 3.0 Hub with 2 Smart Charging Ports and 7 Data Transfer Ports for iPhone, iPhone 6s, iPhone 6s Plus, iPad, PC and More</a>
+            <a href="{{ site.uri.aStore }}/#detail/B00FR795WA" rel="me" title="">
+              HooToo 9-Port 60 Watts USB 3.0 Hub with 2 Smart Charging Ports and 7 Data Transfer Ports for iPhone, iPhone 6s, iPhone 6s Plus, iPad, PC and More
+            </a>
           </li>
         </ul>
       </li>
