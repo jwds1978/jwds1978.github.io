@@ -120,6 +120,7 @@ title: Donate
     </ul>
   </li>
   <li>
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Best-Buy_58x40.png" style="border: 0px; float: right;" width="58" />
     Best Buy<br />
     <span style="font-size: smaller;">
       &nbsp;<br />
