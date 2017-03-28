@@ -45,7 +45,9 @@ title: Donate
       &nbsp; c/o David Solomon<br />
       &nbsp; 1607 - 720 Bruce Ave.<br />
       &nbsp; Sudbury, Ontario&nbsp; P3C 5C4<br />
-      &nbsp; Canada
+      &nbsp; Canada<br />
+      &nbsp;<br />
+      +1 (705) 562-1887
       <!--/sse-->
     </span>
     <ul>
@@ -66,6 +68,14 @@ title: Donate
             <a href="{{ site.uri.aStore }}/#detail/B00FR795WA" rel="me" title="">
               HooToo 9-Port 60 Watts USB 3.0 Hub with 2 Smart Charging Ports and 7 Data Transfer Ports for iPhone, iPhone 6s, iPhone 6s Plus, iPad, PC and More
             </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        Low
+        <ul>
+          <li>
+            <a href="{{ site.uri.aStore }}/#detail/B00XC774SE" rel="me" title="">Seek Thermal XR-Extended Range Thermal Camera for Android</a>
           </li>
         </ul>
       </li>
