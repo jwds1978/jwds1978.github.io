@@ -1,6 +1,7 @@
 ---
 categories:
   - "Business and Tech"
+  - Innominate
   - "Living and Leisure"
 comments: true
 date: "2017-03-03 19:38:53 America/Toronto"
