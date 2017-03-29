@@ -1,5 +1,6 @@
 ---
-categories: Uncategorized
+categories:
+  - Art
 comments: true
 date: "2017-02-10 10:35:19 America/Toronto"
 last_modified_at: "2017-02-10 10:35:19 America/Toronto"
@@ -11,7 +12,20 @@ syndications:
   - href: "https://twitter.com/jwds1978/status/830786052897992705"
     text: Twitter
     title: Twitter
-tags: MyCAF
+tags:
+  - Career
+  - Celebrity
+  - Education
+  - Finance
+  - Health
+  - Lifestyle
+  - Medical
+  - MyCAF
+  - Opinionated
+  - Politics
+  - Self
+  - "The Suck"
+  - Writing
 title: "The Infantryman's Arrogance"
 ---
 
