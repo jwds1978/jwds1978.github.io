@@ -6,6 +6,7 @@ categories:
   - Innominate
   - "Living and Leisure"
   - News
+  - "Proving Ground"
   - "Sports and Recreation"
 citations:
   - author: 
@@ -58,6 +59,7 @@ tags:
   - Medical
   - "Movies and TV"
   - Music
+  - MyCAF
   - News
   - Opinionated
   - "Other Sports"
@@ -73,6 +75,7 @@ tags:
   - "Social Media"
   - Sports
   - Tech
+  - "The Suck"
   - Travel
   - Wedding
   - Writing
