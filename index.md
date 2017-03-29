@@ -60,7 +60,7 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
   * With ASUS WebStorage, you can backup your files automatically, listen to your latest music collection over the cloud, and edit important file(s) on different devices.&nbsp; Now you can truly travel at ease, without the loads of cables and devices, on the road.
 * <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Cryptopay_328x040.png" style="border: 0px; float: right;" width="328" /><a href="{{ site.uri.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
   * Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
-* <a href="{{ site.uri.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
+* <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right;" width="286" /><a href="{{ site.uri.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
   * Experience e-mail done right.
 * <a href="{{ site.uri.shortURL }}/Iconfinder" target="_blank" title="Iconfinder">Iconfinder</a>
   * Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
