@@ -1,5 +1,8 @@
 ---
-categories: Uncategorized
+categories:
+  - Art
+  - "Business and Tech"
+  - "Living and Leisure"
 comments: true
 date: "2017-03-29 12:26:14 America/Toronto"
 last_modified_at: "2017-03-29 12:26:14 America/Toronto"
@@ -9,7 +12,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
-tags: Untagged
+tags:
+  - Business
+  - Career
+  - Finance
+  - Self
+  - Tech
+  - Writing
 title: "Future Things"
 ---
 
