@@ -1,5 +1,8 @@
 ---
-categories: Uncategorized
+categories:
+  - "Business and Tech"
+  - "Living and Leisure"
+  - News
 citations:
   - author: "EV Rider"
     date:
@@ -23,7 +26,13 @@ syndications:
   - href: "https://twitter.com/jwds1978/status/840980584767852545"
     text: Twitter
     title: Twitter
-tags: ["The Suck"]
+tags:
+  - Finance
+  - Health
+  - Medical
+  - Self
+  - "The Suck"
+  - Travel
 title: "Vita Monster"
 ---
 
