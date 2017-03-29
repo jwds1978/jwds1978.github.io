@@ -1,5 +1,6 @@
 ---
 categories:
+  - Innominate
   - "Living and Leisure"
   - News
 comments: true
