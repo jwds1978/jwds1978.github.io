@@ -1,6 +1,7 @@
 ---
 categories:
   - "Business and Tech"
+  - Innominate
   - "Living and Leisure"
   - News
 citations:
