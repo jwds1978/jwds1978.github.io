@@ -37,7 +37,7 @@ comments: true
 <!--/email_off-->
 <!--/sse-->
 
-Hai!&nbsp; And, welcome to James Stewart's Web site.&nbsp; While there may be others like it, this one is his&hellip;&nbsp; He made this thing.
+Hai!&nbsp; And, welcome to James Stewart's Web site.&nbsp; While there may be others like it, this one is his&hellip;&nbsp; He made this thing; a thing of wonder.
 
 James is a consultant of all things IT.&nbsp; That doesn't really say all that much about him, eh?&nbsp; Learn <a href="{{ site.url }}/about" rel="me" title="">moar things about him</a>, nao.
 
