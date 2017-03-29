@@ -64,7 +64,7 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
   * Experience e-mail done right.
 * <a href="{{ site.uri.shortURL }}/Iconfinder" target="_blank" title="Iconfinder">Iconfinder</a>
   * Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
-* <a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
+* <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right;" width="271" /><a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     * Your last password&hellip;&nbsp; Just remember your master password and LastPass remembers the rest.&nbsp; The best way to manage passwords.
 * <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/TunnelBear_312x040.png" style="border: 0px; float: right;" width="312" /><a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" target="_blank" title="TunnelBear">TunnelBear</a><img alt="" height="1" src="https://click.tunnelbear.com/aff_i?aff_id=2760&file_id=6&offer_id=2" style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
   * Really simple VPN to browse the Web privately &amp; securely.&nbsp; Unblock Web sites around the world with applications for Android, Chrome, iOS, Mac, &amp; PC.
