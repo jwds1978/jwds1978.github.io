@@ -1,5 +1,7 @@
 ---
-categories: Uncategorized
+categories:
+  - "Living and Leisure"
+  - News
 comments: true
 date: "2017-03-11 12:10:39 America/Toronto"
 last_modified_at: "2017-03-11 12:27:35 America/Toronto"
@@ -17,7 +19,10 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
+  - Health
+  - Medical
   - MyCAF
+  - Self
   - "The Suck"
 title: "Rigors of War"
 ---
