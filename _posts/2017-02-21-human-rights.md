@@ -1,5 +1,7 @@
 ---
-categories: Uncategorized
+categories:
+  - "Business and Tech"
+  - "Living and Leisure"
 comments: true
 date: "2017-02-21 15:49:33 America/Toronto"
 last_modified_at: "2017-02-21 16:11:35 America/Toronto"
@@ -18,7 +20,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Legal
+  - Law
+  - Self
   - "The Suck"
 title: "Human Rights"
 ---
