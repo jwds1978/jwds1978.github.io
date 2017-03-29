@@ -51,7 +51,7 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
 
 <p>&nbsp;</p>
 <h3>Use the Things&nbsp; <sup>James, He Uses the Things</sup></h3>
-* <a href="{{ site.uri.shortURL }}/Anonymous-Ads" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
+* <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right;" width="117" /><a href="{{ site.uri.shortURL }}/Anonymous-Ads" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
   * For Advertisers
     * You don't need to pay for fake clicks and impressions.&nbsp; Create your advertising campaign in less than a minute.&nbsp; No registration required!
   * For Publishers
