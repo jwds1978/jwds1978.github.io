@@ -1,5 +1,6 @@
 ---
-categories: Uncategorized
+categories:
+  - "Living and Leisure"
 comments: true
 date: "2017-02-16 11:44:43 America/Toronto"
 last_modified_at: "2017-02-18 16:07:43 America/Toronto"
@@ -18,8 +19,11 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Accessibility
-  - Legal
+  - Health
+  - Law
+  - Medical
+  - Opinionated
+  - Self
   - "The Suck"
 title: "Accessibility at The Elgin Street Mission"
 ---
