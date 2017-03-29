@@ -1,6 +1,11 @@
 ---
 categories:
   - Art
+  - "Business and Tech"
+  - Entertainment
+  - "Living and Leisure"
+  - News
+  - "Sports and Recreation"
 comments: true
 date: "2017-02-10 10:35:19 America/Toronto"
 last_modified_at: "2017-02-10 10:35:19 America/Toronto"
@@ -24,6 +29,7 @@ tags:
   - Opinionated
   - Politics
   - Self
+  - Sports
   - "The Suck"
   - Writing
 title: "The Infantryman's Arrogance"
