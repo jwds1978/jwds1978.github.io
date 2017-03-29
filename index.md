@@ -42,7 +42,7 @@ Hai!&nbsp; And, welcome to James Stewart's Web site.&nbsp; While there may be ot
 James is a consultant of all things IT.&nbsp; That doesn't really say all that much about him, eh?&nbsp; Learn <a href="{{ site.url }}/about" rel="me" title="">moar things about him</a>, nao.
 
 <p>&nbsp;</p>
-### Most Recent Blog Thing
+### That Blog Thing
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
 
