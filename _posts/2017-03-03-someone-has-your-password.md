@@ -1,5 +1,7 @@
 ---
-categories: Uncategorized
+categories:
+  - "Business and Tech"
+  - "Living and Leisure"
 comments: true
 date: "2017-03-03 19:38:53 America/Toronto"
 last_modified_at: "2017-03-04 13:02:37 America/Toronto"
@@ -17,8 +19,9 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Hacking
-  - Security
+  - Self
+  - Tech
+  - "The Suck"
 title: "Somone Has Your Password"
 ---
 
