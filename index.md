@@ -66,6 +66,8 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
   * Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
 * <a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     * Your last password&hellip;&nbsp; Just remember your master password and LastPass remembers the rest.&nbsp; The best way to manage passwords.
+* <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/TunnelBear_40x40.png" style="border: 0px; float: right;" width="40" /><a href="http://click.tunnelbear.com/aff_c?aff_id=2760&file_id=6&offer_id=2" target="_blank" title="TunnelBear">TunnelBear</a><img alt="" height="1" src="http://click.tunnelbear.com/aff_i?aff_id=2760&file_id=6&offer_id=2" style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
+  * Really simple VPN to browse the Web privately &amp; securely.&nbsp; Unblock Web sites around the world with applications for Android, Chrome, iOS, Mac, &amp; PC.
 * <a href="{{ site.uri.shortURL }}/xCoins" target="_blank" title="xCoins">xCoins</a>
   * Get bitcoin quickly; receive bitcoin as a secured loan&hellip;&nbsp; Lend bitcoin for a fee.&nbsp; Secured lending is just like exchanging, only better.&nbsp; It allows you to get bitcoin quickly.&nbsp; Most bitcoin exchanges do not allow payments with credit cards or make you wait several days before receiving bitcoin.&nbsp; In contrast, xCoins is instant!&nbsp; The entire process takes only a few minutes.
 * <a href="{{ site.uri.shortURL }}/XDA-Depot" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
