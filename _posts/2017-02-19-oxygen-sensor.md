@@ -1,5 +1,6 @@
 ---
-categories: Uncategorized
+categories:
+  - "Living and Leisure"
 comments: true
 date: "2017-02-19 13:13:39 America/Toronto"
 last_modified_at: "2017-02-19 13:55:15 America/Toronto"
