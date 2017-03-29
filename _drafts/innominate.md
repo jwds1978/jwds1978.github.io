@@ -30,54 +30,62 @@ syndications:
     text: 
     title: 
 tags:
+ - Art
   - Art
-  - Automotive
-  - Baseball
-  - Basketball
   - Beauty
+  - Design
+  - Fashion
+  - "How to"
+  - Photography
+  - Writing
+ - "Business and Tech"
   - Business
   - Career
+  - Finance
+  - Law
+  - "Real Estate"
+  - "Social Media"
+  - Tech
+ - Entertainment
   - Celebrity
   - Comedy
-  - Design
-  - Education
   - Entertainment
-  - Family
-  - Fashion
-  - Finance
-  - Food
-  - Football
   - Gaming
+  - "Movies and TV"
+  - Music
+ - Innominate
+  - Innominate
+  - MyCAF
+  - "The Suck"
+ - "Living and Leisure"
+  - Automotive
+  - Family
+  - Food
   - Good
   - Health
   - "Higher Power"
   - Home
-  - "How to"
-  - Innominate
-  - Law
   - Lifestyle
-  - Medical
-  - "Movies and TV"
-  - Music
-  - MyCAF
-  - News
-  - Opinionated
-  - "Other Sports"
-  - Outdoors
   - "Pets and Animals"
-  - Photography
-  - Politics
-  - "Real Estate"
   - Relationship
-  - Science
   - Self
-  - Soccer
-  - "Social Media"
-  - Sports
-  - Tech
-  - "The Suck"
   - Travel
   - Wedding
-  - Writing
+ - News
+  - Education
+  - Medical
+  - News
+  - Opinionated
+  - Politics
+  - Science
+ - "Proving Ground"
+ - "Sports and Recreation"
+  - Baseball
+  - Basketball
+  - Football
+  - "Other Sports"
+  - Outdoors
+  - Soccer
+  - Sports
 title: 
 ---
