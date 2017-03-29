@@ -3,6 +3,7 @@ categories:
   - Art
   - "Business and Tech"
   - Entertainment
+  - Innominate
   - "Living and Leisure"
   - News
   - "Sports and Recreation"
