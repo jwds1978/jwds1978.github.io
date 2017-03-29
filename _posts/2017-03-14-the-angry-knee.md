@@ -1,5 +1,7 @@
 ---
-categories: Uncategorized
+categories:
+  - "Living and Leisure"
+  - News
 citations:
   - author: "James Stewart"
     date:
@@ -24,7 +26,11 @@ syndications:
   - href: "https://twitter.com/jwds1978/status/841720168438984704"
     text: Twitter
     title: Twitter
-tags: ["The Suck"]
+tags:
+  - Health
+  - Medical
+  - Self
+  - "The Suck"
 title: "The Angry Knee"
 ---
 
