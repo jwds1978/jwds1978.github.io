@@ -1,5 +1,7 @@
 ---
-categories: Uncategorized
+categories:
+  - "Living and Leisure"
+  - News
 comments: true
 date: "2017-02-20 19:42:13 America/Toronto"
 last_modified_at: "2017-02-20 19:42:13 America/Toronto"
@@ -17,7 +19,11 @@ syndications:
   - href: "https://twitter.com/jwds1978/status/833840701993521154"
     text: Twitter
     title: Twitter
-tags: ["The Suck"]
+tags:
+  - Food
+  - Opinionated
+  - Self
+  - "The Suck"
 title: "The Stupid, It Burns"
 ---
 
