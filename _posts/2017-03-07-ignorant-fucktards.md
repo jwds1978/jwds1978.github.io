@@ -1,5 +1,7 @@
 ---
-categories: Uncategorized
+categories:
+  - "Living and Leisure"
+  - News
 comments: true
 date: "2017-03-07 13:38:39 America/Toronto"
 last_modified_at: "2017-03-07 13:38:39 America/Toronto"
@@ -16,7 +18,11 @@ syndications:
   - href: "https://twitter.com/jwds1978/status/839188403522523137"
     text: Twitter
     title: Twitter
-tags: ["The Suck"]
+tags:
+  - Health
+  - Medical
+  - Opinionated
+  - "The Suck"
 title: "Ignorant Fucktards"
 ---
 
