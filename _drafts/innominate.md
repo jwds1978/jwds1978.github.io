@@ -52,6 +52,7 @@ tags:
   - "Higher Power"
   - Home
   - "How to"
+  - Innominate
   - Law
   - Lifestyle
   - Medical
