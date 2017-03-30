@@ -73,8 +73,8 @@ citations:
     name: "Top 10 Mommy Bloggers | Who Do You Really Read?"
     slug: "top-10-mommy-bloggers-who-do-you-really-read"
 comments: true
-date: "2017-03-30 00:00:00 America/Toronto"
-last_modified_at: "2017-03-30 00:00:00 America/Toronto"
+date: "2017-03-30 13:30:26 America/Toronto"
+last_modified_at: "2017-03-30 13:30:26 America/Toronto"
 layout: post
 location:
   altitude: 266 
