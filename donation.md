@@ -115,6 +115,10 @@ title: Donate
             1 &times;&nbsp;
             <a href="{{ site.uri.aStore }}/#detail/B00XC774SE" rel="me" title="">Seek Thermal XR-Extended Range Thermal Camera for Android</a>
           </li>
+          <li>
+            1 &times;&nbsp;
+            <a href="{{ site.uri.aStore }}/#detail/B01MZAIZ6E" rel="me" title="">US Army vs Navy Military Chess Set Hand Painted with Glass Board</a>
+          </li>
         </ul>
       </li>
     </ul>
