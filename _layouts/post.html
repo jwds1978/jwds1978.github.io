@@ -5,7 +5,6 @@ layout: default
 {% capture pageAuthors %}{{ page.author | default: site.author }}{% endcapture %}
 {% capture pageDatePublished %}{{ page.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
 {% capture pageDateModified %}{{ page.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
-{% capture pageReadingTime %}{{ content | reading_time | pluralize: 'Minute' }}{% endcapture %}
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 
 {% if page.adsDisplay != false %}
@@ -22,7 +21,7 @@ layout: default
   <h6>
     <span style="float: right;">
       by {% if pageAuthor.hyperlink.uri %}<a {% if pageAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}{% if pageAuthor.hyperlink.hcard %}rel="author" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}<span {% if pageAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ pageAuthor.name | escape }}</span>{% if pageAuthor.hyperlink.uri %}</a>{% endif %}<br />
-      Reading Time:&nbsp; {{ pageReadingTime }}<br />
+      {{ content | count_words | pluralize: 'Word' }} ({{ content | reading_time | pluralize: 'Minute' }})<br />
       {% if page.comments %}<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
     </span>
     Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
