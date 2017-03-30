@@ -57,7 +57,7 @@ include:
   - .well-known
   - CNAME
 layout: default
-logo: "https://assets.forces.army/naked/images/secret-squirrel_510x510"
+logo: "https://assets.forces.army/naked/images/hotlink-ok/secret-squirrel_510x510.png"
 paginate: 5
 paginate_path: "/blog/page:num/"
 permalink: "/blog/:year/:month/:day/:title/"
