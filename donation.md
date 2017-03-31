@@ -146,17 +146,6 @@ title: Donate
     </span>
     <ul>
       <li>
-        Highest
-        <ul>
-          <li>
-            1 &times;&nbsp;
-            <a href="http://www.bestbuy.ca/en-ca/product/mz-75e1t0b-am/10366522.aspx" target="_blank" title="">
-              Samsung 850 EVO 1TB Internal Solid State Drive (MZ-75E1T0B/AM)
-            </a>
-          </li>
-        </ul>
-      </li>
-      <li>
         Medium
         <ul>
           <li>
