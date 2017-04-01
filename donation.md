@@ -26,7 +26,10 @@ title: Donate
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
       <input name="cmd" type="hidden" value="_s-xclick" />
       <input name="hosted_button_id" type="hidden" value="DY5LFFUVUNHTQ" />
-      <input alt="PayPal - The safer, easier way to pay online!" height="47" name="submit" src="{{ site.uri.assets }}/naked/images/PayPal_donate_147x047.gif" type="image" width="147" />
+      <input
+	    alt="PayPal - The safer, easier way to pay online!" height="47" name="submit" src="{{ site.uri.assets }}/naked/images/PayPal_donate_147x047.gif"
+		type="image" width="147"
+	  />
       <img alt="" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" style="border: 0px;" width="1" />
     </form>
   </p>
@@ -90,7 +93,8 @@ title: Donate
           <li>
             1 &times;&nbsp;
             <a href="{{ site.uri.aStore }}/#detail/B00FR795WA" rel="me" title="">
-              HooToo 9-Port 60 Watts USB 3.0 Hub with 2 Smart Charging Ports and 7 Data Transfer Ports for iPhone, iPhone 6s, iPhone 6s Plus, iPad, PC and More
+              HooToo 9-Port 60 Watts USB 3.0 Hub with 2 Smart Charging Ports and 7 Data Transfer Ports for iPhone, iPhone 6s, iPhone 6s Plus, iPad, PC and
+			  More
             </a>
           </li>
         </ul>
@@ -106,9 +110,15 @@ title: Donate
           </li>
           <li>
             1 &times;&nbsp;
+            <a href="{{ site.uri.aStore }}/#detail/B018J4BP6Q" rel="me" title="">
+			  Kensington 33995 Desktop Charger/Cradle for Universal, Retail Packaging, Black
+			</a>
+          </li>
+          <li>
+            1 &times;&nbsp;
             <a href="{{ site.uri.aStore }}/#detail/B01N4JZ295" rel="me" title="">
-              MSI 2017 Newest GT83VR 7RF-200CA Titan SLI. VR-Ready, i7-7920HQ GTX1080 SLI, 64GB/1TBSSD Plus 1TB Notebook Computer, Aluminum Black	MSI 2017 Newest
-              GT83VR 7RF-200CA Titan SLI. VR-Ready, i7-7920HQ GTX1080 SLI, 64GB/1TBSSD Plus 1TB Notebook Computer, Aluminum Black
+              MSI 2017 Newest GT83VR 7RF-200CA Titan SLI. VR-Ready, i7-7920HQ GTX1080 SLI, 64GB/1TBSSD Plus 1TB Notebook Computer, Aluminum Black MSI 2017
+			  Newest GT83VR 7RF-200CA Titan SLI. VR-Ready, i7-7920HQ GTX1080 SLI, 64GB/1TBSSD Plus 1TB Notebook Computer, Aluminum Black
             </a>
           </li>
           <li>
@@ -167,7 +177,9 @@ title: Donate
           </li>
           <li>
             1 &times;&nbsp;
-            <a href="http://www.bestbuy.ca/en-ca/product/pth651/10270039.aspx" target="_blank" title="">Wacom Intuos Pro Graphic Tablet &amp; Pen - Medium</a>
+            <a href="http://www.bestbuy.ca/en-ca/product/pth651/10270039.aspx" target="_blank" title="">
+			  Wacom Intuos Pro Graphic Tablet &amp; Pen - Medium
+			</a>
           </li>
         </ul>
       </li>
