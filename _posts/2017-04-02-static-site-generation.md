@@ -23,7 +23,7 @@ citations:
     slug: "static-site-generators"
 comments: true
 date: "2017-04-02 01:11:47 America/Toronto"
-last_modified_at: "2017-04-02 01:11:47 America/Toronto"
+last_modified_at: "2017-04-02 10:14:26 America/Toronto"
 layout: post
 location:
   altitude: 259
@@ -53,7 +53,7 @@ title: "Static Site Generation"
     * Build static Web sites with an easy-to-use framework.&nbsp; Middleman is a static site generator using all the shortcuts and tools in modern Web development.
   * More&hellip;
     * <a href="#cite-static-site-generators" rel="me" title="Static Site Generators">Static Site Generators</a>
-    * The definitive listing of static site generators.
+      * The definitive listing of static site generators.
 
 <p>&nbsp;</p>
 ### Middleman:&nbsp; A Ruby Gem
@@ -97,8 +97,8 @@ Let's look at each of these benefits in turn&hellip;
 * General templating mechanism.
   * A string (usually contents of a file, &quot;template&quot;).
   * Escaped bits of ruby.
-    * `<%code %>`&nbsp; Execute ruby code (i.e. &quot;scriplet&quot;).
-  * `<%=expr %>`&nbsp; Replace with result of expr.
+    * `<% code %>`&nbsp; Execute ruby code (i.e. &quot;scriplet&quot;).
+  * `<%= expr %>`&nbsp; Replace with result of expr.
   * `<%# text %>`&nbsp; Ignore (i.e. a comment).
 * Example:&nbsp; A text file.
   * ```
@@ -241,7 +241,7 @@ Let's look at each of these benefits in turn&hellip;
       ;;;
       ```
   * In layout (layout.erb)
-    * `<title><%= current_page.data.title%></title>`
+    * `<title><%= current_page.data.title %></title>`
 
 <p>&nbsp;</p>
 ### Generation of Site with Layouts
@@ -253,7 +253,7 @@ Let's look at each of these benefits in turn&hellip;
     layouts/          syll.html.erb
     
     $ ls source/layouts
-    _footer.erb    _navigation.erb    layout.er
+    _footer.erb    _navigation.erb    layout.erb
     ```
 * Result after building.
   * ```
