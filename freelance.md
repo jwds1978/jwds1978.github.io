@@ -164,7 +164,7 @@ specifics of your particular project(s) and/or needs for a personalized estimate
   </li>
   <li>
     <span style="font-weight: bolder;">PC Design:</span>&nbsp; Require a PC for business and/or personal use, but don't have the skill required to build it
-    yourself?&nbsp; James can save you the time an hassle of research and compatibility testing; designing a functional PC, based on what you need and/or want.
+    yourself?&nbsp; James can save you the time and hassle of research and compatibility testing; designing a functional PC, based on what you need and/or want.
     <ul>
       <li>$37 CAD</li>
     </ul>
