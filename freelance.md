@@ -153,7 +153,7 @@ specifics of your particular project(s) and/or needs for a personalized estimate
   <li>
     <span style="font-weight: bolder;">PC Build-out:</span>&nbsp; If you've already got a design that you'd like for your PC, and/or James has designed one for
     you, he can build it.
-    <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
+    <ul>
       <li>
         $50 CAD
         <ul>
@@ -165,7 +165,7 @@ specifics of your particular project(s) and/or needs for a personalized estimate
   <li>
     <span style="font-weight: bolder;">PC Design:</span>&nbsp; Require a PC for business and/or personal use, but don't have the skill required to build it
     yourself?&nbsp; James can save you the time an hassle of research and compatibility testing; designing a functional PC, based on what you need and/or want.
-    <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
+    <ul>
       <li>$37 CAD</li>
     </ul>
   </li>
