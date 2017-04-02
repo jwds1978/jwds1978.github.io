@@ -23,7 +23,7 @@ citations:
     slug: "static-site-generators"
 comments: true
 date: "2017-04-02 01:11:47 America/Toronto"
-last_modified_at: "2017-04-02 10:14:26 America/Toronto"
+last_modified_at: "2017-04-02 10:31:24 America/Toronto"
 layout: post
 location:
   altitude: 259
@@ -104,7 +104,7 @@ Let's look at each of these benefits in turn&hellip;
   * ```
     This is some text.
     <% 5.times do %>
-    Current Time is <%= Time.now%>!
+    Current Time is <%= Time.now %>!
     <% end %>
     ```
 * Process using erbtool to generate result.
@@ -137,7 +137,7 @@ Let's look at each of these benefits in turn&hellip;
 * Include in erbusing the `partial` function.
   * ```
     <body>
-      <%= partial"navigation" %>
+      <%= partial "navigation" %>
       ...
     </body>
     ```
@@ -175,8 +175,7 @@ Let's look at each of these benefits in turn&hellip;
 * In Calling ERb:&nbsp; Pass a hash.
   * ```
     <%= partial "banner",
-      :locals => { :name => "Syllabus",
-                   :amount => 34 } %>
+      :locals => { :name => "Syllabus", :amount => 34 } %>
     ```
 * In Partial:&nbsp; Access variables.
   * ```
@@ -319,15 +318,17 @@ Let's look at each of these benefits in turn&hellip;
       lorem.date
       lorem.last_name
       lorem.image('300x400')
-        #=> http://placehold.it/300x400
+        #=>  http://placehold.it/300x400
       ```
 
 <p>&nbsp;</p>
 ### More Helper Functions
 
 * Links.
-  * `<%= link_to 'About', '/about.html' %>`
-    * #=&gt;&nbsp; `<a href='/about/'>About</a>`
+  * ```
+    <%= link_to 'About', '/about.html' %>
+      #=>  <a href='/about/'>About</a>
+    ```
 * Assets.
   * ```
     <%= stylesheet_link_tag 'all' %>
