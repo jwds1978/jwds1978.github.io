@@ -23,7 +23,7 @@ citations:
     slug: "static-site-generators"
 comments: true
 date: "2017-04-02 01:11:47 America/Toronto"
-last_modified_at: "2017-04-02 10:31:24 America/Toronto"
+last_modified_at: "2017-04-02 10:45:29 America/Toronto"
 layout: post
 location:
   altitude: 259
@@ -59,17 +59,25 @@ title: "Static Site Generation"
 ### Middleman:&nbsp; A Ruby Gem
 
 * Project is a directory (i.e. &quot;myproj&quot;)
-  * `$ middleman init myproj`
+  * ```
+    $ middleman init myproj
+    ```
     * Configuration files, README, Gemfile, etc.
 * Create source files in &quot;myproj/source&quot;.
   * Sub-directries for CSS. images, etc.
 * Compile all of the source files.
-  * `$ bundle exec middleman build`
+  * ```
+    $ bundle exec middleman build
+    ```
 * Result is placed in &quot;myproj/build&quot;.
 * Copy the site to some visible location.
-  * `$ rsync -avz --del myproj/build ~/WWW`
+  * ```
+    $ rsync -avz --del myproj/build ~/WWW
+    ```
 * Or, preview locally (i.e. live reload, no build).
-  * `$ bundle exec middleman server`
+  * ```
+    $ bundle exec middleman server
+    ```
 
 <p>&nbsp;</p>
 ### Why bother?
@@ -108,7 +116,9 @@ Let's look at each of these benefits in turn&hellip;
     <% end %>
     ```
 * Process using erbtool to generate result.
-  * `$ erb example.txt.erb > example.txt`
+  * ```
+    $ erb example.txt.erb > example.txt
+    ```
 * Naming Convention:&nbsp; filename.outputlang.erb
   * Example:&nbsp; index.html.erb
 * Many alternatives (i.e. HAML).
@@ -123,7 +133,9 @@ Let's look at each of these benefits in turn&hellip;
     meet.html.erb
     ```
 * Compile.
-  * `$ bundle exec middleman build`
+  * ```
+    $ bundle exec middleman build
+    ```
 * Result after building.
   * ```
     $ ls build
@@ -161,7 +173,9 @@ Let's look at each of these benefits in turn&hellip;
     index.html.erb 
     ```
 * Compile.
-  * `$ bundle exec middleman build`
+  * ```
+    $ bundle exec middleman build
+    ```
 * Result after building.
   * ```
     $ ls build
@@ -174,8 +188,7 @@ Let's look at each of these benefits in turn&hellip;
 * Content of partial can be customized by passing arguments in call.
 * In Calling ERb:&nbsp; Pass a hash.
   * ```
-    <%= partial "banner",
-      :locals => { :name => "Syllabus", :amount => 34 } %>
+    <%= partial "banner", :locals => { :name => "Syllabus", :amount => 34 } %>
     ```
 * In Partial:&nbsp; Access variables.
   * ```
@@ -240,7 +253,9 @@ Let's look at each of these benefits in turn&hellip;
       ;;;
       ```
   * In layout (layout.erb)
-    * `<title><%= current_page.data.title %></title>`
+    * ```
+      <title><%= current_page.data.title %></title>
+      ```
 
 <p>&nbsp;</p>
 ### Generation of Site with Layouts
@@ -311,7 +326,9 @@ Let's look at each of these benefits in turn&hellip;
   * See course Web site.
   * Partial could be used for (every) row.
 * Placeholder text and images.
-  * `<%= lorem.sentence %>`
+  * ```
+    <%= lorem.sentence %>
+    ```
   * Many versions of this &quot;helper&quot; are available.
     * ```
       lorem.paragraphs 2
