@@ -10,12 +10,12 @@ citations:
     date:
       accessed: "2017-04-03 14:47:38 America/Toronto"
       published: "2014-11-17 America/Toronto"
-    href: "{{ site.uri.aStore }}/#detail/B00PJIDO9C"
+    href: "http://forces.army/store/#detail/B00PJIDO9C"
     name: "Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer"
     slug: "stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer"
 comments: true
 date: "2017-04-03 16:20:39 America/Toronto"
-last_modified_at: "2017-04-03 16:20:39 America/Toronto"
+last_modified_at: "2017-04-03 16:38:00 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -56,10 +56,9 @@ As always, this shouldn't be taken as elitist, inflammatory, nor ignorant&hellip
 freelancing.&nbsp; So, I believe that I have a duty to tell you everything that I know&hellip;&nbsp; If, I believe there's a better way.&nbsp; In doing so, I
 give you the opportunity to not make the same mistakes that I did.
 
-Here's an excerpt from <a
-  href="#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me"
-  title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer"
->a book</a>.&nbsp; In this chapter, he's talking about building attention and interest in you and your freelance service.&nbsp; It pretty much sums up my take:
+Here's an excerpt from
+<a href="#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me" title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer">a book</a>.&nbsp;
+In this chapter, he's talking about building attention and interest in you and your freelance service.&nbsp; It pretty much sums up my take:
 
 <blockquote>
   We live in a noisy world.&nbsp; Whether it's the irresistibly tactile Facebook notification icon or the audible blip of your email client, everybody wants a
@@ -94,6 +93,7 @@ Here's an excerpt from <a
   So how do we multiply our exposure, build attention and look at this cloudy online environment as a help rather than hindrance?
 </blockquote>
 
+<p>&nbsp;</p>
 I'm acutely aware however that this is my own personal opinion, based on my own personal experiences and I'm always happy to be challenged, or air another point
 of view.&nbsp; So, I was delighted to receive a really awesome e-mail from Carol Hampshire, top 5 among 200,000 graphic designers on Upwork&hellip;&nbsp;
 Currently, doing great and generating over $10,000 USD per month in revenue.
@@ -139,6 +139,7 @@ Currently, doing great and generating over $10,000 USD per month in revenue.
   Carol
 </blockquote>
 
+<p>&nbsp;</p>
 You can probably imagine me receiving this e-mail and cracking a smile.&nbsp; It really was a slam dunk of an e-mail correspondence&hellip;&nbsp; I'm so happy
 to have smart freelancers, from all over the world, consuming the ideas that I'm putting out and feeling comfortable enough to question what they're being told.
 
