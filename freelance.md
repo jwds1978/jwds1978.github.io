@@ -15,7 +15,9 @@ title: "Freelance"
 Below are just a few of the services that James provides on a freelance basis.&nbsp; <a href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with the
 specifics of your particular project(s) and/or needs for a personalized estimate/quotation.
 
-<span style="font-weight: bolder;">Note:</span>&nbsp; James has little-to-no desire to make use of any logging and/or tracking applications (i.e. Time Doctor,
+<img
+  alt="" height="80" src="{{ site.uri.assets }}/naked/images/over-the-shoulder_132x80.png" style="border: 0px; float: right;" width="132"
+/><span style="font-weight: bolder;">Note:</span>&nbsp; James has little-to-no desire to make use of any logging and/or tracking applications (i.e. Time Doctor,
 Upwork, etc.).
 
 <p>&nbsp;</p>
