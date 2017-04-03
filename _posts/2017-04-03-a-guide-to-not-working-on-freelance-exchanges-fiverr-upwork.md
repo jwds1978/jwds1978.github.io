@@ -15,7 +15,7 @@ citations:
     slug: "stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer"
 comments: true
 date: "2017-04-03 16:20:39 America/Toronto"
-last_modified_at: "2017-04-03 16:38:00 America/Toronto"
+last_modified_at: "2017-04-03 17:13:22 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -148,7 +148,7 @@ Currently, doing great and generating over $10,000 USD per month in revenue.
 </blockquote>
 
 <p>&nbsp;</p>
-You can probably imagine me receiving this e-mail and cracking a smile.&nbsp; It really was a slam dunk of an e-mail correspondence&hellip;&nbsp; I'm so happy
+You can, probably, imagine me receiving this e-mail and cracking a smile.&nbsp; It really was a slam dunk of an e-mail correspondence&hellip;&nbsp; I'm so happy
 to have smart freelancers, from all over the world, consuming the ideas that I'm putting out and feeling comfortable enough to question what they're being told.
 
 <p>&nbsp;</p>
