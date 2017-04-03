@@ -66,7 +66,7 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
   * Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
 * <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right;" width="271" /><a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     * Your last password&hellip;&nbsp; Just remember your master password and LastPass remembers the rest.&nbsp; The best way to manage passwords.
-* <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_312x040.png" style="border: 0px; float: right;" width="312" /><a href="{{ site.uri.shortURL }}/PIA" target="_blank" title="Private Internet Access">Private Internet Access</a>
+* <img alt="" height="438" src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_320x438.png" style="border: 0px; float: right;" width="320" /><a href="{{ site.uri.shortURL }}/PIA" target="_blank" title="Private Internet Access">Private Internet Access</a>
   * Award winning VPN service provider.&nbsp; Fast, secure, no logs.
     * 24/7 customer support.
     * Paranoid encryption.
