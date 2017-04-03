@@ -15,6 +15,9 @@ title: "Freelance"
 Below are just a few of the services that James provides on a freelance basis.&nbsp; <a href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with the
 specifics of your particular project(s) and/or needs for a personalized estimate/quotation.
 
+<span style="font-weight: bolder;">Note:</span>&nbsp; James has little-to-no desire to make use of any logging and/or tracking applications (i.e. Time Doctor,
+Upwork, etc.).
+
 <p>&nbsp;</p>
 <h3 id="roles">Job Roles</h3>
 <ul>
