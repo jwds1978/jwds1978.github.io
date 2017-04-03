@@ -18,7 +18,7 @@ specifics of your particular project(s) and/or needs for a personalized estimate
 <img
   alt="" height="80" src="{{ site.uri.assets }}/naked/images/over-the-shoulder_132x80.png" style="border: 0px; float: right;" width="132"
 /><span style="font-weight: bolder;">Note:</span>&nbsp; James has absolutely no desire to make use of any 'productivity' applications such as Time Doctor,
-Upwork, etc.&nbsp; Seriously, don't even ask.
+Upwork, etc.&nbsp; Seriously, don't even ask&hellip;&nbsp; You'll be met with vehement opposition and fierce resistance.
 
 <p>&nbsp;</p>
 <h3 id="roles">Job Roles</h3>
