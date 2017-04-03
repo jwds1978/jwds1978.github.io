@@ -77,7 +77,6 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
   * Fast&hellip;&nbsp; Secure&hellip;&nbsp; Affordable.
   * Enjoy your privacy!&nbsp; PIA has got your back!
   * For safe browsing, always use protection.
-  * Hide your IP with PIA.
   * Mask your IP.
   * Never trust a VPN provider that doesn't accept bitcoin.
   * Pay with bitcoin to browse the Web completely anonymous.
