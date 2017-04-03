@@ -66,6 +66,34 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
   * Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
 * <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right;" width="271" /><a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     * Your last password&hellip;&nbsp; Just remember your master password and LastPass remembers the rest.&nbsp; The best way to manage passwords.
+* <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_312x040.png" style="border: 0px; float: right;" width="312" /><a href="{{ site.uri.shortURL }}/PIA" target="_blank" title="Private Internet Access">Private Internet Access</a>
+  * Award winning VPN service provider.&nbsp; Fast, secure, no logs.
+    * 24/7 customer support.
+    * Paranoid encryption.
+    * Privacy is their policy.
+    * Unlimited bandwidth.
+  * Big brother is watching.&nbsp; Get your privacy back.
+  * Camouflaged&hellip;&nbsp; Anonymous VPN.
+  * Don't go raw.&nbsp; Always use protection.
+  * Encrypt your connection with an anonymous IP to protect your privacy.
+  * Encrypt your Internet usage.&nbsp; It's your right.
+  * Everyone can see what you download.
+  * Fast&hellip;&nbsp; Secure&hellip;&nbsp; Affordable.
+  * Enjoy your privacy!&nbsp; PIA has got your back!
+  * For safe browsing, always use protection.
+  * Hide your IP with PIA.
+  * Mask your IP.
+  * Never trust a VPN provider that doesn't accept bitcoin.
+  * Pay with bitcoin to browse the Web completely anonymous.
+  * Protect the ones you love with a PIA VPN service for safe and secure Web browsing.
+  * Protect your privacy.
+  * Shh!&nbsp; Always use protection.
+  * Stay private on the Web.&nbsp; Get a VPN plan today!
+  * The Internet is wiretapped.&nbsp; Encrypt your connection.
+  * The world's most reliable VPN service.
+  * VPN&hellip;&nbsp; No logs&hellip;&nbsp; Privacy done right.
+  * You care about your privacy&hellip;&nbsp; So does PIA.
+  * Your ISP can spy on you.
 * <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/TunnelBear_312x040.png" style="border: 0px; float: right;" width="312" /><a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" target="_blank" title="TunnelBear">TunnelBear</a><img alt="" height="1" src="https://click.tunnelbear.com/aff_i?aff_id=2760&file_id=6&offer_id=2" style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
   * Really simple VPN to browse the Web privately &amp; securely.&nbsp; Unblock Web sites around the world with applications for Android, Chrome, iOS, Mac, &amp; PC.
 * <a href="{{ site.uri.shortURL }}/xCoins" target="_blank" title="xCoins">xCoins</a>
