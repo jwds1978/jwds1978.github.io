@@ -50,17 +50,18 @@ When it comes to finding and winning clients as a freelancer, there isn't much t
 several scars and the odd badge of merit.&nbsp; So, when it comes to giving advice to freelancers who were maybe where I was several years ago, I speak from a
 position of experience.
 
-The type of hair-pull-face-palm-head-in-sand experience that you can only get from a good few years trying, failing and winning, to get something to work.
+The type of hair-pull&#8212;face-palm&#8212;head-in-sand experience that you can only get from a good few years trying, failing and winning, to get something to
+work.
 
-My stance on Upwork, and freelancer exchanges as a whole, has been largely unchallenged to date.&nbsp; One of the key differentiators I live by is my
-point-blank refusal to get embroiled in the small stuff and be a part of the over-cooked (or worse still, reheated) ideas and opinions that you'll get from a
+My stance on Upwork, and freelancer exchanges as a whole, has been largely unchallenged to-date.&nbsp; One of the key differentiators I live by is my
+point-blank refusal to get embroiled in the small stuff and be a part of the over-cooked (or, worse still, reheated) ideas and opinions that you'll get from a
 lot of freelancer advice Web sites.&nbsp; You can find plenty of places to get '10 weird tips' on the font size that you should use in your proposals or which
 keywords to choose for your Upwork profile.
 
-This isn't one of those places.
+One of those places, this isn't.
 
 As always, this shouldn't be taken as elitist, inflammatory, nor ignorant&hellip;&nbsp; Quite the opposite.&nbsp; I've experienced the ups-and-downs of
-freelancing.&nbsp; So, I believe that I have a duty to tell you everything that I know&hellip;&nbsp; If, I believe there's a better way.&nbsp; In doing so, I
+freelancing.&nbsp; So, I believe that I have a duty to tell you everything I know&hellip;&nbsp; If, I believe that there's a better way.&nbsp; In doing so, I
 give you the opportunity to not make the same mistakes that I did.
 
 Here's an excerpt from
@@ -102,7 +103,7 @@ In this chapter, he's talking about building attention and interest in you and y
 
 <p>&nbsp;</p>
 I'm acutely aware however that this is my own personal opinion, based on my own personal experiences and I'm always happy to be challenged, or air another point
-of view.&nbsp; So, I was delighted to receive a really awesome e-mail from Carol Hampshire, top 5 among 200,000 graphic designers on Upwork&hellip;&nbsp;
+of view.&nbsp; So, I was delighted to receive a really awesome e-mail from Carol Hampshire; top 5 amongst 200,000 graphic designers on Upwork&hellip;&nbsp;
 Currently, doing great and generating over $10,000 USD per month in revenue.
 
 <blockquote>
