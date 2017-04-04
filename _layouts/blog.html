@@ -29,7 +29,9 @@ layout: default
 </div>
 <div class="h-feed home">
   <div style="display: none;">
-    <p class="p-name">{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</p>
+    <p class="p-name">
+      {% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}
+    </p>
     <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
   </div>
   <p style="text-align: center;">
@@ -38,9 +40,15 @@ layout: default
     &bull;&nbsp; <a href="{{ site.url }}/blog/categories" rel="me" title="">Category</a>&nbsp;
     &bull;&nbsp; <a href="{{ site.url }}/blog/tags" rel="me" title="">Tag</a>
   </p>
-  <p>&nbsp;</p>
-  <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
+  <iframe
+    allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60"
+    style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+  <p>
+    &nbsp;
+  </p>
   {{ content }}
   <ul>
     {% for post in paginator.posts %}
@@ -51,12 +59,14 @@ layout: default
     <li>
       <article class="h-entry">
         <div style="display: none;">
-          <p class="p-name">{{ post.title | escape }}</p>
-          <p class="u-uid">{{ post.url }}</p>
+          <p class="p-name">
+            {{ post.title | escape }}
+          </p>
+          <p class="u-uid">
+            {{ post.url }}
+          </p>
         </div>
-        <span style="font-size: larger;">
-          <a class="u-url" href="{{ site.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a>
-        </span>
+        <span style="font-size: larger;"><a class="u-url" href="{{ site.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a></span>
         <h6>
           <span style="float: right;">
             by {% if postAuthor.hyperlink.uri %}<a {% if postAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}{% if postAuthor.hyperlink.hcard %}rel="author" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}<span {% if postAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ postAuthor.name | escape }}</span>{% if postAuthor.hyperlink.uri %}</a>{% endif %}{% if post.comments %}<br />
@@ -78,10 +88,16 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-  <p>&nbsp;</p>
-  <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+  <p>
+    &nbsp;
+  </p>
+  <iframe
+    allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60"
+    style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
   {% if paginator.total_pages > 1 %}
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
@@ -95,7 +111,9 @@ layout: default
     {% endif %}
   </ul>
   {% endif %}
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <p class="rss-subscribe">
     Subscribe <a href="{{ site.url }}/feed.xml" rel="me" title="">via RSS</a>.
   </p>

@@ -8,16 +8,26 @@ layout: default
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 
 {% if page.adsDisplay != false %}
-<iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
-<p style="font-size: smaller;">&nbsp;</p>
+<iframe
+  allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60"
+  style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
 {% endif %}
 <article class="h-entry">
   <div style="display: none;">
-    <p class="p-summary">{{ page.excerpt | replace: '<p>', '' | replace: '</p>', '' }}</p>
-    <p class="u-uid">{{ page.url }}</p>
+    <p class="p-summary">
+      {{ page.excerpt | replace: '<p>', '' | replace: '</p>', '' }}
+    </p>
+    <p class="u-uid">
+      {{ page.url }}
+    </p>
     <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
   </div>
-  <h1 class="p-name">{{ page.title | escape }}</h1>
+  <h1 class="p-name">
+    {{ page.title | escape }}
+  </h1>
   <h6>
     <span style="float: right;">
       by {% if pageAuthor.hyperlink.uri %}<a {% if pageAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}{% if pageAuthor.hyperlink.hcard %}rel="author" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}<span {% if pageAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ pageAuthor.name | escape }}</span>{% if pageAuthor.hyperlink.uri %}</a>{% endif %}<br />
@@ -27,7 +37,9 @@ layout: default
     Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
     Location:&nbsp; {% if page.location %}<span class="h-geo p-location"><data class="p-altitude" value="{{ page.location.altitude }}"></data><data class="p-latitude" value="{{ page.location.latitude }}"></data><data class="p-longitude" value="{{ page.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ page.location.latitude }},{{ page.location.longitude }}" target="_blank" title="{{ page.location.latitude }}, {{ page.location.longitude }}">{{ page.location.text }}</a></span>{% else %}N/A{% endif %}
   </h6>
-  <p style="font-size: smaller;">&nbsp;</p>
+  <p style="font-size: smaller;">
+    &nbsp;
+  </p>
   <div class="e-content">
     {{ content }}
   </div>
@@ -37,7 +49,7 @@ layout: default
     {% for cat in page.categories %}
     &nbsp;<a class="p-category" href="{{ site.url }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>
     {% endfor %}
-    <br />
+    &nbsp;<br />
     Tags:
     {% for tag in page.tags %}
     &nbsp;<a class="p-category" href="{{ site.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
@@ -74,12 +86,18 @@ layout: default
   {% endif %}
 </article>
 {% if page.adsDisplay != false %}
-<p style="font-size: smaller;">&nbsp;</p>
-<iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+<iframe
+  allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60"
+  style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
 {% endif %}
 {% if page.comments %}
 <!--sse-->
-<p style="font-size: smaller;">&nbsp;</p>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
 <div id="disqus_thread"></div>
 <script>
   var disqus_config = function () {
@@ -95,7 +113,13 @@ layout: default
 <!--/sse-->
 {% endif %}
 {% if page.adsDisplay != false %}
-<p style="font-size: smaller;">&nbsp;</p>
-<iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+<iframe
+  allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60"
+  style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
 {% endif %}
-<p style="font-size: smaller;">&nbsp;</p>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>

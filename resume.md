@@ -28,52 +28,116 @@ title: "Curriculum Vitae"
   <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
-  <h3 id="summary">Summary</h3>
+  <h3 id="summary">
+    Summary
+  </h3>
   <p class="p-summary">
-    Takes the standard elements of quality customer service and experience, and then kicks it up a notch.&nbsp; Offers more than just a repair service
-    &#8212; makes clients feel like they've learned something.&nbsp; Solves technical difficulties and 'just makes it work'.<br />
+    Takes the standard elements of quality customer service and experience, and then kicks it up a notch.&nbsp; Offers more than just a repair service &#8212;
+    makes clients feel like they've learned something.&nbsp; Solves technical difficulties and 'just makes it work'.<br />
     &nbsp;<br />
-    Technical expertise is important, but equal in significance is the presentment to the customer.&nbsp; The way you act, explain what the issues at hand
-    are, and confidence (not arrogance &#8212; there's a difference) in which you remedy the situation is a direct reflection on the company itself.
+    Technical expertise is important, but equal in significance is the presentment to the customer.&nbsp; The way you act, explain what the issues at hand are,
+    and confidence (not arrogance &#8212; there's a difference) in which you remedy the situation is a direct reflection on the company itself.
   </p>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
-  <h3 id="languages">Languages</h3>
+  <h3 id="languages">
+    Languages
+  </h3>
   <ul>
     <li>
       Coding
       <ul style="-moz-columns: 3; -webkit-columns: 3; columns: 3; list-style-position: inside;">
-        <li>ApacheConf</li>
-        <li>Batchfile</li>
-        <li>CSS</li>
-        <li>CSV</li>
-        <li>desktop</li>
-        <li>Diff</li>
-        <li>DNS Zone</li>
-        <li>ECLiPSe</li>
-        <li>HTML</li>
-        <li>HTML+PHP</li>
-        <li>HTTP</li>
-        <li>Java</li>
-        <li>JavaScript</li>
-        <li>JSON</li>
-        <li>Liquid</li>
-        <li>Markdown</li>
-        <li>Perl</li>
-        <li>PHP</li>
-        <li>Python</li>
-        <li>Regular Expression</li>
-        <li>Ruby</li>
-        <li>Shell</li>
-        <li>Smali</li>
-        <li>Smarty</li>
-        <li>SQL</li>
-        <li>Text</li>
-        <li>Vim Script</li>
-        <li>XML</li>
-        <li>YAML</li>
+        <li>
+          ApacheConf
+        </li>
+        <li>
+          Batchfile
+        </li>
+        <li>
+          CSS
+        </li>
+        <li>
+          CSV
+        </li>
+        <li>
+          desktop
+        </li>
+        <li>
+          Diff
+        </li>
+        <li>
+          DNS Zone
+        </li>
+        <li>
+          ECLiPSe
+        </li>
+        <li>
+          HTML
+        </li>
+        <li>
+          HTML+PHP
+        </li>
+        <li>
+          HTTP
+        </li>
+        <li>
+          Java
+        </li>
+        <li>
+          JavaScript
+        </li>
+        <li>
+          JSON
+        </li>
+        <li>
+          Liquid
+        </li>
+        <li>
+          Markdown
+        </li>
+        <li>
+          Perl
+        </li>
+        <li>
+          PHP
+        </li>
+        <li>
+          Python
+        </li>
+        <li>
+          Regular Expression
+        </li>
+        <li>
+          Ruby
+        </li>
+        <li>
+          Shell
+        </li>
+        <li>
+          Smali
+        </li>
+        <li>
+          Smarty
+        </li>
+        <li>
+          SQL
+        </li>
+        <li>
+          Text
+        </li>
+        <li>
+          Vim Script
+        </li>
+        <li>
+          XML
+        </li>
+        <li>
+          YAML
+        </li>
       </ul>
     </li>
     <li>
@@ -85,7 +149,9 @@ title: "Curriculum Vitae"
             <li>
               Native or Bilingual
               <ul>
-                <li>I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.</li>
+                <li>
+                  I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.
+                </li>
               </ul>
             </li>
           </ul>
@@ -101,7 +167,9 @@ title: "Curriculum Vitae"
             <li>
               Native or Bilingual
               <ul>
-                <li>I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.</li>
+                <li>
+                  I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.
+                </li>
               </ul>
             </li>
           </ul>
@@ -117,7 +185,9 @@ title: "Curriculum Vitae"
             <li>
               Native or Bilingual
               <ul>
-                <li>I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.</li>
+                <li>
+                  I have complete command of this language.&nbsp; Including breadth of vocabulary, idioms, and colloquialisms.
+                </li>
               </ul>
             </li>
           </ul>
@@ -125,11 +195,15 @@ title: "Curriculum Vitae"
       </ul>
     </li>
   </ul>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
-  <h3 id="projects">Projects</h3>
+  <h3 id="projects">
+    Projects
+  </h3>
   <p>
     <a href="{{ site.uri.assets }}/naked/images/project_forces-army_1080x1080.png" target="_blank" title="">
       <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/project_forces-army_0040x0040.png" style="border: 0px; float: right;" width="40" />
@@ -137,8 +211,9 @@ title: "Curriculum Vitae"
     <a href="https://forces.army" rel="me" title="{{ site.title }}">forces.army</a>&nbsp; <sup>Web</sup><br />
     Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, JavaScript, JSON, Liquid, Markdown, Regular Expression, Ruby, Text, XML, YAML</sup><br />
     January 2017 &#8211; Present&nbsp; <sup>4 Months</sup><br />
-    <object data="https://travis-ci.org/jwds1978/jwds1978.github.io.svg?branch=source" style="border: 0px; float: left; vertical-align: middle;" type="image/svg+xml"></object>&nbsp;
-    Embrace &quot;The Suck&quot;
+    <object
+      data="https://travis-ci.org/jwds1978/jwds1978.github.io.svg?branch=source" style="border: 0px; float: left; vertical-align: middle;"
+      type="image/svg+xml"></object>&nbsp; Embrace &quot;The Suck&quot;
   </p>
   <p>
     Root Availability Check&nbsp; <sup>Android</sup><br />
@@ -174,18 +249,18 @@ title: "Curriculum Vitae"
         &nbsp;<br />
         North American (Canada and United States of America) business owners can begin accepting payments quickly and easily with a Pivotal Payment merchant
         account; no matter the business type.&nbsp; International business owners, outside of North America, can begin accepting eCommerce and/or
-        mail-order/telephone-order payments quickly and easily with a Stripe account.<br />
+        (mail/telephone)-order payments quickly and easily with a Stripe account.<br />
         &nbsp;<br />
-        <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for
-        WHMCS to provide complete/full tokenization functionality/integration (including, but not limited to, within the cart/checkout and the
-        administrative area) and payment dispute automation/management (Stripe-specific) from within WHMCS.<br />
+        <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for WHMCS
+        to provide complete/full tokenization functionality/integration (including, but not limited to, within the cart/checkout and the administrative area)
+        and payment dispute automation/management (Stripe-specific) from within WHMCS.<br />
         &nbsp;
       </li>
       <li>
         November 2012 &#8211; October 2013:<br />
         &nbsp;<br />
-        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for WHMCS to provide complete/full tokenization functionality/integration (including,
-        but not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management from within WHMCS.
+        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for WHMCS to provide complete/full tokenization functionality/integration (including, but
+        not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management from within WHMCS.
       </li>
     </ul>
   </p>
@@ -218,35 +293,43 @@ title: "Curriculum Vitae"
     Lead Developer<br />
     Allows for the insertion of a Google (public) location badge.
   </p>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
-  <h3 id="recommendations">Recommendations</h3>
+  <h3 id="recommendations">
+    Recommendations
+  </h3>
   <p>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Greater-Sudbury-Chamber-of-Commerce_210x40.png" style="border: 0px; float: right;" width="210" />
-    John Kennedy<br />
+    <img
+      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Greater-Sudbury-Chamber-of-Commerce_210x40.png" style="border: 0px; float: right;"
+      width="210" />John Kennedy<br />
     <a href="http://sudburychamber.ca" target="_blank" title="Greater Sudbury Chamber of Commerce">Greater Sudbury Chamber of Commerce</a>
     <blockquote>
-      James services each of his clients in the same professional way&hellip; Friendly and knowledgeable.&nbsp; As a small business owner, James knows the
-      value of one-on-one service.
+      James services each of his clients in the same professional way&hellip; Friendly and knowledgeable.&nbsp; As a small business owner, James knows the value
+      of one-on-one service.
     </blockquote>
   </p>
   <p>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/VMware_262x040.png" style="border: 0px; float: right;" width="262" />
-    Matthew Fogel<br />
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/VMware_262x040.png" style="border: 0px; float: right;" width="262" />Matthew Fogel<br />
     <a href="http://www.vmware.com" target="_blank" title="VMware">VMware</a>
     <blockquote>
       I worked with James at Sitel while he was a Hewlett-Packard technical support specialist.&nbsp; During the time that we worked together, James was a
-      dedicated professional who showed commitment to his customers.&nbsp; I am deeply impressed by James and recommend him unhesitatingly.&nbsp; I am
-      confident that he would provide the same high level of service and commitment that he demonstrated at Sitel.
+      dedicated professional who showed commitment to his customers.&nbsp; I am deeply impressed by James and recommend him unhesitatingly.&nbsp; I am confident
+      that he would provide the same high level of service and commitment that he demonstrated at Sitel.
     </blockquote>
   </p>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
-  <h3 id="experience">Experience</h3>
+  <h3 id="experience">
+    Experience
+  </h3>
   <div class="h-card h-event p-experience">
     <p>
       <span class="p-job-title">CEO / Founder / President</span><br />
@@ -263,8 +346,7 @@ title: "Curriculum Vitae"
       <a class="p-name p-org u-url" href="https://www.whmcs.com" target="_blank" title="WHMCS">WHMCS</a><br />
       <time class="dt-start" datetime="2013-02">February 2013</time> &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp;
       <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
-      $2,234 USD per Month&nbsp;
-      <sup>~$2,984 CAD per Month</sup>
+      $2,234 USD per Month&nbsp; <sup>~$2,984 CAD per Month</sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -303,7 +385,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Stream-Global-Services_86x40.png" style="border: 0px; float: right;" width="86" />
+      <img
+        alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Stream-Global-Services_86x40.png" style="border: 0px; float: right;"
+        width="86" />
       <span class="p-job-title">Technical Support Professional</span> &#8212; Hewlett-Packard<br />
       <a class="p-name p-org u-url" href="http://www.stream.com" target="_blank" title="Stream Global Services">Stream Global Services</a><br />
       <time class="dt-start" datetime="2009-11">November 2009</time> &#8211; <time class="dt-end" datetime="2010-11">November 2010</time>&nbsp;
@@ -358,14 +442,20 @@ title: "Curriculum Vitae"
       <sup><time class="dt-duration" datetime="P6Y">6 Years</time></sup>
     </p>
   </div>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
-  <h3 id="volunteer-experience">Volunteer Experience</h3>
+  <h3 id="volunteer-experience">
+    Volunteer Experience
+  </h3>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Big-Brothers-Big-Sisters-of-South-Niagara_155x040.png" style="border: 0px; float: right;" width="155" />
+      <img
+        alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Big-Brothers-Big-Sisters-of-South-Niagara_155x040.png"
+        style="border: 0px; float: right;" width="155" />
       <span class="p-job-title">Big Brother</span><br />
       <a class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" target="_blank" title="Big Brothers Big Sisters of South Niagara">
         Big Brothers Big Sisters of South Niagara
@@ -376,7 +466,9 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Search-and-Rescue-Niagara_71x40.png" style="border: 0px; float: right;" width="71" />
+      <img
+        alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Search-and-Rescue-Niagara_71x40.png" style="border: 0px; float: right;"
+        width="71" />
       <span class="p-job-title">Assistant Training Officer / Board Member</span><br />
       <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" target="_blank" title="Search and Rescue Niagara">
         Search and Rescue Niagara
@@ -385,11 +477,15 @@ title: "Curriculum Vitae"
       <sup><time class="dt-duration" datetime="P1Y2M">1 Year, 2 Months</time></sup>
     </p>
   </div>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
-  <h3 id="education">Education</h3>
+  <h3 id="education">
+    Education
+  </h3>
   <div class="h-card h-event p-education">
     <p>
       <a href="http://www.confederationcollege.ca/program/aviation-flight-management" target="_blank" title="Aviation - Flight Management">
@@ -397,44 +493,46 @@ title: "Curriculum Vitae"
       </a><br />
       <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a><br />
       <span class="p-summary">
-        This program is very well known within the aviation industry and is recognized as one of the best of its kind.&nbsp; Aviation &#8212; Flight
-        Management has been running at Confederation since 1973.&nbsp; It's a demanding academic program and it has flight standards that are rigorous
-        throughout the program; resulting in highly qualified and competent graduates who do well in the industry.
+        This program is very well known within the aviation industry and is recognized as one of the best of its kind.&nbsp; Aviation &#8212; Flight Management
+        has been running at Confederation since 1973.&nbsp; It's a demanding academic program and it has flight standards that are rigorous throughout the
+        program; resulting in highly qualified and competent graduates who do well in the industry.
       </span>
     </p>
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=73" target="_blank" title="Computer End-User Support Specialist">
-        <span class="p-description">Computer End-User Support Specialist</span>
-      </a><br />
+      <a
+        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=73" target="_blank"
+        title="Computer End-User Support Specialist"><span class="p-description">Computer End-User Support Specialist</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp; A computer end-user support
-        specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers,
-        power supplies, soundcards, and so forth.&nbsp; A person in this position may also be called upon to determine the organization's software and
-        hardware needs&hellip; including upgrades, and to train users on new equipment and programs.
+        specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers, power
+        supplies, soundcards, and so forth.&nbsp; A person in this position may also be called upon to determine the organization's software and hardware
+        needs&hellip; including upgrades, and to train users on new equipment and programs.
       </span>
     </p>
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=57" target="_blank" title="Customer Service Representative">
-        <span class="p-description">Customer Service Representative</span>
-      </a><br />
+      <a
+        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=57" target="_blank"
+        title="Customer Service Representative"><span class="p-description">Customer Service Representative</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp; A customer service representative handles such tasks as
-        soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or
-        billing&hellip; and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp;
-        Additionally, a person in this position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes
-        records&hellip; and prepares reports dealing with orders, complaints, and adjustments.
+        soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or billing&hellip;
+        and examining pertinent information to determine the accuracy of customer complaints and responsibility for errors.&nbsp; Additionally, a person in this
+        position notifies customers and appropriate personnel of findings, adjustments, and recommendations&hellip; completes records&hellip; and prepares
+        reports dealing with orders, complaints, and adjustments.
       </span>
     </p>
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <img alt="Brainbench :: Certified Internet Professional (BCIP)" height="40" src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
+      <img
+        alt="Brainbench :: Certified Internet Professional (BCIP)" height="40"
+        src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
       <a href="https://www.brainbench.com/xml/default/common/testcenter/bcip.xml" target="_blank" title="Brainbench Certified Internet Professional (BCIP)">
         <span class="p-description">Internet Professional (BCIP)</span>
       </a><br />
@@ -457,8 +555,8 @@ title: "Curriculum Vitae"
       </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
-        Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a
-        LAN and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in this position also addresses,
+        Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a LAN
+        and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in this position also addresses,
         diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp; A network
         support specialist might also be called upon to train users in LAN usage.
       </span>
@@ -471,16 +569,28 @@ title: "Curriculum Vitae"
       </a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
-        Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including
-        installation, configuration, and administration, and be well versed in such areas as Web site security and troubleshooting.
+        Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including installation,
+        configuration, and administration, and be well versed in such areas as Web site security and troubleshooting.
       </span>
       <ul style="-moz-columns: 3; -webkit-columns: 3; columns: 3; list-style-position: inside;">
-        <li>Internetworking with Cisco</li>
-        <li>Linux</li>
-        <li>Microsoft Windows 2000</li>
-        <li>Microsoft Windows NT</li>
-        <li>Novell Netware</li>
-        <li>Unix</li>
+        <li>
+          Internetworking with Cisco
+        </li>
+        <li>
+          Linux
+        </li>
+        <li>
+          Microsoft Windows 2000
+        </li>
+        <li>
+          Microsoft Windows NT
+        </li>
+        <li>
+          Novell Netware
+        </li>
+        <li>
+          Unix
+        </li>
       </ul>
     </p>
   </div>
@@ -495,9 +605,15 @@ title: "Curriculum Vitae"
         functional, and useful, a Web designer must also ensure that the Web site is easily navigable and accessible to all who may want to use it.
       </span>
       <ul style="-moz-columns: 3; -webkit-columns: 3; columns: 3; list-style-position: inside;">
-        <li>Graphic Design</li>
-        <li>Multimedia</li>
-        <li>Page Layout</li>
+        <li>
+          Graphic Design
+        </li>
+        <li>
+          Multimedia
+        </li>
+        <li>
+          Page Layout
+        </li>
       </ul>
     </p>
   </div>
@@ -509,21 +625,31 @@ title: "Curriculum Vitae"
       <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for using programming, scripting, and database integration tools to develop professional, effective, and well-organized client-side and
-        server-side Web sites.&nbsp; Web developers must know HTML, XML, and object-oriented design and should be able to use a variety of programming
-        languages and Web development tools.
+        server-side Web sites.&nbsp; Web developers must know HTML, XML, and object-oriented design and should be able to use a variety of programming languages
+        and Web development tools.
       </span>
       <ul style="-moz-columns: 3; -webkit-columns: 3; columns: 3; list-style-position: inside;">
-        <li>Client-Side</li>
-        <li>Database</li>
-        <li>Server-Side</li>
+        <li>
+          Client-Side
+        </li>
+        <li>
+          Database
+        </li>
+        <li>
+          Server-Side
+        </li>
       </ul>
     </p>
   </div>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
   <span style="float: right; font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
-  <h3 id="certifications">Certifications</h3>
+  <h3 id="certifications">
+    Certifications
+  </h3>
   <p>
     Certificate of Proficiency in Radio &#8212; Restricted Operator &#8212; Aeronautical<br />
     <a href="http://www.ic.gc.ca" target="_blank" title="Industry Canada">Industry Canada</a><br />
