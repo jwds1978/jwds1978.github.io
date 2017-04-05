@@ -121,9 +121,9 @@ title: "Static Site Generation"
 <ul>
   <li>
     Project is a directory (i.e. &quot;myproj&quot;)
-    ```shell_session
+    {% highlight shell_session %}
     $ middleman init myproj
-    ```
+    {% endhighlight %}
     <ul>
       <li>
         Configuration files, README, Gemfile, etc.
@@ -140,24 +140,24 @@ title: "Static Site Generation"
   </li>
   <li>
     Compile all of the source files.
-    ```shell_session
+    {% highlight shell_session %}
     $ bundle exec middleman build
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Result is placed in &quot;myproj/build&quot;.
   </li>
   <li>
     Copy the site to some visible location.
-    ```shell_session
+    {% highlight shell_session %}
     $ rsync -avz --del myproj/build ~/WWW
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Or, preview locally (i.e. live reload, no build).
-    ```shell_session
+    {% highlight shell_session %}
     $ bundle exec middleman server
-    ```
+    {% endhighlight %}
   </li>
 </ul>
 <p>
@@ -176,7 +176,7 @@ title: "Static Site Generation"
   <li>
     Parameterized generation of markup and content.
   </li>
-</ul>
+</ol>
 <p>
   Let's look at each of these benefits in turn&hellip;
 </p>
@@ -231,21 +231,21 @@ title: "Static Site Generation"
             <ul>
               <li>
                 Execute ruby code (i.e. &quot;scriplet&quot;).
-                ```liquid
+                {% highlight liquid %}
                 <% code %>
-                ```
+                {% endhighlight %}
               </li>
               <li>
                 Replace with result of expr.
-                ```liquid
+                {% highlight liquid %}
                 <%= expr %>
-                ```
+                {% endhighlight %}
               </li>
               <li>
                 Ignore (i.e. a comment).
-                ```liquid
+                {% highlight liquid %}
                 <%# text %>
-                ```
+                {% endhighlight %}
               </li>
             </ul>
           </li>
@@ -255,18 +255,18 @@ title: "Static Site Generation"
   </li>
   <li>
     Example:&nbsp; A text file.
-    ```liquid
+    {% highlight liquid %}
     This is some text.
     <% 5.times do %>
     Current Time is <%= Time.now %>!
     <% end %>
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Process using erbtool to generate result.
-    ```shell_session
+    {% highlight shell_session %}
     $ erb example.txt.erb > example.txt
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Naming Convention:&nbsp; filename.outputlang.erb
@@ -289,24 +289,24 @@ title: "Static Site Generation"
 <ul>
   <li>
     Source files in &quot;myproj/source&quot;.
-    ```shell_session
+    {% highlight shell_session %}
     $ ls source
     index.html.erb    syll.html.erb
     meet.html.erb
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Compile.
-    ```shell_session
+    {% highlight shell_session %}
     $ bundle exec middleman build
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Result after building.
-    ```shell_session
+    {% highlight shell_session %}
     $ ls build
     index.html    meet.html    syll.html
-    ```
+    {% endhighlight %}
   </li>
 </ul>
 <p>
@@ -321,25 +321,25 @@ title: "Static Site Generation"
   </li>
   <li>
     Include in ERb using the `partial` function.
-    ```liquid
+    {% highlight liquid %}
     <body>
       <%= partial "navigation" %>
       ...
     </body>
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Partial's filename begins with &quot;_&quot;.
     <ul>
       <li>
         i.e. _navigation.erb
-        ```html
+        {% highlight html %}
         <div class="navbar">
           <ul id="site-nav">
             <li>...</li>
           </ul>
         </div>
-        ```
+        {% endhighlight %}
         <ul>
           <li>
             Note:&nbsp; &quot;_&quot; omitted in argument to function.
@@ -358,25 +358,25 @@ title: "Static Site Generation"
 <ul>
   <li>
     Source files in myproj/source.
-    ```shell_session
+    {% highlight shell_session %}
     $ ls source
     _footer.erb        meet.html.erb
     _navigation.erb    syll.html.erb
     index.html.erb 
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Compile.
-    ```shell_session
+    {% highlight shell_session %}
     $ bundle exec middleman build
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Result after building.
-    ```shell_session
+    {% highlight shell_session %}
     $ ls build
     index.html    meet.html    syll.html
-    ```
+    {% endhighlight %}
   </li>
 </ul>
 <p
@@ -391,16 +391,16 @@ title: "Static Site Generation"
   </li>
   <li>
     In Calling ERb:&nbsp; Pass a hash.
-    ```liquid
+    {% highlight liquid %}
     <%= partial "banner", :locals => { :name => "Syllabus", :amount => 34 } %>
-    ```
+    {% endhighlight %}
   </li>
   <li>
     In Partial:&nbsp; Access variables.
-    ```liquid
+    {% highlight liquid %}
     <h3><%= :name %></h3>
     <p>Costs <%= "$#{:amount}.00" %></p>
-    ```
+    {% endhighlight %}
   </li>
 </ul>
 <p>
@@ -420,7 +420,7 @@ title: "Static Site Generation"
   </li>
   <li>
     Every page should look like:
-    ```html
+    {% highlight html %}
     <!DOCTYPE html>
     <html>
       <head>
@@ -433,7 +433,7 @@ title: "Static Site Generation"
         ...  <!--different on each page-->
       </body>
     </html>
-    ```
+    {% endhighlight %}
   </li>
 </ul>
 <p>
@@ -451,7 +451,7 @@ title: "Static Site Generation"
   </li>
   <li>
     File:&nbsp; layout.erb
-    ```html
+    {% highlight html %}
     <!DOCTYPE html>
     <html>
       <head>
@@ -461,7 +461,7 @@ title: "Static Site Generation"
       <body>
         <%= yield =>
       </body>
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Template replaces layout's yield.
@@ -503,17 +503,17 @@ title: "Static Site Generation"
     <ul>
       <li>
         In template (contact.html.erb)
-        ```ruby
+        {% highlight ruby %}
         ;;;
         "title": "Contact Information"
         ;;;
-        ```
+        {% endhighlight %}
       </li>
       <li>
         In layout (layout.erb)
-        ```liquid
+        {% highlight liquid %}
         <title><%= current_page.data.title %></title>
-        ```
+        {% endhighlight %}
       </li>
     </ul>
   </li>
@@ -527,21 +527,21 @@ title: "Static Site Generation"
 <ul>
   <li>
     Default layout in &quot;source/layouts/layouts.erb&quot;.
-    ```shell_session
+    {% highlight shell_session %}
     $ ls –F source
     index.html.erb    meet.html.erb
     layouts/          syll.html.erb
     
     $ ls source/layouts
     _footer.erb    _navigation.erb    layout.erb
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Result after building.
-    ```shell_session
+    {% highlight shell_session %}
     $ ls build
     index.html    meet.html    syll.html
-    ```
+    {% endhighlight %}
   </li>
 </ul>
 <p>
@@ -631,7 +631,7 @@ title: "Static Site Generation"
 <ul>
   <li>
     Literals are common.
-    ```css
+    {% highlight css %}
     h1 {
       background-color: #ff14a6;
     }
@@ -639,14 +639,14 @@ title: "Static Site Generation"
     h2 {
       color: #ff14a6;
     }
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Result:&nbsp; Lack of single-point-of-control.
   </li>
   <li>
     Solution:&nbsp; SASS, allows variables.
-    ```css
+    {% highlight css %}
     $primary: #ff14a6;
 
     h1 {
@@ -656,7 +656,7 @@ title: "Static Site Generation"
     h2 {
       color: $primary;
     }
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Preprocessor generates CSS from SASS.
@@ -685,20 +685,20 @@ title: "Static Site Generation"
   </li>
   <li>
     Placeholder text and images.
-    ```liquid
+    {% highlight liquid %}
     <%= lorem.sentence %>
-    ```
+    {% endhighlight %}
     <ul>
       <li>
         Many versions of this &quot;helper&quot; are available.
-        ```markdown
+        {% highlight markdown %}
         lorem.paragraphs 2
         lorem.date
         lorem.last_name
         lorem.image('300x400')
 
           #=>  http://placehold.it/300x400
-        ```
+        {% endhighlight %}
       </li>
     </ul>
   </li>
@@ -712,21 +712,21 @@ title: "Static Site Generation"
 <ul>
   <li>
     Links.
-    ```liquid
+    {% highlight liquid %}
     <%= link_to 'About', '/about.html' %>
 
       #=>  <a href='/about/'>About</a>
-    ```
+    {% endhighlight %}
   </li>
   <li>
     Assets.
-    ```liquid
+    {% highlight liquid %}
     <%= stylesheet_link_tag 'all' %>
     <%= javascript_include_tag 'jquery' %>
     <%= favicon_tag 'images/favicon.png' %>
     <%= link_to 'Blog', '/blog', :class => 'example' %>
     <%= image_tag 'padrino.png', :width => '35', :class => 'logo' %>
-    ```
+    {% endhighlight %}
   </li>
 </ul>
 <p>
