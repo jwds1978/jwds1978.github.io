@@ -320,7 +320,7 @@ title: "Static Site Generation"
     A document fragment included in other documents.
   </li>
   <li>
-    Include in ERb using the `partial` function.
+    Include in ERb using the <mark>partial</mark> function.
     {% highlight liquid %}
     <body>
       <%= partial "navigation" %>
@@ -486,15 +486,15 @@ title: "Static Site Generation"
     Some layout content is page-specific.
     <ul>
       <li>
-        Example:&nbsp; `<title>` in document's head.
+        Example:&nbsp; <mark>&lt;title%gt;</mark> in document's head.
       </li>
     </ul>
   </li>
   <li>
-    Solution:&nbsp; Ruby variable `current_page`
+    Solution:&nbsp; Ruby variable <mark>current_page</mark>
     <ul>
       <li>
-        Example:&nbsp; `current_page.path`
+        Example:&nbsp; <mark>current_page.path</mark>
       </li>
     </ul>
   </li>
@@ -600,7 +600,7 @@ title: "Static Site Generation"
         Filename Extension:&nbsp; .md
       </li>
       <li>
-        Adds some less familiar ones (i.e. \`\`\`).
+        Adds some less familiar ones (i.e. <mark>```</mark>).
       </li>
     </ul>
   </li>
