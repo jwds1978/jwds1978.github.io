@@ -379,7 +379,7 @@ title: "Static Site Generation"
     {% endhighlight %}
   </li>
 </ul>
-<p
+<p>
   &nbsp;
 </p>
 <h3>
