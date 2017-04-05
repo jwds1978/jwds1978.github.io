@@ -62,6 +62,8 @@ James is a consultant of all things IT.&nbsp; That doesn't really say all that m
   * Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
 * <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right;" width="286" /><a href="{{ site.uri.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
   * Experience e-mail done right.
+* <a href="{{ site.uri.shortURL }}/Fiverr" target="_blank" title="Fiverr">Fiverr</a><img alt="" height="1" src="https://tracking.fiverr.com/aff_i?aff_id=24221&offer_id=1712" style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
+  * <a href="{{ site.uri.shortURL }}/Fiverr" target="_blank" title="Fiverr"><img alt="" height="244" src="{{ site.uri.assets }}/naked/images/Fiverr_work-less_482x244.png" style="border: 0px;" width="482" /></a>
 * <a href="{{ site.uri.shortURL }}/Iconfinder" target="_blank" title="Iconfinder">Iconfinder</a>
   * Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
 * <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right;" width="271" /><a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
