@@ -42,32 +42,40 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 
 <img
   alt="" height="321" src="{{ site.uri.assets }}/blog/2017/04/03/a-guide-to-not-working-on-freelance-exchanges-fiverr-upwork/the-moment-begins_482x321.png"
-  style="border: 0px; float: right;" width="482"
-/>
-Are freelancer exchanges viable when your goal is mutually beneficial partnerships with clients willing to pay a fair amount per project?
-
-When it comes to finding and winning clients as a freelancer, there isn't much that I haven't tried&hellip;&nbsp; I graduated the school of hard-knocks with
-several scars and the odd badge of merit.&nbsp; So, when it comes to giving advice to freelancers who were maybe where I was several years ago, I speak from a
-position of experience.
-
-The type of hair-pull&#8212;face-palm&#8212;head-in-sand experience that you can only get from a good few years trying, failing and winning, to get something to
-work.
-
-My stance on Upwork, and freelancer exchanges as a whole, has been largely unchallenged to-date.&nbsp; One of the key differentiators I live by is my
-point-blank refusal to get embroiled in the small stuff and be a part of the over-cooked (or, worse still, reheated) ideas and opinions that you'll get from a
-lot of freelancer advice Web sites.&nbsp; You can find plenty of places to get '10 weird tips' on the font size that you should use in your proposals or which
-keywords to choose for your Upwork profile.
-
-One of those places, this isn't.
-
-As always, this shouldn't be taken as elitist, inflammatory, nor ignorant&hellip;&nbsp; Quite the opposite.&nbsp; I've experienced the ups-and-downs of
-freelancing.&nbsp; So, I believe that I have a duty to tell you everything I know&hellip;&nbsp; If, I believe that there's a better way.&nbsp; In doing so, I
-give you the opportunity to not make the same mistakes that I did.
-
-Here's an excerpt from
-<a href="#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me" title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer">a book</a>.&nbsp;
-In this chapter, he's talking about building attention and interest in you and your freelance service.&nbsp; It pretty much sums up my take:
-
+  style="border: 0px; float: right;" width="482" />
+<p>
+  Are freelancer exchanges viable when your goal is mutually beneficial partnerships with clients willing to pay a fair amount per project?
+</p>
+<p>
+  When it comes to finding and winning clients as a freelancer, there isn't much that I haven't tried&hellip;&nbsp; I graduated the school of hard-knocks with
+  several scars and the odd badge of merit.&nbsp; So, when it comes to giving advice to freelancers who were maybe where I was several years ago, I speak from a
+  position of experience.
+</p>
+<p>
+  The type of hair-pull&#8212;face-palm&#8212;head-in-sand experience that you can only get from a good few years trying, failing and winning, to get something
+  to work.
+</p>
+<p>
+  My stance on Upwork, and freelancer exchanges as a whole, has been largely unchallenged to-date.&nbsp; One of the key differentiators I live by is my
+  point-blank refusal to get embroiled in the small stuff and be a part of the over-cooked (or, worse still, reheated) ideas and opinions that you'll get from a
+  lot of freelancer advice Web sites.&nbsp; You can find plenty of places to get '10 weird tips' on the font size that you should use in your proposals or which
+  keywords to choose for your Upwork profile.
+</p>
+<p>
+  One of those places, this isn't.
+</p>
+<p>
+  As always, this shouldn't be taken as elitist, inflammatory, nor ignorant&hellip;&nbsp; Quite the opposite.&nbsp; I've experienced the ups-and-downs of
+  freelancing.&nbsp; So, I believe that I have a duty to tell you everything I know&hellip;&nbsp; If, I believe that there's a better way.&nbsp; In doing so, I
+  give you the opportunity to not make the same mistakes that I did.
+</p>
+<p>
+  Here's an excerpt from
+  <a
+    href="#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me"
+    title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer">a book</a>.&nbsp; In this chapter, he's talking about building attention and
+  interest in you and your freelance service.&nbsp; It pretty much sums up my take:
+</p>
 <blockquote>
   We live in a noisy world.&nbsp; Whether it's the irresistibly tactile Facebook notification icon or the audible blip of your email client, everybody wants a
   piece of your attention.<br />
@@ -100,12 +108,14 @@ In this chapter, he's talking about building attention and interest in you and y
   &nbsp;<br />
   So how do we multiply our exposure, build attention and look at this cloudy online environment as a help rather than hindrance?
 </blockquote>
-
-<p>&nbsp;</p>
-I'm acutely aware however that this is my own personal opinion, based on my own personal experiences and I'm always happy to be challenged, or air another point
-of view.&nbsp; So, I was delighted to receive a really awesome e-mail from Carol Hampshire; top 5 amongst 200,000 graphic designers on Upwork&hellip;&nbsp;
-Currently, doing great and generating over $10,000 USD per month in revenue.
-
+<p>
+  &nbsp;
+</p>
+<p>
+  I'm acutely aware however that this is my own personal opinion, based on my own personal experiences and I'm always happy to be challenged, or air another
+  point of view.&nbsp; So, I was delighted to receive a really awesome e-mail from Carol Hampshire; top 5 amongst 200,000 graphic designers on
+  Upwork&hellip;&nbsp; Currently, doing great and generating over $10,000 USD per month in revenue.
+</p>
 <blockquote>
   <span style="font-weight: bolder;">From:</span>&nbsp; Carol Hampshire<br />
   <span style="font-weight: bolder;">Subject:</span>&nbsp; I'm a top bracket freelancer on Upwork!<br />
@@ -146,135 +156,214 @@ Currently, doing great and generating over $10,000 USD per month in revenue.
   &nbsp;<br />
   Carol
 </blockquote>
-
-<p>&nbsp;</p>
-You can, probably, imagine me receiving this e-mail and cracking a smile.&nbsp; It really was a slam dunk of an e-mail correspondence&hellip;&nbsp; I'm so happy
-to have smart freelancers, from all over the world, consuming the ideas that I'm putting out and feeling comfortable enough to question what they're being told.
-
-<p>&nbsp;</p>
-### Question Everything
-
-So, I was inspired to at least give a fair debate as to the potential benefits of Upwork, and to work a little harder to assert my ultimate opinion that
-freelancer exchanges aren't the right place for you if you're looking to make the break-through into the top bracket ($5,000&#8211;10,000+ per project)
-freelancing.
-
-So, let's start with the positives.&nbsp; Here's where Upwork and the like can bring benefit to your freelance business:
-
-<ul>
-  <li>
-    <span style="font-weight: bolder;">Genuine Access to Revenue Opportunities:</span>&nbsp; It's beyond question that there are hundreds of jobs awarded to
-    freelancers every single day.&nbsp; The combined potential of all of this ready-to-spend revenue is huge.&nbsp; Far more than one person could ever wish to
-    receive.
-  </li>
-  <li>
-    <span style="font-weight: bolder;">Low Barrier to Entry:</span>&nbsp; One of the key drawbacks, in my opinion, has always been the 'great normalizer' effect
-    of an identical profile page for every freelancer.&nbsp; But, what this also provides new freelancers is a low barrier to entry; which doesn't require the
-    build of a Web presence of their own.
-  </li>
-  <li>
-    <span style="font-weight: bolder;">Some Great Client Opportunities:</span>&nbsp; I use Upwork.&nbsp; A lot of my peers in the entrepreneurship space use
-    Upwork.&nbsp; I even use Fiverr at times.&nbsp; And, if someone does a great job for me, then there's the opportunity for that to continue outside of the
-    confines of the particular freelancer exchange.
-  </li>
-</ul>
-
-<p>&nbsp;</p>
-### How Great Clients are Born
-
-My philosophy on freelancing is that, ultimately, great clients should come to you.&nbsp; You should've built enough exposure and be doing enough great work to
-ensure that you're never without new client opportunities.
-
-Here is the eventual flow I teach freelancers to achieve:
-
-1. Define a specialist client market &amp; reflect that in a Web site of your own.
-2. Put in the work to be known in this space and demand attention.
-3. Spark non-sales relationships with no brainer ways to get in touch.
-4. Transition to a more commercial conversation.
-5. Put together great proposals which look awesome and justify value well.
-6. Make the initial sale.&nbsp; Then build a longer-term, mutually beneficial, partnership to reduce reliance on continually winning new business.
-
-Having a client acquisition flow like this is the key to developing project fees of $5,000&#8211;10,000 and more.
-
-Here's where freelancer exchanges work against this methodology&hellip;
-
-<p>&nbsp;</p>
-### We're all 'identicalancers'
-
-On freelancer exchanges, there isn't a whole lot of room to develop a central presence which is tailored to your style and message.&nbsp; Instead, we're offered
-an identical profile to everybody else, and are strictly forbidden from providing links to external locations which may do a better job of giving the client a
-picture of us as a person; not just a faceless service provider.
-
-<p>&nbsp;</p>
-### No Control over Client Market
-
-I strongly advocate developing a vision for a dream client.&nbsp; In doing so, you're proposing finding a smaller sub-set of an audience to double-down
-on.&nbsp; The benefits to this approach are numerous, it's much easier to become visible, demand attention, and make the sale within a smaller pool of
-prospective clients.
-
-This is near impossible to achieve on freelancer exchanges.&nbsp; The platforms are configured to encourage a mass-market environment.
-
-<p>&nbsp;</p>
-### A Lack of 'Discovery' Opportunities
-
-One of the key traits of the effortlessly-successful freelancer is their ability to really immerse themselves in the client's vision.&nbsp; To work diligently
-and develop a collaborative solution with this end-goal in mind.
-
-This is more difficult on freelancer platforms.&nbsp; The prospective client tends to be prodded into developing quite a rigid brief.&nbsp; Moreover, the
-bidding process is heavily focused on quoting a price up-front or as early as possible.&nbsp; This leaves little room for deep discussions around vision and the
-ultimate client goals.
-
-<p>&nbsp;</p>
-### A Restrictive Platform
-
-It's vital to their future revenue opportunities that platforms like Fiverr and Upwork keep all dialogue inside of channels which they can monitor.&nbsp; This
-means that relationships cannot be taken outside of the system; for fear of losing the project commission.
-
-Of course, these rules are often circumvented, but the platform is policed vigorously with these guiding principles.&nbsp; The deterrent of a closed account can
-make life uncomfortable when aiming to speak freely, providing external links for review, recommending dialogue over e-mail, and/or looping a client into your
-own project management system.
-
-<p>&nbsp;</p>
-### Inability to Start a non-Sales Relationship
-
-An important element, when developing a long-term and commercially viable partnership, is an informal start to the relationship.&nbsp; I advocate developing a
-Web site which speaks to a prospective client world-view and maps out the beneficial outcome before offering a no-brainer opportunity to start an informal,
-non-sales, relationship.
-
-This might take the shape of a short book, cheat-sheet, or sample service that the prospect would engage with prior to making full contact.&nbsp; This type of
-interaction and prospect nurturing is impossible on platforms only set-up to manage time &amp; resources.
-
-<p>&nbsp;</p>
-### No Opportunity to Demonstrate Flair with a Proposal
-
-It's possible to attach documentation to support your bid on platforms like Upwork, but it isn't the norm.&nbsp; Moreover, this is a time-consuming process and
-when you're proposal 14 of 85, it becomes harder to justify the time investment.
-
-So, for most, settling for a simple text based proposal often becomes the status quo; reducing the ability to show flair in your approach and to separate
-yourself from others.
-
-<p>&nbsp;</p>
-### A Project Mentality; Not a Partnership One
-
-Finally, freelancer exchanges are fundamentally built to serve a 'labourer' mentality.
-
-* A project is outlined.
-* A bid is placed.
-* A project is completed.
-* Job done.
-
-This goes against my general recommendations to put in the work early-on in a relationship&hellip;&nbsp; To build trust, develop a longer-term plan, and work
-together collaboratively long-term.
-
-<p>&nbsp;</p>
-### In Summary
-
-In summary then, it's prudent to point out here that I've no real vendetta against freelancer platforms.&nbsp; They do the job of 'introducing work to workers'
-well.&nbsp; The types of people I teach though, want to be more than 'workers' or 'laborers'.
-
-They have a fire of ambition, strive to exercise creative flexibility, and create professional freedom.
-
-I feel that freelancer platforms aren't calibrated to deal with the growing service provider looking to build a platform in a space and benefit from long-term
-relationships.
-
-So my advice is this&hellip;&nbsp; Use freelancer exchanges as a stepping stone; a thoroughfare.&nbsp; As soon as you can, build your own voice, demand your own
-attention, and own your own future.
+<p>
+  &nbsp;
+</p>
+<p>
+  You can, probably, imagine me receiving this e-mail and cracking a smile.&nbsp; It really was a slam dunk of an e-mail correspondence&hellip;&nbsp; I'm so
+  happy to have smart freelancers, from all over the world, consuming the ideas that I'm putting out and feeling comfortable enough to question what they're
+  being told.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Question Everything
+</h3>
+<p>
+  So, I was inspired to at least give a fair debate as to the potential benefits of Upwork, and to work a little harder to assert my ultimate opinion that
+  freelancer exchanges aren't the right place for you if you're looking to make the break-through into the top bracket ($5,000&#8211;10,000+ per project)
+  freelancing.
+</p>
+<p>
+  So, let's start with the positives.&nbsp; Here's where Upwork and the like can bring benefit to your freelance business:
+  <ul>
+    <li>
+      <span style="font-weight: bolder;">Genuine Access to Revenue Opportunities:</span>&nbsp; It's beyond question that there are hundreds of jobs awarded to
+      freelancers every single day.&nbsp; The combined potential of all of this ready-to-spend revenue is huge.&nbsp; Far more than one person could ever wish
+      to receive.
+    </li>
+    <li>
+      <span style="font-weight: bolder;">Low Barrier to Entry:</span>&nbsp; One of the key drawbacks, in my opinion, has always been the 'great normalizer'
+      effect of an identical profile page for every freelancer.&nbsp; But, what this also provides new freelancers is a low barrier to entry; which doesn't
+      require the build of a Web presence of their own.
+    </li>
+    <li>
+      <span style="font-weight: bolder;">Some Great Client Opportunities:</span>&nbsp; I use Upwork.&nbsp; A lot of my peers in the entrepreneurship space use
+      Upwork.&nbsp; I even use <a href="{{ site.uri.shortURL }}/Fiverr" target="_blank" title="Fiverr">Fiverr</a> at times.&nbsp; And, if someone does a great
+      job for me, then there's the opportunity for that to continue outside of the confines of the particular freelancer exchange.
+    </li>
+  </ul>
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  How Great Clients are Born
+</h3>
+<p>
+  My philosophy on freelancing is that, ultimately, great clients should come to you.&nbsp; You should've built enough exposure and be doing enough great work
+  to ensure that you're never without new client opportunities.
+</p>
+<p>
+  Here is the eventual flow I teach freelancers to achieve:
+  <ol>
+    <li>
+      Define a specialist client market &amp; reflect that in a Web site of your own.
+    </li>
+    <li>
+      Put in the work to be known in this space and demand attention.
+    </li>
+    <li>
+      Spark non-sales relationships with no brainer ways to get in touch.
+    </li>
+    <li>
+      Transition to a more commercial conversation.
+    </li>
+    <li>
+      Put together great proposals which look awesome and justify value well.
+    </li>
+    <li>
+      Make the initial sale.&nbsp; Then build a longer-term, mutually beneficial, partnership to reduce reliance on continually winning new business.
+    </li>
+  </ol>
+</p>
+<p>
+  Having a client acquisition flow like this is the key to developing project fees of $5,000&#8211;10,000 and more.
+</p>
+<p>
+  Here's where freelancer exchanges work against this methodology&hellip;
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  We're all 'identicalancers'
+</h3>
+<p>
+  On freelancer exchanges, there isn't a whole lot of room to develop a central presence which is tailored to your style and message.&nbsp; Instead, we're
+  offered an identical profile to everybody else, and are strictly forbidden from providing links to external locations which may do a better job of giving the
+  client a picture of us as a person; not just a faceless service provider.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  No Control over Client Market
+</h3>
+<p>
+  I strongly advocate developing a vision for a dream client.&nbsp; In doing so, you're proposing finding a smaller sub-set of an audience to double-down
+  on.&nbsp; The benefits to this approach are numerous, it's much easier to become visible, demand attention, and make the sale within a smaller pool of
+  prospective clients.
+</p>
+<p>
+  This is near impossible to achieve on freelancer exchanges.&nbsp; The platforms are configured to encourage a mass-market environment.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  A Lack of 'Discovery' Opportunities
+</h3>
+<p>
+  One of the key traits of the effortlessly-successful freelancer is their ability to really immerse themselves in the client's vision.&nbsp; To work diligently
+  and develop a collaborative solution with this end-goal in mind.
+</p>
+<p>
+  This is more difficult on freelancer platforms.&nbsp; The prospective client tends to be prodded into developing quite a rigid brief.&nbsp; Moreover, the
+  bidding process is heavily focused on quoting a price up-front or as early as possible.&nbsp; This leaves little room for deep discussions around vision and
+  the ultimate client goals.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  A Restrictive Platform
+</h3>
+<p>
+  It's vital to their future revenue opportunities that platforms like <a href="{{ site.uri.shortURL }}/Fiverr" target="_blank" title="Fiverr">Fiverr</a> and
+  Upwork keep all dialogue inside of channels which they can monitor.&nbsp; This means that relationships cannot be taken outside of the system; for fear of
+  losing the project commission.
+</p>
+<p>
+  Of course, these rules are often circumvented, but the platform is policed vigorously with these guiding principles.&nbsp; The deterrent of a closed account
+  can make life uncomfortable when aiming to speak freely, providing external links for review, recommending dialogue over e-mail, and/or looping a client into
+  your own project management system.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Inability to Start a non-Sales Relationship
+</h3>
+<p>
+  An important element, when developing a long-term and commercially viable partnership, is an informal start to the relationship.&nbsp; I advocate developing a
+  Web site which speaks to a prospective client world-view and maps out the beneficial outcome before offering a no-brainer opportunity to start an informal,
+  non-sales, relationship.
+</p>
+<p>
+  This might take the shape of a short book, cheat-sheet, or sample service that the prospect would engage with prior to making full contact.&nbsp; This type of
+  interaction and prospect nurturing is impossible on platforms only set-up to manage time &amp; resources.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  No Opportunity to Demonstrate Flair with a Proposal
+</h3>
+<p>
+  It's possible to attach documentation to support your bid on platforms like Upwork, but it isn't the norm.&nbsp; Moreover, this is a time-consuming process
+  and when you're proposal 14 of 85, it becomes harder to justify the time investment.
+</p>
+<p>
+  So, for most, settling for a simple text based proposal often becomes the status quo; reducing the ability to show flair in your approach and to separate
+  yourself from others.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  A Project Mentality; Not a Partnership One
+</h3>
+<p>
+  Finally, freelancer exchanges are fundamentally built to serve a 'labourer' mentality.
+  <ul>
+    <li>
+      A project is outlined.
+    </li>
+    <li>
+      A bid is placed.
+    </li>
+    <li>
+      A project is completed.
+    </li>
+    <li>
+      Job done.
+    </li>
+  </ul>
+</p>
+<p>
+  This goes against my general recommendations to put in the work early-on in a relationship&hellip;&nbsp; To build trust, develop a longer-term plan, and work
+  together collaboratively long-term.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  In Summary
+</h3>
+<p>
+  In summary then, it's prudent to point out here that I've no real vendetta against freelancer platforms.&nbsp; They do the job of 'introducing work to
+  workers' well.&nbsp; The types of people I teach though, want to be more than 'workers' or 'laborers'.
+</p>
+<p>
+  They have a fire of ambition, strive to exercise creative flexibility, and create professional freedom.
+</p>
+<p>
+  I feel that freelancer platforms aren't calibrated to deal with the growing service provider looking to build a platform in a space and benefit from long-term
+  relationships.
+</p>
+<p>
+  So my advice is this&hellip;&nbsp; Use freelancer exchanges as a stepping stone; a thoroughfare.&nbsp; As soon as you can, build your own voice, demand your
+  own attention, and own your own future.
+</p>
