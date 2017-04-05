@@ -5,15 +5,21 @@
 
 <div class="h-feed home">
   <div style="display: none;">
-    <p class="p-name">Blog (Last Post) :: {{ site.title | default: site.github.repository_name }}</p>
+    <p class="p-name">
+      Blog (Last Post) :: {{ site.title | default: site.github.repository_name }}
+    </p>
     <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
   </div>
   <ul class="post-list">
     <li>
       <article class="h-entry">
         <div style="display: none;">
-          <p class="p-name">{{ fzfneysekpthfcbx.title | escape }}</p>
-          <p class="u-uid">{{ fzfneysekpthfcbx.url }}</p>
+          <p class="p-name">
+            {{ fzfneysekpthfcbx.title | escape }}
+          </p>
+          <p class="u-uid">
+            {{ fzfneysekpthfcbx.url }}
+          </p>
         </div>
         <span style="font-size: larger;">
           <a class="u-url" href="{{ site.url }}{{ fzfneysekpthfcbx.url }}" rel="me">{{ fzfneysekpthfcbx.title | escape }}</a>
@@ -28,7 +34,7 @@
           Location:&nbsp; {% if fzfneysekpthfcbx.location %}<span class="h-geo p-location"><data class="p-altitude" value="{{ fzfneysekpthfcbx.location.altitude }}"></data><data class="p-latitude" value="{{ fzfneysekpthfcbx.location.latitude }}"></data><data class="p-longitude" value="{{ fzfneysekpthfcbx.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ fzfneysekpthfcbx.location.latitude }},{{ fzfneysekpthfcbx.location.longitude }}" target="_blank" title="{{ fzfneysekpthfcbx.location.latitude }}, {{ fzfneysekpthfcbx.location.longitude }}">{{ fzfneysekpthfcbx.location.text }}</a></span>{% else %}N/A{% endif %}
         </h6>
         <blockquote class="p-summary">
-          {{ fzfneysekpthfcbx.excerpt | replace: '<p>', '' | replace: '</p>', '' }}
+          {{ fzfneysekpthfcbx.excerpt }}
         </blockquote>
         <div style="font-size: xx-small; text-align: right;">
           &nbsp;<br />

@@ -85,7 +85,7 @@ wdcyvdsgrmupffee: true
             Location:&nbsp; {% if post.location %}<span class="h-geo p-location"><data class="p-altitude" value="{{ post.location.altitude }}"></data><data class="p-latitude" value="{{ post.location.latitude }}"></data><data class="p-longitude" value="{{ post.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ post.location.latitude }},{{ post.location.longitude }}" target="_blank" title="{{ post.location.latitude }}, {{ post.location.longitude }}">{{ post.location.text }}</a></span>{% else %}N/A{% endif %}
           </h6>
           <blockquote class="p-summary">
-            {{ post.excerpt | replace: '<p>', '' | replace: '</p>', '' }}
+            {{ post.excerpt }}
           </blockquote>
           <div style="font-size: xx-small; text-align: right;">
             &nbsp;<br />
