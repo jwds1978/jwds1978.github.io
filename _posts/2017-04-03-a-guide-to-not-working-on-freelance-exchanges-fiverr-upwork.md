@@ -46,7 +46,6 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   Are freelancer exchanges viable when your goal is mutually beneficial partnerships with clients willing to pay a fair amount per project?
 </p>
-<!--more-->
 <p>
   When it comes to finding and winning clients as a freelancer, there isn't much that I haven't tried&hellip;&nbsp; I graduated the school of hard-knocks with
   several scars and the odd badge of merit.&nbsp; So, when it comes to giving advice to freelancers who were maybe where I was several years ago, I speak from a
@@ -56,6 +55,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
   The type of hair-pull&#8212;face-palm&#8212;head-in-sand experience that you can only get from a good few years trying, failing and winning, to get something
   to work.
 </p>
+<!--excerptBreak-->
 <p>
   My stance on Upwork, and freelancer exchanges as a whole, has been largely unchallenged to-date.&nbsp; One of the key differentiators I live by is my
   point-blank refusal to get embroiled in the small stuff and be a part of the over-cooked (or, worse still, reheated) ideas and opinions that you'll get from a

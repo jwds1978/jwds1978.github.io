@@ -43,194 +43,415 @@ tags:
 title: "Static Site Generation"
 ---
 
-### What is static site generation?
-
-* Use a program to produce HTML pages.
-  * Analogous to compiling computer programs.
-  * Source Code&nbsp; &rarr;&nbsp; Machine Code
-* Development Cycle
-  * Write the Source
-  * Compile
-  * Inspect and/or Test the Result
-* Examples
-  * <a href="#cite-jekyll" rel="me" title="Jekyll">Jekyll</a>
-    * Transform your plain text into static Web sites and blogs.
-    * Used by GitHub Pages.
-  * <a href="#cite-middleman" rel="me" title="Middleman">Middleman</a>
-    * Build static Web sites with an easy-to-use framework.&nbsp; Middleman is a static site generator using all the shortcuts and tools in modern Web development.
-  * More&hellip;
-    * <a href="#cite-static-site-generators" rel="me" title="Static Site Generators">Static Site Generators</a>
-      * The definitive listing of static site generators.
-
-<p>&nbsp;</p>
-### Middleman:&nbsp; A Ruby Gem
-
-* Project is a directory (i.e. &quot;myproj&quot;)
-  * ```
+<h3>
+  What is static site generation?
+</h3>
+<!--excerptBreak-->
+<ul>
+  <li>
+    Use a program to produce HTML pages.
+    <ul>
+      <li>
+        Analogous to compiling computer programs.
+      </li>
+      <li>
+        Source Code&nbsp; &rarr;&nbsp; Machine Code
+      </li>
+    </ul>
+  </li>
+  <li>
+    Development Cycle
+    <ul>
+      <li>
+        Write the Source
+      </li>
+      <li>
+        Compile
+      </li>
+      <li>
+        Inspect and/or Test the Result
+      </li>
+    </ul>
+  </li>
+  <li>
+    Examples
+    <ul>
+      <li>
+        <a href="#cite-jekyll" rel="me" title="Jekyll">Jekyll</a>
+        <ul>
+          <li>
+            Transform your plain text into static Web sites and blogs.
+          </li>
+          <li>
+            Used by GitHub Pages.
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="#cite-middleman" rel="me" title="Middleman">Middleman</a>
+        <ul>
+          <li>
+            Build static Web sites with an easy-to-use framework.&nbsp; Middleman is a static site generator using all the shortcuts and tools in modern Web
+            development.
+          </li>
+        </ul>
+      </li>
+      <li>
+        More&hellip;
+        <ul>
+          <li>
+            <a href="#cite-static-site-generators" rel="me" title="Static Site Generators">Static Site Generators</a>
+            <ul>
+              <li>
+                The definitive listing of static site generators.
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Middleman:&nbsp; A Ruby Gem
+</h3>
+<ul>
+  <li>
+    Project is a directory (i.e. &quot;myproj&quot;)
+    ```shell_session
     $ middleman init myproj
     ```
-    * Configuration files, README, Gemfile, etc.
-* Create source files in &quot;myproj/source&quot;.
-  * Sub-directries for CSS. images, etc.
-* Compile all of the source files.
-  * ```
+    <ul>
+      <li>
+        Configuration files, README, Gemfile, etc.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Create source files in &quot;myproj/source&quot;.
+    <ul>
+      <li>
+        Sub-directries for CSS. images, etc.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Compile all of the source files.
+    ```shell_session
     $ bundle exec middleman build
     ```
-* Result is placed in &quot;myproj/build&quot;.
-* Copy the site to some visible location.
-  * ```
+  </li>
+  <li>
+    Result is placed in &quot;myproj/build&quot;.
+  </li>
+  <li>
+    Copy the site to some visible location.
+    ```shell_session
     $ rsync -avz --del myproj/build ~/WWW
     ```
-* Or, preview locally (i.e. live reload, no build).
-  * ```
+  </li>
+  <li>
+    Or, preview locally (i.e. live reload, no build).
+    ```shell_session
     $ bundle exec middleman server
     ```
-
-<p>&nbsp;</p>
-### Why bother?
-
-1. Code reuse and single-point-of-control over change.
-2. Authoring of content in a language that's more human-friendly.
-3. Parameterized generation of markup and content.
-
-Let's look at each of these benefits in turn&hellip;
-
-<p>&nbsp;</p>
-### Motivation #1:&nbsp; Visual Identity
-
-* Common headers &amp; footers.
-* Duplication of code is EVIL.
-  * Corollary:&nbsp; Cut-and-paste is EVIL.
-  * Destroys single-point-of-control over change.
-* Solution:
-  * Put common HTML in one file (a &quot;partial&quot;).
-  * Every document includes that file.
-
-<p>&nbsp;</p>
-### ERb: Embedded Ruby
-
-* General templating mechanism.
-  * A string (usually contents of a file, &quot;template&quot;).
-  * Escaped bits of ruby.
-    * `<% code %>`&nbsp; Execute ruby code (i.e. &quot;scriplet&quot;).
-  * `<%= expr %>`&nbsp; Replace with result of expr.
-  * `<%# text %>`&nbsp; Ignore (i.e. a comment).
-* Example:&nbsp; A text file.
-  * ```
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Why bother?
+</h3>
+<ol>
+  <li>
+    Code reuse and single-point-of-control over change.
+  </li>
+  <li>
+    Authoring of content in a language that's more human-friendly.
+  </li>
+  <li>
+    Parameterized generation of markup and content.
+  </li>
+</ul>
+<p>
+  Let's look at each of these benefits in turn&hellip;
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Motivation <sup>#</sup>1:&nbsp; Visual Identity
+</h3>
+<ul>
+  <li>
+    Common headers &amp; footers.
+  </li>
+  <li>
+    Duplication of code is EVIL.
+    <ul>
+      <li>
+        Corollary:&nbsp; Cut-and-paste is EVIL.
+      </li>
+      <li>
+        Destroys single-point-of-control over change.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Solution:
+    <ul>
+      <li>
+        Put common HTML in one file (a &quot;partial&quot;).
+      </li>
+      <li>
+        Every document includes that file.
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  ERb:&nbsp; Embedded Ruby
+</h3>
+<ul>
+  <li>
+    General templating mechanism.
+    <ul>
+      <li>
+        A string (usually contents of a file, &quot;template&quot;).
+        <ul>
+          <li>
+            Escaped bits of ruby.
+            <ul>
+              <li>
+                Execute ruby code (i.e. &quot;scriplet&quot;).
+                ```liquid
+                <% code %>
+                ```
+              </li>
+              <li>
+                Replace with result of expr.
+                ```liquid
+                <%= expr %>
+                ```
+              </li>
+              <li>
+                Ignore (i.e. a comment).
+                ```liquid
+                <%# text %>
+                ```
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    Example:&nbsp; A text file.
+    ```liquid
     This is some text.
     <% 5.times do %>
     Current Time is <%= Time.now %>!
     <% end %>
     ```
-* Process using erbtool to generate result.
-  * ```
+  </li>
+  <li>
+    Process using erbtool to generate result.
+    ```shell_session
     $ erb example.txt.erb > example.txt
     ```
-* Naming Convention:&nbsp; filename.outputlang.erb
-  * Example:&nbsp; index.html.erb
-* Many alternatives (i.e. HAML).
-
-<p>&nbsp;</p>
-### Generation of Site
-
-* Source files in &quot;myproj/source&quot;.
-  * ```
+  </li>
+  <li>
+    Naming Convention:&nbsp; filename.outputlang.erb
+    <ul>
+      <li>
+        Example:&nbsp; index.html.erb
+      </li>
+    </ul>
+  </li>
+  <li>
+    Many alternatives (i.e. HAML).
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Generation of Site
+</h3>
+<ul>
+  <li>
+    Source files in &quot;myproj/source&quot;.
+    ```shell_session
     $ ls source
     index.html.erb    syll.html.erb
     meet.html.erb
     ```
-* Compile.
-  * ```
+  </li>
+  <li>
+    Compile.
+    ```shell_session
     $ bundle exec middleman build
     ```
-* Result after building.
-  * ```
+  </li>
+  <li>
+    Result after building.
+    ```shell_session
     $ ls build
     index.html    meet.html    syll.html
     ```
-
-<p>&nbsp;</p>
-### Partials
-
-* A document fragment included in other documents.
-* Include in erbusing the `partial` function.
-  * ```
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Partials
+</h3>
+<ul>
+  <li>
+    A document fragment included in other documents.
+  </li>
+  <li>
+    Include in ERb using the `partial` function.
+    ```liquid
     <body>
       <%= partial "navigation" %>
       ...
     </body>
     ```
-* Partial's filename begins with &quot;_&quot;.
-  * i.e. _navigation.erb
-    * ```
-      <div class="navbar">
-        <ul id="site-nav"><li>...</li></ul>
-      </div>
-      ```
-    * Note:&nbsp; &quot;_&quot; omitted in argument to function.
-
-<p>&nbsp;</p>
-### Generation of Site with Partials
-
-* Source files in myproj/source.
-  * ```
+  </li>
+  <li>
+    Partial's filename begins with &quot;_&quot;.
+    <ul>
+      <li>
+        i.e. _navigation.erb
+        ```html
+        <div class="navbar">
+          <ul id="site-nav">
+            <li>...</li>
+          </ul>
+        </div>
+        ```
+        <ul>
+          <li>
+            Note:&nbsp; &quot;_&quot; omitted in argument to function.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Generation of Site with Partials
+</h3>
+<ul>
+  <li>
+    Source files in myproj/source.
+    ```shell_session
     $ ls source
     _footer.erb        meet.html.erb
     _navigation.erb    syll.html.erb
     index.html.erb 
     ```
-* Compile.
-  * ```
+  </li>
+  <li>
+    Compile.
+    ```shell_session
     $ bundle exec middleman build
     ```
-* Result after building.
-  * ```
+  </li>
+  <li>
+    Result after building.
+    ```shell_session
     $ ls build
     index.html    meet.html    syll.html
     ```
-
-<p>&nbsp;</p>
-### Tricks with Partials
-
-* Content of partial can be customized by passing arguments in call.
-* In Calling ERb:&nbsp; Pass a hash.
-  * ```
+  </li>
+</ul>
+<p
+  &nbsp;
+</p>
+<h3>
+  Tricks with Partials
+</h3>
+<ul>
+  <li>
+    Content of partial can be customized by passing arguments in call.
+  </li>
+  <li>
+    In Calling ERb:&nbsp; Pass a hash.
+    ```liquid
     <%= partial "banner", :locals => { :name => "Syllabus", :amount => 34 } %>
     ```
-* In Partial:&nbsp; Access variables.
-  * ```
+  </li>
+  <li>
+    In Partial:&nbsp; Access variables.
+    ```liquid
     <h3><%= :name %></h3>
     <p>Costs <%= "$#{:amount}.00" %></p>
     ```
-
-<p>&nbsp;</p>
-### Problem
-
-* How to guarantee every page includes partial(s).
-  * Partials don't ensure one page structure across the site.
-* Every page should look like:
-  * ```
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Problem
+</h3>
+<ul>
+  <li>
+    How to guarantee every page includes partial(s).
+    <ul>
+      <li>
+        Partials don't ensure one page structure across the site.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Every page should look like:
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
         <meta charset="utf-8">
         <title>Meetings</title>
-        <link rel="stylesheet" type="text/css" href="osu_style.css">
+        <link href="osu_style.css" rel="stylesheet" type="text/css" />
       </head>
       <body>
         <%= partial "navigation" %>
-        ...  <!--different on each page -->
+        ...  <!--different on each page-->
       </body>
     </html>
     ```
-
-<p>&nbsp;</p>
-### Solution:&nbsp; Layout
-
-* HTML formed from:&nbsp; Layout + Template
-* Layout is the overall structure of the HTML page.
-* File:&nbsp; layout.erb
-  * ```
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Solution:&nbsp; Layout
+</h3>
+<ul>
+  <li>
+    HTML formed from:&nbsp; Layout + Template
+  </li>
+  <li>
+    Layout is the overall structure of the HTML page.
+  </li>
+  <li>
+    File:&nbsp; layout.erb
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -241,34 +462,72 @@ Let's look at each of these benefits in turn&hellip;
         <%= yield =>
       </body>
     ```
-* Template replaces layout's yield.
-* Layout is where you put site-wide styling.
-  * i.e. navigation bar, div's with CSS classes, footers
-
-<p>&nbsp;</p>
-### Page-Specific Data in Layout
-
-* Some layout content is page-specific.
-  * Example:&nbsp; `<title>` in document's head.
-* Solution:&nbsp; Ruby variable `current_page`
-  * Example:&nbsp; `current_page.path`
-* Template contains &quot;frontmatter&quot; that sets the value of current_page.data.
-  * In template (contact.html.erb)
-    * ```
-      ;;;
-      "title": "Contact Information"
-      ;;;
-      ```
-  * In layout (layout.erb)
-    * ```
-      <title><%= current_page.data.title %></title>
-      ```
-
-<p>&nbsp;</p>
-### Generation of Site with Layouts
-
-* Default layout in &quot;source/layouts/layouts.erb&quot;.
-  * ```
+  </li>
+  <li>
+    Template replaces layout's yield.
+  </li>
+  <li>
+    Layout is where you put site-wide styling.
+    <ul>
+      <li>
+        i.e. navigation bar, div's with CSS classes, footers
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Page-Specific Data in Layout
+</h3>
+<ul>
+  <li>
+    Some layout content is page-specific.
+    <ul>
+      <li>
+        Example:&nbsp; `<title>` in document's head.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Solution:&nbsp; Ruby variable `current_page`
+    <ul>
+      <li>
+        Example:&nbsp; `current_page.path`
+      </li>
+    </ul>
+  </li>
+  <li>
+    Template contains &quot;frontmatter&quot; that sets the value of current_page.data.
+    <ul>
+      <li>
+        In template (contact.html.erb)
+        ```ruby
+        ;;;
+        "title": "Contact Information"
+        ;;;
+        ```
+      </li>
+      <li>
+        In layout (layout.erb)
+        ```liquid
+        <title><%= current_page.data.title %></title>
+        ```
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Generation of Site with Layouts
+</h3>
+<ul>
+  <li>
+    Default layout in &quot;source/layouts/layouts.erb&quot;.
+    ```shell_session
     $ ls –F source
     index.html.erb    meet.html.erb
     layouts/          syll.html.erb
@@ -276,102 +535,239 @@ Let's look at each of these benefits in turn&hellip;
     $ ls source/layouts
     _footer.erb    _navigation.erb    layout.erb
     ```
-* Result after building.
-  * ```
+  </li>
+  <li>
+    Result after building.
+    ```shell_session
     $ ls build
     index.html    meet.html    syll.html
     ```
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Motive <sup>#</sup>2:&nbsp; Improved Syntax
+</h3>
+<ul>
+  <li>
+    HTML tags make content hard to read.
+    <ul>
+      <li>
+        &lt;p&gt;, &lt;h2&gt;, &lt;em&gt;, &lt;a href='&hellip;'&gt; etc
+      </li>
+      <li>
+        Versus plain text, which is easier to read.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Common plain text conventions:
+    <ul>
+      <li>
+        Blank lines between paragraphs.
+      </li>
+      <li>
+        Underline titles with –'s or ='s.
+      </li>
+      <li>
+        Emphasize &lowast;words&lowast;, &lowbar;words&lowbar;, &lowast;&lowast;words&lowast;&lowast;.
+      </li>
+      <li>
+        Links in ( )'s.
+      </li>
+      <li>
+        Unordered lists with bullets using * or -.
+      </li>
+      <li>
+        Numbered lists with 1., 2., 3.
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Markdown
+</h3>
+<ul>
+  <li>
+    Formalizes these ASCII conventions.
+    <ul>
+      <li>
+        Filename Extension:&nbsp; .md
+      </li>
+      <li>
+        Adds some less familiar ones (i.e. \`\`\`).
+      </li>
+    </ul>
+  </li>
+  <li>
+    Tools generate corresponding HTML.
+    <ul>
+      <li>
+        Examples:&nbsp; GitHub readme's, user-posted comments on Web boards (i.e. StackOverflow).
+      </li>
+    </ul>
+  </li>
+  <li>
+    Other target languages possible too.
+  </li>
+  <li>
+    See Markdown's README.md
+  </li>
+  <li>
+    Warning:&nbsp; Many Markdown dialects.
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  CSS Limitations
+</h3>
+<ul>
+  <li>
+    Literals are common.
+    ```css
+    h1 {
+      background-color: #ff14a6;
+    }
 
-<p>&nbsp;</p>
-### Motive #2:&nbsp; Improved Syntax
-
-* HTML tags make content hard to read.
-  * &lt;p&gt;, &lt;h2&gt;, &lt;em&gt;, &lt;a href='&hellip;'&gt; etc
-  * Versus plain text, which is easier to read.
-* Common plain text conventions:
-  * Blank lines between paragraphs.
-  * Underline titles with –'s or ='s.
-  * Emphasize &lowast;words&lowast;, &lowbar;words&lowbar;, &lowast;&lowast;words&lowast;&lowast;.
-  * Links in ( )'s.
-  * Unordered lists with bullets using * or -.
-  * Numbered lists with 1., 2., 3.
-
-<p>&nbsp;</p>
-### Markdown
-
-* Formalizes these ASCII conventions.
-  * Filename Extension:&nbsp; .md
-  * Adds some less familiar ones (i.e. \`\`\`).
-* Tools generate corresponding HTML.
-  * Examples:&nbsp; GitHub readme's, user-posted comments on Web boards (i.e. StackOverflow).
-* Other target languages possible too.
-* See Markdown's README.md
-* Warning:&nbsp; Many Markdown dialects.
-
-<p>&nbsp;</p>
-### CSS Limitations
-
-* Literals are common.
-  * ```
-    h1 { background-color: #ff14a6; }
-    h2 { color: #ff14a6; }
+    h2 {
+      color: #ff14a6;
+    }
     ```
-* Result:&nbsp; Lack of single-point-of-control.
-* Solution:&nbsp; SASS, allows variables.
-  * ```
+  </li>
+  <li>
+    Result:&nbsp; Lack of single-point-of-control.
+  </li>
+  <li>
+    Solution:&nbsp; SASS, allows variables.
+    ```css
     $primary: #ff14a6;
-    h1 { background-color: $primary; }
-    h2 { color: $primary; }
+
+    h1 {
+      background-color: $primary;
+    }
+
+    h2 {
+      color: $primary;
+    }
     ```
-* Preprocessor generates CSS from SASS.
-
-<p>&nbsp;</p>
-### Motive #3:&nbsp; Content Generation
-
-* Iterate over an array to create content.
-  * Example:&nbsp; Rows of a table.
-  * See course Web site.
-  * Partial could be used for (every) row.
-* Placeholder text and images.
-  * ```
+  </li>
+  <li>
+    Preprocessor generates CSS from SASS.
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Motive <sup>#</sup>3:&nbsp; Content Generation
+</h3>
+<ul>
+  <li>
+    Iterate over an array to create content.
+    <ul>
+      <li>
+        Example:&nbsp; Rows of a table.
+      </li>
+      <li>
+        See course Web site.
+      </li>
+      <li>
+        Partial could be used for (every) row.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Placeholder text and images.
+    ```liquid
     <%= lorem.sentence %>
     ```
-  * Many versions of this &quot;helper&quot; are available.
-    * ```
-      lorem.paragraphs 2
-      lorem.date
-      lorem.last_name
-      lorem.image('300x400')
-        #=>  http://placehold.it/300x400
-      ```
+    <ul>
+      <li>
+        Many versions of this &quot;helper&quot; are available.
+        ```markdown
+        lorem.paragraphs 2
+        lorem.date
+        lorem.last_name
+        lorem.image('300x400')
 
-<p>&nbsp;</p>
-### More Helper Functions
-
-* Links.
-  * ```
+          #=>  http://placehold.it/300x400
+        ```
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  More Helper Functions
+</h3>
+<ul>
+  <li>
+    Links.
+    ```liquid
     <%= link_to 'About', '/about.html' %>
+
       #=>  <a href='/about/'>About</a>
     ```
-* Assets.
-  * ```
+  </li>
+  <li>
+    Assets.
+    ```liquid
     <%= stylesheet_link_tag 'all' %>
     <%= javascript_include_tag 'jquery' %>
     <%= favicon_tag 'images/favicon.png' %>
     <%= link_to 'Blog', '/blog', :class => 'example' %>
     <%= image_tag 'padrino.png', :width => '35', :class => 'logo' %>
     ```
-
-<p>&nbsp;</p>
-### Summary
-
-* ERb
-  * Template for generating HTML.
-  * Scriplets and expressions.
-* Reuse of views with partials.
-  * Included with partial (eg &lt;%= partial&hellip;).
-  * Filename is prepended with underscore.
-  * Parameter passing from parent template.
-* Layouts and templates.
-* Markdown, SASS.
-* Content generation and helpers.
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3>
+  Summary
+</h3>
+<ul>
+  <li>
+    ERb
+    <ul>
+      <li>
+        Template for generating HTML.
+      </li>
+      <li>
+        Scriplets and expressions.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Reuse of views with partials.
+    <ul>
+      <li>
+        Included with partial (eg &lt;%= partial&hellip;).
+      </li>
+      <li>
+        Filename is prepended with underscore.
+      </li>
+      <li>
+        Parameter passing from parent template.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Layouts and templates.
+  </li>
+  <li>
+    Markdown, SASS.
+  </li>
+  <li>
+    Content generation and helpers.
+  </li>
+</ul>
