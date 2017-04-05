@@ -486,7 +486,7 @@ title: "Static Site Generation"
     Some layout content is page-specific.
     <ul>
       <li>
-        Example:&nbsp; <mark>&lt;title%gt;</mark> in document's head.
+        Example:&nbsp; <mark>&lt;title&gt;</mark> in document's head.
       </li>
     </ul>
   </li>
