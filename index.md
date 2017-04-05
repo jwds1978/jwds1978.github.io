@@ -140,13 +140,13 @@ comments: true
     <img
       alt="" height="1" src="https://tracking.fiverr.com/aff_i?aff_id=24221&offer_id=1712"
       style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
-    <ul>
-      <li>
-        <a href="{{ site.uri.shortURL }}/Fiverr" target="_blank" title="Fiverr">
-          <img alt="" height="244" src="{{ site.uri.assets }}/naked/images/Fiverr_work-less_482x244.png" style="border: 0px;" width="482" />
-        </a>
-      </li>
-    </ul>
+    <div style="text-align: center;">
+      <a href="{{ site.uri.shortURL }}/Fiverr" target="_blank" title="Fiverr">
+        <img
+          alt="" height="244" src="{{ site.uri.assets }}/naked/images/Fiverr_work-less_482x244.png"
+          style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
+      </a>
+    </div>
   </li>
   <li>
     <a href="{{ site.uri.shortURL }}/Iconfinder" target="_blank" title="Iconfinder">Iconfinder</a>
