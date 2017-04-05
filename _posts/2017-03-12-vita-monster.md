@@ -37,13 +37,18 @@ tags:
 title: "Vita Monster"
 ---
 
-The docor's going to complete another Assistive Devices Program (ADP) form for me in order to get a powered mobility scooter.&nbsp; The program will cover
-100% of its cost, as they did for my orthosis.
-
-I'm not sure as to what specific brands and/or models are approved and/or covered by the ADP, but this one would be nice to have though&hellip;
-
-<iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/fJ9-axht5Z8?rel=0" style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
-
-&nbsp;<br />
-Given that I like to do outdoor stuffs (i.e. camping, fishing, hunting, etc.), one such as that in the video above would be ideal for me.&nbsp; But, I'll need
-to talk to an ADP vendor though and see what they have that's ADP-approved.
+<p>
+  The docor's going to complete another Assistive Devices Program (ADP) form for me in order to get a powered mobility scooter.&nbsp; The program will cover
+  100% of its cost, as they did for my orthosis.
+</p>
+<!--excerptBreak-->
+<p>
+  I'm not sure as to what specific brands and/or models are approved and/or covered by the ADP, but this one would be nice to have though&hellip;
+  &nbsp;<br />
+  <iframe
+    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/fJ9-axht5Z8?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+  &nbsp;<br />
+  Given that I like to do outdoor stuffs (i.e. camping, fishing, hunting, etc.), one such as that in the video above would be ideal for me.&nbsp; But, I'll need
+  to talk to an ADP vendor though and see what they have that's ADP-approved.
+</p>

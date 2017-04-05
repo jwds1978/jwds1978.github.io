@@ -66,7 +66,8 @@ comments: true
   &nbsp;
 </p>
 <h3>
-  That Blog Thing
+  That Blog Thing&nbsp;
+  <sup>Most Recent</sup>
 </h3>
 
 {% assign fzfneysekpthfcbx = site.posts.first %}
@@ -147,6 +148,7 @@ comments: true
           style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
       </a>
     </div>
+    &nbsp;
   </li>
   <li>
     <a href="{{ site.uri.shortURL }}/Iconfinder" target="_blank" title="Iconfinder">Iconfinder</a>
