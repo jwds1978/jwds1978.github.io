@@ -66,7 +66,6 @@ title: "Work for Free; Fuck That"
   beautifully (and swearily) in
   <a href="#cite-youre-doing-it-for-the-exposure" rel="me" title="You're doing it for the EXPOSURE">this classic viral cartoon by The Oatmeal</a>.
 </p>
-<!--excerptBreak-->
 <p>
   If you're making art for art's sake, a little exposure can go a long way.&nbsp; But, if you're trying to make a living and valuing your own service, you're
   going to have to stand up for yourself every now and then.
@@ -76,6 +75,7 @@ title: "Work for Free; Fuck That"
   who seek to take advantage of freelancers.&nbsp; No matter whether you're struggling or flourishing, as a freelancer you're always going to get asked to do
   things for free.&nbsp; Here are a few who have had enough, and have fruitfully decided to take their grievances to the Web.
 </p>
+<!--excerptBreak-->
 <p>
   &nbsp;
 </p>
@@ -104,6 +104,7 @@ title: "Work for Free; Fuck That"
   satisfying our need to feed ourselves and live comfortably.&nbsp; Why not put your skills into action?
 </blockquote>
 <p>
+  &nbsp;<br />
   Sainsbury's responded by admitting the Camden branch had made an error of judgement and that it wasn't company policy to hire volunteers.
 </p>
 <p>
@@ -123,6 +124,7 @@ title: "Work for Free; Fuck That"
   People valuing themselves and their work enough to say no to this kind of thing has more long-term value than any one job or one client.
 </blockquote>
 <p>
+  &nbsp;<br />
   <a
     href="#cite-meet-the-hero-designer-who-publicly-shamed-showtime-for-asking-him-to-work-for-free" rel="me"
     title="Meet the Hero Designer Who Publicly Shamed Showtime for Asking Him to Work for Free">
