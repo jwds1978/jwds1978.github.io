@@ -183,9 +183,8 @@ title: "Work for Free; Fuck That"
   He wrote in an e-mail which he later made public&hellip;
   <blockquote>
     Your company set out the budget.&nbsp; So you have chosen to allocate no money for music.&nbsp; I get begging letters like this every week &#8212; from a
-    booming, affluent, global media industry.&nbsp; Why is this?
-  </blockquote>
-  <blockquote>
+    booming, affluent, global media industry.&nbsp; Why is this?<br />
+    &nbsp;<br />
     It took me half a lifetime to learn the skills, years to claw my way up the structure, to the point where a stranger like you will write to me.&nbsp; This
     music is my hard-earned property.&nbsp; I've licensed music to some of the biggest shows, brands, games and TV production companies on earth; from Breaking
     Bad to The Sopranos, from Coca-Cola to Visa, HBO to Rockstar Games.&nbsp; Ask yourself &#8212; would you approach a creative or a director with a resume
