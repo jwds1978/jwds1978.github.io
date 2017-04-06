@@ -16,4 +16,7 @@ tags:
 title: Innominate
 ---
 
-I made a post&hellip; Comments are enabled&hellip;
+<p>
+  I made a post&hellip; Comments are enabled&hellip;
+</p>
+<!--excerptBreak-->

@@ -42,24 +42,38 @@ wdcyvdsgrmupffee: true
   &bull;&nbsp; <a href="{{ site.url }}/blog/categories" rel="me" title="">Category</a>&nbsp;
   &bull;&nbsp; <span style="color: rgb(143, 200, 71);">Tag</span>
 </p>
-<p>&nbsp;</p>
+<p>
+  &nbsp;
+</p>
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.tags %}
     <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me" title="">{{ tag[0] }}</a>
     {% endfor %}
   </div>
-  <p>&nbsp;</p>
-  <iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
-  <p>&nbsp;</p>
+  <p>
+    &nbsp;
+  </p>
+  <iframe
+    allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60"
+    style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+  <p>
+    &nbsp;
+  </p>
   <div class="h-feed tags-expo-section">
     <div style="display: none;">
-      <p class="p-name">{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}</p>
+      <p class="p-name">
+        {% if page.title %}{{ page.title }} :: {% endif %}{{ site.title | default: site.github.repository_name }}
+      </p>
       <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
     </div>
     {% for tag in site.tags %}
-    <p>&nbsp;</p>
-    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
+    <p>
+      &nbsp;
+    </p>
+    <h3 id="{{ tag[0] | slugify }}">
+      {{ tag[0] }}
+    </h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
       {% capture postAuthors %}{{ post.author | default: site.author }}{% endcapture %}
@@ -69,8 +83,12 @@ wdcyvdsgrmupffee: true
       <li>
         <article class="h-entry">
           <div style="display: none;">
-            <p class="p-name">{{ post.title | escape }}</p>
-            <p class="u-uid">{{ post.url }}</p>
+            <p class="p-name">
+              {{ post.title | escape }}
+            </p>
+            <p class="u-uid">
+              {{ post.url }}
+            </p>
           </div>
           <span style="font-size: larger;">
             <a class="u-url" href="{{ site.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a>
@@ -99,9 +117,15 @@ wdcyvdsgrmupffee: true
     {% endfor %}
   </div>
 </div>
-<p>&nbsp;</p>
-<iframe allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60" style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
-<p>&nbsp;</p>
+<p>
+  &nbsp;
+</p>
+<iframe
+  allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="//ad.a-ads.com/453725?size=468x60"
+  style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+<p>
+  &nbsp;
+</p>
 <p class="rss-subscribe">
   Subscribe <a href="{{ site.url }}/feed.xml" rel="me" title="">via RSS</a>.
 </p>
