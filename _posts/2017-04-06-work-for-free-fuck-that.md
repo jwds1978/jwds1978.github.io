@@ -201,6 +201,9 @@ title: "Work for Free; Fuck That"
   </blockquote>
 </p>
 <p>
+  &nbsp;
+</p>
+<p>
   Perhaps, the often-made assertion that asking a freelancer to work for free is akin to swiping food from someone's plate is a little overdramatic, but it may
   not seem that way for those relying on paycheques to put food on the table.&nbsp; The more that freelancers take a public stand against the cultural
   non-chalance towards unpaid labour, the more of a faux pas it will inevitably become.
