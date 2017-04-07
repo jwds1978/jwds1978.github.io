@@ -16,6 +16,9 @@ title: About
   telecommute globally though.&nbsp; He's willing to travel, upon pre-payment of associated expenses (i.e. airfare, hotel, etc.), as well.
 </p>
 <p>
+  James doesn't sugar-coat shit&hellip;&nbsp; He's not Willy fucking Wonka!
+</p>
+<p>
   James has been professionally developing software since circa 2000.&nbsp; You may recognize him from cPanel and/or WHMCS.&nbsp; Although he's versed in
   <a href="{{ site.url }}/resume#languages" rel="me" title="">several programming languages</a>, he has focused primarily on PHP.
 </p>
