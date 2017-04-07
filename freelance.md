@@ -11,6 +11,9 @@ title: "Freelance"
   &nbsp;<br />
   &nbsp;
 </div>
+<a href="{{ site.url }}/blog/2017/04/06/work-for-free-fuck-that" rel="me" title="Work for Free; Fuck That">
+  <img alt="" height="480" src="{{ site.uri.assets }}/naked/images/exposure-bucks_482x480.png" style="border: 0px; float: left;" width="482" />
+</a>
 <p>
   Below are just a few of the services that James provides on a freelance basis.&nbsp; <a href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with
   the specifics of your particular project(s) and/or needs for a personalized estimate/quotation.
