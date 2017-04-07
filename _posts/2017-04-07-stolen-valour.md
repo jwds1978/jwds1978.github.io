@@ -151,7 +151,7 @@ title: "Stolen Valour"
   retaining what he was telling me, it went like something from Normandy days.&nbsp; He said that the USS Durham, amongst other ships in the fleet, stormed a
   beach-head in the Gulf.&nbsp; He said that the front of the ships opened up, and they ran out down the ramps, storming the beach.&nbsp; He says that he was
   shot while assualting the beach&hellip; He'd gotten hit several times while running across the beach or some fucking shit.&nbsp; How in the fuck does this
-  super-soldier&#8212;mechanic&#8212;fast-moving-assaulter&#8212;squirrel not have a Victoria Cross?
+  super-soldier&#8212;mechanic&#8212;fast-moving-assaulter&#8212;squirrel not have a Victoria Cross?<br />
   &nbsp;<br />
   Eventually, I'd finally just said fuck it, and told him exactly what I thought of him.&nbsp; He then goes on to tell our mutual friend that his ID documents
   aren't actually in a safe at the house&hellip;&nbsp; They're, actually, in a locker at NDHQ in Ottawa.&nbsp; Seriously, dude?&nbsp; That's the best that he
