@@ -311,11 +311,6 @@ title: "Freelance"
 <p>
   &nbsp;
 </p>
-<a href="{{ site.url }}/blog/2017/04/06/work-for-free-fuck-that" rel="me" title="Work for Free; Fuck That">
-  <img
-    alt="" height="480" src="{{ site.uri.assets }}/naked/images/exposure-bucks_482x480.png"
-    style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
-</a>
 <h3>
   Work-Time Things&nbsp;
   <sup>No Rollovers</sup>
@@ -343,6 +338,11 @@ title: "Freelance"
 <p>
   &nbsp;
 </p>
+<a href="{{ site.url }}/blog/2017/04/06/work-for-free-fuck-that" rel="me" title="Work for Free; Fuck That">
+  <img
+    alt="" height="480" src="{{ site.uri.assets }}/naked/images/exposure-bucks_482x480.png"
+    style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
+</a>
 <h3>
   About the Rate Things
 </h3>
