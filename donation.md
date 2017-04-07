@@ -4,7 +4,7 @@ title: Donate
 ---
 
 <iframe
-  allowtransparency="true" data-aa="453848" height="600" scrolling="no" src="//ad.a-ads.com/453848?size=160x600"
+  allowtransparency="true" data-aa="453848" height="600" scrolling="no" src="https://ad.a-ads.com/453848?size=160x600"
   style="border: none; float: right; padding: 0; overflow: hidden;" width="160"></iframe>
 <h3>
   Bitcoin&nbsp;
