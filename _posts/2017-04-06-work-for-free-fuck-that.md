@@ -66,7 +66,7 @@ title: "Work for Free; Fuck That"
 
 <img
   alt="" height="482" src="{{ site.uri.assets }}/blog/2017/04/06/work-for-free-fuck-that/youre-doing-it-for-the-exposure_482x482.png"
-  style="border: 0px; float: right;" width="482" />
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   Working for free&hellip;&nbsp; We've all done it.&nbsp; Most freelancers will have regretted it at some stage.&nbsp; Yet, the allure of the E-word &#8212;
   'exposure', has seduced many a talented artist, musician, or designer into giving away their services for zero financial compensation; as illustrated

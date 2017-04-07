@@ -110,7 +110,9 @@ title: "How to Blog"
   idea to earning money.&nbsp; To help you get started in the world of blogging, I've put together this guide to show you exactly how to blog.
 </p>
 <!--excerptBreak-->
-<img alt="" height="248" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-01_482x248.png" style="border: 0px; float: right;" width="482" />
+<img
+  alt="" height="248" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-01_482x248.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <h4>
   How to Start a Blog That Will Make Money
 </h4>
@@ -141,7 +143,9 @@ title: "How to Blog"
 <p>
   &nbsp;
 </p>
-<img alt="" height="221" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-02_482x221.png" style="border: 0px; float: right;" width="482" />
+<img
+  alt="" height="221" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-02_482x221.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <h3>
   Step One:&nbsp; Decide on Your Blog Topic
 </h3>
@@ -197,7 +201,9 @@ title: "How to Blog"
 <p>
   &nbsp;
 </p>
-<img alt="" height="299" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/WordPress_482x299.png" style="border: 0px; float: right;" width="482" />
+<img
+  alt="" height="299" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/WordPress_482x299.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <h3>
   Step Two:&nbsp; Set Up a Content Management System
 </h3>
@@ -285,7 +291,9 @@ title: "How to Blog"
 <p>
   &nbsp;
 </p>
-<img alt="" height="322" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-03_482x322.png" style="border: 0px; float: right;" width="482" />
+<img
+  alt="" height="322" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-03_482x322.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <h3>
   Step Three: Start Blogging!
 </h3>
@@ -354,7 +362,9 @@ title: "How to Blog"
 <p>
   &nbsp;
 </p>
-<img alt="" height="270" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-04_482x270.png" style="border: 0px; float: right;" width="482" />
+<img
+  alt="" height="270" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-04_482x270.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <h3>
   Step Four:&nbsp; Optimize (And Monetize) Your Blog
 </h3>
@@ -472,7 +482,9 @@ title: "How to Blog"
 <p>
   &nbsp;
 </p>
-<img alt="" height="271" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-05_482x271.png" style="border: 0px; float: right;" width="482" />
+<img
+  alt="" height="271" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-05_482x271.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <h3>
   Step Five:&nbsp; Build Your Social Strategy
 </h3>

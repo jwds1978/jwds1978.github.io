@@ -9,8 +9,10 @@ title: "Embrace 'The Suck'"
   &nbsp;
 </p>
 <p>
-  <img alt="" height="196" src="{{ site.uri.assets }}/naked/images/embrace-the-suck_336x196.png" style="border: 0px; float: right;" width="336" />Embrace 'the
-  suck'&hellip;&nbsp; It's a very Buddhist concept.
+  <img
+    alt="" height="196" src="{{ site.uri.assets }}/naked/images/embrace-the-suck_336x196.png"
+    style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="336" />
+    Embrace 'the suck'&hellip;&nbsp; It's a very Buddhist concept.
 </p>
 <p>
   When we deny what reality is giving us, what is really happening, then we create suffering.&nbsp; So, life is a dance between minimizing expectations and

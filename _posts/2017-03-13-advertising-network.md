@@ -19,7 +19,8 @@ title: "Advertising Network"
 ---
 
 <img
-  alt="" height="75" src="{{ site.uri.assets }}/blog/2017/03/13/advertising-network/project-revenue_75x75.png" style="border: 0px; float: right;" width="75" />
+  alt="" height="75" src="{{ site.uri.assets }}/blog/2017/03/13/advertising-network/project-revenue_75x75.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="75" />
 <p>
   As you may or may not have noticed, I've started adding various ad units throughout the Web site.
 </p>

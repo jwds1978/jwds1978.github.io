@@ -42,7 +42,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 
 <img
   alt="" height="321" src="{{ site.uri.assets }}/blog/2017/04/03/a-guide-to-not-working-on-freelance-exchanges-fiverr-upwork/the-moment-begins_482x321.png"
-  style="border: 0px; float: right;" width="482" />
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   Are freelancer exchanges viable when your goal is mutually beneficial partnerships with clients willing to pay a fair amount per project?
 </p>

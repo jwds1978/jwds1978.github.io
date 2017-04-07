@@ -77,7 +77,10 @@ title: Donate
 </h3>
 <ul>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Amazon_wish-list_99x40.png" style="border: 0px; float: right;" width="99" />Amazon<br />
+    <img
+      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Amazon_wish-list_99x40.png"
+      style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="99" />
+    Amazon<br />
     <span style="font-size: smaller;">
       &nbsp;<br />
       <!--sse-->
@@ -175,7 +178,10 @@ title: Donate
     </ul>
   </li>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Best-Buy_58x40.png" style="border: 0px; float: right;" width="58" />Best Buy<br />
+    <img
+      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Best-Buy_58x40.png"
+      style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="58" />
+    Best Buy<br />
     <span style="font-size: smaller;">
       &nbsp;<br />
       <!--sse-->
