@@ -5,13 +5,6 @@ categories:
   - "Living and Leisure"
   - News
 citations:
-  - author: ""
-    date:
-      accessed: "0000-00-00 00:00:00 America/Toronto"
-      published: "0000-00-00 00:00:00 America/Toronto"
-    href: ""
-    name: ""
-    slug: ""
   - author: "Don Shipley"
     date:
       accessed: "2017-04-07 15:49:42 America/Toronto"
@@ -172,7 +165,7 @@ title: "Stolen Valour"
   told me that they'd been fragged, his buddy died in his arms from the resultant wounds, and he himself now has a plate in his skull from a huge-ass gaping
   hole that was opened up by said frag grenade.&nbsp; Wow, man; Rambo's got nothing on this fucking dude.<br />
   &nbsp;<br />
-  So, to put this into perspective&hellip;
+  Breaking this down, Barney-style&hellip;
   <ol style="list-style-type: decimal;">
     <li>
       They come under fire.
