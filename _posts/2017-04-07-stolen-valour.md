@@ -33,6 +33,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154202019317084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/850507195791929344"
+    text: Twitter
+    title: Twitter
 tags:
   - Career
   - Law
@@ -188,7 +195,7 @@ title: "Stolen Valour"
   </ol>
   Amazed by this, I ask him why he's in the Salvation Army&hellip;&nbsp; Is he not in receipt of a long-term pension?&nbsp; He tells me that he got nothing when
   they released him.&nbsp; I asked him who he'd spoken with at VAC&hellip;&nbsp; He just gave me a blank stare and asked me what the VAC is.&nbsp; Like,
-  WTF?&nbsp; FUcking cadets and weekend warriors know what Veterans Affairs Canada is.&nbsp; How the fuck does a regular force super hero not know of
+  WTF?&nbsp; Fucking cadets and weekend warriors know what Veterans Affairs Canada is.&nbsp; How the fuck does a regular force super hero not know of
   them?&nbsp; When I'd asked him that, he simply told me that nobody ever told him anything about Veterans Affairs and that he'd never heard of VAC before that
   day.&nbsp; He then, rather promptly, went inside and I never saw nor heard from him again.
 </p>
