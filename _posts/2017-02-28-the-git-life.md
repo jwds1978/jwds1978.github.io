@@ -22,7 +22,7 @@ title: "The Git Life"
   Although I've done a stupid amount of coding from my Samsung Galaxy Note 3 over the years, using a Bluetooth keyboard and/or mouse, I've decided to move back
   to a computer.&nbsp; I'm going getting back to development and other stuff ASAP.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   Given that I'll now be, primarily, comitting to Git from my notebook, I'll be able to sign said commits.&nbsp; For the moment, my commits originating from my
   Note 3 will still be unsigned.&nbsp; However, all of the ones from my notebook will be PGP-signed though.

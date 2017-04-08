@@ -41,7 +41,7 @@ title: "Vita Monster"
   The docor's going to complete another Assistive Devices Program (ADP) form for me in order to get a powered mobility scooter.&nbsp; The program will cover
   100% of its cost, as they did for my orthosis.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   I'm not sure as to what specific brands and/or models are approved and/or covered by the ADP, but this one would be nice to have though&hellip;
   &nbsp;<br />

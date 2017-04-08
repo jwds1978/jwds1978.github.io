@@ -25,7 +25,7 @@ title: "Advertising Network"
 <p>
   As you may or may not have noticed, I've started adding various ad units throughout the Web site.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   While I'd considered AdSense, I've opted for <a href="{{ site.uri.shortURL }}/Anonymous-Ads" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
   instead.&nbsp; I like their network model, in as much as, it's extremely easy to get setup and they payout in Bitcoin.&nbsp; Google doesn't support Bitcoin

@@ -55,7 +55,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
   The type of hair-pull&#8212;face-palm&#8212;head-in-sand experience that you can only get from a good few years trying, failing and winning, to get something
   to work.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   My stance on Upwork, and freelancer exchanges as a whole, has been largely unchallenged to-date.&nbsp; One of the key differentiators I live by is my
   point-blank refusal to get embroiled in the small stuff and be a part of the over-cooked (or, worse still, reheated) ideas and opinions that you'll get from a

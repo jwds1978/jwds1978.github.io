@@ -41,7 +41,7 @@ title: "Tim Hortons, Fuck You"
   So, I was at the above-mentioned Tim Hortons earlier today.&nbsp; I'd spent at least $30 alone (on just myself) at this Tim Hortons this morning; within an
   hour or less of being there.&nbsp; I was relaxing, using the LCBO's Internet, and drinking cofee while waiting for the library up the road the open at noon.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   I'm on no less than 9 different drugs&hellip;&nbsp; Each of which, I take several times per day.&nbsp; With that said, I'm somewhat fucked-up at times.&nbsp;
   Additionally, I've recently started on yet another new drug.&nbsp; And, as such, my body's still adjusting to it.

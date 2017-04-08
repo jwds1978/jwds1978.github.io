@@ -44,7 +44,7 @@ title: "Future Things"
     </li>
   </ul>
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   The SSD alone will be a significant upgrade.&nbsp; I was considering <a href="{{ site.uri.aStore }}/#detail/B01G844OOO" rel="me" title="">the 4TB variant</a>
   of the SSD, but opted for the 1TB drive for the moment.&nbsp; I really don't have the money to spend on a 4TB drive at the moment, but will upgrade to it (or

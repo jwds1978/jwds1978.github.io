@@ -34,7 +34,7 @@ title: "Rigors of War"
 <blockquote>
   Pain is your friend.&nbsp; Unless, you're 'light infantry'.&nbsp; Then, it's probably (degenerative) arthritis.
 </blockquote>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   Below, are photos of my left leg that I'd taken yesterday and today.&nbsp; While I had a somewhat hard time getting the angle(s) right to capture the scope of
   it, you can still see that shit ain't quite right anyhow.

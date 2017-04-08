@@ -82,7 +82,7 @@ title: "Work for Free; Fuck That"
   who seek to take advantage of freelancers.&nbsp; No matter whether you're struggling or flourishing, as a freelancer you're always going to get asked to do
   things for free.&nbsp; Here are a few who have had enough, and have fruitfully decided to take their grievances to the Web.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>

@@ -35,7 +35,7 @@ title: "Human Rights"
   After eating, I went upstairs to The Mission's office.&nbsp; The unknown woman on the intercom advised me that Pooh was downstairs in the kitchen and to go
   there to talk with him.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   Given that, I go back downstairs and proceed to knock on the door.&nbsp; After roughly 20-something minutes of knocking, going unanswered, I head back into
   The Blue Door.&nbsp; There, I ask one of the staff if they know where Pooh is.

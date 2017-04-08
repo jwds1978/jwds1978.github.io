@@ -34,7 +34,7 @@ title: "Accessibility at The Elgin Street Mission"
 <p>
   This morning, around about 0730, I experienced discrimination, ignorance, and utter stupidity&hellip;
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   I walk with a cane, take countless various medications daily for pain management, psych, etc., and have an orthosis that spans near the entire length of my
   left leg.&nbsp; Given that, I have a hard time getting up-and-down and on-and-off of the toilet.&nbsp; I have some difficulty in bending my left leg and

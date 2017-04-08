@@ -109,7 +109,7 @@ title: "How to Blog"
   Blogging is one of the most fulfilling ways of earning money while also sharing what you know with the world.&nbsp; However, it's a huge leap to take from
   idea to earning money.&nbsp; To help you get started in the world of blogging, I've put together this guide to show you exactly how to blog.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <img
   alt="" height="248" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-01_482x248.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />

@@ -38,7 +38,7 @@ copyright:
 # description: "Embrace 'The Suck'"
 destination: _site
 enforce_ssl: "forces.army"
-excerpt_separator: "<!--excerptBreak-->"
+excerpt_separator: "<!-- excerptBreak -->"
 exclude:
   - .travis.yml
   - Gemfile

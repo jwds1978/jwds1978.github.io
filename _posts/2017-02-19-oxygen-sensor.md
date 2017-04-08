@@ -28,7 +28,7 @@ title: "Oxygen Sensor"
 <p>
   Fuck&hellip; my&hellip; life&hellip; Having a look at the image below, what doesn't belong?
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   <a href="{{ site.uri.assets }}/blog/2017/02/19/oxygen-sensor/2017-02-19_11-59-29_03-02.jpeg" target="_blank" title="">
     <img

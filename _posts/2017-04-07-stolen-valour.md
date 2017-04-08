@@ -66,7 +66,7 @@ title: "Stolen Valour"
 <p>
   How can one person achieve so much in such a short time?&nbsp; It's almost too good to be true&hellip;
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   While this seems to be an isue more prevalent within the United States of America than here in Canada, we do have our share as well.&nbsp; The most recent of
   which readily comes to my mind is

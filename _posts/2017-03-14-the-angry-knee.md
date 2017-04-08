@@ -39,7 +39,7 @@ title: "The Angry Knee"
   Following-up on <a href="#cite-rigors-of-war">a previous post</a>, my left leg is still somewhat angry with me.&nbsp; Below are some photos that I'd taken
   last night; after removing the orthosis&hellip;
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-04-47_04-03.jpeg" target="_blank" title="">
     <img

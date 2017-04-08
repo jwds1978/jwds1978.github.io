@@ -34,7 +34,7 @@ title: "The Stupid, It Burns"
   I have a zero-tolerance for stupid&hellip;&nbsp; It took a lot for me to not beat the stupid out of some shitbag staff tonight.&nbsp; We'll call him Pip
   Koch-weser.
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   A friend of mine, who we'll call Heath Pincus, gave me his cookies while we were standing in line for coffee tonight.&nbsp; Pip was serving coffee.
 </p>

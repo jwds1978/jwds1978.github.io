@@ -39,7 +39,7 @@ title: "The Infantryman's Arrogance"
 <p>
   I don't recall who wrote this as somebody had sent it to me some time ago, but should you though, feel free to comment&hellip;
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <blockquote>
   Infantrymen have a pride and arrogance that most Canadians don't understand and don't like.&nbsp; Even soldiers who aren't infantrymen don't understand.&nbsp;
   The pride doesn't exist because we have a job that's physically impressive.&nbsp; It certainly doesn't exist because it takes a higher level of intelligence

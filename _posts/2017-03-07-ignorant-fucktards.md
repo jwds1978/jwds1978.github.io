@@ -30,7 +30,7 @@ title: "Ignorant Fucktards"
 <p>
   This is what I found this morning&hellip;
 </p>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <p>
   <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02.jpeg" target="_blank" title="">
     <img

@@ -46,7 +46,7 @@ title: "Static Site Generation"
 <h3>
   What is static site generation?
 </h3>
-<!--excerptBreak-->
+<!-- excerptBreak -->
 <ul>
   <li>
     Use a program to produce HTML pages.
