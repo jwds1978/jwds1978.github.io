@@ -739,29 +739,8 @@ sitemap: false
   var _0xbd01x5a = 'http://codecanyon.net/item/limarquee-jquery-responsive-marquee-/12947320';
   var _0xbd01x5b = 'www.codecanyon.net';
   var _0xbd01x5c = 'liMarquee';
-  var _0xbd01x5d = 'This is DEMO version of the plug-in ' + _0xbd01x5c + ', it will not work on your device. Purchase full version on site <a style="color:white !important; background-color:red !important; font-size:20px !important;" href="' + _0xbd01x5a + '">' + _0xbd01x5b + '</a>';
   var _0xbd01x5e = _0xbd01x1('');
   var _0xbd01x5f = ['div', 'span', 'i', 'b', 'strong', 'em', 'h1', 'h2', 'h3', 'section', 'td', 'header', 'footer', 'body', 'li', 'a'];
-  if (window['location']['hostname'] != 'demo.masscode.ru') {
-    _0xbd01x5e = _0xbd01x1('<div style="position:fixed !important; width:100% !important; left:0 !important; bottom:0 !important; box-sizing:border-box !important;padding:30px !important; background-color:red !important; color:white !important; z-index:999999 !important; text-align:center !important; font-size:20px !important; ">')['html'](_0xbd01x5d);
-    _0xbd01x5e['appendTo']('body');
-    setInterval(function () {
-      _0xbd01x5e['stop'](true)['animate']({
-        "\x70\x61\x64\x64\x69\x6E\x67\x2D\x74\x6F\x70": '40px'
-      }, 500)['animate']({
-        "\x70\x61\x64\x64\x69\x6E\x67\x2D\x74\x6F\x70": '30px'
-      }, 500)
-    }, 1000);
-    var _0xbd01x4a = 0;
-    setInterval(function () {
-      var _0xbd01x60 = _0xbd01x1(_0xbd01x5f[_0xbd01x4a])['eq'](0);
-      _0xbd01x5e['appendTo'](_0xbd01x60);
-      _0xbd01x4a++;
-      if (_0xbd01x4a >= _0xbd01x5f['length']) {
-        _0xbd01x4a = 0
-      }
-    }, 5000)
-  };
   _0xbd01x1['fn']['liMarquee'] = function (_0xbd01x61) {
     if (_0xbd01x2[_0xbd01x61]) {
       return _0xbd01x2[_0xbd01x61]['apply'](this, Array['prototype']['slice']['call'](arguments, 1))
