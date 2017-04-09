@@ -1,15 +1,11 @@
 ---
 cloudflareSSE: true
+liMarquee: true
 title: About
 ---
 
-<div style="text-align: center;">
-  <span style="font-size: larger;">
-    And, if you don't know&hellip;&nbsp; Now, you know.<br />
-    James&hellip;&nbsp; He gets all of the things done.
-  </span><br />
-  &nbsp;<br />
-  &nbsp;
+<div class="liMarquee mWrap" style="font-size: larger; text-align: center;">
+    And, if you don't know&hellip;&nbsp; Now, you know.&nbsp; James&hellip;&nbsp; He gets all of the things done.
 </div>
 <p>
   James, a Canadian Forces veteran, is an information technology consultant.&nbsp; He's based in Sudbury, Ontario, Canada&hellip;&nbsp; However, he's able to

@@ -1,3 +1,8 @@
+---
+sitemap: false
+---
+
+{{ site.copyright.comment.java }}
 ! function (a, b) {
   function l(a, b) {
     var c = a.createElement("p"),

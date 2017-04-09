@@ -1,7 +1,7 @@
 ---
 comments: true
+fontAwesome: true
 title: "Blog (Tags)"
-wdcyvdsgrmupffee: true
 ---
 
 <style>
