@@ -8,6 +8,9 @@ title: About
     And, if you don't know&hellip;&nbsp; Now, you know.&nbsp; James&hellip;&nbsp; He gets all of the things done.
 </p>
 <p>
+  &nbsp;
+</p>
+<p>
   James, a Canadian Forces veteran, is an information technology consultant.&nbsp; He's based in Sudbury, Ontario, Canada&hellip;&nbsp; However, he's able to
   telecommute globally though.&nbsp; He's willing to travel, upon pre-payment of associated expenses (i.e. airfare, hotel, etc.), as well.
 </p>

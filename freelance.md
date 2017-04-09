@@ -1,16 +1,15 @@
 ---
+liMarquee: true
 title: "Freelance"
 ---
 
-<div style="text-align: center;">
-  <span style="font-size: larger;">
-    Everything is negotiable.<br />
-    Whether or not the negotiation is easy&hellip; is another thing.<br />
-    They always want to reduce the fees, but they never want to reduce the value.
-  </span><br />
-  &nbsp;<br />
+<p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
+    Everything is negotiable.&nbsp; Whether or not the negotiation is easy&hellip; is another thing.&nbsp; They always want to reduce the fees, but they never
+    want to reduce the value.
+</p>
+<p>
   &nbsp;
-</div>
+</p>
 <p>
   Below are just a few of the services that James provides on a freelance basis.&nbsp; <a href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with
   the specifics of your particular project(s) and/or needs for a personalized estimate/quotation.

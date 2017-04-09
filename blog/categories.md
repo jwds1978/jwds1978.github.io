@@ -1,6 +1,7 @@
 ---
 comments: true
 fontAwesome: true
+liMarquee: true
 title: "Blog (Categories)"
 ---
 
@@ -28,14 +29,12 @@ title: "Blog (Categories)"
     text-decoration: none;
   }
 </style>
-<div style="text-align: center;">
-  <span style="font-size: larger;">
-    Want the latest news on everything James?<br />
-    You're in the right spot.
-  </span><br />
-  &nbsp;<br />
+<p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
+    Want the latest news on everything James?&nbsp; You're in the right spot.
+</p>
+<p>
   &nbsp;
-</div>
+</p>
 <p style="text-align: center;">
   Filter the Things by:&nbsp;
   <a href="{{ site.url }}/blog" rel="me" title="">All</a>&nbsp;
