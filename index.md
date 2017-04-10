@@ -264,8 +264,8 @@ comments: true
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="TunnelBear">
-      <img alt="" height="60" src="{{ site.uri.assets }}/naked/images/WHMCS_468x060" style="border: 0px; float: right; margin-left: 10px;" width="468" />
+    <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="WHMCS">
+      <img alt="" height="60" src="{{ site.uri.assets }}/naked/images/WHMCS_468x060.gif" style="border: 0px; float: right; margin-left: 10px;" width="468" />
     </a>
     <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="WHMCS">WHMCS</a>
     <ul>

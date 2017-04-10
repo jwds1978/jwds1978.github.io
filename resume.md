@@ -234,13 +234,17 @@ title: "Curriculum Vitae"
     (Re)scan for deleted and/or new media.
   </p>
   <p>
-    Kur-Uhn-See&nbsp; <sup>WHMCS Addon</sup><br />
+    Kur-Uhn-See&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
     April 2013 &#8211; 2016&nbsp; <sup>3 Years</sup><br />
     Correct transaction fees; reflecting the transaction exchange rate.
   </p>
   <p>
-    StripeXS&nbsp; <sup>Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon, WHMCS Addon</sup><br />
+    StripeXS&nbsp;
+    <sup>
+      Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon,
+      <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon
+    </sup><br />
     Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, Java, JavaScript, JSON, PHP, Regular Expression, Smali, Smarty, SQL, XML</sup><br />
     November 2012 &#8211; 2016&nbsp; <sup>4 Years</sup>
     <ul>
@@ -251,39 +255,41 @@ title: "Curriculum Vitae"
         account; no matter the business type.&nbsp; International business owners, outside of North America, can begin accepting eCommerce and/or
         (mail/telephone)-order payments quickly and easily with a Stripe account.<br />
         &nbsp;<br />
-        <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for WHMCS
-        to provide complete/full tokenization functionality/integration (including, but not limited to, within the cart/checkout and the administrative area)
-        and payment dispute automation/management (Stripe-specific) from within WHMCS.<br />
+        <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for
+        <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> to provide complete/full tokenization functionality/integration (including,
+        but not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management (Stripe-specific) from within
+        <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a>.<br />
         &nbsp;
       </li>
       <li>
         November 2012 &#8211; October 2013:<br />
         &nbsp;<br />
-        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for WHMCS to provide complete/full tokenization functionality/integration (including, but
-        not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management from within WHMCS.
+        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> to provide
+        complete/full tokenization functionality/integration (including, but not limited to, within the cart/checkout and the administrative area) and payment
+        dispute automation/management from within <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a>.
       </li>
     </ul>
   </p>
   <p>
-    NXS&nbsp; <sup>WHMCS Addon</sup><br />
+    NXS&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, PHP, Regular Expression, Smarty, SQL</sup><br />
     November 2011 &#8211; 2016&nbsp; <sup>5 Years</sup><br />
     Automagically purge the log tables in order to reduce the overall size of the database.
   </p>
   <p>
-    WHMCS Order Status&nbsp; <sup>WHMCS Addon</sup><br />
+    WHMCS Order Status&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
     December 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
     Automagically cancel pending orders which remain unpaid for X number of days past their due date.
   </p>
   <p>
-    HostAudit&nbsp; <sup>cPanel/WHM &amp; WHMCS Addon</sup><br />
+    HostAudit&nbsp; <sup>cPanel/WHM &amp; <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, JavaScript, Perl, PHP, Regular Expression, Shell, Smarty, SQL, XML</sup><br />
     September 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
     Automagically detect abusive clients on your cPanel/WHM servers.&nbsp; Warn them, and optionally, suspend them if the abuse continues.
   </p>
   <p>
-    Nshare&nbsp; <sup>WHMCS Addon</sup><br />
+    Nshare&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
     December 2012 &#8211; October 2013&nbsp; <sup>11 Months</sup><br />
     Automagically activate/delete the affiliate status of clients when their account is created and/or closed.
@@ -343,7 +349,9 @@ title: "Curriculum Vitae"
     <p>
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/WHMCS_178x040.png" style="border: 0px; float: right;" width="178" />
       <span class="p-job-title">Technical Analyst</span><br />
-      <a class="p-name p-org u-url" href="https://www.whmcs.com" target="_blank" title="WHMCS">WHMCS</a><br />
+      <span style="display: none;">
+        <a class="p-name p-org u-url" href="https://www.whmcs.com" target="_blank" title="WHMCS">WHMCS</a>
+      </span><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="WHMCS">WHMCS</a><br />
       <time class="dt-start" datetime="2013-02">February 2013</time> &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp;
       <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
       $2,234 USD per Month&nbsp; <sup>~$2,984 CAD per Month</sup>
