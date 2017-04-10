@@ -77,7 +77,7 @@ title: "Static Site Generation"
     Examples
     <ul>
       <li>
-        <a href="{{ site.url }}{{ page.url }}/#cite-jekyll" rel="me" title="Jekyll">Jekyll</a>
+        <a href="{{ site.url }}{{ page.url }}#cite-jekyll" rel="me" title="Jekyll">Jekyll</a>
         <ul>
           <li>
             Transform your plain text into static Web sites and blogs.
@@ -88,7 +88,7 @@ title: "Static Site Generation"
         </ul>
       </li>
       <li>
-        <a href="{{ site.url }}{{ page.url }}/#cite-middleman" rel="me" title="Middleman">Middleman</a>
+        <a href="{{ site.url }}{{ page.url }}#cite-middleman" rel="me" title="Middleman">Middleman</a>
         <ul>
           <li>
             Build static Web sites with an easy-to-use framework.&nbsp; Middleman is a static site generator using all the shortcuts and tools in modern Web
@@ -100,7 +100,7 @@ title: "Static Site Generation"
         More&hellip;
         <ul>
           <li>
-            <a href="{{ site.url }}{{ page.url }}/#cite-static-site-generators" rel="me" title="Static Site Generators">Static Site Generators</a>
+            <a href="{{ site.url }}{{ page.url }}#cite-static-site-generators" rel="me" title="Static Site Generators">Static Site Generators</a>
             <ul>
               <li>
                 The definitive listing of static site generators.

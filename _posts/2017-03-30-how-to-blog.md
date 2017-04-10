@@ -120,7 +120,7 @@ title: "How to Blog"
   Whether you're tired of barely scraping by with your 0900-1700 or are looking for something to keep you busy as a stay-at-home mom, dedicating your time to
   maintaining a blog can be a viable means of bringing in a steady income.&nbsp; In fact, there are hundreds of bloggers out there who earn
   <a
-    href="{{ site.url }}{{ page.url }}/#cite-how-two-moms-are-earning-over-40000-a-year-by-blogging" rel="me"
+    href="{{ site.url }}{{ page.url }}#cite-how-two-moms-are-earning-over-40000-a-year-by-blogging" rel="me"
     title="How Two Moms Are Earning Over $40,000 a Year By Blogging">
     $40,000 a year or more
   </a>
@@ -134,7 +134,7 @@ title: "How to Blog"
 </p>
 <p>
   The average salary of a blogger varies greatly, with most bringing in
-  <a href="{{ site.url }}{{ page.url }}/#cite-can-i-really-make-a-living-by-blogging" rel="me" title="Can I Really Make a Living by Blogging?">
+  <a href="{{ site.url }}{{ page.url }}#cite-can-i-really-make-a-living-by-blogging" rel="me" title="Can I Really Make a Living by Blogging?">
     a few hundred dollars per month
   </a>.&nbsp;
   The great thing about blogging, however, is that the possibilities are endless, and it is possible to earn a comfortable full-time living on blogging &#8212;
@@ -181,7 +181,7 @@ title: "How to Blog"
 </h5>
 <p>
   Once you've decided on a general topic/focus for your blog, it's time to snag a domain name and hosting for your site.&nbsp;
-  <a href="{{ site.url }}{{ page.url }}/#cite-good-domain-picking-tips-for-your-blog-setup" rel="me" title="Good Domain Name Picking Tips for Your Blog Setup">
+  <a href="{{ site.url }}{{ page.url }}#cite-good-domain-picking-tips-for-your-blog-setup" rel="me" title="Good Domain Name Picking Tips for Your Blog Setup">
     Choosing a domain name
   </a>
   is more important than most new bloggers realize; you'll want to select something that's:
@@ -242,7 +242,7 @@ title: "How to Blog"
   who are new to running their own blog or website.&nbsp; If you want to explore other options, however, there are some tips worth keeping in mind that'll help
   you
   <a
-    href="{{ site.url }}{{ page.url }}/#cite-how-to-choose-the-right-content-management-system" rel="me"
+    href="{{ site.url }}{{ page.url }}#cite-how-to-choose-the-right-content-management-system" rel="me"
     title="How to Choose the Right Content Management System">
     select the right CMS
   </a>
@@ -311,11 +311,11 @@ title: "How to Blog"
   Now that you have a better idea as to how your CMS works, it's time to start with your first blog posts.&nbsp; This is where taking the time to reflect on
   your audience and what will interest them becomes so important.&nbsp; With so many competing blogs there, the chances are good that whatever topic you're
   thinking about writing about has already been done!&nbsp; In fact, did you know that there are already
-  <a href="{{ site.url }}{{ page.url }}/#cite-the-rise-of-the-mommy-blogger-infographic" rel="me" title="The Rise of the Mommy Blogger [INFOGRAPHIC]">
+  <a href="{{ site.url }}{{ page.url }}#cite-the-rise-of-the-mommy-blogger-infographic" rel="me" title="The Rise of the Mommy Blogger [INFOGRAPHIC]">
     almost 4 million
   </a>
   mommy blogs on the Web, and that
-  <a href="{{ site.url }}{{ page.url }}/#cite-top-10-mommy-bloggers-who-do-you-really-read" rel="me" title="Top 10 Mommy Bloggers | Who Do You Really Read?">
+  <a href="{{ site.url }}{{ page.url }}#cite-top-10-mommy-bloggers-who-do-you-really-read" rel="me" title="Top 10 Mommy Bloggers | Who Do You Really Read?">
     14% of moms
   </a>
   with at least one child run a blog?&nbsp; With that in mind, you'll need to find a way to make your content more engaging, interesting, and unique than all
@@ -330,7 +330,7 @@ title: "How to Blog"
   bloggers find themselves facing a case of &quot;writer's block&quot; when it comes time to start their blogs because they can't come up with a creative
   title.&nbsp; If this is a problem you face, consider writing your blog first and then coming back to write the title at the end.&nbsp; After all, as content
   manager
-  <a href="{{ site.url }}{{ page.url }}/#cite-the-five-essential-elements-of-a-good-blog-post" rel="me" title="The Five Essential Elements of a Good Blog Post">
+  <a href="{{ site.url }}{{ page.url }}#cite-the-five-essential-elements-of-a-good-blog-post" rel="me" title="The Five Essential Elements of a Good Blog Post">
     Amanda Hyer
   </a>
   explains, &quot;It doesn't matter if you craft [your title] in the beginning, middle or end &#8212; regardless, you should make sure that it's interesting and
@@ -426,7 +426,7 @@ title: "How to Blog"
       vegetables&quot;.
     </li>
   </ul>
-  <a href="{{ site.url }}{{ page.url }}/#cite-how-keywords-increase-your-blog-traffic" rel="me" title="How Keywords Increase Your Blog Traffic">
+  <a href="{{ site.url }}{{ page.url }}#cite-how-keywords-increase-your-blog-traffic" rel="me" title="How Keywords Increase Your Blog Traffic">
     According to Mike Templeman
   </a>,
   CEO and Founder of Foxtail Marketing, &quot;developing the right keywords for your brand to target your specific audience will increase your online traffic,
@@ -545,7 +545,7 @@ title: "How to Blog"
 <p>
   Consider setting up your social media pages so that they
   <a
-    href="{{ site.url }}{{ page.url }}/#cite-how-to-create-a-social-media-marketing-plan-in-6-steps" rel="me"
+    href="{{ site.url }}{{ page.url }}#cite-how-to-create-a-social-media-marketing-plan-in-6-steps" rel="me"
     title="How To Create A Social Media Marketing Plan In 6 Steps">
     post on a specific schedule
   </a>
@@ -559,7 +559,7 @@ title: "How to Blog"
 <p>
   Last but not least, be sure to track your success and and followers on social media using one of
   <a
-    href="{{ site.url }}{{ page.url }}/#cite-46-free-social-media-monitoring-tools-to-improve-your-results" rel="me"
+    href="{{ site.url }}{{ page.url }}#cite-46-free-social-media-monitoring-tools-to-improve-your-results" rel="me"
     title="46 Free Social Media Monitoring Tools to Improve Your Results">
     the many free tools
   </a>

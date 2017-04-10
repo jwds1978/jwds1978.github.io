@@ -49,7 +49,7 @@ title: "Tim Hortons, Fuck You"
 <p>
   Today's definitely not one of my better days; not in the fucking least.&nbsp; My left knee's swollen like I've got a big-ass fucking grapefruit stuffed in
   there and the associated pain is higher than usual.&nbsp; One of the side effects
-  <sup><a href="{{ site.url }}{{ page.url }}/#cite-keppra-side-effects" rel="me" title="Keppra :: Side Effects">2</a></sup> of the new drug is drowsiness.&nbsp;
+  <sup><a href="{{ site.url }}{{ page.url }}#cite-keppra-side-effects" rel="me" title="Keppra :: Side Effects">2</a></sup> of the new drug is drowsiness.&nbsp;
   Seemingly, it can last throughout the first month of my starting on it&hellip;&nbsp; Yay!
 </p>
 <p>
@@ -94,5 +94,5 @@ title: "Tim Hortons, Fuck You"
     style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
   &nbsp;<br />
   I stumbled upon the video above while searching the InterWeb for other digruntled Tim Hortons customers.&nbsp; In doing so, I came along the Fuck Tim Hortons
-  Web site. <sup><a href="{{ site.url }}{{ page.url }}/#cite-fuck-tim-hortons" rel="me" title="Fuck Tim Hortons">1</a></sup>
+  Web site. <sup><a href="{{ site.url }}{{ page.url }}#cite-fuck-tim-hortons" rel="me" title="Fuck Tim Hortons">1</a></sup>
 </p>

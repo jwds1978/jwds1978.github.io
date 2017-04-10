@@ -73,7 +73,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   Here's an excerpt from
   <a
-    href="{{ site.url }}{{ page.url }}/#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me"
+    href="{{ site.url }}{{ page.url }}#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me"
     title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer">
     a book
   </a>.&nbsp;
