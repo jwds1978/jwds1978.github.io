@@ -1,5 +1,6 @@
 ---
 cloudflareSSE: true
+quickJump: true
 title: "Curriculum Vitae"
 ---
 
