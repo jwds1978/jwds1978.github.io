@@ -33,7 +33,7 @@ citations:
     slug: "the-strange-case-of-franck-gervais-impersonating-a-soldier"
 comments: true
 date: "2017-04-07 16:51:01 America/Toronto"
-last_modified_at: "2017-04-10 10:05:31 America/Toronto"
+last_modified_at: "2017-04-10 10:28:46 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -59,6 +59,9 @@ tags:
 title: "Stolen Valour"
 ---
 
+<img
+  alt="" height="725" src="{{ site.uri.assets }}/blog/2017/04/07/stolen-valour/meal-team-six_482x725.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   It takes the heart of a warrior to find deception and take it down.
 </p>
