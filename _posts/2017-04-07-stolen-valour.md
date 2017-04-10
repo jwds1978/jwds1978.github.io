@@ -33,7 +33,7 @@ citations:
     slug: "the-strange-case-of-franck-gervais-impersonating-a-soldier"
 comments: true
 date: "2017-04-07 16:51:01 America/Toronto"
-last_modified_at: "2017-04-10 10:28:46 America/Toronto"
+last_modified_at: "2017-04-10 10:40:51 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -76,15 +76,6 @@ title: "Stolen Valour"
 <p>
   How can one person achieve so much in such a short time?&nbsp; It's almost too good to be true&hellip;
 </p>
-<!-- excerptBreak -->
-<p>
-  <iframe
-    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/bCnzi6L_BsM?rel=0"
-    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
-  &nbsp;<br />
-  The <a href="#cite-its-stolen-and-i-know-it" rel="me" title="It's Stolen and I Know It">above video</a> is performed by Big Ol Band and was inspired by
-  LMFAO's &quot;Sexy and I know It&quot;.
-</p>
 <p>
   While this seems to be an issue more prevalent within the United States of America than here in Canada, we do have our share as well.&nbsp; The most recent of
   which readily comes to my mind is
@@ -100,6 +91,15 @@ title: "Stolen Valour"
   donation, etc.) based upon their service claim(s).&nbsp; Here in Sudbury alone, I've come across a Canadian seaman who was a Navy SEAL, a Canadian grunt who
   was in the Gulf but was stationed on a boat, a US Army secret-squirrel&#8212;spaceshuttle-door-gunner&#8212;special-forces, a guy who was in Iraq and had his
   buddy die in his arms after being fragged, and others.
+</p>
+<!-- excerptBreak -->
+<p>
+  <iframe
+    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/bCnzi6L_BsM?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+  &nbsp;<br />
+  The <a href="#cite-its-stolen-and-i-know-it" rel="me" title="It's Stolen and I Know It">above video</a> is performed by Big Ol Band and was inspired by
+  LMFAO's &quot;Sexy and I know It&quot;.
 </p>
 <p>
   The guy who made the Navy SEAL claims, from what I gather from other local veterans, may have served with the merchant marines.&nbsp; However, quite clearly,
