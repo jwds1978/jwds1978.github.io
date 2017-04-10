@@ -5,6 +5,13 @@ categories:
   - "Living and Leisure"
   - News
 citations:
+  - author: "RangerUp"
+    date:
+      accessed: "2017-04-10 10:02:53 America/Toronto"
+      published: "2012-09-14 America/Toronto"
+    href: "https://youtu.be/bCnzi6L_BsM"
+    name: "It's Stolen and I Know It"
+    slug: "its-stolen-and-i-know-it"
   - author: "Don Shipley"
     date:
       accessed: "2017-04-07 15:49:42 America/Toronto"
@@ -26,7 +33,7 @@ citations:
     slug: "the-strange-case-of-franck-gervais-impersonating-a-soldier"
 comments: true
 date: "2017-04-07 16:51:01 America/Toronto"
-last_modified_at: "2017-04-07 16:51:01 America/Toronto"
+last_modified_at: "2017-04-10 10:05:31 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -68,7 +75,15 @@ title: "Stolen Valour"
 </p>
 <!-- excerptBreak -->
 <p>
-  While this seems to be an isue more prevalent within the United States of America than here in Canada, we do have our share as well.&nbsp; The most recent of
+  <iframe
+    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/bCnzi6L_BsM?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+  &nbsp;<br />
+  The <a href="#cite-its-stolen-and-i-know-it" rel="me" title="It's Stolen and I Know It">above video</a> is performed by Big Ol Band and was inspired by
+  LMFAO's &quot;Sexy and I know It&quot;.
+</p>
+<p>
+  While this seems to be an issue more prevalent within the United States of America than here in Canada, we do have our share as well.&nbsp; The most recent of
   which readily comes to my mind is
   <a href="#cite-the-strange-case-of-franck-gervais-impersonating-a-soldier" rel="me" title="The Strange Case of Franck Gervais: Impersonating a Soldier">
     Franck Gervais
