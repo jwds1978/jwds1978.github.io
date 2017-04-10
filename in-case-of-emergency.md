@@ -16,7 +16,9 @@ title: "In Case of Emergency"
   &nbsp;
 </p>
 <div style="float: right; margin-bottom: 10px; margin-left: 10px;">
-  <img alt="" height="378" src="{{ site.uri.assets }}/naked/images/in-case-of-emergency_482x378.png" style="border: 0px; float: right;" width="482" />
+  <img
+    alt="" height="378" src="{{ site.uri.assets }}/naked/images/in-case-of-emergency_482x378.png" style="border: 0px; float: right; margin-left: 10px;"
+    width="482" />
   <span style="font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
