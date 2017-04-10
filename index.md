@@ -69,10 +69,8 @@ comments: true
   That Blog Thing&nbsp;
   <sup>Most Recent</sup>
 </h3>
-
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
-
 <p>
   &nbsp;
 </p>
@@ -88,7 +86,8 @@ comments: true
 </h3>
 <ul>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right;" width="117" />
+    <img
+      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right; margin-left: 10px;" width="117" />
     <a href="{{ site.uri.shortURL }}/Anonymous-Ads" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
     <ul>
       <li>
@@ -119,7 +118,7 @@ comments: true
     </ul>
   </li>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Cryptopay_328x040.png" style="border: 0px; float: right;" width="328" />
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Cryptopay_328x040.png" style="border: 0px; float: right; margin-left: 10px;" width="328" />
     <a href="{{ site.uri.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
     <ul>
       <li>
@@ -128,7 +127,7 @@ comments: true
     </ul>
   </li>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right;" width="286" />
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right; margin-left: 10px;" width="286" />
     <a href="{{ site.uri.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
     <ul>
       <li>
@@ -159,7 +158,7 @@ comments: true
     </ul>
   </li>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right;" width="271" />
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right; margin-left: 10px;" width="271" />
     <a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
     <ul>
       <li>
@@ -168,7 +167,7 @@ comments: true
     </ul>
   </li>
   <li>
-    <div style="float: right;">
+    <div style="float: right; margin-left: 10px;">
       <a href="{{ site.uri.shortURL }}/PIA" target="_blank" title="Private Internet Access">
         <img alt="" height="438" src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_320x438.png" style="border: 0px; float: right;" width="320" />
       </a><br />
@@ -250,7 +249,8 @@ comments: true
   </li>
   <li>
     <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" target="_blank" title="TunnelBear">
-      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/TunnelBear_312x040.png" style="border: 0px; float: right;" width="312" />
+      <img
+        alt="" height="40" src="{{ site.uri.assets }}/naked/images/TunnelBear_312x040.png" style="border: 0px; float: right; margin-left: 10px;" width="312" />
     </a>
     <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" target="_blank" title="TunnelBear">TunnelBear</a>
     <img
@@ -260,6 +260,27 @@ comments: true
       <li>
         Really simple VPN to browse the Web privately &amp; securely.&nbsp; Unblock Web sites around the world with applications for Android, Chrome, iOS, Mac,
         &amp; PC.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="TunnelBear">
+      <img alt="" height="60" src="{{ site.uri.assets }}/naked/images/WHMCS_468x060" style="border: 0px; float: right; margin-left: 10px;" width="468" />
+    </a>
+    <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="WHMCS">WHMCS</a>
+    <ul>
+      <li>
+        Choose WHMCS today and unlock a whole new level of business automation that save you time, increases efficiency, and gives you valuable insights to help
+        maximize your revenue.&nbsp; Plus, much more&hellip;
+      </li>
+      <li>
+        Client billing, management, and support for Web hosts.
+      </li>
+      <li>
+        The world's leading Web hosting automation platform.
+      </li>
+      <li>
+        WHMCS gives you the flexibility and power that you need to do business the way that you want.
       </li>
     </ul>
   </li>
