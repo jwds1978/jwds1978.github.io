@@ -71,7 +71,9 @@ title: "Work for Free; Fuck That"
   Working for free&hellip;&nbsp; We've all done it.&nbsp; Most freelancers will have regretted it at some stage.&nbsp; Yet, the allure of the E-word &#8212;
   'exposure', has seduced many a talented artist, musician, or designer into giving away their services for zero financial compensation; as illustrated
   beautifully (and swearily) in
-  <a href="#cite-youre-doing-it-for-the-exposure" rel="me" title="You're doing it for the EXPOSURE">this classic viral cartoon by The Oatmeal</a>.
+  <a href="{{ site.url }}{{ page.url }}/#cite-youre-doing-it-for-the-exposure" rel="me" title="You're doing it for the EXPOSURE">
+    this classic viral cartoon by The Oatmeal
+  </a>.
 </p>
 <p>
   If you're making art for art's sake, a little exposure can go a long way.&nbsp; But, if you're trying to make a living and valuing your own service, you're
@@ -100,7 +102,7 @@ title: "Work for Free; Fuck That"
 <p>
   Freelancers' frustrations at being patronised were easy to find following a Twitter backlash, but this sarcastic response, reportedly via
   <a
-    href="#cite-this-artist-had-the-best-response-when-sainsburys-advertised-an-unpaid-job" rel="me"
+    href="{{ site.url }}{{ page.url }}/#cite-this-artist-had-the-best-response-when-sainsburys-advertised-an-unpaid-job" rel="me"
     title="This Artist Had The Best Response When Sainsbury's Advertised An Unpaid Job">
     Graeme Snow-Matter
   </a>
@@ -133,7 +135,7 @@ title: "Work for Free; Fuck That"
 <p>
   &nbsp;<br />
   <a
-    href="#cite-meet-the-hero-designer-who-publicly-shamed-showtime-for-asking-him-to-work-for-free" rel="me"
+    href="{{ site.url }}{{ page.url }}/#cite-meet-the-hero-designer-who-publicly-shamed-showtime-for-asking-him-to-work-for-free" rel="me"
     title="Meet the Hero Designer Who Publicly Shamed Showtime for Asking Him to Work for Free">
     Cassaro explained to Adweek
   </a>,
@@ -154,12 +156,17 @@ title: "Work for Free; Fuck That"
 </h3>
 <p>
   You may remember David Thorne as the Internet maestro who brought us the hilarious exchange in which he tried to pay off an outstanding bill using
-  <a href="#cite-next-time-ill-spend-the-money-on-drugs-instead" rel="me" title="Next time, I'll spend the money on drugs instead.">
+  <a
+    href="{{ site.url }}{{ page.url }}/#cite-next-time-ill-spend-the-money-on-drugs-instead" rel="me"
+    title="Next time, I'll spend the money on drugs instead.">
     a drawing of a spider
-  </a>.&nbsp; But one of his slightly lesser known documented disagreements was over a late payment that had dragged out longer than desired.
+  </a>.&nbsp;
+  But one of his slightly lesser known documented disagreements was over a late payment that had dragged out longer than desired.
 </p>
 <p>
-  <a href="#cite-its-like-twitter-except-we-charge-people-to-use-it" rel="me" title="It's like Twitter. Except we charge people to use it.">
+  <a
+    href="{{ site.url }}{{ page.url }}/#cite-its-like-twitter-except-we-charge-people-to-use-it" rel="me"
+    title="It's like Twitter. Except we charge people to use it.">
     An e-mail to Thorne
   </a>
   read:

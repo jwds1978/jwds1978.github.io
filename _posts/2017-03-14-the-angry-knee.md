@@ -36,8 +36,8 @@ title: "The Angry Knee"
 ---
 
 <p>
-  Following-up on <a href="#cite-rigors-of-war">a previous post</a>, my left leg is still somewhat angry with me.&nbsp; Below are some photos that I'd taken
-  last night; after removing the orthosis&hellip;
+  Following-up on <a href="{{ site.url }}{{ page.url }}/#cite-rigors-of-war">a previous post</a>, my left leg is still somewhat angry with me.&nbsp; Below are
+  some photos that I'd taken last night; after removing the orthosis&hellip;
 </p>
 <!-- excerptBreak -->
 <p>
@@ -49,7 +49,8 @@ title: "The Angry Knee"
   &nbsp;<br />
   <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-05-15_03-04.jpeg" target="_blank" title="">
     <img
-      alt="" height="381" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-05-15_03-04_482x381.jpg" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
+      alt="" height="381" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-05-15_03-04_482x381.jpg"
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a>
   &nbsp;<br />
   <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-14_04-03.jpeg" target="_blank" title="">

@@ -73,9 +73,11 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   Here's an excerpt from
   <a
-    href="#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me"
-    title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer">a book</a>.&nbsp; In this chapter, he's talking about building attention and
-  interest in you and your freelance service.&nbsp; It pretty much sums up my take:
+    href="{{ site.url }}{{ page.url }}/#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me"
+    title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer">
+    a book
+  </a>.&nbsp;
+  In this chapter, he's talking about building attention and interest in you and your freelance service.&nbsp; It pretty much sums up my take:
 </p>
 <blockquote>
   We live in a noisy world.&nbsp; Whether it's the irresistibly tactile Facebook notification icon or the audible blip of your email client, everybody wants a

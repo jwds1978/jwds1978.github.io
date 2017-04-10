@@ -79,7 +79,9 @@ title: "Stolen Valour"
 <p>
   While this seems to be an issue more prevalent within the United States of America than here in Canada, we do have our share as well.&nbsp; The most recent of
   which readily comes to my mind is
-  <a href="#cite-the-strange-case-of-franck-gervais-impersonating-a-soldier" rel="me" title="The Strange Case of Franck Gervais: Impersonating a Soldier">
+  <a
+    href="{{ site.url }}{{ page.url }}/#cite-the-strange-case-of-franck-gervais-impersonating-a-soldier" rel="me"
+    title="The Strange Case of Franck Gervais: Impersonating a Soldier">
     Franck Gervais
   </a>.&nbsp;
   Franck had never been in the military, yet he wore a military uniform to the Ottawa Remembrance Day ceremonies.&nbsp; Hell, he even gave a public interview on
@@ -98,17 +100,17 @@ title: "Stolen Valour"
     allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/bCnzi6L_BsM?rel=0"
     style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
   &nbsp;<br />
-  The <a href="#cite-its-stolen-and-i-know-it" rel="me" title="It's Stolen and I Know It">above video</a> is performed by Big Ol Band and was inspired by
-  LMFAO's &quot;Sexy and I know It&quot;.
+  The <a href="{{ site.url }}{{ page.url }}/#cite-its-stolen-and-i-know-it" rel="me" title="It's Stolen and I Know It">above video</a> is performed by Big Ol
+  Band and was inspired by LMFAO's &quot;Sexy and I know It&quot;.
 </p>
 <p>
   The guy who made the Navy SEAL claims, from what I gather from other local veterans, may have served with the merchant marines.&nbsp; However, quite clearly,
   is no SEAL.&nbsp; Another veteran had advised me that a contact within VAC told him that the guy has some service, but is full-of-shit about his SEAL claims
   though.&nbsp; I'd sent a message, via Facebook Messenger, to
-  <a href="#cite-phony-navy-seals-verifications" rel="me" title="Phony Navy SEALs Verifications">Don Shipley</a> about this guy.&nbsp; But, I've yet to receive
-  a response from Don.&nbsp; I guess, he has no real interest in Canadians that are passing themselves off as SEALs.&nbsp; I told this guy straight-out, if he
-  was a Navy SEAL, than I was a fucking submarine door-gunner&hellip; And, that my Navy buddy, who was standing beside me at the time, had a screen door from
-  one of our deisel subs for sale.
+  <a href="{{ site.url }}{{ page.url }}/#cite-phony-navy-seals-verifications" rel="me" title="Phony Navy SEALs Verifications">Don Shipley</a> about this
+  guy.&nbsp; But, I've yet to receive a response from Don.&nbsp; I guess, he has no real interest in Canadians that are passing themselves off as SEALs.&nbsp; I
+  told this guy straight-out, if he was a Navy SEAL, than I was a fucking submarine door-gunner&hellip; And, that my Navy buddy, who was standing beside me at
+  the time, had a screen door from one of our deisel subs for sale.
 </p>
 <p>
   The squid-grunt of the Gulf was originally introduced to me via a mutual friend.&nbsp; The mutual friend hasn't ever served, but introduced him to me though
