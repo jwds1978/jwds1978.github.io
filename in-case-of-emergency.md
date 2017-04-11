@@ -735,12 +735,20 @@ title: "In Case of Emergency"
     Birth Date:&nbsp; 07 November 1978
   </li>
   <li>
-    Blood Type:&nbsp; A-
+    Blood Type:&nbsp; A Rh-Negative&nbsp; <sup>Donor for A- &amp; AB-</sup>
+    <ul>
+      <li>
+        Has only the A antigen on red cells; and, B antibody in the plasma.
+      </li>
+      <li>
+        Rh absent.
+      </li>
+    </ul>
   </li>
   <li>
     Height:&nbsp; 5' 9&quot;
   </li>
   <li>
-    Weight:&nbsp; 200 Pounds
+    Weight:&nbsp; &asymp; 200 Pounds
   </li>
 </ul>
