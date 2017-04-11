@@ -51,11 +51,33 @@ title: "In Case of Emergency"
         <a href="http://www.webmd.com/asthma/default.htm" target="_blank" title="Asthma Health Center">Asthma</a>
         <ul>
           <li>
+            Medication
+            <ul>
+              <li>
+                Symbicort
+              </li>
+            </ul>
+          </li>
+          <li>
             Overview
             <ul>
               <li>
                 Asthma symptoms, which include coughing, wheezing, and chest tightness, are common in an asthma attack.&nbsp; Sometimes asthma is called
                 bronchial asthma or reactive airway disease.&nbsp; Asthma can be controlled with proper treatment.
+              </li>
+            </ul>
+          </li>
+          <li>
+            Symptoms
+            <ul>
+              <li>
+                Coughing
+              </li>
+              <li>
+                Shortness of Breath
+              </li>
+              <li>
+                Wheezing
               </li>
             </ul>
           </li>
@@ -79,11 +101,33 @@ title: "In Case of Emergency"
               </li>
             </ul>
           </li>
+          <li>
+            Symptoms
+            <ul>
+              <li>
+                Confusion or a Hard Time Concentrating
+              </li>
+              <li>
+                Dizziness or Lightheadedness
+              </li>
+              <li>
+                Fainting
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li>
         <a href="http://www.webmd.com/lung/chronic-bronchitis-directory" target="_blank" title="Chronic Bronchitis Directory">Chronic Bronchitis</a>
         <ul>
+          <li>
+            Medication
+            <ul>
+              <li>
+                Ventolin HFA
+              </li>
+            </ul>
+          </li>
           <li>
             Overview
             <ul>
@@ -97,10 +141,34 @@ title: "In Case of Emergency"
       </li>
       <li>
         Gigantism
+        <ul>
+          <li>
+            Procedures
+            <ul>
+              <li>
+                Fusion of Thumb
+              </li>
+              <li>
+                Removal of Muscle
+              </li>
+            </ul>
+          </li>
+        </ul>
       </li>
       <li>
         <a href="http://www.webmd.com/eye-health/iritis#1" target="_blank" title="Your Eyes and Iritis">Iritis</a>
         <ul>
+          <li>
+            Medications
+            <ul>
+              <li>
+                Pred Forte
+              </li>
+              <li>
+                TobraDex
+              </li>
+            </ul>
+          </li>
           <li>
             Overview
             <ul>
@@ -114,11 +182,36 @@ title: "In Case of Emergency"
               </li>
             </ul>
           </li>
+          <li>
+            Symptoms
+            <ul>
+              <li>
+                Blurred Vision
+              </li>
+              <li>
+                Pain In the Eye or Brow Region
+              </li>
+              <li>
+                Reddened Eye, Especially Adjacent to the Iris
+              </li>
+              <li>
+                Worsened Eye Pain when Exposed to Bright Light
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li>
         <a href="http://www.webmd.com/brain/myoclonus-general" target="_blank" title="General Myoclonus">Myoclonus</a>
         <ul>
+          <li>
+            Medication
+            <ul>
+              <li>
+                Keppra
+              </li>
+            </ul>
+          </li>
           <li>
             Overview
             <ul>
@@ -132,11 +225,30 @@ title: "In Case of Emergency"
               </li>
             </ul>
           </li>
+          <li>
+            Symptom
+            <ul>
+              <li>
+                Full-Body Jerks/Spasms
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li>
         <a href="http://www.webmd.com/osteoarthritis/default.htm" target="_blank" title="Osteoarthritis Health Center">Osteoarthritis</a>
         <ul>
+          <li>
+            Medications
+            <ul>
+              <li>
+                Arthrotec
+              </li>
+              <li>
+                Voltaren Emulgel
+              </li>
+            </ul>
+          </li>
           <li>
             Overview
             <ul>
@@ -147,16 +259,59 @@ title: "In Case of Emergency"
               </li>
             </ul>
           </li>
+          <li>
+            Symptoms
+            <ul>
+              <li>
+                Inflammation
+              </li>
+              <li>
+                Instability
+              </li>
+              <li>
+                Pain
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li>
         Polyps
+        <ul>
+          <li>
+            Procedure
+            <ul>
+              <li>
+                Cystoscopy
+              </li>
+            </ul>
+          </li>
+          <li>
+            Symptom
+            <ul>
+              <li>
+                Blood in Urine
+              </li>
+            </ul>
+          </li>
+        </ul>
       </li>
       <li>
         <a href="http://www.webmd.com/mental-health/post-traumatic-stress-disorder#1" target="_blank" title="Posttraumatic Stress Disorder">
           Post-Traumatic Stress Disorder
         </a>
         <ul>
+          <li>
+            Medications
+            <ul>
+              <li>
+                Remeron
+              </li>
+              <li>
+                Zoloft
+              </li>
+            </ul>
+          </li>
           <li>
             Overview
             <ul>
@@ -174,11 +329,33 @@ title: "In Case of Emergency"
               </li>
             </ul>
           </li>
+          <li>
+            Symptoms
+            <ul>
+              <li>
+                Avoiding
+              </li>
+              <li>
+                Increased Arousal
+              </li>
+              <li>
+                Reliving
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li>
         <a href="http://www.webmd.com/rheumatoid-arthritis/default.htm" target="_blank" title="Rheumatoid Arthritis Health Center">Rheumatoid Arthritis</a>
         <ul>
+          <li>
+            Medication
+            <ul>
+              <li>
+                Arthrotec
+              </li>
+            </ul>
+          </li>
           <li>
             Overview
             <ul>
