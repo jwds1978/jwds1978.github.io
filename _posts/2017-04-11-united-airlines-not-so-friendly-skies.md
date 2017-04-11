@@ -28,6 +28,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154211640322084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/851850031703502850"
+    text: Twitter
+    title: Twitter
 tags:
   - Business
   - Law
@@ -59,6 +66,7 @@ title: "United Airlines: Not So Friendly Skies"
   <blockquote>
     We have United employees that need to fly to Louisville tonight.&nbsp; &hellip;&nbsp; This flight's not leaving until four people get off.
   </blockquote>
+  &nbsp;<br />
   Fuck that shit&hellip;&nbsp; You don't demand that paying customers get the fuck out to make room for employees.&nbsp; That's just common-fucking-sense.
 </p>
 <p>
