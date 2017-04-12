@@ -248,6 +248,74 @@ comments: true
     </ul>
   </li>
   <li>
+    <a href="{{ site.uri.shortURL }}/Template-Monster" target="_blank" title="Template Monster">
+      <img
+        alt="" height="248" src="{{ site.uri.assets }}/naked/images/Template-Monster_249x248.png" style="border: 0px; float: right; margin-left: 10px;"
+        width="249" />
+    </a>
+    <a href="{{ site.uri.shortURL }}/Template-Monster" target="_blank" title="Template Monster">Template Monster</a>
+    <ul>
+      <li>
+        Corporate identity templates.
+        <ul>
+          <li>
+            Cheap and ready-to-use.
+          </li>
+          <li>
+            Just starting your business?
+          </li>
+          <li>
+            Winning solution for your business.
+          </li>
+        </ul>
+      </li>
+      <li>
+        Create your Web site easily.
+      </li>
+      <li>
+        Drupal themes.
+      </li>
+      <li>
+        Flash CMS templates&hellip;&nbsp; Ultimate functionality of beautiful Flash!
+        <ul>
+          <li>
+            No skills required!
+          </li>
+          <li>
+            SEO-friendly Flash!
+          </li>
+          <li>
+            WYSIWYG editor!
+          </li>
+        </ul>
+      </li>
+      <li>
+        Magento templates.
+      </li>
+      <li>
+        osCommerce templates.
+      </li>
+      <li>
+        PrestaShop templates.
+      </li>
+      <li>
+        Professional Joomla templates.
+      </li>
+      <li>
+        Refresh your design with responsive themes!
+      </li>
+      <li>
+        The biggest collection.
+      </li>
+      <li>
+        Trusted by 1,500,000 customers.
+      </li>
+      <li>
+        WordPress themes for everyone.
+      </li>
+    </ul>
+  </li>
+  <li>
     <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" target="_blank" title="TunnelBear">
       <img
         alt="" height="40" src="{{ site.uri.assets }}/naked/images/TunnelBear_312x040.png" style="border: 0px; float: right; margin-left: 10px;" width="312" />
