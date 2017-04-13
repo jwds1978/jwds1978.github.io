@@ -37,6 +37,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154217756322084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/852637582248869888"
+    text: Twitter
+    title: Twitter
 tags:
   - Business
   - Career
@@ -70,6 +77,7 @@ title: "How to Get the Most of Affiliate Programs"
   accounts and Web sites emerge every day.&nbsp; For some people, it even became a perfect substitute for full-time employment, while bringing profits higher
   than the office job that no one likes.&nbsp; How is it even possible?&nbsp; The answer again, lies in affiliate programs.
 </p>
+<!-- excerptBreak -->
 <p>
   Intrigued?&nbsp; Go on reading, to find what makes affiliate marketing so good, and to learn more about the pros and cons of the most popular affiliate
   programs on the Web.
