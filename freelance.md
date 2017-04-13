@@ -10,9 +10,20 @@ title: "Freelance"
 <p>
   &nbsp;
 </p>
+<p id="top" style="text-align: center;">
+  Jump to:&nbsp; <select class="quickJumpMenu">
+    <option value="{{ site.url }}{{ page.url }}"></option>
+    <option value="{{ site.url }}{{ page.url }}#about-the-rate-things">About the Rate Things</option>
+    <option value="{{ site.url }}{{ page.url }}#job-roles">Job Roles</option>
+    <option value="{{ site.url }}{{ page.url }}#services">Services</option>
+    <option value="{{ site.url }}{{ page.url }}#work-time-things">Work-Time Things</option>
+  </select><br />
+  &nbsp;
+</p>
 <p>
-  Below are just a few of the services that James provides on a freelance basis.&nbsp; <a href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with
-  the specifics of your particular project(s) and/or needs for a personalized estimate/quotation.
+  Below are just a few of the <a href="{{ site.url }}{{ page.url }}#services" rel="me" title="">services</a> that James provides on a freelance basis.&nbsp;
+  <a href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with the specifics of your particular project(s) and/or needs for a personalized
+  estimate/quotation.
 </p>
 <p>
   <img
@@ -24,7 +35,10 @@ title: "Freelance"
 <p>
   &nbsp;
 </p>
-<h3 id="roles">
+<span style="float: right; font-size: x-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
+</span>
+<h3 id="job-roles">
   Job Roles
 </h3>
 <ul>
@@ -279,10 +293,33 @@ title: "Freelance"
 <p>
   &nbsp;
 </p>
+<span style="float: right; font-size: x-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
+</span>
 <h3 id="services">
   Services
 </h3>
 <ul>
+  <li>
+    <span style="font-weight: bolder;">Convert to WordPress:</span>&nbsp; Love a design, but want it to be WordPress-based?&nbsp; With this service, the theme
+    will be converted to WordPress for easy and seamless site management.
+    <ul>
+      <li>
+        $193 CAD&nbsp; <sup>Cost of template, to be converted, not included.</sup>
+        <ul>
+          <li>
+            6 default main pages converted into WordPress.
+          </li>
+          <li>
+            Fast theme installation to your Web server.
+          </li>
+          <li>
+            The most stable, latest, version of WordPress.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
   <li>
     <span style="font-weight: bolder;">PC Build-out:</span>&nbsp; If you've already got a design that you'd like for your PC, and/or James has designed one for
     you, he can build it.
@@ -306,11 +343,42 @@ title: "Freelance"
       </li>
     </ul>
   </li>
+  <li>
+    <span style="font-weight: bolder;">Ready-to-Use Web Site:</span>&nbsp; Building of a professional high-quality Web site at affordable price.&nbsp; As a
+    result, you get a ready-to-go live Web site designed the way that you want!
+    <ul>
+      <li>
+        $496 CAD&nbsp; <sup>Cost of template, to be customized, not included.</sup>
+        <ul>
+          <li>
+            Template of your choice will be customized with:
+            <ul>
+              <li>
+                Colors
+              </li>
+              <li>
+                Contact Form
+              </li>
+              <li>
+                Content&nbsp; <sup>Up to 6 Pages without Additional Programming</sup>
+              </li>
+              <li>
+                Logo
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
 <p>
   &nbsp;
 </p>
-<h3>
+<span style="float: right; font-size: x-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
+</span>
+<h3 id="work-time-things">
   Work-Time Things&nbsp;
   <sup>No Rollovers</sup>
 </h3>
@@ -337,12 +405,17 @@ title: "Freelance"
 <p>
   &nbsp;
 </p>
-<a href="{{ site.url }}/blog/2017/04/06/work-for-free-fuck-that" rel="me" title="Work for Free; Fuck That">
-  <img
-    alt="" height="480" src="{{ site.uri.assets }}/naked/images/exposure-bucks_482x480.png"
-    style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
-</a>
-<h3>
+<div style="float: right; margin-bottom: 10px; margin-left: 10px;">
+  <a href="{{ site.url }}/blog/2017/04/06/work-for-free-fuck-that" rel="me" title="Work for Free; Fuck That">
+    <img
+      alt="" height="480" src="{{ site.uri.assets }}/naked/images/exposure-bucks_482x480.png" style="border: 0px; float: right; margin-left: 10px;"
+      width="482" />
+  </a>
+  <span style="font-size: x-small;">
+    <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
+  </span>
+</div>
+<h3 id="about-the-rate-things">
   About the Rate Things
 </h3>
 <p>
