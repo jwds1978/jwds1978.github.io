@@ -15,7 +15,9 @@ title: "Freelance"
   Jump to:&nbsp; <select class="quickJumpMenu">
     <option value="{{ site.url }}{{ page.url }}"></option>
     <option value="{{ site.url }}{{ page.url }}#about-the-rate-things">About the Rate Things</option>
+    <option value="{{ site.url }}{{ page.url }}#deposit">Deposit</option>
     <option value="{{ site.url }}{{ page.url }}#job-roles">Job Roles</option>
+    <option value="{{ site.url }}{{ page.url }}#methods-of-payment">Methods of Payment</option>
     <option value="{{ site.url }}{{ page.url }}#services">Services</option>
     <option value="{{ site.url }}{{ page.url }}#work-time-things">Work-Time Things</option>
   </select><br />
@@ -373,6 +375,51 @@ title: "Freelance"
     </ul>
   </li>
 </ul>
+<p>
+  &nbsp;
+</p>
+<span style="float: right; font-size: x-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
+</span>
+<h3 id="methods-of-payment">
+  Methods of Payment
+</h3>
+<ul>
+  <li>
+    Bitcoin&nbsp; <sup>Preferred</sup>
+  </li>
+  <li>
+    Fiat
+    <ul>
+      <li>
+        Cash
+        <ul>
+          <li>
+            This payment method is available for in-person payments only.
+          </li>
+        </ul>
+      </li>
+      <li>
+        Credit Card
+      </li>
+      <li>
+        PayPal
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<span style="float: right; font-size: x-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
+</span>
+<h3 id="deposit">
+  Deposit
+</h3>
+<p>
+  Although negotiable, generally speaking, a non-refundable deposit of no less than 67% of the estimate/quotation will be required prior to starting any work.
+</p>
 <p>
   &nbsp;
 </p>
