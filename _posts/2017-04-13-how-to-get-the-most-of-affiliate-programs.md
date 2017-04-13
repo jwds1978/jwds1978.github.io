@@ -59,11 +59,7 @@ title: "How to Get the Most of Affiliate Programs"
 </p>
 <p>
   The most appealing thing about affiliate programs, is the fact that they've already proved to be the easiest and most convenient way of monetizing your Web
-  site, which is what you are looking for&hellip;&nbsp; Aren't you?<br />
-  &nbsp;<br />
-  <img
-    alt="" height="322" src="{{ site.uri.assets }}/blog/2017/04/13/how-to-get-the-most-of-affiliate-programs/the-droids-were-looking-for_482x322.png"
-    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
+  site, which is what you are looking for&hellip;&nbsp; Aren't you?
 </p>
 <p>
   I know, I know&hellip;&nbsp; Everyone would love to get money from nowhere.&nbsp; But, let's be realists.&nbsp; It always takes a bit more effort.&nbsp;
