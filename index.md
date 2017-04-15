@@ -1,4 +1,5 @@
 ---
+adSense: true
 comments: true
 ---
 
@@ -74,7 +75,6 @@ comments: true
 <p>
   &nbsp;
 </p>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Responsive (468 x 060) -->
 <ins class="adsbygoogle" data-ad-client="ca-pub-5610609758033195" data-ad-format="auto" data-ad-slot="8068673861" style="display: block;"></ins>
 <script>

@@ -80,6 +80,15 @@
     {% else %}
     <script src="{{ site.url }}/resources/js/jquery_2017-04-09_14-42_min.js" type="text/javascript"></script>
     {% endif %}
+    {% if page.adSense %}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-5610609758033195",
+        enable_page_level_ads: !0
+      });
+    </script>
+    {% endif %}
     {% if page.fontAwesome %}
     <link href="{{ site.url }}/resources/css/font-awesome_2017-04-07_14-05.css" rel="stylesheet" type="text/css" />
     {% endif %}
