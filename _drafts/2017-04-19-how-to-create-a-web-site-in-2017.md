@@ -2,12 +2,6 @@
 categories:
   - Art
   - "Business and Tech"
-  - Entertainment
-  - Innominate
-  - "Living and Leisure"
-  - News
-  - "Proving Ground"
-  - "Sports and Recreation"
 citations:
   - author: ""
     date:
@@ -27,72 +21,13 @@ date: "0000-00-00 00:00:00 America/Toronto"
 last_modified_at: "0000-00-00 00:00:00 America/Toronto"
 layout: post
 location:
-  altitude: 
-  latitude: 
-  longitude: 
-  text: 
-syndications:
-  - href: 
-    text: 
-    title: 
+  altitude: 265
+  latitude: 46.5088417
+  longitude: -80.99389309999998
+  text: "The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada"
 tags:
- - Art
-  - Art
-  - Beauty
-  - Design
-  - Fashion
   - "How to"
-  - Photography
-  - Writing
- - "Business and Tech"
-  - Business
-  - Career
-  - Finance
-  - Law
-  - "Real Estate"
   - "Social Media"
-  - Tech
- - Entertainment
-  - Celebrity
-  - Comedy
-  - Entertainment
-  - Gaming
-  - "Movies and TV"
-  - Music
- - Innominate
-  - Innominate
-  - MyCAF
-  - "The Suck"
- - "Living and Leisure"
-  - Automotive
-  - Family
-  - Food
-  - Good
-  - Health
-  - "Higher Power"
-  - Home
-  - Lifestyle
-  - "Pets and Animals"
-  - Relationship
-  - Self
-  - Travel
-  - Wedding
- - News
-  - Education
-  - Medical
-  - News
-  - Opinionated
-  - Politics
-  - Science
- - "Proving Ground"
- - "Sports and Recreation"
-  - Baseball
-  - Basketball
-  - Football
-  - "Other Sports"
-  - Outdoors
-  - Soccer
-  - Sports
 title: "How to Create a Web Site in 2017"
 ---
 
@@ -482,4 +417,29 @@ title: "How to Create a Web Site in 2017"
 </p>
 <p>
   Now, the installation wizard will download and install all of the needed plug-ins.
+</p>
+<p>
+  In order to install the demo data, you should agree that you want the sample data to replace the existing data on your Web site.&nbsp; Essentially, this
+  warning was added just in case you're installing this theme on a Web site where you already have lots of old content.&nbsp; That's something like a trigger
+  for you to have a turning point and save your data.
+</p>
+<p>
+  Since my WordPress Web site is new, and it doesn't have any data, I don't particularly care whether my posts will be replaced or not.&nbsp; So, I agree and
+  select the &quot;Replace My Existing Content with Demo Content&quot; option.
+</p>
+<p>
+  WordPress won't be able to perform this without having you enter the admin password.&nbsp; That's because such important decisions should be confirmed on your
+  side&hellip;&nbsp; Such a destructive action should be confirmed prior to proceeding.
+</p>
+<p>
+  It may take some time now, the wizard will import all of the sample data for you&hellip;&nbsp; Making sure that your Web site looks great and operates
+  as-needed.
+</p>
+<p>
+  Once everything has been installed, you'll have a Web site that looks like our demo unit.&nbsp; You'll have all of the data imported.&nbsp; I believe that
+  it's time to start the customization process.
+</p>
+<p>
+  Let's go to the Dashboard and start editing the home page.&nbsp; In order to do that, you'll need to visit the &quot;Pages&quot; section and select the
+  &quot;Home&quot; page.
 </p>
