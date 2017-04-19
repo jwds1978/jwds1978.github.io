@@ -1,4 +1,5 @@
 ---
+adSense: true
 title: "Embrace 'The Suck'"
 ---
 

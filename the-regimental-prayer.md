@@ -1,4 +1,5 @@
 ---
+adSense: true
 title: "The Regimental Prayer"
 ---
 

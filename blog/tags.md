@@ -1,4 +1,5 @@
 ---
+adSense: true
 comments: true
 fontAwesome: true
 liMarquee: true
