@@ -1,5 +1,4 @@
 ---
-adSense: true
 comments: true
 ---
 

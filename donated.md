@@ -1,5 +1,4 @@
 ---
-adSense: true
 sitemap: false
 title: Donated
 ---
