@@ -127,7 +127,7 @@ title: "How to Create a Web Site in 2017"
   hero.&nbsp; Brace yourself, I've prepared an ultimate guide on how to create a Web site for you!
 </p>
 <img
-  alt="" height="146" src="{{ site.uri.assets }}/blog/2017/04/19/how-to-create-a-web-site-in-2017/Seinfeld_482x146.png"
+  alt="" height="183" src="{{ site.uri.assets }}/blog/2017/04/19/how-to-create-a-web-site-in-2017/Seinfeld_482x183.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   Turn off the TV show or movie that you're watching.&nbsp; You're going to finish your Seinfeld episode later.&nbsp; It's time to start creating!
@@ -212,6 +212,9 @@ title: "How to Create a Web Site in 2017"
     </li>
   </ul>
 </p>
+<img
+  alt="" height="142" src="{{ site.uri.assets }}/blog/2017/04/19/how-to-create-a-web-site-in-2017/NASA_482x142.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   The credit given by these big brands can be easily explained by the multi-functionality and simplicity of WordPress.&nbsp; It doesn't matter whether you're
   trying to build a Web site for your company or just a small blog for yourself to post news about how good was your breakfast today.&nbsp; WordPress will work
@@ -399,6 +402,84 @@ title: "How to Create a Web Site in 2017"
   WordPress for your in just a few clicks.&nbsp; You'll not have to worry about moving files and/or folders around via the FTP, they'll do everything for you.
 </p>
 <p>
-  You'll only have to fill-in the general information.&nbsp; Once you've entered all of that information, you're done.&nbsp; Click on the &quot;Install
+  You'll only have to fill-in general information.&nbsp; Once you've entered all of that information, you're done.&nbsp; Click on the &quot;Install
   WordPress&quot; button and they'll&hellip; install it for you&hellip;&nbsp; What a surprise, eh?
+</p>
+<p>
+  &nbsp;
+</p>
+<h3>
+  How to Create a Web Site with WordPress
+</h3>
+<p>
+  When WordPress is installed, you may visit the WordPress admin panel which will be located at the following URI&hellip;
+  <ul>
+    <li>
+      yourwebsite.com/wp-admin
+    </li>
+  </ul>
+</p>
+<p>
+  You should use the credentials that you have chose while installing WordPress through the
+  <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a> admin panel.
+</p>
+<p>
+  Within the WordPress admin panel (i.e. the &quot;Dashboard&quot;), you'll see all of the sections on the left.&nbsp; The window on the right will display all
+  of the settings which you can work with.
+</p>
+<p>
+  First of all, we need to change the theme.&nbsp; There are lots of
+  <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress" target="_blank">great-looking WordPress themes</a>.&nbsp; Feel free to choose one that will suit
+  your individual needs.&nbsp; For this article, I decided to use the
+  <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" target="_blank">Monstroid 2</a> theme.&nbsp; The reason is simple&hellip;&nbsp;
+  <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" target="_blank">Monstroid 2</a> is a multi-purpose theme.&nbsp; So, it usually works
+  for varying Web site topics.
+</p>
+<p>
+  I'm going to create a Web site using the <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" target="_blank">Monstroid 2</a> default skin
+  as it's my favourite one.&nbsp; But, here's where it gets better&hellip;&nbsp; You may choose from more than 10+ skins.&nbsp; That's why
+  <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" target="_blank">Monstroid 2</a> is suitable for a lot of different types of Web
+  sites.
+</p>
+<p>
+  In order to change the WordPress theme, you should go to &quot;Appearance&quot; and click on the &quot;Themes&quot; menu option.
+</p>
+<p>
+  It will redirect you to the Web page where all of the installed themes are listed.&nbsp; However, we're not interested in any of those though&hellip;&nbsp;
+  They look boring!
+</p>
+<p>
+  In order to install a new theme, you should click on the &quot;Add New Theme&quot; button and upload the template that you want to use.&nbsp; As I've already
+  mentioned, I'll upload the <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" target="_blank">Monstroid 2</a> template.
+</p>
+<p>
+  After the installation process, you should click on the &quot;Activate&quot; button to apply the changes and set the new theme as a default one for your Web
+  site.
+</p>
+<p>
+  Once it's activated, the WordPress admin area will show you a tip right above the templates area.&nbsp; You'll see that it offers for you to install the
+  &quot;TM Wizard&quot; and that's an excellent tip.&nbsp; You should do that&hellip;&nbsp; You'll see just how useful this tool is.
+</p>
+<p>
+  TM Wizard will offer for you to start the skins installation process.&nbsp; Just click on the &quot;START INSTALL&quot; button.
+</p>
+<p>
+  The Wizard will check if all of your system settings are OK; notifying you if something's wrong.&nbsp; When you see that everything is OK and green, just
+  click the &quot;Next&quot; button.
+</p>
+<p>
+  That will take you to the list of all of the available skins.&nbsp; That's where you should decide what skin may work best for your needs.&nbsp; As I've
+  already mentioned, I'll go with the default one.&nbsp; So, I just click on the &quot;select skin&quot; button near the &quot;default&quot; skin.
+</p>
+<p>
+  There are two options here for you&hellip;&nbsp; You may select either the Full or Lite installation option.&nbsp; The Lite one can be used in case you don't
+  have much Web site space with your Web hosting.&nbsp; So, by choosing the Lite installation option, you agree to getting a lesser amount of the blog posts and
+  other demo data.
+</p>
+<p>
+  If you selected <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a>, you don't have to worry about it, just proceed
+  with the Full Installation option.&nbsp; It should work perfectly fine for you.
+</p>
+<p>
+  Now, the installation wizard will download and install all of the needed plug-ins.
 </p>
