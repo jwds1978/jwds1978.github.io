@@ -75,11 +75,7 @@ comments: true
 <p>
   &nbsp;
 </p>
-<!-- Responsive (468 x 060) -->
-<ins class="adsbygoogle" data-ad-client="ca-pub-5610609758033195" data-ad-format="auto" data-ad-slot="8068673861" style="display: block;"></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include ads_responsive_468x060.htm %}
 <p>
   &nbsp;
 </p>

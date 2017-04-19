@@ -50,10 +50,10 @@ title: "Blog (Categories)"
     <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me" title="">{{ tag[0] }}</a>
     {% endfor %}
   </div>
-  <p>&nbsp;</p>
-  <iframe
-    allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="https://ad.a-ads.com/453725?size=468x60"
-    style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+  <p>
+    &nbsp;
+  </p>
+  {% include ads_responsive_468x060.htm %}
   <p>
     &nbsp;
   </p>
@@ -117,9 +117,7 @@ title: "Blog (Categories)"
 <p>
   &nbsp;
 </p>
-<iframe
-  allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="https://ad.a-ads.com/453725?size=468x60"
-  style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+{% include ads_responsive_468x060.htm %}
 <p>
   &nbsp;
 </p>

@@ -2,9 +2,7 @@
 title: "Embrace 'The Suck'"
 ---
 
-<iframe
-  allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="https://ad.a-ads.com/453725?size=468x60"
-  style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+{% include ads_responsive_468x060.htm %}
 <p>
   &nbsp;
 </p>
@@ -77,9 +75,7 @@ title: "Embrace 'The Suck'"
 <p>
   &nbsp;
 </p>
-<iframe
-  allowtransparency="true" data-aa="453725" height="60" scrolling="no" src="https://ad.a-ads.com/453725?size=468x60"
-  style="border: none; display: block; margin-left: auto; margin-right: auto; padding: 0; overflow: hidden;" width="468"></iframe>
+{% include ads_responsive_468x060.htm %}
 <p>
   &nbsp;
 </p>
