@@ -85,6 +85,14 @@
     </ul>
   </li>
   <li>
+    The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada
+    <ul>
+      <li>
+        46.5088417, -80.99389309999998, 265
+      </li>
+    </ul>
+  </li>
+  <li>
     The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada
     <ul>
       <li>
