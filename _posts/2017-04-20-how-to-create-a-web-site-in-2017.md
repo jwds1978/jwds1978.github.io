@@ -36,6 +36,13 @@ location:
   latitude: 46.5088417
   longitude: -80.99389309999998
   text: "The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154239967272084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/855157267691425793"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
   - "Social Media"
@@ -53,6 +60,7 @@ title: "How to Create a Web Site in 2017"
   I have a question for you, my dear reader!&nbsp; Aren't you tired of bullshit articles on how to create a Web site?&nbsp; Don't you find them useless and not
   detailed enough?
 </p>
+<!-- excerptBreak -->
 <p>
   Personally, I checked numerous articles on this topic, and I found it very annoying when the manual itself looked good but some important details were
   missing.&nbsp; So it looked like this:
