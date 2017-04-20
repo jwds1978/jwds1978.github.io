@@ -347,7 +347,7 @@ title: "How to Create a Web Site in 2017"
   blocks.&nbsp; That's where you can confirm the plan that you want to go with and select the term.
 </p>
 <p>
-  I shouldn't need to explain how to enter your credit card information, eh?
+  I shouldn't need to explain how to enter your credit card information, eh?<br />
   &nbsp;<br />
   <iframe
     allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/X99GoXdwyRw?rel=0"
