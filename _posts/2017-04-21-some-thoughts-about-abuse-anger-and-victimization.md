@@ -21,6 +21,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154242644232084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/855498712264712193"
+    text: Twitter
+    title: Twitter
 tags:
   - Law
   - Medical
@@ -475,7 +482,6 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
           Sheppard) and transgender people (i.e. Gwen Araujo) occur with frequency because their sexuality is non-mainstream and thus threatening &#8212; some
           clergy preach that such non-mainstream forms of sexuality are abominations, using selected portions of the Bible to justify their particular brand(s)
           of intolerance.
-        </li>
         </li>
       </ul>
     </li>
