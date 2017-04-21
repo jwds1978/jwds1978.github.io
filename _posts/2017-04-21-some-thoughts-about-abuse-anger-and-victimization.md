@@ -127,7 +127,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   relationship with Jonathon, and now, Usher was trying to take advantage of her at her most vulnerable.&nbsp; Quite frankly, I can think of nothing that
   disgusts me more than a shitbag predator such as him.&nbsp; The safest place on the planet, for Claire or anybody else that is remotely close to me, is in my
   vicinity.&nbsp; I'm the gimp that I am today for protecting and fighting for people that I didn't personally know&hellip;&nbsp; To what extent do you think
-  I'd go toprotect somebody that I give a damn about?&nbsp; If I'd done nothing and/or turned a blind eye to what she'd told me, would it be murder or
+  I'd go to protect somebody that I give a damn about?&nbsp; If I'd done nothing and/or turned a blind eye to what she'd told me, would it be murder or
   suicide?&nbsp; If I'd have done nothing, and anything were to have happened to her, would I be responsible?&nbsp; Legally speaking, probably, not.&nbsp;
   Morally, however, most fucking definitely.
 </p>
