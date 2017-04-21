@@ -14,7 +14,7 @@ citations:
     slug: "criminal-code-rsc-1985-c-c-46"
 comments: true
 date: "2017-04-21 15:00:55 America/Toronto"
-last_modified_at: "2017-04-21 15:00:55 America/Toronto"
+last_modified_at: "2017-04-21 15:21:45 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -111,7 +111,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   witnessed too.&nbsp; I'll not get into detail here about those, but you get the fucking point anyhow.
 </p>
 <p>
-  Another friend, whom I'll call Aaron McClain, also tld me that they'd witnessed some shit going on themselves.&nbsp; But, again, they'd not readily made it
+  Another friend, whom I'll call Aaron McClain, also told me that they'd witnessed some shit going on themselves.&nbsp; But, again, they'd not readily made it
   known to me either.&nbsp; Apparently, while Aaron was thought to be asleep, Usher was rather inappropriate with Claire&hellip;&nbsp; Thinking that Aaron knew
   nothing of what was happening.&nbsp; To be quite honest, I blame neither Aaron nor Darrell for not readily being forthcoming with me about what was
   happening.&nbsp; As I'd said before, It takes the heart of a warrior to find deception and take it down.&nbsp; That's not to imply that either of them are
