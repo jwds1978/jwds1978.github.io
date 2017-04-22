@@ -70,7 +70,7 @@ citations:
     slug: "why-do-people-abuse"
 comments: true
 date: "2017-04-21 15:00:55 America/Toronto"
-last_modified_at: "2017-04-21 15:21:45 America/Toronto"
+last_modified_at: "2017-04-22 12:11:26 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -125,7 +125,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 </p>
 <p>
   A friend, who I'll refer to as Claire Powers, recently left an abusive and controlling relationship with a fucktard whom I'll reference as Jonathon
-  Driscoll.&nbsp; Jonathon had prevented Claire from leaving their apartment one day and, as a result, she put her own head threw the wall more than
+  Driscoll.&nbsp; Jonathon had prevented Claire from leaving their apartment one day and, as a result, she put her own head through the wall more than
   once&hellip;&nbsp; If that's not fucked-up.&nbsp; When I'd learned of what happened to Claire, I discretely spoke with specific CMHA workers who'd be able to
   offer her the assistance that she'd need.&nbsp; While I didn't know if she'd sccept their help, it was offered nonetheless.
 </p>
@@ -191,8 +191,8 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   alt="" height="409" src="{{ site.uri.assets }}/blog/2017/04/21/some-thoughts-about-abuse-anger-and-victimization/sexual-predator_482x409.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="400" />
 <p>
-  Aside from what Claire had told me in-person, I receive some somewhat disturbing text messages from her as well.&nbsp; Her and I agree to meet-up one night to
-  discusss what's happening with her and how to best help her.&nbsp; Claire was getting her life back on-track, had goals, and was on her way to achieving
+  Aside from what Claire had told me in-person, I'd received some somewhat disturbing text messages from her as well.&nbsp; Her and I agree to meet-up one night
+  to discusss what's happening with her and how to best help her.&nbsp; Claire was getting her life back on-track, had goals, and was on her way to achieving
   them.&nbsp; When Usher entered her life, that all changed.&nbsp; While not entirely certain, I don't believe that she'd been to school once since.&nbsp; She
   was trying to get herself clean, and as I later came to find out, Usher had offered to not only get her drugs, but to &quot;watch her&quot; when she does them
   and to &quot;take care of her&quot; after&hellip;&nbsp; A sexual predator offering to shoot-up a recovering addict and be alone with her &#8212; having the
