@@ -5,6 +5,13 @@ categories:
   - "Living and Leisure"
   - News
 citations:
+  - author: "Kathryn Patricelli"
+    date:
+      accessed: "2017-04-21 13:07:45 America/Toronto"
+      published: "2005-12-15 America/Toronto"
+    href: "https://www.mentalhelp.net/articles/abuse-defined"
+    name: "Abuse Defined"
+    slug: "abuse-defined"
   - author: "Government of Canada"
     date:
       accessed: "2017-04-21 11:14:36 America/Toronto"
@@ -12,6 +19,55 @@ citations:
     href: "http://laws-lois.justice.gc.ca/eng/acts/C-46"
     name: "Criminal Code (R.S.C., 1985, c. C-46)"
     slug: "criminal-code-rsc-1985-c-c-46"
+  - author: "Kathryn Patricelli"
+    date:
+      accessed: "2017-04-21 13:07:45 America/Toronto"
+      published: "2005-12-15 America/Toronto"
+    href: "https://www.mentalhelp.net/articles/domestic-settings-of-abuse"
+    name: "Domestic Settings Of Abuse"
+    slug: "domestic-settings-of-abuse"
+  - author: "Kathryn Patricelli"
+    date:
+      accessed: "2017-04-21 13:07:45 America/Toronto"
+      published: "2005-12-15 America/Toronto"
+    href: "https://www.mentalhelp.net/articles/effects-of-abuse"
+    name: "Effects Of Abuse "
+    slug: "effects-of-abuse"
+  - author: "Kathryn Patricelli"
+    date:
+      accessed: "2017-04-21 13:07:45 America/Toronto"
+      published: "2005-12-15 America/Toronto"
+    href: "https://www.mentalhelp.net/articles/introduction-to-abuse"
+    name: "Introduction To Abuse"
+    slug: "introduction-to-abuse"
+  - author: "Kathryn Patricelli"
+    date:
+      accessed: "2017-04-21 13:07:45 America/Toronto"
+      published: "2005-12-15 America/Toronto"
+    href: "https://www.mentalhelp.net/articles/post-abuse-vulnerabilities"
+    name: "Post-Abuse Vulnerabilities"
+    slug: "post-abuse-vulnerabilities"
+  - author: "Kathryn Patricelli"
+    date:
+      accessed: "2017-04-21 13:07:45 America/Toronto"
+      published: "2005-12-15 America/Toronto"
+    href: "https://www.mentalhelp.net/articles/recognizing-abuse"
+    name: "Recognizing Abuse"
+    slug: "recognizing-abuse"
+  - author: "Kathryn Patricelli"
+    date:
+      accessed: "2017-04-21 13:07:45 America/Toronto"
+      published: "2005-12-15 America/Toronto"
+    href: "https://www.mentalhelp.net/articles/types-of-abuse"
+    name: "Types Of Abuse"
+    slug: "types-of-abuse"
+  - author: "Kathryn Patricelli"
+    date:
+      accessed: "2017-04-21 13:07:45 America/Toronto"
+      published: "2005-12-15 America/Toronto"
+    href: "https://www.mentalhelp.net/articles/why-do-people-abuse"
+    name: "Why Do People Abuse?"
+    slug: "why-do-people-abuse"
 comments: true
 date: "2017-04-21 15:00:55 America/Toronto"
 last_modified_at: "2017-04-21 15:21:45 America/Toronto"
@@ -193,7 +249,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="step-1-realizing-the-occurrence-of-abuse">
   Step 1 &#8212; Realizing the Occurrence of Abuse
 </h3>
 <p>
@@ -219,7 +275,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="step-2-becoming-angry-and-leaving-the-relationship">
   Step 2 &#8212; Becoming Angry and Leaving the Relationship
 </h3>
 <p>
@@ -256,7 +312,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="step-3-letting-go-of-the-anger">
   Step 3 &#8212; Letting Go of the Anger
 </h3>
 <p>
@@ -316,7 +372,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="introduction-to-abuse">
   Introduction to Abuse
 </h3>
 <p>
@@ -393,7 +449,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="abuse-defined">
   Abuse Defined
 </h3>
 <p>
@@ -453,7 +509,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="types-of-abuse">
   Types of Abuse
 </h3>
 <p>
@@ -559,7 +615,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="domestic-settings-of-abuse">
   Domestic Settings of Abuse
 </h3>
 <p>
@@ -597,7 +653,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="recognizing-abuse">
   Recognizing Abuse
 </h3>
 <p>
@@ -690,7 +746,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="effects-of-abuse">
   Effects of Abuse
 </h3>
 <p>
@@ -741,7 +797,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="post-abuse-vulnerabilities">
   Post-Abuse Vulnerabilities
 </h3>
 <p>
