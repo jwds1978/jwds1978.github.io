@@ -47,6 +47,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154245300567084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/855883450653564929"
+    text: Twitter
+    title: Twitter
 tags:
   - MyCAF
   - Self
@@ -69,6 +76,7 @@ title: "Military Bloggers"
   Mil-blogging, like homecoming, is a journey &#8212; not a destination.&nbsp; My newspaper and magazine buddies make jokes about how all bloggers must write
   while wearing pajamas&hellip;&nbsp; I'm just happy that they think I'm even wearing pants.
 </p>
+<!-- excerptBreak -->
 <p>
   Imagine some of the soldiers, who survived the Battle of Gettysburg, stopping the next day to write their dramatic tales &#8212; and, people from around the
   world, instantly, reading them.&nbsp; If that battle had been fought today, no imagination would be necessary.&nbsp; The military has sought to take action
