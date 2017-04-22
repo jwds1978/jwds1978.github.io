@@ -28,7 +28,7 @@ title: "Human Rights"
 ---
 
 <p>
-  So, I was at <a href="http://www.themission.ca" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a> earlier today for lunch and to
+  So, I was at <a href="http://www.themission.ca" rel="external" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a> earlier today for lunch and to
   follow-up with somebody that we'll call Pooh Woodill.
 </p>
 <p>
@@ -52,7 +52,7 @@ title: "Human Rights"
 <p>
   I left there, frustrated and pissed off, heading to Tom Davies Centre.&nbsp; My intent, by this point, was to officially file a claim and get the legal
   process started.&nbsp; While the fine for corporations, under the
-  <a href="https://www.ontario.ca/page/accessibility-laws" target="_blank" title="Ontario :: Accessibility Laws">
+  <a href="https://www.ontario.ca/page/accessibility-laws" rel="external" target="_blank" title="Ontario :: Accessibility Laws">
     Accessibility for Ontarians with Disabilities Act (AODA)
   </a>,
   is $100,000 per, I'd given them going on a week to resolve the issue internally.&nbsp; However, no effort was made to follow-up with me nor had any
@@ -66,7 +66,7 @@ title: "Human Rights"
 <p>
   The GSPS officer at the information desk was quite helpful.&nbsp; He asked me to have a seat while he did some research into the relevant laws and acts.&nbsp;
   He came back, after a short time, with a phone number for the
-  <a href="http://www.hrlsc.on.ca" target="_blank" title="Human Rights Legal Support Centre">Human Rights Legal Support Centre</a>.&nbsp;
+  <a href="http://www.hrlsc.on.ca" rel="external" target="_blank" title="Human Rights Legal Support Centre">Human Rights Legal Support Centre</a>.&nbsp;
   He proceeded to offer the use of a phone there.&nbsp; However, as I've got a cell phone, I simply thanked him and went on my way.
 </p>
 <p>

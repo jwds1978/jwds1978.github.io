@@ -30,7 +30,7 @@ title: "The Stupid, It Burns"
 
 <p>
   There are some really ignorant fucktards working at
-  <a href="http://www.themission.ca" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a>.&nbsp;
+  <a href="http://www.themission.ca" rel="external" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a>.&nbsp;
   I have a zero-tolerance for stupid&hellip;&nbsp; It took a lot for me to not beat the stupid out of some shitbag staff tonight.&nbsp; We'll call him Pip
   Koch-weser.
 </p>

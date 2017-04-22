@@ -142,7 +142,7 @@ title: "Work for Free; Fuck That"
   and true to his word, he told Showtime where they could stick their wonderful offer.
 </p>
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/04/06/work-for-free-fuck-that/dan-cassaro_reaction_953x664.png" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/04/06/work-for-free-fuck-that/dan-cassaro_reaction_953x664.png" rel="me" target="_blank" title="">
     <img
       alt="" height="336" src="{{ site.uri.assets }}/blog/2017/04/06/work-for-free-fuck-that/dan-cassaro_reaction_482x336.png"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />

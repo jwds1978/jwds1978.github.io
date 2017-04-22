@@ -206,7 +206,7 @@ title: "Curriculum Vitae"
     Projects
   </h3>
   <p>
-    <a href="{{ site.uri.assets }}/naked/images/project_forces-army_1080x1080.png" target="_blank" title="">
+    <a href="{{ site.uri.assets }}/naked/images/project_forces-army_1080x1080.png" rel="me" target="_blank" title="">
       <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/project_forces-army_0040x0040.png" style="border: 0px; float: right;" width="40" />
     </a>
     <a href="https://forces.army" rel="me" title="{{ site.title }}">forces.army</a>&nbsp; <sup>Web</sup><br />
@@ -235,7 +235,7 @@ title: "Curriculum Vitae"
     (Re)scan for deleted and/or new media.
   </p>
   <p>
-    Kur-Uhn-See&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    Kur-Uhn-See&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
     April 2013 &#8211; 2016&nbsp; <sup>3 Years</sup><br />
     Correct transaction fees; reflecting the transaction exchange rate.
@@ -244,7 +244,7 @@ title: "Curriculum Vitae"
     StripeXS&nbsp;
     <sup>
       Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon,
-      <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon
+      <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon
     </sup><br />
     Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, Java, JavaScript, JSON, PHP, Regular Expression, Smali, Smarty, SQL, XML</sup><br />
     November 2012 &#8211; 2016&nbsp; <sup>4 Years</sup>
@@ -257,40 +257,41 @@ title: "Curriculum Vitae"
         (mail/telephone)-order payments quickly and easily with a Stripe account.<br />
         &nbsp;<br />
         <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for
-        <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> to provide complete/full tokenization functionality/integration (including,
-        but not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management (Stripe-specific) from within
-        <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a>.<br />
+        <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> to provide complete/full tokenization
+        functionality/integration (including, but not limited to, within the cart/checkout and the administrative area) and payment dispute
+        automation/management (Stripe-specific) from within <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.<br />
         &nbsp;
       </li>
       <li>
         November 2012 &#8211; October 2013:<br />
         &nbsp;<br />
-        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> to provide
-        complete/full tokenization functionality/integration (including, but not limited to, within the cart/checkout and the administrative area) and payment
-        dispute automation/management from within <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a>.
+        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for
+        <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> to provide complete/full tokenization
+        functionality/integration (including, but not limited to, within the cart/checkout and the administrative area) and payment dispute
+        automation/management from within <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.
       </li>
     </ul>
   </p>
   <p>
-    NXS&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    NXS&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, PHP, Regular Expression, Smarty, SQL</sup><br />
     November 2011 &#8211; 2016&nbsp; <sup>5 Years</sup><br />
     Automagically purge the log tables in order to reduce the overall size of the database.
   </p>
   <p>
-    WHMCS Order Status&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    WHMCS Order Status&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
     December 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
     Automagically cancel pending orders which remain unpaid for X number of days past their due date.
   </p>
   <p>
-    HostAudit&nbsp; <sup>cPanel/WHM &amp; <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    HostAudit&nbsp; <sup>cPanel/WHM &amp; <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, JavaScript, Perl, PHP, Regular Expression, Shell, Smarty, SQL, XML</sup><br />
     September 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
     Automagically detect abusive clients on your cPanel/WHM servers.&nbsp; Warn them, and optionally, suspend them if the abuse continues.
   </p>
   <p>
-    Nshare&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    Nshare&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
     December 2012 &#8211; October 2013&nbsp; <sup>11 Months</sup><br />
     Automagically activate/delete the affiliate status of clients when their account is created and/or closed.
@@ -313,7 +314,7 @@ title: "Curriculum Vitae"
     <img
       alt="" height="40" src="{{ site.uri.assets }}/naked/images/Greater-Sudbury-Chamber-of-Commerce_210x40.png" style="border: 0px; float: right;"
       width="210" />John Kennedy<br />
-    <a href="http://sudburychamber.ca" target="_blank" title="Greater Sudbury Chamber of Commerce">Greater Sudbury Chamber of Commerce</a>
+    <a href="http://sudburychamber.ca" rel="external" target="_blank" title="Greater Sudbury Chamber of Commerce">Greater Sudbury Chamber of Commerce</a>
     <blockquote>
       James services each of his clients in the same professional way&hellip; Friendly and knowledgeable.&nbsp; As a small business owner, James knows the value
       of one-on-one service.
@@ -321,7 +322,7 @@ title: "Curriculum Vitae"
   </p>
   <p>
     <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/VMware_262x040.png" style="border: 0px; float: right;" width="262" />Matthew Fogel<br />
-    <a href="http://www.vmware.com" target="_blank" title="VMware">VMware</a>
+    <a href="http://www.vmware.com" rel="external" target="_blank" title="VMware">VMware</a>
     <blockquote>
       I worked with James at Sitel while he was a Hewlett-Packard technical support specialist.&nbsp; During the time that we worked together, James was a
       dedicated professional who showed commitment to his customers.&nbsp; I am deeply impressed by James and recommend him unhesitatingly.&nbsp; I am confident
@@ -351,8 +352,8 @@ title: "Curriculum Vitae"
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/WHMCS_178x040.png" style="border: 0px; float: right;" width="178" />
       <span class="p-job-title">Technical Analyst</span><br />
       <span style="display: none;">
-        <a class="p-name p-org u-url" href="https://www.whmcs.com" target="_blank" title="WHMCS">WHMCS</a>
-      </span><a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="WHMCS">WHMCS</a><br />
+        <a class="p-name p-org u-url" href="https://www.whmcs.com" rel="external" target="_blank" title="WHMCS">WHMCS</a>
+      </span><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS">WHMCS</a><br />
       <time class="dt-start" datetime="2013-02">February 2013</time> &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp;
       <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
       $2,234 USD per Month&nbsp; <sup>~$2,984 CAD per Month</sup>
@@ -370,7 +371,7 @@ title: "Curriculum Vitae"
     <p>
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/TeleTech_40x40.png" style="border: 0px; float: right;" width="40" />
       <span class="p-job-title">CSR I</span> &#8212; Time Warner Cable (New York City)<br />
-      <a class="p-name p-org u-url" href="http://www.teletech.com" target="_blank" title="TeleTech">TeleTech</a><br />
+      <a class="p-name p-org u-url" href="http://www.teletech.com" rel="external" target="_blank" title="TeleTech">TeleTech</a><br />
       <time class="dt-start" datetime="2011-09">September 2011</time> &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp;
       <sup><time class="dt-duration" datetime="P6M">6 Months</time></sup><br />
       $16 CAD per Hour
@@ -398,7 +399,7 @@ title: "Curriculum Vitae"
         alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Stream-Global-Services_86x40.png" style="border: 0px; float: right;"
         width="86" />
       <span class="p-job-title">Technical Support Professional</span> &#8212; Hewlett-Packard<br />
-      <a class="p-name p-org u-url" href="http://www.stream.com" target="_blank" title="Stream Global Services">Stream Global Services</a><br />
+      <a class="p-name p-org u-url" href="http://www.stream.com" rel="external" target="_blank" title="Stream Global Services">Stream Global Services</a><br />
       <time class="dt-start" datetime="2009-11">November 2009</time> &#8211; <time class="dt-end" datetime="2010-11">November 2010</time>&nbsp;
       <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
       $10 CAD per Hour
@@ -408,7 +409,7 @@ title: "Curriculum Vitae"
     <p>
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Sitel_40x40.png" style="border: 0px; float: right;" width="40" />
       <span class="p-job-title">Technical Support Specialist</span> &#8212; Hewlett-Packard<br />
-      <a class="p-name p-org u-url" href="http://www.sitel.com/countries/canada" target="_blank" title="Sitel Canada">Sitel</a><br />
+      <a class="p-name p-org u-url" href="http://www.sitel.com/countries/canada" rel="external" target="_blank" title="Sitel Canada">Sitel</a><br />
       <time class="dt-start" datetime="2006-03">March 2006</time> &#8211; <time class="dt-end" datetime="2009-10">October 2009</time>&nbsp;
       <sup><time class="dt-duration" datetime="P3Y8M">3 Years, 8 Months</time></sup><br />
       $20 CAD per Hour
@@ -444,7 +445,7 @@ title: "Curriculum Vitae"
     <p>
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/CAF_32x40.png" style="border: 0px; float: right;" width="32" />
       <span class="p-job-title">Soldier</span><br />
-      <a class="p-name p-org u-url" href="http://www.forces.gc.ca" target="_blank" title="National Defence and the Canadian Armed Forces">
+      <a class="p-name p-org u-url" href="http://www.forces.gc.ca" rel="external" target="_blank" title="National Defence and the Canadian Armed Forces">
         Canadian Armed Forces
       </a><br />
       <time class="dt-start" datetime="1994">1994</time> &#8211; <time class="dt-end" datetime="2000">2000</time>&nbsp;
@@ -466,7 +467,7 @@ title: "Curriculum Vitae"
         alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Big-Brothers-Big-Sisters-of-South-Niagara_155x040.png"
         style="border: 0px; float: right;" width="155" />
       <span class="p-job-title">Big Brother</span><br />
-      <a class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" target="_blank" title="Big Brothers Big Sisters of South Niagara">
+      <a class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" rel="external" target="_blank" title="Big Brothers Big Sisters of South Niagara">
         Big Brothers Big Sisters of South Niagara
       </a><br />
       <time class="dt-start" datetime="2000-04">April 2000</time> &#8211; <time class="dt-end" datetime="2001-02">February 2001</time>&nbsp;
@@ -479,7 +480,7 @@ title: "Curriculum Vitae"
         alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Search-and-Rescue-Niagara_71x40.png" style="border: 0px; float: right;"
         width="71" />
       <span class="p-job-title">Assistant Training Officer / Board Member</span><br />
-      <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" target="_blank" title="Search and Rescue Niagara">
+      <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" rel="external" target="_blank" title="Search and Rescue Niagara">
         Search and Rescue Niagara
       </a><br />
       <time class="dt-start" datetime="2000-02">February 2000</time> &#8211; <time class="dt-end" datetime="2001-03">March 2001</time>&nbsp;
@@ -497,10 +498,12 @@ title: "Curriculum Vitae"
   </h3>
   <div class="h-card h-event p-education">
     <p>
-      <a href="http://www.confederationcollege.ca/program/aviation-flight-management" target="_blank" title="Aviation - Flight Management">
+      <a href="http://www.confederationcollege.ca/program/aviation-flight-management" rel="external" target="_blank" title="Aviation - Flight Management">
         <span class="p-description">Aviation &#8212; Flight Management</span>
       </a><br />
-      <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" target="_blank" title="Confederation College">Confederation College</a><br />
+      <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" rel="external" target="_blank" title="Confederation College">
+        Confederation College
+      </a><br />
       <span class="p-summary">
         This program is very well known within the aviation industry and is recognized as one of the best of its kind.&nbsp; Aviation &#8212; Flight Management
         has been running at Confederation since 1973.&nbsp; It's a demanding academic program and it has flight standards that are rigorous throughout the
@@ -511,9 +514,9 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-education">
     <p>
       <a
-        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=73" target="_blank"
+        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=73" rel="external" target="_blank"
         title="Computer End-User Support Specialist"><span class="p-description">Computer End-User Support Specialist</span></a><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for setting up, configuring, and maintaining the computers used by employees in an organization.&nbsp; A computer end-user support
         specialist addresses, diagnoses, and troubleshoots end-user computer-related issues&hellip; including problems with software, hardware, printers, power
@@ -525,9 +528,9 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-education">
     <p>
       <a
-        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=57" target="_blank"
+        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=57" rel="external" target="_blank"
         title="Customer Service Representative"><span class="p-description">Customer Service Representative</span></a><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for dealing directly with the public, usually in-person or by telephone.&nbsp; A customer service representative handles such tasks as
         soliciting orders for goods and services&hellip; investigating and resolving customers' inquiries concerning merchandise, service, or billing&hellip;
@@ -542,10 +545,12 @@ title: "Curriculum Vitae"
       <img
         alt="Brainbench :: Certified Internet Professional (BCIP)" height="40"
         src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
-      <a href="https://www.brainbench.com/xml/default/common/testcenter/bcip.xml" target="_blank" title="Brainbench Certified Internet Professional (BCIP)">
+      <a
+        href="https://www.brainbench.com/xml/default/common/testcenter/bcip.xml" rel="external" target="_blank"
+        title="Brainbench Certified Internet Professional (BCIP)">
         <span class="p-description">Internet Professional (BCIP)</span>
       </a><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
         The Brainbench Certified Internet Professional (BCIP) has validated their skills in Internet-related technologies.
       </span>
@@ -554,15 +559,17 @@ title: "Curriculum Vitae"
   <div class="h-card h-event p-education">
     <p>
       <span class="p-description">Microcomputers &amp; Microprocessors</span><br />
-      <a class="p-name p-org u-url" href="http://www.nrischools.com" target="_blank" title="NRI Schools">NRI Schools</a>
+      <a class="p-name p-org u-url" href="http://www.nrischools.com" rel="external" target="_blank" title="NRI Schools">NRI Schools</a>
     </p>
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=68" target="_blank" title="Network Support Specialist">
+      <a
+        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=68" rel="external" target="_blank"
+        title="Network Support Specialist">
         <span class="p-description">Network Support Specialist</span>
       </a><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a LAN
         and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in this position also addresses,
@@ -573,10 +580,12 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=17" target="_blank" title="Web Administrator (BCIP)">
+      <a
+        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=17" rel="external" target="_blank"
+        title="Web Administrator (BCIP)">
         <span class="p-description">Web Administrator (BCIP)</span>
       </a><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including installation,
         configuration, and administration, and be well versed in such areas as Web site security and troubleshooting.
@@ -605,10 +614,12 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=16" target="_blank" title="Web Designer (BCIP)">
+      <a
+        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=16" rel="external" target="_blank"
+        title="Web Designer (BCIP)">
         <span class="p-description">Web Designer (BCIP)</span>
       </a><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for creating Web sites using HTML and Web design software.&nbsp; In addition to designing a Web site that's attractive, interesting,
         functional, and useful, a Web designer must also ensure that the Web site is easily navigable and accessible to all who may want to use it.
@@ -628,10 +639,12 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-education">
     <p>
-      <a href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=14" target="_blank" title="Web Developer (BCIP)">
+      <a
+        href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=14" rel="external" target="_blank"
+        title="Web Developer (BCIP)">
         <span class="p-description">Web Developer (BCIP)</span>
       </a><br />
-      <a class="p-name p-org u-url" href="https://www.brainbench.com" target="_blank" title="Brainbench">Brainbench</a><br />
+      <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for using programming, scripting, and database integration tools to develop professional, effective, and well-organized client-side and
         server-side Web sites.&nbsp; Web developers must know HTML, XML, and object-oriented design and should be able to use a variety of programming languages
@@ -661,13 +674,13 @@ title: "Curriculum Vitae"
   </h3>
   <p>
     Certificate of Proficiency in Radio &#8212; Restricted Operator &#8212; Aeronautical<br />
-    <a href="http://www.ic.gc.ca" target="_blank" title="Industry Canada">Industry Canada</a><br />
+    <a href="http://www.ic.gc.ca" rel="external" target="_blank" title="Industry Canada">Industry Canada</a><br />
     License #044600816<br />
     2004
   </p>
   <p>
     Standard First Aid / CPR Level C<br />
-    <a href="http://www.redcross.ca" target="_blank" title="Canadian Red Cross">Canadian Red Cross</a><br />
+    <a href="http://www.redcross.ca" rel="external" target="_blank" title="Canadian Red Cross">Canadian Red Cross</a><br />
     June 2001 &#8211; 2004
   </p>
 </div>

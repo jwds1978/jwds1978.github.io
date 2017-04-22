@@ -40,31 +40,31 @@ title: "Rigors of War"
   it, you can still see that shit ain't quite right anyhow.
 </p>
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-25-49_03-04.jpg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-25-49_03-04.jpg" rel="me" target="_blank" title="">
     <img
       alt="" height="606" src="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-25-49_03-04_482x606.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a><br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-03_03-04.jpg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-03_03-04.jpg" rel="me" target="_blank" title="">
     <img
       alt="" height="629" src="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-03_03-04_482x629.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a><br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-22_03-04.jpg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-22_03-04.jpg" rel="me" target="_blank" title="">
     <img
       alt="" height="583" src="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-22_03-04_482x583.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a><br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-33_03-04.jpg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-33_03-04.jpg" rel="me" target="_blank" title="">
     <img
       alt="" height="576" src="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-10_22-27-33_03-04_482x576.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a><br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-11_06-42-40_04-03.jpg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-11_06-42-40_04-03.jpg" rel="me" target="_blank" title="">
     <img
       alt="" height="394" src="{{ site.uri.assets }}/blog/2017/03/11/rigors-of-war/2017-03-11_06-42-40_04-03_482x394.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />

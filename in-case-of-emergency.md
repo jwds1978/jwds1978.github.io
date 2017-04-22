@@ -29,7 +29,7 @@ title: "In Case of Emergency"
     At-Risk
     <ul>
       <li>
-        <a href="http://www.webmd.com/cancer/bladder-cancer/default.htm" target="_blank" title="Bladder Cancer Health Center">Bladder Cancer</a>
+        <a href="http://www.webmd.com/cancer/bladder-cancer/default.htm" rel="external" target="_blank" title="Bladder Cancer Health Center">Bladder Cancer</a>
         <ul>
           <li>
             Overview
@@ -48,7 +48,7 @@ title: "In Case of Emergency"
     Diagnosed
     <ul>
       <li>
-        <a href="http://www.webmd.com/asthma/default.htm" target="_blank" title="Asthma Health Center">Asthma</a>
+        <a href="http://www.webmd.com/asthma/default.htm" rel="external" target="_blank" title="Asthma Health Center">Asthma</a>
         <ul>
           <li>
             Medication
@@ -84,7 +84,7 @@ title: "In Case of Emergency"
         </ul>
       </li>
       <li>
-        <a href="http://www.webmd.com/heart-disease/bradycardia#1" target="_blank" title="What is Bradycardia?">Bradycardia</a>
+        <a href="http://www.webmd.com/heart-disease/bradycardia#1" rel="external" target="_blank" title="What is Bradycardia?">Bradycardia</a>
         <ul>
           <li>
             Overview
@@ -118,7 +118,9 @@ title: "In Case of Emergency"
         </ul>
       </li>
       <li>
-        <a href="http://www.webmd.com/lung/chronic-bronchitis-directory" target="_blank" title="Chronic Bronchitis Directory">Chronic Bronchitis</a>
+        <a href="http://www.webmd.com/lung/chronic-bronchitis-directory" rel="external" target="_blank" title="Chronic Bronchitis Directory">
+          Chronic Bronchitis
+        </a>
         <ul>
           <li>
             Medication
@@ -156,7 +158,7 @@ title: "In Case of Emergency"
         </ul>
       </li>
       <li>
-        <a href="http://www.webmd.com/eye-health/iritis#1" target="_blank" title="Your Eyes and Iritis">Iritis</a>
+        <a href="http://www.webmd.com/eye-health/iritis#1" rel="external" target="_blank" title="Your Eyes and Iritis">Iritis</a>
         <ul>
           <li>
             Medications
@@ -202,7 +204,7 @@ title: "In Case of Emergency"
         </ul>
       </li>
       <li>
-        <a href="http://www.webmd.com/brain/myoclonus-general" target="_blank" title="General Myoclonus">Myoclonus</a>
+        <a href="http://www.webmd.com/brain/myoclonus-general" rel="external" target="_blank" title="General Myoclonus">Myoclonus</a>
         <ul>
           <li>
             Medication
@@ -236,7 +238,7 @@ title: "In Case of Emergency"
         </ul>
       </li>
       <li>
-        <a href="http://www.webmd.com/osteoarthritis/default.htm" target="_blank" title="Osteoarthritis Health Center">Osteoarthritis</a>
+        <a href="http://www.webmd.com/osteoarthritis/default.htm" rel="external" target="_blank" title="Osteoarthritis Health Center">Osteoarthritis</a>
         <ul>
           <li>
             Medications
@@ -297,7 +299,7 @@ title: "In Case of Emergency"
         </ul>
       </li>
       <li>
-        <a href="http://www.webmd.com/mental-health/post-traumatic-stress-disorder#1" target="_blank" title="Posttraumatic Stress Disorder">
+        <a href="http://www.webmd.com/mental-health/post-traumatic-stress-disorder#1" rel="external" target="_blank" title="Posttraumatic Stress Disorder">
           Post-Traumatic Stress Disorder
         </a>
         <ul>
@@ -346,7 +348,9 @@ title: "In Case of Emergency"
         </ul>
       </li>
       <li>
-        <a href="http://www.webmd.com/rheumatoid-arthritis/default.htm" target="_blank" title="Rheumatoid Arthritis Health Center">Rheumatoid Arthritis</a>
+        <a href="http://www.webmd.com/rheumatoid-arthritis/default.htm" rel="external" target="_blank" title="Rheumatoid Arthritis Health Center">
+          Rheumatoid Arthritis
+        </a>
         <ul>
           <li>
             Medication
@@ -377,7 +381,7 @@ title: "In Case of Emergency"
     Suspected
     <ul>
       <li>
-        <a href="http://www.webmd.com/eye-health/glaucoma-directory" target="_blank" title="Glaucoma Directory">Glaucoma</a>
+        <a href="http://www.webmd.com/eye-health/glaucoma-directory" rel="external" target="_blank" title="Glaucoma Directory">Glaucoma</a>
         <ul>
           <li>
             Overview

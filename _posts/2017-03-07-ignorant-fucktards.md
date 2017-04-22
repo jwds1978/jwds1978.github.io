@@ -32,7 +32,7 @@ title: "Ignorant Fucktards"
 </p>
 <!-- excerptBreak -->
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02.jpeg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02.jpeg" rel="me" target="_blank" title="">
     <img
       alt="" height="321" src="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02_482x321.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
@@ -48,7 +48,7 @@ title: "Ignorant Fucktards"
   This is what I'd found a few mornings ago&hellip;
 </p>
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-02_06-30-22_03-02.jpeg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-02_06-30-22_03-02.jpeg" rel="me" target="_blank" title="">
     <img
       alt="" height="321" src="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-02_06-30-22_03-02_482x321.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />

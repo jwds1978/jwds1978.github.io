@@ -5,14 +5,16 @@ comments: true
 <!--sse-->
 <!--email_off-->
 <div class="h-card" style="display: none;">
-  <a class="u-email" href="mailto:james.stewart@forces.army">james.stewart@forces.army</a>
-  <a class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551">
+  <a class="u-email" href="mailto:james.stewart@forces.army" rel="me" target="_blank">james.stewart@forces.army</a>
+  <a
+    class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551" rel="me"
+    target="_blank>
     james.stewart@forces.army
   </a>
-  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d">
+  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me" target="_blank">
     614FFF680E92BAE869C878E361BCA817AFFA1F1D
   </a>
-  <a class="u-url" href="{{ site.url }}">{{ site.url }}</a>
+  <a class="u-url" href="{{ site.url }}" rel="me">{{ site.url }}</a>
   <img alt="James Stewart" class="u-logo u-photo" height="960" src="{{ site.uri.assets }}/naked/images/JWDS_960x960.jpg" style="border: 0px;" width="960" />
   <p class="dt-bday">
     19781107
@@ -86,7 +88,7 @@ comments: true
   <li>
     <img
       alt="" height="40" src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right; margin-left: 10px;" width="117" />
-    <a href="{{ site.uri.shortURL }}/Anonymous-Ads" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
+    <a href="{{ site.uri.shortURL }}/Anonymous-Ads" rel="external" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
     <ul>
       <li>
         For Advertisers
@@ -100,14 +102,15 @@ comments: true
         For Publishers
         <ul>
           <li>
-            Ads are safe and lightweight, no scripts or cookies, just plain HTML+CSS!&nbsp; Automatic withdrawals to your Bitcoin address.&nbsp; Any Web site will do.
+            Ads are safe and lightweight, no scripts or cookies, just plain HTML+CSS!&nbsp; Automatic withdrawals to your Bitcoin address.&nbsp; Any Web site
+            will do.
           </li>
         </ul>
       </li>
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/ASUS-WebStorage" target="_blank" title="ASUS WebStorage">ASUS WebStorage</a>
+    <a href="{{ site.uri.shortURL }}/ASUS-WebStorage" rel="external" target="_blank" title="ASUS WebStorage">ASUS WebStorage</a>
     <ul>
       <li>
         With ASUS WebStorage, you can backup your files automatically, listen to your latest music collection over the cloud, and edit important file(s) on
@@ -117,7 +120,7 @@ comments: true
   </li>
   <li>
     <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Cryptopay_328x040.png" style="border: 0px; float: right; margin-left: 10px;" width="328" />
-    <a href="{{ site.uri.shortURL }}/Cryptopay" target="_blank" title="Cryptopay">Cryptopay</a>
+    <a href="{{ site.uri.shortURL }}/Cryptopay" rel="external" target="_blank" title="Cryptopay">Cryptopay</a>
     <ul>
       <li>
         Spend bitcoins with a Visa Debit card.&nbsp; Get a bitcoin debit card with a 25% discount!
@@ -126,7 +129,7 @@ comments: true
   </li>
   <li>
     <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right; margin-left: 10px;" width="286" />
-    <a href="{{ site.uri.shortURL }}/FastMail" target="_blank" title="FastMail">FastMail</a>
+    <a href="{{ site.uri.shortURL }}/FastMail" rel="external" target="_blank" title="FastMail">FastMail</a>
     <ul>
       <li>
         Experience e-mail done right.
@@ -134,12 +137,12 @@ comments: true
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/Fiverr" target="_blank" title="Fiverr">Fiverr</a>
+    <a href="{{ site.uri.shortURL }}/Fiverr" rel="external" target="_blank" title="Fiverr">Fiverr</a>
     <img
       alt="" height="1" src="https://tracking.fiverr.com/aff_i?aff_id=24221&offer_id=1712"
       style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
     <div style="text-align: center;">
-      <a href="{{ site.uri.shortURL }}/Fiverr" target="_blank" title="Fiverr">
+      <a href="{{ site.uri.shortURL }}/Fiverr" rel="external" target="_blank" title="Fiverr">
         <img
           alt="" height="244" src="{{ site.uri.assets }}/naked/images/Fiverr_work-less_482x244.png"
           style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
@@ -148,7 +151,7 @@ comments: true
     &nbsp;
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/Iconfinder" target="_blank" title="Iconfinder">Iconfinder</a>
+    <a href="{{ site.uri.shortURL }}/Iconfinder" rel="external" target="_blank" title="Iconfinder">Iconfinder</a>
     <ul>
       <li>
         Iconfinder provides high-quality icons to millions of creative professionals.&nbsp; Get a 50% discount on your first month!
@@ -157,7 +160,7 @@ comments: true
   </li>
   <li>
     <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right; margin-left: 10px;" width="271" />
-    <a href="{{ site.uri.shortURL }}/LastPass" target="_blank" title="LastPass">LastPass</a>
+    <a href="{{ site.uri.shortURL }}/LastPass" rel="external" target="_blank" title="LastPass">LastPass</a>
     <ul>
       <li>
         Your last password&hellip;&nbsp; Just remember your master password and LastPass remembers the rest.&nbsp; The best way to manage passwords.
@@ -166,15 +169,15 @@ comments: true
   </li>
   <li>
     <div style="float: right; margin-left: 10px;">
-      <a href="{{ site.uri.shortURL }}/PIA" target="_blank" title="Private Internet Access">
+      <a href="{{ site.uri.shortURL }}/PIA" rel="external" target="_blank" title="Private Internet Access">
         <img alt="" height="438" src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_320x438.png" style="border: 0px; float: right;" width="320" />
       </a><br />
       &nbsp;<br />
-      <a href="{{ site.uri.shortURL }}/DNS-Leak-Test" target="_blank" title="DNS Leak Test">
+      <a href="{{ site.uri.shortURL }}/DNS-Leak-Test" rel="external" target="_blank" title="DNS Leak Test">
         <img alt="" height="62" src="{{ site.uri.assets }}/naked/images/dns-leak-test_320x062.png" style="border: 0px; float: right;" width="320" />
       </a>
     </div>
-    <a href="{{ site.uri.shortURL }}/PIA" target="_blank" title="Private Internet Access">Private Internet Access</a>
+    <a href="{{ site.uri.shortURL }}/PIA" rel="external" target="_blank" title="Private Internet Access">Private Internet Access</a>
     <ul>
       <li>
         Award winning VPN service provider.&nbsp; Fast, secure, no logs.&nbsp; 24/7 customer support.&nbsp; Paranoid encryption.&nbsp; Privacy is their
@@ -246,12 +249,12 @@ comments: true
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/Template-Monster" target="_blank" title="Template Monster">
+    <a href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">
       <img
         alt="" height="248" src="{{ site.uri.assets }}/naked/images/Template-Monster_249x248.png" style="border: 0px; float: right; margin-left: 10px;"
         width="249" />
     </a>
-    <a href="{{ site.uri.shortURL }}/Template-Monster" target="_blank" title="Template Monster">Template Monster</a>
+    <a href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">Template Monster</a>
     <ul>
       <li>
         Corporate identity templates.
@@ -314,11 +317,11 @@ comments: true
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" target="_blank" title="TunnelBear">
+    <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" rel="external" target="_blank" title="TunnelBear">
       <img
         alt="" height="40" src="{{ site.uri.assets }}/naked/images/TunnelBear_312x040.png" style="border: 0px; float: right; margin-left: 10px;" width="312" />
     </a>
-    <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" target="_blank" title="TunnelBear">TunnelBear</a>
+    <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" rel="external" target="_blank" title="TunnelBear">TunnelBear</a>
     <img
       alt="" height="1" src="https://click.tunnelbear.com/aff_i?aff_id=2760&file_id=6&offer_id=2"
       style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
@@ -330,10 +333,10 @@ comments: true
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="WHMCS">
+    <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS">
       <img alt="" height="60" src="{{ site.uri.assets }}/naked/images/WHMCS_468x060.gif" style="border: 0px; float: right; margin-left: 10px;" width="468" />
     </a>
-    <a href="{{ site.uri.shortURL }}/WHMCS" target="_blank" title="WHMCS">WHMCS</a>
+    <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS">WHMCS</a>
     <ul>
       <li>
         Choose WHMCS today and unlock a whole new level of business automation that save you time, increases efficiency, and gives you valuable insights to help
@@ -351,7 +354,7 @@ comments: true
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/xCoins" target="_blank" title="xCoins">xCoins</a>
+    <a href="{{ site.uri.shortURL }}/xCoins" rel="external" target="_blank" title="xCoins">xCoins</a>
     <ul>
       <li>
         Get bitcoin quickly; receive bitcoin as a secured loan&hellip;&nbsp; Lend bitcoin for a fee.&nbsp; Secured lending is just like exchanging, only
@@ -361,6 +364,6 @@ comments: true
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/XDA-Depot" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
+    <a href="{{ site.uri.shortURL }}/XDA-Depot" rel="external" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
   </li>
 </ul>

@@ -45,7 +45,7 @@ title: "Accessibility at The Elgin Street Mission"
 <p>
   The image below is of my permanent Accessible Parking Permit:<br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_14-40-10_03-02.jpg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_14-40-10_03-02.jpg" rel="me" target="_blank" title="">
     <img
       alt="" height="240" src="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_14-40-10_360x240.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="360" />
@@ -53,11 +53,11 @@ title: "Accessibility at The Elgin Street Mission"
 </p>
 <p>
   If you're not familiar with the accessibility laws in Ontario, have a look
-  <a href="https://www.ontario.ca/page/accessibility-laws" target="_blank" title="Ontario :: Accessibility Laws">here</a>.&nbsp;
+  <a href="https://www.ontario.ca/page/accessibility-laws" rel="external" target="_blank" title="Ontario :: Accessibility Laws">here</a>.&nbsp;
   The laws are pretty clear regarding this sort of thing.
 </p>
 <p>
-  With that said, I was at <a href="http://www.themission.ca" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a> this morning for
+  With that said, I was at <a href="http://www.themission.ca" rel="external" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a> this morning for
   breakfast.&nbsp; While there, nature called, and I intended to answer.&nbsp; The door for the accessible washroom was locked.&nbsp; So, I went and asked the
   staff to open the door for me as I needed to use the washroom.&nbsp; I walked back to the washrooms with the staff.&nbsp; We'll call him Raul Bohen.
 </p>
@@ -70,7 +70,7 @@ title: "Accessibility at The Elgin Street Mission"
 <p>
   The image below, clearly, depicts the fact that said washroom is to be an accessible facility:<br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_02-03.jpeg" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_02-03.jpeg" rel="me" target="_blank" title="">
     <img
       alt="" height="540" src="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_08-11-12_360x540.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="360" />
@@ -95,8 +95,8 @@ title: "Accessibility at The Elgin Street Mission"
   feeling that nobody there gives a fuck about what had happened to me, the complete and utter degredation of myself, and/or the laws regarding accessibilty.
 </p>
 <p>
-  Below, is an excerpt from <a href="http://www.themission.ca/about/index.php" target="_blank" title="">their about Web page</a>.&nbsp; Take special note of the
-  text which I've marked.&nbsp; After this morning, I'd have to say, I agree with the marked portion whole-fucking-heartedly.
+  Below, is an excerpt from <a href="http://www.themission.ca/about/index.php" rel="external" target="_blank" title="">their about Web page</a>.&nbsp; Take
+  special note of the text which I've marked.&nbsp; After this morning, I'd have to say, I agree with the marked portion whole-fucking-heartedly.
 </p>
 <blockquote>
   The Elgin Street Mission is a place of refuge for those who need hope, encouragement, nourishment to their bodies and also to their souls.&nbsp; We are here
@@ -104,7 +104,7 @@ title: "Accessibility at The Elgin Street Mission"
   if your needing to talk we listen without prejudices, and also we do have standards in place to provide a safe environment to all who enter our organization.
 </blockquote>
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_17-49-28_09-16.png" target="_blank" title="">
+  <a href="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_17-49-28_09-16.png" rel="me" target="_blank" title="">
     <img
       alt="" height="640" src="{{ site.uri.assets }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission/2017-02-16_17-49-28_360x640.jpg"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="360" />
