@@ -78,39 +78,39 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
     a book
   </a>.&nbsp;
   In this chapter, he's talking about building attention and interest in you and your freelance service.&nbsp; It pretty much sums up my take:
+  <blockquote>
+    We live in a noisy world.&nbsp; Whether it's the irresistibly tactile Facebook notification icon or the audible blip of your email client, everybody wants a
+    piece of your attention.<br />
+    &nbsp;<br />
+    The same is true for your prospective client.&nbsp; Their time is limited and ability to pay attention severely exhausted.&nbsp; This is compounded by the
+    fact that there have never been so many easy ways to seek answers for the pains and problems they have (that your service would ultimately remedy).<br />
+    &nbsp;<br />
+    This makes for a cloudy online environment and your dream client has developed self-preserving defences, which guard against advertising, information
+    overload and general interruptions.<br />
+    &nbsp;<br />
+    Most freelancers see this 'noise' as a barrier, &quot;how the Hell is anybody going to find me among this herd?&quot;&nbsp; More often than not, this pushes
+    them into channels like Elance or oDesk.&nbsp; &quot;Well this should be more productive, people are actually looking for freelancers on here,
+    right?&quot;<br />
+    &nbsp;<br />
+    This is flawed logic.&nbsp; We feel some comfort in the fact that potential clients are being attracted to this honeypot every day.&nbsp; We sense that at
+    least we have a chance of making a sale here without actually understanding what type of sale we might make and more importantly, to whom.<br />
+    &nbsp;<br />
+    You're voluntarily blending yourself into the herd, and in doing so procrastinating, putting out fires short term while holding off doing the longer term
+    activities that will land you your dream client down the line.&nbsp; By treading water in freelancer exchanges you're willfully attracting bad apples.<br />
+    &nbsp;<br />
+    My first time around as a freelancer I played the same mind games with myself, &quot;hey this guy has earned like $900k this past 12 months on Elance I must
+    be able to at least get a slice of that?&quot;<br />
+    &nbsp;<br />
+    What I neglected to inform my naive former self was that this was in fact a 60-person web development house based in India whose average project fee was
+    $200.<br />
+    &nbsp;<br />
+    Do you really want to take on 20 projects a month just to meet your financial goals?<br />
+    &nbsp;<br />
+    I thought not.<br />
+    &nbsp;<br />
+    So how do we multiply our exposure, build attention and look at this cloudy online environment as a help rather than hindrance?
+  </blockquote>
 </p>
-<blockquote>
-  We live in a noisy world.&nbsp; Whether it's the irresistibly tactile Facebook notification icon or the audible blip of your email client, everybody wants a
-  piece of your attention.<br />
-  &nbsp;<br />
-  The same is true for your prospective client.&nbsp; Their time is limited and ability to pay attention severely exhausted.&nbsp; This is compounded by the
-  fact that there have never been so many easy ways to seek answers for the pains and problems they have (that your service would ultimately remedy).<br />
-  &nbsp;<br />
-  This makes for a cloudy online environment and your dream client has developed self-preserving defences, which guard against advertising, information overload
-  and general interruptions.<br />
-  &nbsp;<br />
-  Most freelancers see this 'noise' as a barrier, &quot;how the Hell is anybody going to find me among this herd?&quot;&nbsp; More often than not, this pushes
-  them into channels like Elance or oDesk.&nbsp; &quot;Well this should be more productive, people are actually looking for freelancers on here,
-  right?&quot;<br />
-  &nbsp;<br />
-  This is flawed logic.&nbsp; We feel some comfort in the fact that potential clients are being attracted to this honeypot every day.&nbsp; We sense that at
-  least we have a chance of making a sale here without actually understanding what type of sale we might make and more importantly, to whom.<br />
-  &nbsp;<br />
-  You're voluntarily blending yourself into the herd, and in doing so procrastinating, putting out fires short term while holding off doing the longer term
-  activities that will land you your dream client down the line.&nbsp; By treading water in freelancer exchanges you're willfully attracting bad apples.<br />
-  &nbsp;<br />
-  My first time around as a freelancer I played the same mind games with myself, &quot;hey this guy has earned like $900k this past 12 months on Elance I must
-  be able to at least get a slice of that?&quot;<br />
-  &nbsp;<br />
-  What I neglected to inform my naive former self was that this was in fact a 60-person web development house based in India whose average project fee was
-  $200.<br />
-  &nbsp;<br />
-  Do you really want to take on 20 projects a month just to meet your financial goals?<br />
-  &nbsp;<br />
-  I thought not.<br />
-  &nbsp;<br />
-  So how do we multiply our exposure, build attention and look at this cloudy online environment as a help rather than hindrance?
-</blockquote>
 <p>
   &nbsp;
 </p>
@@ -118,47 +118,48 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
   I'm acutely aware however that this is my own personal opinion, based on my own personal experiences and I'm always happy to be challenged, or air another
   point of view.&nbsp; So, I was delighted to receive a really awesome e-mail from Carol Hampshire; top 5 amongst 200,000 graphic designers on
   Upwork&hellip;&nbsp; Currently, doing great and generating over $10,000 USD per month in revenue.
+  <blockquote>
+    <span style="font-weight: bolder;">From:</span>&nbsp; Carol Hampshire<br />
+    <span style="font-weight: bolder;">Subject:</span>&nbsp; I'm a top bracket freelancer on Upwork!<br />
+    &nbsp;<br />
+    Hi James,<br />
+    &nbsp;<br />
+    Although I do agree with the points you made, it looks like I am one of the exceptions.<br />
+    &nbsp;<br />
+    I am a top bracket freelancer on Upwork (in the design &amp; multimedia category) and attract similar top bracket clients, therefore eliminating the bad
+    apples and all that goes with the normal exchange sites.<br />
+    &nbsp;<br />
+    I am able to pick and chose which projects I want to work on, projects that bring me creative license and fulfillment as well as high financial
+    reward.<br />
+    &nbsp;<br />
+    My income in November last year on Upwork was in excess of $11,000.00 &#8212; not bad going for an &quot;Upwork&quot; freelancer.<br />
+    &nbsp;<br />
+    In fact many of my clients would tell me I am by far the most expensive, but they still award the project to me.<br />
+    &nbsp;<br />
+    So I must be doing something very right and have a good strategy in place for this success.<br />
+    &nbsp;<br />
+    The rewards from being on Upwork have been wonderful, I own two properties in South Africa and relocated to a wonderful beautiful seaside holiday
+    town.&nbsp; So yeah &#8212; living the dream and all that&hellip;<br />
+    &nbsp;<br />
+    I have been able to successfully explain the value of the service a client would get working with me in a proposal and I can back this up with hundreds of
+    testimonials on Upwork.<br />
+    &nbsp;<br />
+    I am ready to double my income in the coming months with even more innovative strategies that might not include Upwork in my future, but its been a
+    fantastic platform for my business.<br />
+    &nbsp;<br />
+    Did I have to work my ass off and take on some shady clients on Upwork to get to this position &#8212; YES!!<br />
+    &nbsp;<br />
+    But having said that, this is a normal process for every designer to go through before they have finally reached a top bracket and learn valuable lessons
+    the hard way. <br />
+    &nbsp;<br />
+    Its a pity that you do not have the strategies to create an empowering article showing your tribe how to succeed on exchange sites instead of knocking a
+    potential way for them to thrive professionally, creatively &amp; financially as I have done.<br />
+    &nbsp;<br />
+    All the best from South Africa!<br />
+    &nbsp;<br />
+    Carol
+  </blockquote>
 </p>
-<blockquote>
-  <span style="font-weight: bolder;">From:</span>&nbsp; Carol Hampshire<br />
-  <span style="font-weight: bolder;">Subject:</span>&nbsp; I'm a top bracket freelancer on Upwork!<br />
-  &nbsp;<br />
-  Hi James,<br />
-  &nbsp;<br />
-  Although I do agree with the points you made, it looks like I am one of the exceptions.<br />
-  &nbsp;<br />
-  I am a top bracket freelancer on Upwork (in the design &amp; multimedia category) and attract similar top bracket clients, therefore eliminating the bad
-  apples and all that goes with the normal exchange sites.<br />
-  &nbsp;<br />
-  I am able to pick and chose which projects I want to work on, projects that bring me creative license and fulfillment as well as high financial reward.<br />
-  &nbsp;<br />
-  My income in November last year on Upwork was in excess of $11,000.00 &#8212; not bad going for an &quot;Upwork&quot; freelancer.<br />
-  &nbsp;<br />
-  In fact many of my clients would tell me I am by far the most expensive, but they still award the project to me.<br />
-  &nbsp;<br />
-  So I must be doing something very right and have a good strategy in place for this success.<br />
-  &nbsp;<br />
-  The rewards from being on Upwork have been wonderful, I own two properties in South Africa and relocated to a wonderful beautiful seaside holiday town.&nbsp;
-  So yeah &#8212; living the dream and all that&hellip;<br />
-  &nbsp;<br />
-  I have been able to successfully explain the value of the service a client would get working with me in a proposal and I can back this up with hundreds of
-  testimonials on Upwork.<br />
-  &nbsp;<br />
-  I am ready to double my income in the coming months with even more innovative strategies that might not include Upwork in my future, but its been a fantastic
-  platform for my business.<br />
-  &nbsp;<br />
-  Did I have to work my ass off and take on some shady clients on Upwork to get to this position &#8212; YES!!<br />
-  &nbsp;<br />
-  But having said that, this is a normal process for every designer to go through before they have finally reached a top bracket and learn valuable lessons the
-  hard way. <br />
-  &nbsp;<br />
-  Its a pity that you do not have the strategies to create an empowering article showing your tribe how to succeed on exchange sites instead of knocking a
-  potential way for them to thrive professionally, creatively &amp; financially as I have done.<br />
-  &nbsp;<br />
-  All the best from South Africa!<br />
-  &nbsp;<br />
-  Carol
-</blockquote>
 <p>
   &nbsp;
 </p>

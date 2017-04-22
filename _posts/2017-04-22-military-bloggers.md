@@ -134,7 +134,7 @@ title: "Military Bloggers"
   The second wave of mil-blogging (2007 &#8211; 2014) happened as blogging platforms became more ubiquitous and easier to use.&nbsp; More people deployed and/or
   had family members deploy.&nbsp; More people started writing and sharing their experiences.&nbsp; At the same time, others had returned from one or more
   deployment experiences, and sought to put those experiences into more context.&nbsp; Without the content of more-immediate experience, many turned to new
-  analysis, opinion, and/or advocacy.&nbsp; To paraphrase one mil-blogger of the time:<br />
+  analysis, opinion, and/or advocacy.&nbsp; To paraphrase one mil-blogger of the time:
   <blockquote>
     Some of us went political.&nbsp; And, some of us, went bat-shit crazy.
   </blockquote>

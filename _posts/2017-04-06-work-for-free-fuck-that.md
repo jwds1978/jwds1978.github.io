@@ -107,13 +107,12 @@ title: "Work for Free; Fuck That"
     Graeme Snow-Matter
   </a>
   (probably, not his real name) &#8212; won national headlines, turning the tables on the advertiser.
+  <blockquote>
+    Artists are looking for a well-stocked supermarket to voluntarily restock our kitchens.&nbsp; Gain particular experience in the food industry whilst
+    satisfying our need to feed ourselves and live comfortably.&nbsp; Why not put your skills into action?
+  </blockquote>
 </p>
-<blockquote>
-  Artists are looking for a well-stocked supermarket to voluntarily restock our kitchens.&nbsp; Gain particular experience in the food industry whilst
-  satisfying our need to feed ourselves and live comfortably.&nbsp; Why not put your skills into action?
-</blockquote>
 <p>
-  &nbsp;<br />
   Sainsbury's responded by admitting the Camden branch had made an error of judgement and that it wasn't company policy to hire volunteers.
 </p>
 <p>
@@ -128,12 +127,11 @@ title: "Work for Free; Fuck That"
 </p>
 <p>
   To be fair to Showtime, the prize of being flown to Vegas might well have tempted some freelancers, but this one was steadfast in his business ethics.
+  <blockquote>
+    People valuing themselves and their work enough to say no to this kind of thing has more long-term value than any one job or one client.
+  </blockquote>
 </p>
-<blockquote>
-  People valuing themselves and their work enough to say no to this kind of thing has more long-term value than any one job or one client.
-</blockquote>
 <p>
-  &nbsp;<br />
   <a
     href="{{ site.url }}{{ page.url }}#cite-meet-the-hero-designer-who-publicly-shamed-showtime-for-asking-him-to-work-for-free" rel="me"
     title="Meet the Hero Designer Who Publicly Shamed Showtime for Asking Him to Work for Free">

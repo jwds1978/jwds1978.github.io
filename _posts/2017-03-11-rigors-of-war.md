@@ -30,10 +30,10 @@ title: "Rigors of War"
 
 <p>
   There's a saying in the military&hellip;
+  <blockquote>
+    Pain is your friend.&nbsp; Unless, you're 'light infantry'.&nbsp; Then, it's probably (degenerative) arthritis.
+  </blockquote>
 </p>
-<blockquote>
-  Pain is your friend.&nbsp; Unless, you're 'light infantry'.&nbsp; Then, it's probably (degenerative) arthritis.
-</blockquote>
 <!-- excerptBreak -->
 <p>
   Below, are photos of my left leg that I'd taken yesterday and today.&nbsp; While I had a somewhat hard time getting the angle(s) right to capture the scope of
