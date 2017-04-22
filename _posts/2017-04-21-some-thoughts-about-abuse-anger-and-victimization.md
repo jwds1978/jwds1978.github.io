@@ -70,7 +70,7 @@ citations:
     slug: "why-do-people-abuse"
 comments: true
 date: "2017-04-21 15:00:55 America/Toronto"
-last_modified_at: "2017-04-22 12:11:26 America/Toronto"
+last_modified_at: "2017-04-22 12:14:35 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -191,12 +191,12 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   alt="" height="409" src="{{ site.uri.assets }}/blog/2017/04/21/some-thoughts-about-abuse-anger-and-victimization/sexual-predator_482x409.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="400" />
 <p>
-  Aside from what Claire had told me in-person, I'd received some somewhat disturbing text messages from her as well.&nbsp; Her and I agree to meet-up one night
-  to discusss what's happening with her and how to best help her.&nbsp; Claire was getting her life back on-track, had goals, and was on her way to achieving
-  them.&nbsp; When Usher entered her life, that all changed.&nbsp; While not entirely certain, I don't believe that she'd been to school once since.&nbsp; She
-  was trying to get herself clean, and as I later came to find out, Usher had offered to not only get her drugs, but to &quot;watch her&quot; when she does them
-  and to &quot;take care of her&quot; after&hellip;&nbsp; A sexual predator offering to shoot-up a recovering addict and be alone with her &#8212; having the
-  perfect opportunity to do something without her ever even knowing that it had happened.
+  Aside from what Claire had told me in-person, I'd received some somewhat disturbing text messages from her as well.&nbsp; Her and I had agreed to meet-up one
+  night to discusss what's happening with her and how to best help her.&nbsp; Claire was getting her life back on-track, had goals, and was on her way to
+  achieving them.&nbsp; When Usher entered her life, that all changed.&nbsp; While I'm not entirely certain, I don't believe that she'd been to school once
+  since.&nbsp; She was trying to get herself clean, and as I later came to find out, Usher had offered to not only get her drugs, but to &quot;watch her&quot;
+  when she does them and to &quot;take care of her&quot; after&hellip;&nbsp; A sexual predator offering to shoot-up a recovering addict and be alone with her
+  &#8212; having the perfect opportunity to do something without her ever even knowing that it had happened.
 </p>
 <p>
   So, the night that Claire and I are to meet-up, I get a text message from her saying that she's getting herself ready to leave.&nbsp; I let her know that I'm
@@ -204,7 +204,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   she's nowhere to be found.&nbsp; Being a woman's shelter, I couldn't exactly just walk-up to the door and ask if she's there or not.&nbsp; So, I patiently
   wait for her where I'd told her that I'd be waiting.&nbsp; While waiting, it starts to rain; hard.&nbsp; But, having been Army, I can wait forever-and-a-day
   to complete an objective if important enough.&nbsp; Her safety and well-being, I'd definitely qualify as more than important enough.&nbsp; With that said, I
-  stodd there in the rain, for no less than about 3 hours, before heading off to use the washroom and get Internet connectivity to see if I'd had any messages
+  stood there in the rain, for no less than about 3 hours, before heading off to use the washroom and get Internet connectivity to see if I'd had any messages
   from her.
 </p>
 <p>
@@ -221,11 +221,11 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 </p>
 <p>
   Initially, the woman on the phone taking the report, quite literally, said something along the lines of &quot;it's not our problem, what do you want us to
-  do&quot;.&nbsp; Oh, I don't know, your fucking job would be a good start.&nbsp; I hung-up the phone and back to the information desk.&nbsp; I made it
+  do&quot;.&nbsp; Oh, I don't know, your fucking job would be a good start.&nbsp; I hung-up the phone and went back to the information desk.&nbsp; I made it
   unmistakably clear in absolutely no uncertain terms, that if anything were to happen to Claire which could have been prevented, I'd personally hold every
-  single fucking officer on-duty that day accountable.&nbsp; I wasn't fucking around, had reason to be very concerned for her safety, and like I'd said &#8212;
-  there isn't much that I'd not do for somebody I at all care for, male or female alike &#8212; I'd go to the ends of the mother-fucking Earth.&nbsp; At that
-  point, the information officer asked me to have a seat while he went to see what he could do.
+  single fucking officer on-duty that day accountable &#8212; he could interpret that however he wanted.&nbsp; I wasn't fucking around, had reason to be very
+  concerned for her safety, and like I'd said &#8212; there isn't much that I'd not do for somebody that I at all care for, male or female alike &#8212; I'd go
+  to the ends of the mother-fucking Earth.&nbsp; At that point, the information officer asked me to have a seat while he went to see what he could do.
 </p>
 <p>
   A very short time later, the staff sergeant came out to speak with me directly.&nbsp; I told her everything, Darrell told her what he'd personally witnessed,
