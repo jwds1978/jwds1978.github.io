@@ -116,8 +116,7 @@ title: "Military Bloggers"
 <p>
   The alchemy of blogs-into-books is important, because technologies change &#8212; print stays.&nbsp; The popularity and influence of mil-blogging culminated
   some time after 2007.&nbsp; One favourite anecdote from the Internet trenches: In 2007, President George W. Bush met with a group of mil-bloggers for a
-  hour-long chat in the Roosevelt Room.&nbsp; Here's a useful report from that event, written by John Donovan:<br />
-  &nbsp;<br />
+  hour-long chat in the Roosevelt Room.&nbsp; Here's a useful report from that event, written by John Donovan:
   <blockquote>
     The President acknowledged, so to speak, the rise of the blogosphere &#8212; which he seems to see as complementary to the [Main Stream Media], a view to
     which I subscribe, as well.&nbsp; We're another vector that people can use to disseminate or gather information &#8212; whether the MSM is gate-guarding it
@@ -136,7 +135,6 @@ title: "Military Bloggers"
   had family members deploy.&nbsp; More people started writing and sharing their experiences.&nbsp; At the same time, others had returned from one or more
   deployment experiences, and sought to put those experiences into more context.&nbsp; Without the content of more-immediate experience, many turned to new
   analysis, opinion, and/or advocacy.&nbsp; To paraphrase one mil-blogger of the time:<br />
-  &nbsp;<br />
   <blockquote>
     Some of us went political.&nbsp; And, some of us, went bat-shit crazy.
   </blockquote>
