@@ -116,28 +116,31 @@ title: "Military Bloggers"
 <p>
   The alchemy of blogs-into-books is important, because technologies change &#8212; print stays.&nbsp; The popularity and influence of mil-blogging culminated
   some time after 2007.&nbsp; One favourite anecdote from the Internet trenches: In 2007, President George W. Bush met with a group of mil-bloggers for a
-  hour-long chat in the Roosevelt Room.&nbsp; Here's a useful report from that event, written by John Donovan:
+  hour-long chat in the Roosevelt Room.&nbsp; Here's a useful report from that event, written by John Donovan:<br />
+  &nbsp;<br />
+  <blockquote>
+    The President acknowledged, so to speak, the rise of the blogosphere &#8212; which he seems to see as complementary to the [Main Stream Media], a view to
+    which I subscribe, as well.&nbsp; We're another vector that people can use to disseminate or gather information &#8212; whether the MSM is gate-guarding it
+    because of their biases, or simple economics.&nbsp; There are only so many air minutes, so many column inches, and the MSM is a business.&nbsp; They have to
+    make editorial decisions.<br />
+    &nbsp;<br />
+    If anything, the blogs hearken back, really, to an earlier time in the growth of the Republic.<br />
+    &nbsp;<br />
+    We're the
+    &quot;<a href="https://en.wikipedia.org/wiki/Broadside_(printing)" rel="external" target="_blank" title="Broadside (printing)">broadsides</a>&quot; of this
+    era.
+  </blockquote>
 </p>
-<blockquote>
-  The President acknowledged, so to speak, the rise of the blogosphere &#8212; which he seems to see as complementary to the [Main Stream Media], a view to
-  which I subscribe, as well.&nbsp; We're another vector that people can use to disseminate or gather information &#8212; whether the MSM is gate-guarding it
-  because of their biases, or simple economics.&nbsp; There are only so many air minutes, so many column inches, and the MSM is a business.&nbsp; They have to
-  make editorial decisions.<br />
-  &nbsp;<br />
-  If anything, the blogs hearken back, really, to an earlier time in the growth of the Republic.<br />
-  &nbsp;<br />
-  We're the &quot;<a href="https://en.wikipedia.org/wiki/Broadside_(printing)" rel="external" target="_blank" title="Broadside (printing)">broadsides</a>&quot;
-  of this era.
-</blockquote>
 <p>
   The second wave of mil-blogging (2007 &#8211; 2014) happened as blogging platforms became more ubiquitous and easier to use.&nbsp; More people deployed and/or
   had family members deploy.&nbsp; More people started writing and sharing their experiences.&nbsp; At the same time, others had returned from one or more
   deployment experiences, and sought to put those experiences into more context.&nbsp; Without the content of more-immediate experience, many turned to new
-  analysis, opinion, and/or advocacy.&nbsp; To paraphrase one mil-blogger of the time:
+  analysis, opinion, and/or advocacy.&nbsp; To paraphrase one mil-blogger of the time:<br />
+  &nbsp;<br />
+  <blockquote>
+    Some of us went political.&nbsp; And, some of us, went bat-shit crazy.
+  </blockquote>
 </p>
-<blockquote>
-  Some of us went political.&nbsp; And, some of us, went bat-shit crazy.
-</blockquote>
 <p>
   Blogging was cool&hellip;&nbsp; Everybody was doing it.&nbsp; However, in the later years of this period, mil-blogging began to decline &#8212; as did all
   blogging.&nbsp; That's because Facebook happened&hellip;&nbsp; Tumblr happened&hellip;&nbsp; Twitter happened&hellip;&nbsp; Tablets and small-screens
