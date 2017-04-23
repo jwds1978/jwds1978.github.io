@@ -43,4 +43,4 @@ title: "Blog (Search)"
     {% endfor %}
   };
 </script>
-<script src="{{ site.url }}/resources/js/search_2017-04-23_13-33_min.js" type="text/javascript"></script>
+<script src="{{ site.url }}/resources/js/search_2017-04-23_13-33.js" type="text/javascript"></script>
