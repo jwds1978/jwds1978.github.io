@@ -41,7 +41,6 @@ title: "Blog (Tags)"
   Filter the Things by:&nbsp;
   <a href="{{ site.url }}/blog" rel="me" title="">All</a>&nbsp;
   &bull;&nbsp; <a href="{{ site.url }}/blog/categories" rel="me" title="">Category</a>&nbsp;
-  &bull;&nbsp; <a href="{{ site.url }}/blog/search" rel="me" title="">Search</a>&nbsp;
   &bull;&nbsp; <span style="color: rgb(143, 200, 71);">Tag</span>
 </p>
 <p>
