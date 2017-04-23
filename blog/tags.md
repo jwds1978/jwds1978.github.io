@@ -30,9 +30,9 @@ title: "Blog (Tags)"
   }
 </style>
 <p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
-    This is my view, from my foxhole.&nbsp; &quot;Everybody has their own war&quot;&hellip;&nbsp; Take what you need; leaving the rest.&nbsp; And, most
-    importantly, I reserve the right to change and evolve my opinions over time&hellip;&nbsp; That's what good conversations do &#8212; and, blogs are
-    inherently conversations.
+  This is my view, from my foxhole.&nbsp; &quot;Everybody has their own war&quot;&hellip;&nbsp; Take what you need; leaving the rest.&nbsp; And, most
+  importantly, I reserve the right to change and evolve my opinions over time&hellip;&nbsp; That's what good conversations do &#8212; and, blogs are
+  inherently conversations.
 </p>
 <p>
   &nbsp;
@@ -41,6 +41,7 @@ title: "Blog (Tags)"
   Filter the Things by:&nbsp;
   <a href="{{ site.url }}/blog" rel="me" title="">All</a>&nbsp;
   &bull;&nbsp; <a href="{{ site.url }}/blog/categories" rel="me" title="">Category</a>&nbsp;
+  &bull;&nbsp; <a href="{{ site.url }}/blog/search" rel="me" title="">Search</a>&nbsp;
   &bull;&nbsp; <span style="color: rgb(143, 200, 71);">Tag</span>
 </p>
 <p>
