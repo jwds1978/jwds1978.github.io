@@ -6,7 +6,7 @@ categories:
   - News
 comments: true
 date: "2017-04-23 15:43:35 America/Toronto"
-last_modified_at: "2017-04-23 15:43:35 America/Toronto"
+last_modified_at: "2017-04-23 15:54:17 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -33,8 +33,11 @@ title: "Camaraderie's One Trait the Civilian Sector's Lacking"
 <p>
   All this craziness going on within our country makes me want to go back into the military.&nbsp; Asian, black, disabled, female, from big city or small town,
   gay/lesbian, latino, male, short, tall, white&hellip;&nbsp; It didn't matter what the fuck you were &#8212; we worked side-by-side and respected each
-  other.&nbsp; We all had our opinions and disagreements, but respect is what kept us united &#8212; especially, during times of combat.&nbsp; I'm saddened to
-  see the shit that goes on in Canada.&nbsp; At least, what most of the news portrays today anyhow.
+  other.&nbsp; We all had our opinions and disagreements, but respect is what kept us united &#8212; especially, during times of combat.
+</p>
+<!-- excerptBreak -->
+<p>
+  I'm saddened to see the shit that goes on in Canada.&nbsp; At least, what most of the news portrays today anyhow.
 </p>
 <p>
   I've been out of the military since circa 2000.&nbsp; And, to this day, I've not found the bond, camaraderie, discipline, and/or work ethic that I'd witnessed
