@@ -30,7 +30,7 @@ title: "Blog (Categories)"
   }
 </style>
 <p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
-    This is my view, from my foxhole.&nbsp; &quot;Everybody has their own war&quot;&hellip;&nbsp; Take what you need; leavinh the rest.&nbsp; And, most
+    This is my view, from my foxhole.&nbsp; &quot;Everybody has their own war&quot;&hellip;&nbsp; Take what you need; leaving the rest.&nbsp; And, most
     importantly, I reserve the right to change and evolve my opinions over time&hellip;&nbsp; That's what good conversations do &#8212; and, blogs are
     inherently conversations.
 </p>
