@@ -3,7 +3,7 @@ cloudflareSSE: true
 title: Social
 ---
 
-{% include ads_large-skyscraper_160x600.htm %}
+{% include ads_large-skyscraper_300x250.htm %}
 <ul>
   <li>
     Android File Host

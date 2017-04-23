@@ -70,7 +70,7 @@ citations:
     slug: "why-do-people-abuse"
 comments: true
 date: "2017-04-21 15:00:55 America/Toronto"
-last_modified_at: "2017-04-22 12:14:35 America/Toronto"
+last_modified_at: "2017-04-23 13:00:32 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -94,20 +94,30 @@ tags:
 title: "Some Thoughts About Abuse, Anger, and Victimization"
 ---
 
+<!--
+  ~ NAME >> ALIAS
+  ~
+  ~ Bridges, Emma Asryle >> Powers, Claire
+  ~ Brown, Carmen Wilfred >> McClain, Aaron
+  ~ Craig/Greg? >> Harris, Donnie
+  ~ Fredette, Marc >> Kline, Usher
+  ~ Simoneau, Jacob >> Driscoll, Jonathon
+  ~ Solomon, David >> Rasmussen, Darrell
+  -->
 <img
   alt="" height="281" src="{{ site.uri.assets }}/blog/2017/04/21/some-thoughts-about-abuse-anger-and-victimization/you-deserve-to-be-safe_482x281.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   There are many sad stories posted.&nbsp; Some are difficult, even painful, to read.&nbsp; There are also a number of hopeful stories which suggest which truly
   negative situations, such as abuse, can be overcome.&nbsp; As I consider the various comments, I'm struck by how people handle similar situations so
-  differently&hellip;&nbsp; By how some people are able to transform themselves, over time, so as to leave an abusive situation.&nbsp; While others, don't seem
-  to be able to get unstuck from the bonds that hold them in-place.
+  differently&hellip;&nbsp; By how some people are able to transform themselves, over time, so as to leave an abusive situation &#8212; others, don't seem to be
+  able to get unstuck from the bonds that hold them in-place.
 </p>
 <p>
   It's not always the case that people can leave an abusive situation.&nbsp; Some people are trapped economically and/or politically.&nbsp; Some people cannot
   leave easily because, to do so, will cause them to have to leave their children behind; for instance.&nbsp; Other people cannot provide for themselves
-  easily.&nbsp; These sorts of situations are difficult to do anything about&hellip;&nbsp; At least, in the short term anyhow.&nbsp; However, there are also
-  many reasons that people use to justify staying in abuse situations that are, potentially, under their control to change.
+  easily.&nbsp; These sorts of situations are difficult to do anything about &#8212; at least, in the short term.&nbsp; However, there are also many reasons
+  that people use to justify staying in abuse situations that are, potentially, under their control to change.
 </p>
 <p>
   It strikes me that part of becoming able to leave an abuse situation involves learning to change the way that you think about yourself.&nbsp; In particular,
@@ -121,7 +131,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   I've had my own personal experiences with abusive relationships over the years, and more recently, have been witness to varying abuse as a third-party.&nbsp;
   Such recent events are what prompted me to write this article.&nbsp; Originally, I'd not intended for it to be as long as it ended up being&hellip;&nbsp; Once
-  I started writing it, the words simply kept coming.
+  I started writing it, the words simply kept flowing.
 </p>
 <p>
   A friend, who I'll refer to as Claire Powers, recently left an abusive and controlling relationship with a fucktard whom I'll reference as Jonathon
@@ -130,18 +140,18 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   offer her the assistance that she'd need.&nbsp; While I didn't know if she'd sccept their help, it was offered nonetheless.
 </p>
 <p>
-  Claire was, at this point, now staying at a woman's shelter.&nbsp; Some time later, the CMHA staff alerted me to the fact that Claire was in the ER, having
-  had attempted suicide.&nbsp; They'd asked me about giving her a ride from the hostpital to the shelter.&nbsp; As I'd recently sold my car, and not knowing
-  certain things at the time, I called a friend whom we'll call Usher Kline.&nbsp; I asked him to immediately, regardless of whatever he may be doing, go to the
-  ER and fetch Claire; bringing her to the shelter where I'd meet them.&nbsp; Had I known then, what I now know of Usher, I'd never have even considered sending
-  him to meet her.
+  Claire was, at this point, now staying at a woman's shelter.&nbsp; Some time later, the CMHA staff alerted me to the fact that Claire was in the ER &#8212;
+  she'd attempted suicide.&nbsp; They'd asked me about giving her a ride from the hostpital to the shelter.&nbsp; As I'd recently sold my car, and not knowing
+  certain things at the time, I called a friend whom we'll call Usher Kline.&nbsp; I asked him to immediately, regardless of whatever he may be doing at the
+  time, go to the ER and fetch Claire; bringing her to the shelter where I'd meet them.&nbsp; Had I known then, what I now know of Usher, I'd never have even
+  considered sending him to meet her.
 </p>
 <p>
   Relatively, I've not known Usher all that long.&nbsp; And, in fact, it was him who'd initiated conversation with me back when.&nbsp; While I'd seen him around
   town, here and there, I'd not had any particular urge to befriend him.&nbsp; Quite recently, after doing some research of my own into him and his past, I'm
   utterly fucking disgusted&hellip;&nbsp; Both, with him for who and what he is, as well as with myself for not recognizing it much sooner.&nbsp; Granted, I've
   had a lot on my mind lately, but there was a time in my life when I'd have pegged him for what he is almost instantaneously.&nbsp; It takes the heart of a
-  warrior to find deception and take it down.&nbsp; Being the warrior that I am, I fully intend to do exactly that.&nbsp; I will go to the end's of the
+  warrior to find deception and take it down.&nbsp; Being the warrior that I am, I fully intend to do exactly that.&nbsp; I'll go to the end's of the
   mother-fucking Earth to expose this fucking shitbag for what he truly is&hellip;&nbsp; A predator &#8212; a disgusting, piece of fucking shit, predator.
 </p>
 <img
@@ -152,7 +162,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   they bother to advise me of what they knew.&nbsp; When I finally realized WTF was going on, and approached the CMHA staff myself, they finally admitted to me
   that they'd witnessed predatory behaviour by Usher.&nbsp; And, tell me again, why the fuck did they do nothing about it?&nbsp; Everything is &quot;not my
   problem&quot; nowadays; let somebody else deal with it.&nbsp; Sadly, I've experienced such ignorance, all to fucking often, throughout my life.&nbsp; One of
-  the primary problems of the world today&hellip;&nbsp; Turn a blind-eye and claim ignorance &#8212; even when you could've done something to prevent it and/or
+  the primary problems of the world today&hellip;&nbsp; Turn a blind-eye and claim ignorance &#8212; even, when you could've done something to prevent it and/or
   stop it from happening again.
 </p>
 <img
@@ -162,9 +172,9 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   In the car with Usher, when I'd called him that evening to pick-up Claire at the ER, was another friend, whom I'll call Darrell Rasmussen.&nbsp; While he
   didn't readily tell me anything until just a few days ago, he witnessed Usher rubbing all up on Claire at the hstpital.&nbsp; She's just tried to kill
   herself, is confused and crying, and he's trying to feel her the fuck up.&nbsp; Darrell tells me that he felt very uneasy, and was creeped-the-fuck-out when
-  he witnessed this, but didn't say anything though&hellip;&nbsp; The problem with the &quot;it's not my problem&quot; mentality.&nbsp; Nevertheless, Darrell
-  did eventually tell me what he'd seen anyhow.&nbsp; There were, seemingly, several other instances of some inappropriate behaviour from Usher that Darrell had
-  witnessed too.&nbsp; I'll not get into detail here about those, but you get the fucking point anyhow.
+  he witnessed this, but didn't say anything though &#8212; the problem with the &quot;it's not my problem&quot; mentality.&nbsp; Nevertheless, Darrell did
+  eventually tell me what he'd seen anyhow.&nbsp; There were, seemingly, several other instances of some inappropriate behaviour from Usher that Darrell had
+  witnessed too.&nbsp; I'll not get into detail here about those, but you get the fucking point.
 </p>
 <p>
   Another friend, whom I'll call Aaron McClain, also told me that they'd witnessed some shit going on themselves.&nbsp; But, again, they'd not readily made it
@@ -182,10 +192,10 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   pushing her to it again&hellip;&nbsp; The first time, it was Jonathon, and now it was Usher.&nbsp; She'd just gotten herself out of an abusive and controlling
   relationship with Jonathon, and now, Usher was trying to take advantage of her at her most vulnerable.&nbsp; Quite frankly, I can think of nothing that
   disgusts me more than a shitbag predator such as him.&nbsp; The safest place on the planet, for Claire or anybody else that is remotely close to me, is in my
-  vicinity.&nbsp; I'm the gimp that I am today for protecting and fighting for people that I didn't personally know&hellip;&nbsp; To what extent do you think
+  vicinity.&nbsp; I'm the gimp that I am today due to protecting and fighting for people that I didn't personally know&hellip;&nbsp; To what extent do you think
   I'd go to protect somebody that I give a damn about?&nbsp; If I'd done nothing and/or turned a blind eye to what she'd told me, would it be murder or
-  suicide?&nbsp; If I'd have done nothing, and anything were to have happened to her, would I be responsible?&nbsp; Legally speaking, probably, not.&nbsp;
-  Morally, however, most fucking definitely.
+  suicide?&nbsp; If I'd have done nothing, and anything were to have happened to her, would I be responsible?&nbsp; Legally speaking, probably,
+  not&hellip;&nbsp; Morally, however, most fucking definitely.
 </p>
 <img
   alt="" height="409" src="{{ site.uri.assets }}/blog/2017/04/21/some-thoughts-about-abuse-anger-and-victimization/sexual-predator_482x409.png"
@@ -195,22 +205,22 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   night to discusss what's happening with her and how to best help her.&nbsp; Claire was getting her life back on-track, had goals, and was on her way to
   achieving them.&nbsp; When Usher entered her life, that all changed.&nbsp; While I'm not entirely certain, I don't believe that she'd been to school once
   since.&nbsp; She was trying to get herself clean, and as I later came to find out, Usher had offered to not only get her drugs, but to &quot;watch her&quot;
-  when she does them and to &quot;take care of her&quot; after&hellip;&nbsp; A sexual predator offering to shoot-up a recovering addict and be alone with her
-  &#8212; having the perfect opportunity to do something without her ever even knowing that it had happened.
+  when she does them and to &quot;take care of her&quot; after&hellip;&nbsp; A sexual predator offering to shoot-up a recovering, and rather vulnerable, addict
+  and to be alone with her &#8212; having the perfect opportunity to do something without her ever even knowing that it had happened.
 </p>
 <p>
   So, the night that Claire and I are to meet-up, I get a text message from her saying that she's getting herself ready to leave.&nbsp; I let her know that I'm
-  going to pack-up my stuff, as I was sitting at Tim Hortons doing some work, and would be there to meet her in around about 15 minutes.&nbsp; I get there, and
-  she's nowhere to be found.&nbsp; Being a woman's shelter, I couldn't exactly just walk-up to the door and ask if she's there or not.&nbsp; So, I patiently
-  wait for her where I'd told her that I'd be waiting.&nbsp; While waiting, it starts to rain; hard.&nbsp; But, having been Army, I can wait forever-and-a-day
-  to complete an objective if important enough.&nbsp; Her safety and well-being, I'd definitely qualify as more than important enough.&nbsp; With that said, I
+  going to pack-up my stuff, as I was sitting at Tim Hortons doing some work, and would be there to meet her in about 15 minutes.&nbsp; I get there, and she's
+  nowhere to be found.&nbsp; Being a woman's shelter, I couldn't exactly just walk-up to the door and ask if she's there or not.&nbsp; So, I patiently wait for
+  her where I'd told her that I'd be waiting.&nbsp; While waiting, it starts to rain &#8212; hard.&nbsp; But, having been Army, I can wait forever-and-a-day to
+  complete an objective if important enough.&nbsp; Her safety and well-being, I'd definitely qualify as more than important enough.&nbsp; With that said, I
   stood there in the rain, for no less than about 3 hours, before heading off to use the washroom and get Internet connectivity to see if I'd had any messages
   from her.
 </p>
 <p>
   When I'd arrived at the location where I was going to use the washroom and Internet, one of the security guards whom I'll refer to as Donnie Harris, advised
-  me that Usher had left a mere several minutes before my arrival.&nbsp; He proceeded to let me know that Claire was in the vehicle with him.&nbsp; Prior to
-  learning of this, I was going to head abck to where I'd told her I'd meet her; I would've waited all night, and longer, if required.&nbsp; However, given this
+  me that Usher had left a mere several minutes before my arrival.&nbsp; He proceeded to let me know that Claire was in the vehicle with Usher.&nbsp; Prior to
+  learning of this, I was going to head back to where I'd told her I'd meet her; I would've waited all night, and longer, if required.&nbsp; However, given this
   new information, I wasn't going to waste my time out in the cold rain nor getting sick for her to just never show up.
 </p>
 <p>
@@ -222,10 +232,11 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   Initially, the woman on the phone taking the report, quite literally, said something along the lines of &quot;it's not our problem, what do you want us to
   do&quot;.&nbsp; Oh, I don't know, your fucking job would be a good start.&nbsp; I hung-up the phone and went back to the information desk.&nbsp; I made it
-  unmistakably clear in absolutely no uncertain terms, that if anything were to happen to Claire which could have been prevented, I'd personally hold every
-  single fucking officer on-duty that day accountable &#8212; he could interpret that however he wanted.&nbsp; I wasn't fucking around, had reason to be very
-  concerned for her safety, and like I'd said &#8212; there isn't much that I'd not do for somebody that I at all care for, male or female alike &#8212; I'd go
-  to the ends of the mother-fucking Earth.&nbsp; At that point, the information officer asked me to have a seat while he went to see what he could do.
+  unmistakably clear in absolutely no uncertain terms, that if anything were to happen to Claire which could've been prevented, I'd personally hold every single
+  fucking officer on-duty that day, starting with him, accountable &#8212; he could interpret that however he wanted.&nbsp; I wasn't fucking around, had reason
+  to be very concerned for her safety, and like I'd said &#8212; there isn't much that I'd not do for somebody that I at all care for, male or female alike
+  &#8212; I'd go to the ends of the mother-fucking Earth.&nbsp; At that point, the information officer asked me to have a seat while he went to see what he
+  could do.
 </p>
 <p>
   A very short time later, the staff sergeant came out to speak with me directly.&nbsp; I told her everything, Darrell told her what he'd personally witnessed,
@@ -235,16 +246,16 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 </p>
 <p>
   Honestly, I'd expected for Claire to possibly be mad at me for going to the police.&nbsp; However, her safety and well-being is of primary importance to
-  me.&nbsp; She can be mad at me all she wants&hellip;&nbsp; She may be mad, but she'd be safe.&nbsp; What kind of a friend would I be, had I done nothing, and
-  something were to have happened to her &#8212; something that could've been prevented?&nbsp; Having told me the things that she did, I couldn't just assume
-  her safety; it had to be verified&hellip;&nbsp; The last thing that I'd heard from her was about contemplating suicide, then she disappeared off the face
-  of the Earth for days, and never showed where we were to meet-up.&nbsp; Anything could've happened to her.
+  me.&nbsp; She can be mad at me all she wants&hellip;&nbsp; While she may be mad, but she'd be safe.&nbsp; What kind of a friend would I be, had I done
+  nothing, and something were to have happened to her &#8212; something that could've been prevented?&nbsp; Having told me the things that she did, I couldn't
+  just assume her safety; it had to be verified&hellip;&nbsp; The last thing that I'd heard from her was about contemplating suicide, then she disappeared off
+  the face of the fucking Earth for days, and never showed where we were to meet-up.&nbsp; Anything could've happened to her.
 </p>
 <p>
-  If you're reading this, Claire, be as mad at me as you like; it doesn't bother me.&nbsp; You know the state that you were in, you know the things that you'd
-  said to me.&nbsp; You made some bold and serious statements regarding both yourself and Usher.&nbsp; Having been a true friend to you, you should've expected
-  nothing less from me, than to one-way-or-another ensure your safety.&nbsp; In time, perhaps, you'll remove your head from your arse and realize this.&nbsp; At
-  this point, I can only hope that you stay safe and wish you the best in life.
+  If you're reading this, Claire, be as mad at me as you like; it doesn't bother me.&nbsp; You know the state that you were in&hellip;&nbsp; You know the things
+  that you'd said to me.&nbsp; You made some bold and serious statements regarding both yourself and Usher.&nbsp; Having been a true friend to you, you
+  should've expected nothing less from me, than to one-way-or-another ensure your safety.&nbsp; In time, perhaps, you'll remove your head from your arse and
+  realize this&hellip;&nbsp; At this point, I can only hope that you stay safe and wish you the best in life.
 </p>
 <p>
   &nbsp;

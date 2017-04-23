@@ -3,7 +3,7 @@ fnrsfyyzkkwbxmrc: 16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j
 title: Donate
 ---
 
-{% include ads_large-skyscraper_160x600.htm %}
+{% include ads_large-skyscraper_300x250.htm %}
 <h3>
   Bitcoin&nbsp;
   <sup>Preferred</sup>

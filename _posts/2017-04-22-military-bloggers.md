@@ -40,7 +40,7 @@ citations:
     slug: "the-military-writers-guild"
 comments: true
 date: "2017-04-22 15:40:02 America/Toronto"
-last_modified_at: "2017-04-22 15:40:02 America/Toronto"
+last_modified_at: "2017-04-23 12:35:41 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -66,15 +66,16 @@ title: "Military Bloggers"
   alt="" height="185" src="{{ site.uri.assets }}/blog/2017/04/22/military-bloggers/Military-Writers-Guild_257x185.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="257" />
 <p>
-  Offhand, I don't know when blogging really became well known throughout the Internet, but I do know that I started to blog once I created my
-  <a href="{{ site.url }}" rel="me" title="">Web site</a> though.&nbsp; A friend of mine told me about adding a blog to my Web site, gaining the attention of
-  many bloggers.&nbsp; It was a great idea as now I have the opportunity to first-hand speak to many veterans through my blog, without having to leave my home.
+  Offhand, I don't know when blogging really became well-known throughout the Internet, but I do know that I started to blog once I created my
+  <a href="{{ site.url }}" rel="me" title="">Web site</a> though.&nbsp; A friend of mine told me about adding a blog to my Web site &#8212; gaining the
+  attention of many bloggers.&nbsp; It was a great idea as now I have the opportunity to first-hand speak to many veterans through my blog, without having to
+  leave my home.
 </p>
 <p>
   Once I started <a href="{{ site.uri.blog }}" rel="me" title="">my own blog</a>, and began reading up on what it takes to blog, I soon realized that there are
-  a lot of military members from around the globe who also blog.&nbsp; Never would I have thought I'd take to blogging, but here I am though.&nbsp;
+  a lot of military members from around the globe who also blog themselves.&nbsp; Never would I have thought that I'd take to blogging, but here I am.&nbsp;
   Mil-blogging, like homecoming, is a journey &#8212; not a destination.&nbsp; My newspaper and magazine buddies make jokes about how all bloggers must write
-  while wearing pajamas&hellip;&nbsp; I'm just happy that they think I'm even wearing pants.
+  while wearing pajamas&hellip;&nbsp; I'm, simply, happy that they think I'm even wearing pants nowadays.
 </p>
 <!-- excerptBreak -->
 <p>
@@ -92,7 +93,7 @@ title: "Military Bloggers"
   &nbsp;
 </p>
 <p>
-  The first wave of mil-blogging (2001 &#8211; 2007) was defined and dominated by first-person (i.e. boots-on-the-ground) narratives, unmediated by news editors,
+  The first wave (2001 &#8211; 2007) of mil-blogging was defined and dominated by first-person (i.e. boots-on-the-ground) narratives, unmediated by news editors,
   broadcasts, and/or publications.&nbsp; Some of these, such as Matt Gallagher's blog, later grew into larger, book-length works:
   <ul>
     <li>
@@ -115,8 +116,8 @@ title: "Military Bloggers"
 </p>
 <p>
   The alchemy of blogs-into-books is important, because technologies change &#8212; print stays.&nbsp; The popularity and influence of mil-blogging culminated
-  some time after 2007.&nbsp; One favourite anecdote from the Internet trenches: In 2007, President George W. Bush met with a group of mil-bloggers for a
-  hour-long chat in the Roosevelt Room.&nbsp; Here's a useful report from that event, written by John Donovan:
+  some time after 2007.&nbsp; One favourite anecdote from the Internet trenches&hellip;&nbsp; In 2007, President George W. Bush met with a group of mil-bloggers
+  for a hour-long chat in the Roosevelt Room.&nbsp; Here's a useful report from that event, written by John Donovan:
   <blockquote>
     The President acknowledged, so to speak, the rise of the blogosphere &#8212; which he seems to see as complementary to the [Main Stream Media], a view to
     which I subscribe, as well.&nbsp; We're another vector that people can use to disseminate or gather information &#8212; whether the MSM is gate-guarding it
@@ -131,7 +132,7 @@ title: "Military Bloggers"
   </blockquote>
 </p>
 <p>
-  The second wave of mil-blogging (2007 &#8211; 2014) happened as blogging platforms became more ubiquitous and easier to use.&nbsp; More people deployed and/or
+  The second wave (2007 &#8211; 2014) of mil-blogging happened as blogging platforms became more ubiquitous and easier to use.&nbsp; More people deployed and/or
   had family members deploy.&nbsp; More people started writing and sharing their experiences.&nbsp; At the same time, others had returned from one or more
   deployment experiences, and sought to put those experiences into more context.&nbsp; Without the content of more-immediate experience, many turned to new
   analysis, opinion, and/or advocacy.&nbsp; To paraphrase one mil-blogger of the time:
@@ -142,33 +143,34 @@ title: "Military Bloggers"
 <p>
   Blogging was cool&hellip;&nbsp; Everybody was doing it.&nbsp; However, in the later years of this period, mil-blogging began to decline &#8212; as did all
   blogging.&nbsp; That's because Facebook happened&hellip;&nbsp; Tumblr happened&hellip;&nbsp; Twitter happened&hellip;&nbsp; Tablets and small-screens
-  happened.&nbsp; Blogging turned into yesterday's news.&nbsp; However, mil-blogging isn't dead &#8212; no more than journalism is anyhow.&nbsp; It may be
+  happened.&nbsp; Blogging turned into yesterday's news.&nbsp; However, mil-blogging isn't dead &#8212; at least, no more than journalism is.&nbsp; It may be
   evolving, we might not recognize it, but it as sure as Hell ain't dead yet though.
 </p>
 <p>
-  The third wave of mil-blogging?&nbsp; You're soaking in it.&nbsp; The third wave of mil-blogging (2014 &#8211; Present) is being driven by new blogging
-  platforms, which de-emphasize comments sections &#8212; once the engines of blog-traffic and engagement &#8212; and, focus on a providing to readers a
-  professional-looking (although, somewhat generic) and tablet-friendly visual experience.&nbsp; The focus is back on words and content and reasoned
+  The third wave of mil-blogging?&nbsp; You're soaking in it.&nbsp; The third wave (2014 &#8211; Present) of mil-blogging is being driven by new blogging
+  platforms, which de-emphasize comments sections &#8212; once the engines of blog-traffic and engagement &#8212; and, focus on providing to readers a
+  professional-looking (although, somewhat generic) and tablet-friendly visual experience.&nbsp; The focus is back, on words and content, and reasoned
   argument.&nbsp; Authors are often policy analysts, strategists, and/or other communicators.
 </p>
 <p>
   As I've observed, &quot;journaling&quot; and &quot;journalism&quot; share root words.&nbsp; It's all about documenting events, making informed arguments, and
-  sharing stories.&nbsp; Using that definition, I was blogging before there was an Internet.&nbsp; And, I'll be blogging long after the Internet is put up onto
+  sharing stories.&nbsp; Using that definition, I was blogging before there was an Internet.&nbsp; And, I'll be blogging long after the Internet is put-up onto
   cinder blocks, as the media and technology change.
 </p>
 <p>
-  The writing is the thing.&nbsp; With humour&hellip;&nbsp; With argument&hellip;&nbsp; With news-you-can-use.&nbsp; Even, with poetry.&nbsp; At some level, it
-  doesn't matter what you're writing, only that you're engaged in the conversation.&nbsp; That's particularly important as we try to stitch together what the
-  last two wars have meant to our countries and their militaries &#8212; and, how we move-out smartly from here.&nbsp; Every type of writing &#8212; literary,
-  genre, professional, academic, journalistic &#8212; is an opportunity to bridge the civil-military divide.
+  The writing is the thing.&nbsp; With humour&hellip;&nbsp; With argument&hellip;&nbsp; With news-you-can-use&hellip;&nbsp; Even, with poetry.&nbsp; At some
+  level, it doesn't matter what you're writing, only that you're engaged in the conversation.&nbsp; That's particularly important as we try to stitch together
+  what the last two wars have meant to our countries and their militaries &#8212; and, how we move-out smartly from here.&nbsp; Every type of writing &#8212;
+  literary, genre, professional, academic, journalistic &#8212; is an opportunity to bridge the civil-military divide.
 </p>
 <p>
-  Recently, a group of movers, shooters, and communicators established an on-line confederation called the Military Writers Guild.&nbsp; I'm pleased to find
-  that it seems to be a mix of young turks and salty dogs.&nbsp; There are digital immigrants and digital natives.&nbsp; There are soldiers and sailors and
-  fellow travelers &#8212; and all of them, naturally, are story-tellers.
+  Recently, a group of movers, shooters, and communicators established an on-line confederation called
+  <a href="{{ site.url }}{{ page.url }}#cite-the-military-writers-guild" rel="me" title="The Military Writers Guild">The Military Writers Guild</a>.&nbsp; I'm
+  pleased to find that it seems to be a mix of young turks and salty dogs.&nbsp; There are digital immigrants and digital natives.&nbsp; There are soldiers and
+  sailors and fellow travelers &#8212; and all of them, naturally, are story-tellers.
 </p>
 <p>
-  The mil-blog isn't dead!&nbsp; Long live the mil-blog!&nbsp; And, keep writing!
+  The mil-blog isn't dead &#8212; long live the mil-blog &#8212; and, keep writing!
 </p>
 <p>
   &nbsp;
