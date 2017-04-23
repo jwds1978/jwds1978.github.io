@@ -21,10 +21,12 @@ title: "Blog (Search)"
 <p>
   &nbsp;
 </p>
-<form action="{{ site.url }}/search" method="get">
-  <label for="search-box">Search</label>
-  <input id="search-box" name="query" type="text">
-  <input type="submit" value="search">
+{% include ads_responsive_468x060.htm %}
+<p>
+  &nbsp;
+</p>
+<form action="{{ site.url }}/blog/search" method="get">
+  <input id="search-box" name="query" type="text">&nbsp; <input type="submit" value="search">
 </form>
 <ul id="search-results"></ul>
 <script>
@@ -41,5 +43,4 @@ title: "Blog (Search)"
     {% endfor %}
   };
 </script>
-<script src="{{ site.url }}/resources/js/lunar_2017-04-23_13-23_min.js"></script>
-<script src="{{ site.url }}/resources/js/search_2017-04-23_13-33_min.js"></script>
+<script src="{{ site.url }}/resources/js/search_2017-04-23_13-33_min.js" type="text/javascript"></script>
