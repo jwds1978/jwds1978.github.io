@@ -1,8 +1,3 @@
----
-sitemap: false
----
-
-{{ site.copyright.comment.java }}
 ! function () {
   var a = function (b) {
     var c = new a.Builder;

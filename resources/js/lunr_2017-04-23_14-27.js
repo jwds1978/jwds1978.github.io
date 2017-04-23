@@ -1,8 +1,3 @@
----
-sitemap: false
----
-
-{{ site.copyright.comment.java }}
 /**
  * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - 2.0.2
  * Copyright (C) 2017 Oliver Nightingale

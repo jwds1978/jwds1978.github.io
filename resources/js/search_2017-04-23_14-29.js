@@ -1,8 +1,3 @@
----
-sitemap: false
----
-
-{{ site.copyright.comment.java }}
 (function() {
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');

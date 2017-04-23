@@ -1,8 +1,3 @@
----
-sitemap: false
----
-
-{{ site.copyright.comment.java }}
 ! function () {
   function a(a, b) {
     var c = document.getElementById("search-results");
