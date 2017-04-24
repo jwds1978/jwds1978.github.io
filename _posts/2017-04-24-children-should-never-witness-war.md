@@ -11,6 +11,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154249604907084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/856532678665003008"
+    text: Twitter
+    title: Twitter
 tags:
   - Opinionated
   - Politics
