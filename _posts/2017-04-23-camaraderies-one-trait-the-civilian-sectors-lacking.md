@@ -14,7 +14,7 @@ citations:
     slug: "dysphemism"
 comments: true
 date: "2017-04-23 15:43:35 America/Toronto"
-last_modified_at: "2017-04-23 20:57:38 America/Toronto"
+last_modified_at: "2017-04-23 21:25:15 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -85,7 +85,7 @@ title: "Camaraderie's One Trait the Civilian Sector's Lacking"
   In the military, you work together, train together, patrol together, fight together &#8212; you do everything together.&nbsp; Doing this for a career,
   instills a strong sense of community and shared experiences that's bonded by trust.&nbsp; I can go years without seeing a military friend and immediately know
   that he/she has my back if I needed the help.&nbsp; Some friends will help you move out of your apartment, but others will help you bury a body.&nbsp; This is
-  a common military <a href="{{ site.url }}{{ page.url }}#cite-dysphemism" rel="me" title="Dysphemism">dyphemistic</a> point&hellip;&nbsp; I don't ever intend
+  a common military <a href="{{ site.url }}{{ page.url }}#cite-dysphemism" rel="me" title="Dysphemism">dysphemistic</a> point&hellip;&nbsp; I don't ever intend
   to be in a situation where I have to bury someone or something.
 </p>
 <p>
