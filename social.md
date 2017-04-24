@@ -177,4 +177,12 @@ title: Social
       </li>
     </ul>
   </li>
+  <li>
+    YouTube
+    <ul>
+      <li>
+        <a href="https://www.youtube.com/channel/UCEvgM-VbahDYiKx_UK1ZHnw" rel="me" target="_blank" title="James Stewart">James Stewart</a>
+      </li>
+    </ul>
+  </li>
 </ul>

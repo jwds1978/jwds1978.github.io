@@ -94,16 +94,18 @@ tags:
 title: "Some Thoughts About Abuse, Anger, and Victimization"
 ---
 
+<!--sse-->
 <!--
-  ~ NAME >> ALIAS
+  ~ NAME «» ALIAS
   ~
-  ~ Bridges, Emma Asryle >> Powers, Claire
-  ~ Brown, Carmen Wilfred >> McClain, Aaron
-  ~ Craig/Greg? >> Harris, Donnie
-  ~ Fredette, Marc >> Kline, Usher
-  ~ Simoneau, Jacob >> Driscoll, Jonathon
-  ~ Solomon, David >> Rasmussen, Darrell
+  ~ Bridges, Emma Asryle «» Powers, Claire
+  ~ Brown, Carmen Wilfred «» McClain, Aaron
+  ~ Craig/Greg? «» Harris, Donnie
+  ~ Fredette, Marc «» Kline, Usher
+  ~ Simoneau, Jacob «» Driscoll, Jonathon
+  ~ Solomon, David «» Rasmussen, Darrell
   -->
+<!--/sse-->
 <img
   alt="" height="281" src="{{ site.uri.assets }}/blog/2017/04/21/some-thoughts-about-abuse-anger-and-victimization/you-deserve-to-be-safe_482x281.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
