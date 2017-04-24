@@ -4,13 +4,20 @@ categories:
   - News
 comments: true
 date: "2017-04-24 12:59:21 America/Toronto"
-last_modified_at: "2017-04-24 12:59:21 America/Toronto"
+last_modified_at: "2017-04-24 13:11:54 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154249782097084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/856555816740114435"
+    text: Twitter
+    title: Twitter
 tags:
   - Opinionated
   - Photography
@@ -47,7 +54,8 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     &nbsp;<br />
     Let's start with an easy one here&hellip;&nbsp; It's two men in uniform, who are supposed to be drone operators.&nbsp; The facial hair of the man on the
     right would never be allowed in the Forces.&nbsp; Next, there's the complete lack of any name, rank, and/or service insignias.&nbsp; Collars up is a mistake
-    as well.&nbsp; Lastly, I hope that I'd never see a drone operator looking so damn confused!
+    as well.&nbsp; Lastly, I hope that I'd never see a drone operator looking so damn confused!<br />
+    &nbsp;
   </li>
   <li>
     <span style="font-weight: bolder;">Boot Camp Confusion</span><br />
@@ -63,7 +71,8 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     &nbsp;<br />
     In this stock photo, a group of recruits are being yelled at by their instructor.&nbsp; For some unknown reason, the recruits and the instructor are in
     differing uniforms.&nbsp; There's also the bad hair cuts that would mean trouble for the life of any recruit.&nbsp; And, again, we see various types of
-    facial hair &#8212; from a full beard on the instructor to the guy who hasn't shaved in a couple of days.
+    facial hair &#8212; from a full beard on the instructor to the guy who hasn't shaved in a couple of days.<br />
+    &nbsp;
   </li>
   <li>
     <span style="font-weight: bolder;">Sale at the Army Surplus Store</span><br />
@@ -81,7 +90,8 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     he's wearing &#8212; without his pants tucked-in &#8212; are nowhere close to military issue.&nbsp; Then, there's his actual fatigues.&nbsp; All of that
     gear strapped to him might be nice for carrying lots and lots of stuff, but it's mismatched and out of place &#8212; overdone, and just plain wrong.&nbsp;
     No name and/or service insignias are visible.&nbsp; To top it off, there's the headset &#8212; from his other job as a telemarketer &#8212; that he'd
-    forgotten to remove.&nbsp; The finger on the trigger's a nice way to shoot someone's foot off too.
+    forgotten to remove.&nbsp; The finger on the trigger's a nice way to shoot someone's foot off too.<br />
+    &nbsp;
   </li>
   <li>
     <span style="font-weight: bolder;">Gung-Ho</span><br />
@@ -98,7 +108,8 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     This &quot;American soldier&quot;, certainly, shows a lot of enthusiasm for his service.&nbsp; However, it's easy to see without looking too hard &#8212;
     don't look too hard &#8212; that it's all a bit over the top.&nbsp; We see bags on top of bags on top of bags&hellip;&nbsp; My personal favourite, is the
     fanny pack.&nbsp; Are those ski goggles?&nbsp; And, why's he unshaven?&nbsp; This one came close to the mark, but then it took a few leaps over the
-    line.&nbsp; All that he's really missing, is a cape blowing in the wind behind him.
+    line.&nbsp; All that he's really missing, is a cape blowing in the wind behind him.<br />
+    &nbsp;
   </li>
   <li>
     <span style="font-weight: bolder;">They're Bad and They Know It</span><br />
@@ -116,7 +127,8 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     mismatched with the guy on the right &#8212; to the haphazardly rolled sleeves, on what may or may not be actual military fatigues, these guys are more than
     likely the kings of the local paintball range&hellip;&nbsp; That's about it though.&nbsp; No insignias, the cover of the left is just plain wrong, and the
     lack of co-ordination between what any of them are wearing is ridiculous.&nbsp; Our troops are as tough as they come &#8212; they don't need a caricature to
-    make them seem any tougher.
+    make them seem any tougher.<br />
+    &nbsp;
   </li>
   <li>
     <span style="font-weight: bolder;">Casual Friday for Female Troops</span><br />
