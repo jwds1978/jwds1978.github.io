@@ -4,15 +4,30 @@ categories:
   - Innominate
   - "Living and Leisure"
   - News
+citations:
+  - author: "Innominate"
+    date:
+      accessed: "2017-04-23 15:35:38 America/Toronto"
+      published: "2014-08-15 09:27 America/Toronto"
+    href: "https://en.wikipedia.org/wiki/Dysphemism"
+    name: "Dysphemism"
+    slug: "dysphemism"
 comments: true
 date: "2017-04-23 15:43:35 America/Toronto"
-last_modified_at: "2017-04-23 15:58:41 America/Toronto"
+last_modified_at: "2017-04-23 20:57:38 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154248143507084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/856308880514699264"
+    text: Twitter
+    title: Twitter
 tags:
   - Career
   - Lifestyle
@@ -28,7 +43,7 @@ title: "Camaraderie's One Trait the Civilian Sector's Lacking"
   src="{{ site.uri.assets }}/blog/2017/04/23/camaraderies-one-trait-the-civilian-sectors-lacking/the-camaraderie-is-what-you-miss-the-most_482x323.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
-  People ask me what I miss about serving in the military.&nbsp; My answer &#8212; the camaraderie.
+  People, often, ask me what I miss about serving in the military&hellip;&nbsp; My answer &#8212; the camaraderie.
 </p>
 <p>
   All this craziness going on within our country makes me want to go back into the military.&nbsp; Asian, black, disabled, female, from big city or small town,
@@ -70,8 +85,8 @@ title: "Camaraderie's One Trait the Civilian Sector's Lacking"
   In the military, you work together, train together, patrol together, fight together &#8212; you do everything together.&nbsp; Doing this for a career,
   instills a strong sense of community and shared experiences that's bonded by trust.&nbsp; I can go years without seeing a military friend and immediately know
   that he/she has my back if I needed the help.&nbsp; Some friends will help you move out of your apartment, but others will help you bury a body.&nbsp; This is
-  a common military <a href="http://en.wikipedia.org/wiki/Dysphemism" rel="external" target="_blank" title="">dyphemistic</a> point&hellip;&nbsp; I don't ever
-  intend to be in a situation where I have to bury someone or something.
+  a common military <a href="{{ site.url }}{{ page.url }}#cite-dysphemism" rel="me" title="Dysphemism">dyphemistic</a> point&hellip;&nbsp; I don't ever intend
+  to be in a situation where I have to bury someone or something.
 </p>
 <p>
   This shared sense of camaraderie is crucial in picking teams that endure tough endeavors.&nbsp; This may be more of a positive consequence of being from the
