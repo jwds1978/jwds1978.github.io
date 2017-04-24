@@ -43,14 +43,14 @@ layout: default
   </div>
   <p style="font-size: smaller;">
     &nbsp;<br />
-    Categories:
+    Categories:&nbsp;
     {% for cat in page.categories %}
-    &nbsp;<a class="p-category" href="{{ site.url }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>
+    <a class="p-category" href="{{ site.url }}/blog/categories/#{{ cat | slugify }}" rel="me">{{ cat }}</a>{% unless forloop.last %},{% endunless %}
     {% endfor %}
     &nbsp;<br />
-    Tags:
+    Tags:&nbsp;
     {% for tag in page.tags %}
-    &nbsp;<a class="p-category" href="{{ site.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>
+    <a class="p-category" href="{{ site.url }}/blog/tags/#{{ tag | slugify }}" rel="me">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
     {% endfor %}
   </p>
   {% if page.syndications %}
