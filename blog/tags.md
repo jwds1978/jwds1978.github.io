@@ -1,6 +1,5 @@
 ---
 comments: true
-fontAwesome: true
 liMarquee: true
 title: "Blog (Tags)"
 ---
