@@ -29,10 +29,6 @@ title: "Children Should Never Witness War"
   War created by shitty adults who can't get along &#8212; simply put.&nbsp; This video breaks my heart &#8212; as this little boy just sits patiently, waiting
   to be treated for his injuries.
 </p>
-<!-- excerptBreak -->
-<iframe
-  allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/vQptcBOJD7o?rel=0"
-  style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 <p>
   This is the type of fucking shit that's still going on around the world&hellip;&nbsp; And, sadly, it may never see an end either.&nbsp; However, children
   should never have to bear witness to war created by adults.&nbsp; Never take for granted what we have here in Canada.&nbsp; Protect your children, because
@@ -41,3 +37,7 @@ title: "Children Should Never Witness War"
   grows up to help others who've witnessed war first-hand as a child themselves.&nbsp; Although this little boy will struggle for many years, for what he's
   witnessed and endured during these young years of his life, I can only hope tat he may grow to believe that war will never be the answer.
 </p>
+<!-- excerptBreak -->
+<iframe
+  allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/vQptcBOJD7o?rel=0"
+  style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
