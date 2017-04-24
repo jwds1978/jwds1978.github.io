@@ -181,7 +181,6 @@ title: Social
     YouTube
     <ul>
       <li>
-        <a href="https://www.youtube.com/channel/UCEvgM-VbahDYiKx_UK1ZHnw" rel="me" target="_blank" title="James Stewart">James Stewart</a><br />
         <div class="g-ytsubscribe" data-channelid="UCEvgM-VbahDYiKx_UK1ZHnw" data-count="default" data-layout="full" data-theme="dark"></div>
       </li>
     </ul>
