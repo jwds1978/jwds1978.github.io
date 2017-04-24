@@ -51,6 +51,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154250115767084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/856603954553159680"
+    text: Twitter
+    title: Twitter
 tags:
   - Law
   - MyCAF
@@ -74,6 +81,7 @@ title: "The Best Pistol for Canada"
   rejoicing by the forces for Philippine independence &#8212; as represented by the First Philippine Republic &#8212; until, it became obvious, that the force
   of some 11,000 United States ground troops sent to the Philippines intended to stay.
 </p>
+<!-- excerptBreak -->
 <p>
   The Philippine–American War lasted from 04 February 1899 to 02 July 1902.&nbsp; At the same time, United States forces were engaged with the Moro Rebellion
   (1899 &#8211; 1913)&hellip;&nbsp; A conflict between Moro indigenous Muslim ethnic groups and the United States military, which took place in the southern
