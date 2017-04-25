@@ -29,13 +29,14 @@ citations:
     slug: "joomla-downloads"
 comments: true
 date: "2017-04-20 16:24:04 America/Toronto"
-last_modified_at: "2017-04-20 16:24:04 America/Toronto"
+last_modified_at: "2017-04-25 16:19:59 America/Toronto"
 layout: post
 location:
   altitude: 265
   latitude: 46.5088417
   longitude: -80.99389309999998
   text: "The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada"
+modifiedReason: "Added YouTube Video"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154239967272084"
     text: Facebook
@@ -389,7 +390,11 @@ title: "How to Create a Web Site in 2017"
   choose one that will suit your individual needs.&nbsp; For this article, I decided to use the
   <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> theme.&nbsp; The reason is
   simple&hellip;&nbsp; <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> is a
-  multi-purpose theme.&nbsp; So, it usually works for varying Web site topics.
+  multi-purpose theme.&nbsp; So, it usually works for varying Web site topics.<br />
+  &nbsp;<br />
+  <iframe
+    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/8NYJFSWZlmI?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
   I'm going to create a Web site using the
