@@ -86,8 +86,11 @@ comments: true
 </h3>
 <ul>
   <li>
-    <img
-      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right; margin-left: 10px;" width="117" />
+    <a href="{{ site.uri.shortURL }}/Anonymous-Ads" rel="external" target="_blank" title="Anonymous Ads">
+      <img
+        alt="" height="40" src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right; margin-left: 10px;"
+        width="117" />
+    </a>
     <a href="{{ site.uri.shortURL }}/Anonymous-Ads" rel="external" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
     <ul>
       <li>
@@ -119,7 +122,10 @@ comments: true
     </ul>
   </li>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Cryptopay_328x040.png" style="border: 0px; float: right; margin-left: 10px;" width="328" />
+    <a href="{{ site.uri.shortURL }}/Cryptopay" rel="external" target="_blank" title="Cryptopay">
+      <img
+        alt="" height="40" src="{{ site.uri.assets }}/naked/images/Cryptopay_328x040.png" style="border: 0px; float: right; margin-left: 10px;" width="328" />
+    </a>
     <a href="{{ site.uri.shortURL }}/Cryptopay" rel="external" target="_blank" title="Cryptopay">Cryptopay</a>
     <ul>
       <li>
@@ -128,7 +134,9 @@ comments: true
     </ul>
   </li>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right; margin-left: 10px;" width="286" />
+    <a href="{{ site.uri.shortURL }}/FastMail" rel="external" target="_blank" title="FastMail">
+      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right; margin-left: 10px;" width="286" />
+    </a>
     <a href="{{ site.uri.shortURL }}/FastMail" rel="external" target="_blank" title="FastMail">FastMail</a>
     <ul>
       <li>
@@ -159,7 +167,9 @@ comments: true
     </ul>
   </li>
   <li>
-    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right; margin-left: 10px;" width="271" />
+    <a href="{{ site.uri.shortURL }}/LastPass" rel="external" target="_blank" title="LastPass">
+      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right; margin-left: 10px;" width="271" />
+    </a>
     <a href="{{ site.uri.shortURL }}/LastPass" rel="external" target="_blank" title="LastPass">LastPass</a>
     <ul>
       <li>
