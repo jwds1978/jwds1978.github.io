@@ -44,7 +44,7 @@ tags:
 title: "Static Site Generation"
 ---
 
-<h3>
+<h3 id="what-is-static-site-generation">
   What is static site generation?
 </h3>
 <!-- excerptBreak -->
@@ -116,7 +116,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="middleman-a-ruby-gem">
   Middleman:&nbsp; A Ruby Gem
 </h3>
 <ul>
@@ -164,7 +164,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="why-bother">
   Why bother?
 </h3>
 <ol>
@@ -184,7 +184,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="motivation-1-visual-identity">
   Motivation <sup>#</sup>1:&nbsp; Visual Identity
 </h3>
 <ul>
@@ -217,7 +217,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="erb-embedded-ruby">
   ERb:&nbsp; Embedded Ruby
 </h3>
 <ul>
@@ -284,7 +284,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="generation-of-site">
   Generation of Site
 </h3>
 <ul>
@@ -313,7 +313,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="partials">
   Partials
 </h3>
 <ul>
@@ -353,7 +353,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="generation-of-site-with-partials">
   Generation of Site with Partials
 </h3>
 <ul>
@@ -383,7 +383,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="tricks-with-partials">
   Tricks with Partials
 </h3>
 <ul>
@@ -407,7 +407,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="problem">
   Problem
 </h3>
 <ul>
@@ -440,7 +440,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="solution-layout">
   Solution:&nbsp; Layout
 </h3>
 <ul>
@@ -479,7 +479,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="page-specific-data-in-layout">
   Page-Specific Data in Layout
 </h3>
 <ul>
@@ -522,7 +522,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="generation-of-site-with-layouts">
   Generation of Site with Layouts
 </h3>
 <ul>
@@ -548,7 +548,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="motive-2-improved-syntax">
   Motive <sup>#</sup>2:&nbsp; Improved Syntax
 </h3>
 <ul>
@@ -590,7 +590,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="markdown">
   Markdown
 </h3>
 <ul>
@@ -626,7 +626,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="css-limitations">
   CSS Limitations
 </h3>
 <ul>
@@ -666,7 +666,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="motive-3-content-generation">
   Motive <sup>#</sup>3:&nbsp; Content Generation
 </h3>
 <ul>
@@ -707,7 +707,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="more-helper-functions">
   More Helper Functions
 </h3>
 <ul>
@@ -733,7 +733,7 @@ title: "Static Site Generation"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="summary">
   Summary
 </h3>
 <ul>

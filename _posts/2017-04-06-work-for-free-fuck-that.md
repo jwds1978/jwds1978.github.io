@@ -88,7 +88,7 @@ title: "Work for Free; Fuck That"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="get-your-brand-recognized">
   &quot;Get Your Brand Recognized&quot;
 </h3>
 <p>
@@ -118,7 +118,7 @@ title: "Work for Free; Fuck That"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="were-digging-your-style">
   &quot;We're Digging Your Style&quot;
 </h3>
 <p>
@@ -149,7 +149,7 @@ title: "Work for Free; Fuck That"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="if-the-deal-goes-ahead-there-will-be-money-in-it-for-you">
   &quot;If the Deal Goes Ahead, There Will Be Money In It for You&quot;
 </h3>
 <p>
@@ -184,7 +184,7 @@ title: "Work for Free; Fuck That"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="no-budget-for-music">
   &quot;No Budget for Music&quot;
 </h3>
 <p>

@@ -90,7 +90,7 @@ title: "How to Get the Most of Affiliate Programs"
 <img
   alt="" height="288" src="{{ site.uri.assets }}/blog/2017/04/13/how-to-get-the-most-of-affiliate-programs/affiliate-marketing_482x288.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
-<h3>
+<h3 id="whats-affiliate-marketing">
   What's affiliate marketing?
 </h3>
 <p>
@@ -163,7 +163,7 @@ title: "How to Get the Most of Affiliate Programs"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="what-to-consider-when-selecting-an-affiliate-program">
   What to Consider when Selecting an Affiliate Program
 </h3>
 <p>
@@ -249,7 +249,7 @@ title: "How to Get the Most of Affiliate Programs"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="top-3-affiliate-programs">
   Top 3 Affiliate Programs
 </h3>
 <p>
@@ -729,7 +729,7 @@ title: "How to Get the Most of Affiliate Programs"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="conclusion">
   Conclusion
 </h3>
 <p>

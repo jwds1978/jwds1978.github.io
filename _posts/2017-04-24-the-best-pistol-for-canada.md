@@ -96,7 +96,7 @@ title: "The Best Pistol for Canada"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="colt-model-1878-revolver">
   Colt Model 1878 Revolver
 </h3>
 <p>
@@ -109,7 +109,7 @@ title: "The Best Pistol for Canada"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="colt-model-1911-pistol">
   Colt Model 1911 Pistol
 </h3>
 <p>
@@ -125,7 +125,7 @@ title: "The Best Pistol for Canada"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="browning-hi-power">
   Browning Hi-Power
 </h3>
 <p>

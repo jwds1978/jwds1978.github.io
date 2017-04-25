@@ -99,7 +99,7 @@ tags:
 title: "How to Blog"
 ---
 
-<h3>
+<h3 id="trying-to-learn-how-to-blog">
   Trying To Learn How To Blog?
 </h3>
 <h6>
@@ -150,7 +150,7 @@ title: "How to Blog"
 <img
   alt="" height="221" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-02_482x221.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
-<h3>
+<h3 id="step-one-decide-on-your-blog-topic">
   Step One:&nbsp; Decide on Your Blog Topic
 </h3>
 <p>
@@ -210,8 +210,8 @@ title: "How to Blog"
 <img
   alt="" height="299" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/WordPress_482x299.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
-<h3>
-  Step Two:&nbsp; Set Up a Content Management System
+<h3 id="step-two-set-up-a-content-management-system">
+  Step Two:&nbsp; Set-Up a Content Management System
 </h3>
 <p>
   Next, it's time to decide on a content management system (CMS).&nbsp; This is where things can become a bit confusing for the first-time blogger.&nbsp; But
@@ -304,7 +304,7 @@ title: "How to Blog"
 <img
   alt="" height="322" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-03_482x322.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
-<h3>
+<h3 id="step-three-start-blogging">
   Step Three: Start Blogging!
 </h3>
 <p>
@@ -383,8 +383,8 @@ title: "How to Blog"
 <img
   alt="" height="270" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-04_482x270.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
-<h3>
-  Step Four:&nbsp; Optimize (And Monetize) Your Blog
+<h3 id="step-four-optimize-and-monetize-your-blog">
+  Step Four:&nbsp; Optimize &#8212; and, Monetize &#8212; Your Blog
 </h3>
 <p>
   Okay, so now you've got a better handle on how to create your blog and publish new posts, but how do you go about actually making money off your blog?&nbsp;
@@ -505,7 +505,7 @@ title: "How to Blog"
 <img
   alt="" height="271" src="{{ site.uri.assets }}/blog/2017/03/30/how-to-blog/Image-05_482x271.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
-<h3>
+<h3 id="step-five-build-your-social-strategy">
   Step Five:&nbsp; Build Your Social Strategy
 </h3>
 <p>

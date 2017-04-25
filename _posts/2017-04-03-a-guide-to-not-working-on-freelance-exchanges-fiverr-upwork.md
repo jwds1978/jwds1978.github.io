@@ -172,7 +172,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="question-everything">
   Question Everything
 </h3>
 <p>
@@ -203,7 +203,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="how-great-clients-are-born">
   How Great Clients are Born
 </h3>
 <p>
@@ -242,8 +242,8 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
-  We're all 'identicalancers'
+<h3 id="were-all-indenticalancers">
+  We're all &quot;identicalancers&quot;
 </h3>
 <p>
   On freelancer exchanges, there isn't a whole lot of room to develop a central presence which is tailored to your style and message.&nbsp; Instead, we're
@@ -253,7 +253,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="no-control-over-client-market">
   No Control over Client Market
 </h3>
 <p>
@@ -267,8 +267,8 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
-  A Lack of 'Discovery' Opportunities
+<h3 id="a-lack-of-discovery-oppotunities">
+  A Lack of &quot;Discovery&quot; Opportunities
 </h3>
 <p>
   One of the key traits of the effortlessly-successful freelancer is their ability to really immerse themselves in the client's vision.&nbsp; To work diligently
@@ -282,7 +282,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="a-restrictive-platform">
   A Restrictive Platform
 </h3>
 <p>
@@ -298,7 +298,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="inability-to-start-a-non-sales-relationship">
   Inability to Start a non-Sales Relationship
 </h3>
 <p>
@@ -313,7 +313,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="no-opportunity-to-demonstrate-flair-with-a-proposal">
   No Opportunity to Demonstrate Flair with a Proposal
 </h3>
 <p>
@@ -327,7 +327,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="a-project-mentality-not-a-partnership-one">
   A Project Mentality; Not a Partnership One
 </h3>
 <p>
@@ -354,7 +354,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="in-summary">
   In Summary
 </h3>
 <p>

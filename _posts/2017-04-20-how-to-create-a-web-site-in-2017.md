@@ -92,7 +92,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="how-to-choose-a-web-site-platform">
   How to Choose a Web Site Platform
 </h3>
 <p>
@@ -135,7 +135,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="the-better-cms">
   The Better CMS
 </h3>
 <p>
@@ -238,7 +238,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="choosing-a-domain-and-web-hosting">
   Choosing a Domain and Web Hosting
 </h3>
 <p>
@@ -289,7 +289,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="how-to-get-a-domain-and-web-hosting">
   How to Get a Domain and Web Hosting
 </h3>
 <p>
@@ -364,7 +364,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="how-to-create-a-web-site-with-wordpress">
   How to Create a Web Site with WordPress
 </h3>
 <p>
@@ -608,7 +608,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="how-to-create-a-web-site-with-joomla">
   How to Create a Web Site with Joomla!
 </h3>
 <p>
@@ -778,7 +778,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="how-to-create-a-web-site-with-drupal">
   How to Create a Web Site with Drupal
 </h3>
 <p>
@@ -899,7 +899,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="conclusion">
   Conclusion
 </h3>
 <p>
