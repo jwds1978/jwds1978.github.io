@@ -29,14 +29,14 @@ citations:
     slug: "joomla-downloads"
 comments: true
 date: "2017-04-20 16:24:04 America/Toronto"
-last_modified_at: "2017-04-25 16:19:59 America/Toronto"
+last_modified_at: "2017-04-25 16:46:24 America/Toronto"
 layout: post
 location:
   altitude: 265
   latitude: 46.5088417
   longitude: -80.99389309999998
   text: "The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada"
-modifiedReason: "Added YouTube Video"
+modifiedReason: "Added YouTube Video for Power Builder"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154239967272084"
     text: Facebook
@@ -474,7 +474,12 @@ title: "How to Create a Web Site in 2017"
 <p>
   You'll be redirected to the Web page with the power builder.&nbsp; That's my favourite tool which helps you to customize your Web site by simply moving around
   the block of content from within the builder itself.&nbsp; I'm happy that
-  <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> includes the power builder.
+  <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> includes the power
+  builder.<br />
+  &nbsp;<br />
+  <iframe
+    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/XgfsP79dkzA?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
   I removed the slider from the header section of the Web site and decided to go with one image at the top.&nbsp; Once you've removed the slider itself, you'll
