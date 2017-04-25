@@ -97,7 +97,7 @@ title: "Blog (Categories)"
               <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
             </span>
             Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time><br />
-            Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% else %}N/A{% endif %}<br />
+            Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% if post.modifiedReason and post.modifiedReason != blank %}&nbsp; <sup>{{ post.modifiedReason | escape }}</sup>{% endif %}{% else %}N/A{% endif %}<br />
             Location:&nbsp; {% if post.location %}<span class="h-geo p-location"><data class="p-altitude" value="{{ post.location.altitude }}"></data><data class="p-latitude" value="{{ post.location.latitude }}"></data><data class="p-longitude" value="{{ post.location.longitude }}"></data><a href="{{ site.uri.googleMaps }}/{{ post.location.latitude }},{{ post.location.longitude }}" rel="external" target="_blank" title="{{ post.location.latitude }}, {{ post.location.longitude }}">{{ post.location.text }}</a></span>{% else %}N/A{% endif %}
           </h6>
           <blockquote class="p-summary">

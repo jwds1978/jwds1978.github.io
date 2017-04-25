@@ -12,6 +12,7 @@ location:
   latitude: 46.4998513
   longitude: -80.96398699999997
   text: "Tim Hortons, 1003 Kingsway, Sudbury, Ontario, P3B 2E6, Canada"
+modifiedReason: Spelling
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154112438607084"
     text: Facebook

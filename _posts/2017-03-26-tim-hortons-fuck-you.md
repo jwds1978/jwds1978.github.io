@@ -26,6 +26,7 @@ location:
   latitude: 46.4922063
   longitude: -80.99056200000001
   text: "Tim Hortons, 196 Cedar St., Sudbury, Ontario, P3E 1B4, Canada"
+modifiedReason: Grammar
 tags:
   - Food
   - Health

@@ -25,6 +25,7 @@ location:
   latitude: 
   longitude: 
   text: 
+modifiedReason: 
 syndications:
   - href: 
     text: 
