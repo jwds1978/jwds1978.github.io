@@ -234,7 +234,7 @@ title: "The Best Pistol for Canada"
 <p>
   The Forces will have to provide a Statement of Requirements (SOR) to start the process.&nbsp; This will be the opportunity to exhaustively explore issues
   such as the need for a Picatinny-style rail, suitability for suppressor attachment, and magazine capacity.&nbsp; This in-turn leads to a discussion of
-  calibe&hellip;&#8212; And, surely, no discussion of handgun caliber could be complete without a mention of the
+  caliber&hellip;&nbsp; And, surely, no discussion of handgun caliber could be complete without a mention of the
   <a href="{{ site.url }}{{ page.url }}#cite-sirius-dog-sled-patrol" rel="me" title="Sirius Dog Sled Patrol">Sirius Dog Sled Patrol</a> and the need to fend-off
   polar bears.&nbsp; This will, undoubtedly, raise the question in some quarters as to why the government is endangering already endangered species with its
   decisions.
