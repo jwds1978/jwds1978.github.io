@@ -4,6 +4,27 @@ categories:
   - Innominate
   - "Living and Leisure"
   - News
+citations:
+  - author: "Queen's Printer for Ontario"
+    date:
+      accessed: "2017-02-16 08:33:51 America/Toronto"
+    href: "https://www.ontario.ca/page/accessibility-laws"
+    name: "Ontario :: Accessibility Laws"
+    slug: "ontario-accessibility-laws"
+  - author: "Innominate"
+    date:
+      accessed: "2017-02-16 09:38:47 America/Toronto"
+      published: "2010 America/Toronto"
+    href: "http://www.themission.ca"
+    name: "The Elgin Street Mission"
+    slug: "the-elgin-street-mission"
+  - author: "Innominate"
+    date:
+      accessed: "2017-02-16 10:41:45 America/Toronto"
+      published: "2010 America/Toronto"
+    href: "http://www.themission.ca/about/index.php"
+    name: "About :: The Elgin Street Mission"
+    slug: "about-the-elgin-street-mission"
 comments: true
 date: "2017-02-16 11:44:43 America/Toronto"
 last_modified_at: "2017-02-18 16:07:43 America/Toronto"
@@ -32,6 +53,13 @@ tags:
 title: "Accessibility at The Elgin Street Mission"
 ---
 
+<!--sse-->
+<!--
+  ~ NAME «» ALIAS
+  ~
+  ~ Gerry «» Bohen, Raul
+  -->
+<!--/sse-->
 <p>
   This morning, around about 0730, I experienced discrimination, ignorance, and utter stupidity&hellip;
 </p>
@@ -54,11 +82,12 @@ title: "Accessibility at The Elgin Street Mission"
 </p>
 <p>
   If you're not familiar with the accessibility laws in Ontario, have a look
-  <a href="https://www.ontario.ca/page/accessibility-laws" rel="external" target="_blank" title="Ontario :: Accessibility Laws">here</a>.&nbsp;
-  The laws are pretty clear regarding this sort of thing.
+  <a href="{{ site.url }}{{ page.url }}#cite-ontario-accessibility-laws" rel="me" title="Ontario :: Accessibility Laws">here</a>.&nbsp; The laws are pretty
+  clear regarding this sort of thing.
 </p>
 <p>
-  With that said, I was at <a href="http://www.themission.ca" rel="external" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a> this morning for
+  With that said, I was at
+  <a href="{{ site.url }}{{ page.url }}#cite-the-elgin-street-mission" rel="me" title="The Elgin Street Mission">The Elgin Street Mission</a> this morning for
   breakfast.&nbsp; While there, nature called, and I intended to answer.&nbsp; The door for the accessible washroom was locked.&nbsp; So, I went and asked the
   staff to open the door for me as I needed to use the washroom.&nbsp; I walked back to the washrooms with the staff.&nbsp; We'll call him Raul Bohen.
 </p>
@@ -78,12 +107,12 @@ title: "Accessibility at The Elgin Street Mission"
   </a>
 </p>
 <p>
-  At this point, I've really got to go and feel like I'm going to shit myself; literally.&nbsp; I follow him back into the main area and ask the other staff to
-  let me in to the washroom as I'm going to shit myself and need to go.&nbsp; They also tell me that they can't let me in&hellip;&nbsp; Apparently, I'm not
-  disabled enough for them, and should essentially leave the premise.
+  At this point, I've really got to go and feel like I'm about to shit myself &#8212; literally.&nbsp; I follow him back into the main area and ask the other
+  staff to let me in to the washroom as I'm going to shit myself and need to go.&nbsp; They also tell me that they can't let me in&hellip;&nbsp; Apparently,
+  I'm not disabled enough for them, and should essentially leave the premise.
 </p>
 <p>
-  Now, needless to say, I'm fucking pissed off at that point.&nbsp; But, I still have to relieve myself though.&nbsp; So, I hobble on over to Tom Davies Centre
+  Now, needless to say, I'm fucking pissed-off at that point.&nbsp; But, I still have to relieve myself though.&nbsp; So, I hobble on over to Tom Davies Centre
   and use their accessible facilities.&nbsp; All the while, I was just hoping that I'd not shit myself as I'm hobbling as fast as I can to get there.
 </p>
 <p>
@@ -96,8 +125,9 @@ title: "Accessibility at The Elgin Street Mission"
   feeling that nobody there gives a fuck about what had happened to me, the complete and utter degredation of myself, and/or the laws regarding accessibilty.
 </p>
 <p>
-  Below, is an excerpt from <a href="http://www.themission.ca/about/index.php" rel="external" target="_blank" title="">their about Web page</a>.&nbsp; Take
-  special note of the text which I've marked.&nbsp; After this morning, I'd have to say, I agree with the marked portion whole-fucking-heartedly.
+  Below, is an excerpt from
+  <a href="{{ site.url }}{{ page.url }}#cite-about-the-elgin-street-mission" rel="me" title="About :: The Elgin Street Mission">their about Web page</a>.&nbsp;
+  Take special note of the text which I've marked.&nbsp; After this morning, I'd have to say, I agree with the marked portion whole-fucking-heartedly.
   <blockquote>
     The Elgin Street Mission is a place of refuge for those who need hope, encouragement, nourishment to their bodies and also to their souls.&nbsp; We are here
     to feed and clothe those who have nowhere else to go and <mark>we are no respecter of persons</mark>, if your hungry we feed you, if your cold we clothe

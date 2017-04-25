@@ -3,6 +3,14 @@ categories:
   - Innominate
   - "Living and Leisure"
   - News
+citations:
+  - author: "Innominate"
+    date:
+      accessed: "2017-02-20 19:21:06 America/Toronto"
+      published: "2010 America/Toronto"
+    href: "http://www.themission.ca"
+    name: "The Elgin Street Mission"
+    slug: "the-elgin-street-mission"
 comments: true
 date: "2017-02-20 19:42:13 America/Toronto"
 last_modified_at: "2017-02-20 19:42:13 America/Toronto"
@@ -28,9 +36,18 @@ tags:
 title: "The Stupid, It Burns"
 ---
 
+<!--sse-->
+<!--
+  ~ NAME «» ALIAS
+  ~
+  ~ «» Koch-weser, Pip
+  ~ Darcy «» Pincus, Heath
+  ~ Ron «» Chackel, Ric
+  -->
+<!--/sse-->
 <p>
   There are some really ignorant fucktards working at
-  <a href="http://www.themission.ca" rel="external" target="_blank" title="The Elgin Street Mission">The Elgin Street Mission</a>.&nbsp;
+  <a href="{{ site.url }}{{ page.url }}#cite-the-elgin-street-mission" rel="me" title="The Elgin Street Mission">The Elgin Street Mission</a>.&nbsp;
   I have a zero-tolerance for stupid&hellip;&nbsp; It took a lot for me to not beat the stupid out of some shitbag staff tonight.&nbsp; We'll call him Pip
   Koch-weser.
 </p>
@@ -61,5 +78,5 @@ title: "The Stupid, It Burns"
   <a href="{{ site.url }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission" rel="me" title="Accessibility at The Elgin Street Mission">
     what happened the other day
   </a>.&nbsp;
-  That place needs to unfuck itself right fucking swift-like.
+  That place needs to unfuck itself &#8212; right fucking swift-like.
 </p>
