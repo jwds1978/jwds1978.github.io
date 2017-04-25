@@ -70,7 +70,7 @@ citations:
     slug: "why-do-people-abuse"
 comments: true
 date: "2017-04-21 15:00:55 America/Toronto"
-last_modified_at: "2017-04-23 13:00:32 America/Toronto"
+last_modified_at: "2017-04-24 20:39:42 America/Toronto"
 layout: post
 location:
   altitude: 266
@@ -143,7 +143,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 </p>
 <p>
   Claire was, at this point, now staying at a woman's shelter.&nbsp; Some time later, the CMHA staff alerted me to the fact that Claire was in the ER &#8212;
-  she'd attempted suicide.&nbsp; They'd asked me about giving her a ride from the hostpital to the shelter.&nbsp; As I'd recently sold my car, and not knowing
+  she'd attempted suicide.&nbsp; They'd asked me about giving her a ride from the hospital to the shelter.&nbsp; As I'd recently sold my car, and not knowing
   certain things at the time, I called a friend whom we'll call Usher Kline.&nbsp; I asked him to immediately, regardless of whatever he may be doing at the
   time, go to the ER and fetch Claire; bringing her to the shelter where I'd meet them.&nbsp; Had I known then, what I now know of Usher, I'd never have even
   considered sending him to meet her.
@@ -172,7 +172,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   In the car with Usher, when I'd called him that evening to pick-up Claire at the ER, was another friend, whom I'll call Darrell Rasmussen.&nbsp; While he
-  didn't readily tell me anything until just a few days ago, he witnessed Usher rubbing all up on Claire at the hstpital.&nbsp; She's just tried to kill
+  didn't readily tell me anything until just a few days ago, he witnessed Usher rubbing all up on Claire at the hospital.&nbsp; She's just tried to kill
   herself, is confused and crying, and he's trying to feel her the fuck up.&nbsp; Darrell tells me that he felt very uneasy, and was creeped-the-fuck-out when
   he witnessed this, but didn't say anything though &#8212; the problem with the &quot;it's not my problem&quot; mentality.&nbsp; Nevertheless, Darrell did
   eventually tell me what he'd seen anyhow.&nbsp; There were, seemingly, several other instances of some inappropriate behaviour from Usher that Darrell had
@@ -226,7 +226,7 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
   new information, I wasn't going to waste my time out in the cold rain nor getting sick for her to just never show up.
 </p>
 <p>
-  Almost 48 hours had past since we were to meet, and I'd not been able to get ahold of her.&nbsp; At that point, I was extremely concerned for her safety and
+  Almost 48 hours had passed since we were to meet, and I'd not been able to get ahold of her.&nbsp; At that point, I was extremely concerned for her safety and
   well-being.&nbsp; I sent her another text message, advising her that if I didn't hear from her that she was safe, I'd go to the police and request for them to
   do a personal well-being check on her.&nbsp; I gave it several more hours, and having still not heard anything from her, I (along with Aaron and Darrell) went
   to the police station.
@@ -248,16 +248,16 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 </p>
 <p>
   Honestly, I'd expected for Claire to possibly be mad at me for going to the police.&nbsp; However, her safety and well-being is of primary importance to
-  me.&nbsp; She can be mad at me all she wants&hellip;&nbsp; While she may be mad, but she'd be safe.&nbsp; What kind of a friend would I be, had I done
-  nothing, and something were to have happened to her &#8212; something that could've been prevented?&nbsp; Having told me the things that she did, I couldn't
-  just assume her safety; it had to be verified&hellip;&nbsp; The last thing that I'd heard from her was about contemplating suicide, then she disappeared off
-  the face of the fucking Earth for days, and never showed where we were to meet-up.&nbsp; Anything could've happened to her.
+  me.&nbsp; She can be mad at me all she wants&hellip;&nbsp; While she may be mad, she'd be safe.&nbsp; What kind of a friend would I be, had I done nothing,
+  and something were to have happened to her &#8212; something that could've been prevented?&nbsp; Having told me the things that she did, I couldn't just
+  assume her safety; it had to be verified&hellip;&nbsp; The last thing that I'd heard from her was about contemplating suicide, then she disappeared off the
+  face of the fucking Earth for days, and never showed where we were to meet-up.&nbsp; Anything could've happened to her.
 </p>
 <p>
   If you're reading this, Claire, be as mad at me as you like; it doesn't bother me.&nbsp; You know the state that you were in&hellip;&nbsp; You know the things
   that you'd said to me.&nbsp; You made some bold and serious statements regarding both yourself and Usher.&nbsp; Having been a true friend to you, you
   should've expected nothing less from me, than to one-way-or-another ensure your safety.&nbsp; In time, perhaps, you'll remove your head from your arse and
-  realize this&hellip;&nbsp; At this point, I can only hope that you stay safe and wish you the best in life.
+  realize this&hellip;&nbsp; At this point, I can only hope that you stay safe and wish you only the best in life.
 </p>
 <p>
   &nbsp;
