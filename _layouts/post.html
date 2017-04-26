@@ -5,6 +5,7 @@ layout: default
 {% capture pageAuthors %}{{ page.author | default: site.author }}{% endcapture %}
 {% capture pageDatePublished %}{{ page.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
 {% capture pageDateModified %}{{ page.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
+{% capture pageURI %}{{ site.url }}{{ page.url }}{% endcapture %}
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 
 {% if page.adsDisplay != false %}
@@ -83,6 +84,27 @@ layout: default
   </p>
   {% endif %}
 </article>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+<p style="font-size: smaller; text-align: center;">
+  Share to:&nbsp;
+  <a href="https://www.facebook.com/sharer.php?t={{ page.title | uri_escape }}&u={{ pageURI | uri_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook
+  </a>&nbsp;
+  &bull;&nbsp; <a href="https://plus.google.com/share?url={{ pageURI | uri_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-google-plus-official"></i> Google+
+  </a>&nbsp;
+  &bull;&nbsp; <a href="https://linkedin.com/shareArticle?mini=true&title={{ page.title | uri_escape }}&url={{ pageURI | uri_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-linkedin"></i> LinkedIn
+  </a>&nbsp;
+  &bull;&nbsp; <a href="https://reddit.com/submit?title={{ page.title | uri_escape }}&url={{ pageURI | uri_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit
+  </a>&nbsp;
+  &bull;&nbsp; <a href="https://twitter.com/share?text={{ page.title | uri_escape }}&url={{ pageURI | uri_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-twitter"></i> Twitter
+  </a>
+</p>
 {% if page.adsDisplay != false %}
 <p style="font-size: smaller;">
   &nbsp;
