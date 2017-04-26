@@ -58,7 +58,7 @@ title: "Get Comfortable with Being Uncomfortable"
   <ol style="list-style-type: decimal;">
     <li>
       Start
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           The first step is always the most uncomfortable&hellip;&nbsp; All you have to do is show up.&nbsp; The battle is half-won if you just show up.&nbsp; I
           get it &#8212; it's uncomfortable to start something.<br />
@@ -74,7 +74,7 @@ title: "Get Comfortable with Being Uncomfortable"
     </li>
     <li>
       Don't quit.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           You've decided to start.&nbsp; You're not seeing results.&nbsp; It's difficult.&nbsp; You want to quit.&nbsp; It's OK.&nbsp; Just keep pushing
           forward.<br />
@@ -94,7 +94,7 @@ title: "Get Comfortable with Being Uncomfortable"
     </li>
     <li>
       Push yourself past your comfort zone.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           At some point, you're going to say to yourself, &quot;I've never done this before&quot; and/or &quot;I don't know what I'm doing&quot;.<br />
           &nbsp;<br />
@@ -106,7 +106,7 @@ title: "Get Comfortable with Being Uncomfortable"
     </li>
     <li>
       Embrace &quot;the suck&quot;.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           The situation is bad &#8212; deal with it.&nbsp; And, don't just deal with it &#8212; open your arms and welcome it, as you would an old friend.&nbsp;
           You know him well.<br />
@@ -123,7 +123,7 @@ title: "Get Comfortable with Being Uncomfortable"
     </li>
     <li>
       Be around like-mided people.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           Create a support network.&nbsp; Talk about your experiences.&nbsp; The worse the experience is to you, the better the story is to everyone else.<br />
           &nbsp;<br />
@@ -133,7 +133,7 @@ title: "Get Comfortable with Being Uncomfortable"
     </li>
     <li>
       Recognize your improvements.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           Track your progress&hellip;&nbsp; Revel in it.&nbsp; You're now a changed person.&nbsp; You know it, because you see it.&nbsp; Build your confidence
           by going back to what, before was uncomfortable, and go through the experience again.<br />
@@ -145,7 +145,7 @@ title: "Get Comfortable with Being Uncomfortable"
     </li>
     <li>
       Rinse&hellip;&nbsp; Repeat.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           There's an old Russian saying, &quot;povtorenie mat ucheniya&quot;, which means &quot;repetition is the mother of learning&quot;.<br />
           &nbsp;<br />

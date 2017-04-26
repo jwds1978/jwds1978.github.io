@@ -58,7 +58,7 @@ layout: default
   <p style="font-size: smaller;">
     &nbsp;<br />
     Syndicated to:
-    <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
+    <ul style="-moz-columns: 3; -webkit-columns: 3; columns: 3; list-style-position: inside;">
       {% for syndication in page.syndications %}
       <li>
         <a class="u-syndication" href="{{ syndication.href }}" rel="external syndication" target="_blank"{% if syndication.title != blank %} title="{{ syndication.title }}"{% endif %}>{{ syndication.text }}</a>

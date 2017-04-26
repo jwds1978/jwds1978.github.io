@@ -56,7 +56,7 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
   <ol style="list-style-type: decimal;">
     <li>
       Work on yourself.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           Ignore what everyone else is doing.&nbsp; I mean this &#8212; everyone.&nbsp; Stop paying attention to your competition.<br />
           &nbsp;<br />
@@ -71,7 +71,7 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
     </li>
     <li>
       Chip away at it.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           In CrossFit, there are workouts called &quot;chippers&quot;&hellip;&nbsp; I love them, and at the same time, I hate them.&nbsp; Most CrossFitters will
           tell you the same thing.&nbsp; It's because they push you into &quot;the suck&quot; and they keep you there.&nbsp; You just have to chip away.<br />
@@ -86,7 +86,7 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
     </li>
     <li>
       Set a routine.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           When you're on your knees, you can default to the routine&hellip;&nbsp; It will pull you along for the ride.&nbsp; Routine will set your
           rails&hellip;&nbsp; Keeping you moving in the right direction.<br />
@@ -101,7 +101,7 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
     </li>
     <li>
       Don't track a damn thing.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           Working on you, chipping away, and creating a routine aren't the same as succeeding.&nbsp; They're the steps on the road to success that you shouldn't
           judge.&nbsp; Allow yourself to resist tracking everything.<br />
@@ -114,7 +114,7 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
     </li>
     <li>
       If you mess up, stop.&nbsp; Then, get back to it.
-      <ul>
+      <ul style="list-style-type: none;">
         <li>
           No looking back&hellip;&nbsp; Don't over analyze.&nbsp; Just hit the reset button and get at it.
         </li>
