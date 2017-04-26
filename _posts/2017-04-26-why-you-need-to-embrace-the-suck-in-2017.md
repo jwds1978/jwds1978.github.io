@@ -6,20 +6,27 @@ categories:
 citations:
   - author: "James Stewart"
     date:
+      accessed: "2017-04-26 16:49:44 America/Toronto"
+      published: "2017-04-26 16:43:57 America/Toronto"
+    href: "https://forces.army/blog/2017/04/26/7-things-destroying-your-mental-enegery"
+    name: "7 Things Destroying Your Mental Energy :: Blog :: James W.D. Stewart"
+    slug: "7-things-destroying-your-mental-enegery-blog-james-w-d-stewart"
+  - author: "James Stewart"
+    date:
       accessed: "2017-04-26 11:07:52 America/Toronto"
     href: "https://forces.army/the-suck"
     name: "Embrace 'The Suck' :: James W.D. Stewart"
     slug: "embrace-the-suck-james-w-d-stewart"
 comments: true
 date: "2017-04-26 11:28:59 America/Toronto"
-last_modified_at: "2017-04-26 11:40:03 America/Toronto"
+last_modified_at: "2017-04-26 16:56:32 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
-modifiedReason: "Fixed the List Formatting"
+modifiedReason: "Added a Citation"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154254244412084"
     text: Facebook
@@ -47,8 +54,14 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
   </a>&quot;.
 </p>
 <p>
-  It's that threshold where your body breaks down and your mind takes over.&nbsp; If you're weak-minded and ready to quit, your body will follow suit.&nbsp; If
-  you're expecting &quot;the suck&quot;, then you welcome it &#8212; even, embrace it.&nbsp; You won't succumb to it &#8212; you push yourself through it.
+  It's that threshold where your body breaks down and
+  <a
+    href="{{ site.url }}{{ page.url }}#cite-7-things-destroying-your-mental-enegery-blog-james-w-d-stewart" rel="me"
+    title="7 Things Destroying Your Mental Energy :: Blog :: James W.D. Stewart">
+    your mind takes over
+  </a>.&nbsp;
+  If you're weak-minded and ready to quit, your body will follow suit.&nbsp; If you're expecting &quot;the suck&quot;, then you welcome it &#8212; even, embrace
+  it.&nbsp; You won't succumb to it &#8212; you push yourself through it.
 </p>
 <!-- excerptBreak -->
 <p>

@@ -28,6 +28,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154254866362084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/857335677310164997"
+    text: Twitter
+    title: Twitter
 tags:
   - Health
   - "How to"
@@ -52,6 +59,7 @@ title: "7 Things Destroying Your Mental Energy"
   Sometimes we just need more energy.&nbsp; Many of us get caught in a cycle of destruction.&nbsp; I've been there before.&nbsp; When I first became an
   entrepreneur, I was miserable.
 </p>
+<!-- excerptBreak -->
 <p>
   Here are 7 things that were killing my mental energy &#8212; and, some simple solutions that I've found &#8212; to help ensure that they don't slow me down:
   <ol style="list-style-type: decimal;">
