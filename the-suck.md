@@ -1,20 +1,27 @@
 ---
+liMarquee: true
 title: "Embrace 'The Suck'"
 ---
 
+<p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
+    Remember&hellip;&nbsp; Never give up &#8212; and, embrace &quot;the suck&quot;.
+</p>
+<p>
+  &nbsp;
+</p>
 {% include ads_responsive_468x060.htm %}
 <p>
   &nbsp;
 </p>
+<img
+  alt="" height="196" src="{{ site.uri.assets }}/naked/images/embrace-the-suck_336x196.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="336" />
 <p>
-  <img
-    alt="" height="196" src="{{ site.uri.assets }}/naked/images/embrace-the-suck_336x196.png"
-    style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="336" />
-    Embrace 'the suck'&hellip;&nbsp; It's a very Buddhist concept.
+  Embrace &quot;the suck&quot;&hellip;&nbsp; It's a very Buddhist concept.
 </p>
 <p>
   When we deny what reality is giving us, what is really happening, then we create suffering.&nbsp; So, life is a dance between minimizing expectations and
-  surrendering to what our lives actually reveal to us.&nbsp; By embracing our lives totally, even the stuff that 'sucks', we get through them.
+  surrendering to what our lives actually reveal to us.&nbsp; By embracing our lives totally, even the stuff that &quot;sucks&quot;, we get through them.
 </p>
 <p>
   The Forces have no other choice.&nbsp; If we're out in the Iraqi desert, or in the mountains of Afghanistan, the only way that we're going to get through
@@ -29,8 +36,8 @@ title: "Embrace 'The Suck'"
   stronger that these feelings will actually become.
 </p>
 <p>
-  Even though 'the suck' sucks, the prolonging of it makes it even suckier; and, for longer.&nbsp; If one doesn't square-up and face their discontent, they'll
-  just prolong the agony.
+  Even though &quot;the suck&quot; sucks, the prolonging of it makes it even suckier; and, for longer.&nbsp; If one doesn't square-up and face their discontent,
+  they'll just prolong the agony.
 </p>
 <p>
   Why does one do it?&nbsp; Habit.
@@ -38,7 +45,7 @@ title: "Embrace 'The Suck'"
 <p>
   In the long-term, one would be much happier, expressive, and creative if they rebooted their neural wiring and developed a different habit.&nbsp; But in the
   short-term, they're willing to sacrifice their long-term goals and possibilities because the moment would require them to let go of habits that keep them
-  stuck.&nbsp; The alternative is the unknown; which is scarier than 'the suck'.&nbsp; So they just hang on to the old neural wiring.
+  stuck.&nbsp; The alternative is the unknown; which is scarier than &quot;the suck&quot;.&nbsp; So they just hang on to the old neural wiring.
 </p>
 <p>
   The poet David Whyte says, &quot;Anything or anyone that does not bring you fully alive is too small for you&quot;.
@@ -53,13 +60,13 @@ title: "Embrace 'The Suck'"
   say things that are unkind to themselves, and that they don't agree with, but they say them anyhow.&nbsp; Simply, because they’re habituated.
 </p>
 <p>
-  One may be playing too small by the actions that they (don't) take.&nbsp; One may spend too much time on the phone&hellip;&nbsp; Drink too much&hellip;&nbsp;
-  Browse the Web unproductively.&nbsp; One may have a friend who's hurt them and they've not shared how they feel&hellip;&nbsp; One may stay in a job that
-  crushes their spirit.
+  One may be playing too small by the actions that they &#8212; don't &#8212; take.&nbsp; One may spend too much time on the phone&hellip;&nbsp; Drink too
+  much&hellip;&nbsp; Browse the Web unproductively.&nbsp; One may have a friend who's hurt them and they've not shared how they feel&hellip;&nbsp; One may stay
+  in a job that crushes their spirit.
 </p>
 <p>
-  All of this prolongs 'the suck'.&nbsp; Eliminating such things requires awareness of what 'sucks'.&nbsp; Then, no longer avoiding it.&nbsp; One embraces the
-  sucky quality to get to the other side&hellip; Transformation.
+  All of this prolongs &quot;the suck&quot;.&nbsp; Eliminating such things requires awareness of what &quot;sucks&quot;.&nbsp; Then, no longer avoiding
+  it.&nbsp; One embraces the sucky quality to get to the other side&hellip; Transformation.
 </p>
 <p>
   One can do it.&nbsp; If it's not making them fully alive, they've outgrown the need and/or pay-off of the thing anyway &#8212; whether that's an idea or
@@ -70,7 +77,7 @@ title: "Embrace 'The Suck'"
   It's how one was meant to feel.
 </p>
 <p>
-  One has just forgotten because they've gotten used to 'the suck'.
+  One has just forgotten because they've gotten used to &quot;the suck&quot;.
 </p>
 <p>
   &nbsp;
