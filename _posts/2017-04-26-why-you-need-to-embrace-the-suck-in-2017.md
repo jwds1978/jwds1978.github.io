@@ -12,13 +12,14 @@ citations:
     slug: "embrace-the-suck-james-w-d-stewart"
 comments: true
 date: "2017-04-26 11:28:59 America/Toronto"
-last_modified_at: "2017-04-26 11:28:59 America/Toronto"
+last_modified_at: "2017-04-26 11:40:03 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+modifiedReason: "Fixed the List Formatting"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154254244412084"
     text: Facebook
@@ -49,12 +50,13 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
   It's that threshold where your body breaks down and your mind takes over.&nbsp; If you're weak-minded and ready to quit, your body will follow suit.&nbsp; If
   you're expecting &quot;the suck&quot;, then you welcome it &#8212; even, embrace it.&nbsp; You won't succumb to it &#8212; you push yourself through it.
 </p>
+<!-- excerptBreak -->
 <p>
   Here are 5 steps for embracing &quot;the suck&quot;:
   <ol style="list-style-type: decimal;">
     <li>
+      Work on yourself.
       <ul>
-        Work on yourself.
         <li>
           Ignore what everyone else is doing.&nbsp; I mean this &#8212; everyone.&nbsp; Stop paying attention to your competition.<br />
           &nbsp;<br />
@@ -68,8 +70,8 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
       </ul>
     </li>
     <li>
+      Chip away at it.
       <ul>
-        Chip away at it.
         <li>
           In CrossFit, there are workouts called &quot;chippers&quot;&hellip;&nbsp; I love them, and at the same time, I hate them.&nbsp; Most CrossFitters will
           tell you the same thing.&nbsp; It's because they push you into &quot;the suck&quot; and they keep you there.&nbsp; You just have to chip away.<br />
@@ -83,8 +85,8 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
       </ul>
     </li>
     <li>
+      Set a routine.
       <ul>
-        Set a routine.
         <li>
           When you're on your knees, you can default to the routine&hellip;&nbsp; It will pull you along for the ride.&nbsp; Routine will set your
           rails&hellip;&nbsp; Keeping you moving in the right direction.<br />
@@ -98,8 +100,8 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
       </ul>
     </li>
     <li>
+      Don't track a damn thing.
       <ul>
-        Don't track a damn thing.
         <li>
           Working on you, chipping away, and creating a routine aren't the same as succeeding.&nbsp; They're the steps on the road to success that you shouldn't
           judge.&nbsp; Allow yourself to resist tracking everything.<br />
@@ -111,8 +113,8 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
       </ul>
     </li>
     <li>
+      If you mess up, stop.&nbsp; Then, get back to it.
       <ul>
-        If you mess up, stop.&nbsp; Then, get back to it.
         <li>
           No looking back&hellip;&nbsp; Don't over analyze.&nbsp; Just hit the reset button and get at it.
         </li>
