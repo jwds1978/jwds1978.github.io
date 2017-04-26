@@ -5,13 +5,14 @@ categories:
   - "Living and Leisure"
 comments: true
 date: "2017-04-26 12:47:17 America/Toronto"
-last_modified_at: "2017-04-26 12:47:17 America/Toronto"
+last_modified_at: "2017-04-26 13:00:38 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+modifiedReason: "Fixed the List Formatting"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154254401087084"
     text: Facebook
@@ -71,6 +72,7 @@ title: "Get Comfortable with Being Uncomfortable"
         </li>
       </ul>
     </li>
+    <li>
       Don't quit.
       <ul>
         <li>
@@ -90,6 +92,7 @@ title: "Get Comfortable with Being Uncomfortable"
         </li>
       </ul>
     </li>
+    <li>
       Push yourself past your comfort zone.
       <ul>
         <li>
@@ -101,6 +104,7 @@ title: "Get Comfortable with Being Uncomfortable"
         </li>
       </ul>
     </li>
+    <li>
       Embrace &quot;the suck&quot;.
       <ul>
         <li>
@@ -117,6 +121,7 @@ title: "Get Comfortable with Being Uncomfortable"
         </li>
       </ul>
     </li>
+    <li>
       Be around like-mided people.
       <ul>
         <li>
@@ -126,6 +131,7 @@ title: "Get Comfortable with Being Uncomfortable"
         </li>
       </ul>
     </li>
+    <li>
       Recognize your improvements.
       <ul>
         <li>
@@ -137,6 +143,7 @@ title: "Get Comfortable with Being Uncomfortable"
         </li>
       </ul>
     </li>
+    <li>
       Rinse&hellip;&nbsp; Repeat.
       <ul>
         <li>
