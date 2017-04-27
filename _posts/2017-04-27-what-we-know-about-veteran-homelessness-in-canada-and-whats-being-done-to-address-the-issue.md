@@ -1,21 +1,9 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - Entertainment
   - Innominate
   - "Living and Leisure"
   - News
-  - "Proving Ground"
-  - "Sports and Recreation"
 citations:
-  - author: ""
-    date:
-      accessed: "0000-00-00 00:00:00 America/Toronto"
-      published: "0000-00-00 00:00:00 America/Toronto"
-    href: ""
-    name: ""
-    slug: ""
   - author: "Innominate"
     date:
       accessed: "2017-04-27 06:41:32 America/Toronto"
@@ -28,6 +16,12 @@ citations:
     href: "http://www.budget.gc.ca/2013/doc/plan/chap3-5-eng.html#a58-Homelessness-Partnering-Strategy"
     name: "Budget 2013"
     slug: "budget-2013"
+  - author: "Armadillo Studios Inc."
+    date:
+      accessed: "2017-04-27 09:59:52 America/Toronto"
+    href: "http://www.canadianlegacy.org/housing"
+    name: "Canadian Legacy Project"
+    slug: "canadian-legacy-project"
   - author: "Innominate"
     date:
       accessed: "2017-04-27 07:15:50 America/Toronto"
@@ -65,76 +59,53 @@ citations:
     href: "https://www.canada.ca/en/employment-social-development/programs/communities/homelessness/understanding.html"
     name: "Understanding Homelessness and the Strategy"
     slug: "understanding-homelessness-and-the-trategy"
+  - author: "Veterans Affairs Canada"
+    date:
+      accessed: "2017-04-27 09:48:19 America/Toronto"
+    href: "http://www.veterans.gc.ca/eng/services/health/homeless/activities"
+    name: "VAC Support for Homeless Veterans"
+    slug: "vac-support-for-homeless-veterans"
+  - author: "The Royal Canadian Legion"
+    date:
+      accessed: "2017-04-27 10:05:01 America/Toronto"
+    href: "http://www.legion.ca/we-can-help"
+    name: "Veteran Services"
+    slug: "veteran-services"
+  - author: "Innominate"
+    date:
+      accessed: "2017-04-2709:43:15 America/Toronto"
+    href: "http://vetscanada.org"
+    name: "Veterans Emergency Transition Services"
+    slug: "veterans-emergency-transition-services"
+  - author: "Innominate"
+    date:
+      accessed: "2017-04-27 09:54:14 America/Toronto"
+    href: "https://woundedwarriors.ca"
+    name: "Wounded Warriors Canada"
+    slug: "wounded-warriors-canada"
 comments: true
-date: "0000-00-00 00:00:00 America/Toronto"
-last_modified_at: "0000-00-00 00:00:00 America/Toronto"
+date: "2017-04-27 10:14:39 America/Toronto"
+last_modified_at: "2017-04-27 10:14:39 America/Toronto"
 layout: post
 location:
-  altitude: 
-  latitude: 
-  longitude: 
-  text: ""
+  altitude: 266
+  latitude: 46.4955102
+  longitude: -80.99748220000004
+  text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
 tags:
- - Art
-  - Art
-  - Beauty
-  - Design
-  - Fashion
-  - "How to"
-  - Photography
-  - Writing
- - "Business and Tech"
-  - Business
-  - Career
-  - Finance
-  - Law
-  - "Real Estate"
-  - "Social Media"
-  - Tech
- - Entertainment
-  - Celebrity
-  - Comedy
-  - Entertainment
-  - Gaming
-  - "Movies and TV"
-  - Music
- - Innominate
-  - Innominate
-  - MyCAF
-  - "The Suck"
- - "Living and Leisure"
-  - Automotive
-  - Family
-  - Food
-  - Good
-  - Health
-  - "Higher Power"
-  - Home
   - Lifestyle
-  - "Pets and Animals"
-  - Relationship
-  - Self
-  - Travel
-  - Wedding
- - News
-  - Education
-  - Medical
-  - News
+  - MyCAF
   - Opinionated
   - Politics
-  - Science
- - "Proving Ground"
- - "Sports and Recreation"
-  - Baseball
-  - Basketball
-  - Football
-  - "Other Sports"
-  - Outdoors
-  - Soccer
-  - Sports
+  - Self
+  - "The Suck"
 title: "What We Know About Veteran Homelessness in Canada and What's Being Done to Address the Issue"
 ---
 
+<img
+  alt="" height="143"
+  src="{{ site.uri.assets }}/blog/2017/04/27/what-we-know-about-veteran-homelessness-in-canada-and-whats-being-done-to-address-the-issue/innominate_2_482x143.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   Veteran homelessness is a growing issue in Canada.&nbsp; The State of Homelessness in Canada 2016 reports that there are 2,950 veterans staying in shelters,
   making up 2.2% of annual shelter users.&nbsp; About 25% of the veteran population in Canada faces difficulties transitioning from military service to civilian
@@ -287,3 +258,73 @@ title: "What We Know About Veteran Homelessness in Canada and What's Being Done 
     </li>
   </ul>
 </p>
+<p>
+  Veterans Affairs Canada is in-the-process of drafting a strategy &#8212; to be made public &#8212; to address rental subsidies for homeless veterans.&nbsp;
+  The document doesn't address prevention, but aims to reduce numbers &#8212; ensuring that &quot;homelessness is rare, brief, and non-recurring, and no
+  veteran's forced to live on the street&quot;.
+</p>
+<p>
+  In addition to these efforts, The State of Homelessness in Canada 2016 calls for a housing first strategy to reduce emergency shelter use among veterans,
+  and urges the federal government to provide:
+  <ol style="list-style-type: decimal;">
+    <li>
+      Expand eligibility of veteran benefits beyond those who can demonstrate a direct-link between military service and their injury and/or illness &#8212;
+      including, greater flexibility for local offices to distribute emergency funds.
+    </li>
+    <li>
+      Housing first funding for veterans who are at-risk of, and/or who are, experiencing homelessness.
+    </li>
+    <li>
+      New, affordable, housing units &#8212; specifically, designed to support veterans and their needs.
+    </li>
+  </ol>
+</p>
+<p>
+  Being part of the development of Canada's first National Housing Strategy is a critical step to ensure that it addresses the housing needs of veterans.&nbsp;
+  With new policy commitments to address homelessness on the horizon, service providers, advocacy groups, and all Canadians have an opportunity to demand from
+  the federal government that no veteran ever experiences homelessness.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3 id="resources">
+  Resources
+</h3>
+<ul>
+  <li>
+    <span style="font-weight: bolder;">
+      <a href="{{ site.url }}{{ page.url }}#cite-canadian-legacy-project" rel="me" title="Canadian Legacy Project">Canadian Legacy Project</a>:
+    </span>&nbsp;
+    Currently, working with organizations to develop a unique housing program for veterans in Calgary and provide support services to those in the area.
+  </li>
+  <li>
+    <span style="font-weight: bolder;">
+      <a href="{{ site.url }}{{ page.url }}#cite-veteran-services" rel="me" title="Veteran Services">The Royal Canadian Legion</a>:
+    </span>&nbsp;
+    Over 1,400 branches across Canada, serving veterans and their families, with a number of services &#8212; including, housing assistance, mental health,
+    assistance with Veterans Affairs Canada, and/or financial supports.
+  </li>
+  <li>
+    <span style="font-weight: bolder;">
+      <a href="{{ site.url }}{{ page.url }}#cite-vac-support-for-homeless-veterans" rel="me" title="VAC Support for Homeless Veterans">
+        Veterans Affairs Canada
+      </a>:
+    </span>&nbsp;
+    Their Web site has links to several community resources and government assistance programs for homeless veterans, including information on their offices
+    throughout Canada.
+  </li>
+  <li>
+    <span style="font-weight: bolder;">
+      <a href="{{ site.url }}{{ page.url }}#cite-veterans-emergency-transition-services" rel="me" title="Veterans Emergency Transition Services">
+        VETS Canada
+      </a>:
+    </span>&nbsp;
+    A non-profit organization, recognized for their services provided across Canada, for veterans at-risk and/or experiencing homelessness.
+  </li>
+  <li>
+    <span style="font-weight: bolder;">
+      <a href="{{ site.url }}{{ page.url }}#cite-wounded-warriors-canada" rel="me" title="Wounded Warriors Canada">Wounded Warriors Canada</a>:
+    </span>&nbsp;
+    Supports veterans with health services &#8212; including, counseling, rehabilitation, skills-building programs, and networking opportunities.
+  </li>
+</ul>
