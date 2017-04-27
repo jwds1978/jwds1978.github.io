@@ -128,7 +128,7 @@ title: "Accessibility at The Elgin Street Mission"
   Below, is an excerpt from
   <a href="{{ site.url }}{{ page.url }}#cite-about-the-elgin-street-mission" rel="me" title="About :: The Elgin Street Mission">their about Web page</a>.&nbsp;
   Take special note of the text which I've marked.&nbsp; After this morning, I'd have to say, I agree with the marked portion whole-fucking-heartedly.
-  <blockquote>
+  <blockquote cite="{{ site.url }}{{ page.url }}#cite-about-the-elgin-street-mission">
     The Elgin Street Mission is a place of refuge for those who need hope, encouragement, nourishment to their bodies and also to their souls.&nbsp; We are here
     to feed and clothe those who have nowhere else to go and <mark>we are no respecter of persons</mark>, if your hungry we feed you, if your cold we clothe
     you, if your needing to talk we listen without prejudices, and also we do have standards in place to provide a safe environment to all who enter our

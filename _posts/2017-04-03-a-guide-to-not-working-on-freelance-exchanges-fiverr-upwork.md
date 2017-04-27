@@ -79,7 +79,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
     a book
   </a>.&nbsp;
   In this chapter, he's talking about building attention and interest in you and your freelance service.&nbsp; It pretty much sums up my take:
-  <blockquote>
+  <blockquote cite="{{ site.url }}{{ page.url }}#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer">
     We live in a noisy world.&nbsp; Whether it's the irresistibly tactile Facebook notification icon or the audible blip of your email client, everybody wants a
     piece of your attention.<br />
     &nbsp;<br />
@@ -116,7 +116,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
   &nbsp;
 </p>
 <p>
-  I'm acutely aware however that this is my own personal opinion, based on my own personal experiences and I'm always happy to be challenged, or air another
+  I'm acutely aware however that this is my own personal opinion, based on my own personal experiences and I'm always happy to be challenged and/or air another
   point of view.&nbsp; So, I was delighted to receive a really awesome e-mail from Carol Hampshire; top 5 amongst 200,000 graphic designers on
   Upwork&hellip;&nbsp; Currently, doing great and generating over $10,000 USD per month in revenue.
   <blockquote>

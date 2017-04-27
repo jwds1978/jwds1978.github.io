@@ -107,7 +107,7 @@ title: "Work for Free; Fuck That"
     Graeme Snow-Matter
   </a>
   (probably, not his real name) &#8212; won national headlines, turning the tables on the advertiser.
-  <blockquote>
+  <blockquote cite="{{ site.url }}{{ page.url }}#cite-this-artist-had-the-best-response-when-sainsburys-advertised-an-unpaid-job">
     Artists are looking for a well-stocked supermarket to voluntarily restock our kitchens.&nbsp; Gain particular experience in the food industry whilst
     satisfying our need to feed ourselves and live comfortably.&nbsp; Why not put your skills into action?
   </blockquote>
@@ -153,7 +153,7 @@ title: "Work for Free; Fuck That"
   &quot;If the Deal Goes Ahead, There Will Be Money In It for You&quot;
 </h3>
 <p>
-  You may remember David Thorne as the Internet maestro who brought us the hilarious exchange in which he tried to pay off an outstanding bill using
+  You may remember David Thorne as the Internet maestro who brought us the hilarious exchange in which he tried to pay-off an outstanding bill using
   <a
     href="{{ site.url }}{{ page.url }}#cite-next-time-ill-spend-the-money-on-drugs-instead" rel="me"
     title="Next time, I'll spend the money on drugs instead.">
@@ -168,7 +168,7 @@ title: "Work for Free; Fuck That"
     An e-mail to Thorne
   </a>
   read:
-  <blockquote>
+  <blockquote cite="{{ site.url }}{{ page.url }}#cite-its-like-twitter-except-we-charge-people-to-use-it">
     I am working on a really exciting project at the moment and need a logo designed.&nbsp; Basically something representing peer to peer networking.&nbsp; I
     have to have something to show prospective clients this week so would you be able to pull something together in the next few days?&nbsp; I will also need a
     couple of pie charts done for a 1 page website.&nbsp; If the deal goes ahead there will be some good money in it for you.

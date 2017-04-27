@@ -39,14 +39,14 @@ title: "Get Comfortable with Being Uncomfortable"
   In the middle of, what felt like the most stressful month of my life, my most senior officer stealthily forced me out of my own corporation.&nbsp; While I was
   complaining about the debacle to an entrepreneur friend of mine, he called my ass out:
   <blockquote>
-  Get comfortable with the feeling that you have right now.
+    Get comfortable with the feeling that you have right now.
   </blockquote>
 </p>
 <!-- excerptBreak -->
 <p>
   Somewhat confused, I asked, &quot;what feeling?&quot;&hellip;&nbsp; He replied:
   <blockquote>
-  Feeling uncomfortable.&nbsp; Get comfortable, feeling uncomfortable.
+    Feeling uncomfortable.&nbsp; Get comfortable, feeling uncomfortable.
   </blockquote>
 </p>
 <p>
