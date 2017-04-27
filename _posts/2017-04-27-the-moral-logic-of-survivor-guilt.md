@@ -26,6 +26,13 @@ location:
   latitude: 46.490107
   longitude: -80.991792
   text: "Memorial Park, Sudbury, Ontario, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154255736032084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/857458918192279552"
+    text: Twitter
+    title: Twitter
 tags:
   - Health
   - Opinionated
@@ -49,7 +56,7 @@ title: "The Moral Logic of Survivor Guilt"
 </p>
 <img
   alt="" height="353" src="{{ site.uri.assets }}/blog/2017/04/27/the-moral-logic-of-survivor-guilt/innominate_1_176x353.png"
-  style="border: 0px; float: left; margin-bottom: 10px; margin-right: 10px;" width="176" />
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="176" />
 <p>
   Captain Adrian Bonenberger, head of a unit in Afghanistan that James Dao and other journalists of The New York Times reported on in their series
   &quot;<a href="{{ site.url }}{{ page.url }}#cite-a-year-at-war" rel="me" title="A Year at War">A Year at War</a>&quot;,
