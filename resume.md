@@ -8,7 +8,7 @@ title: "Curriculum Vitae"
   Save as:&nbsp;
   <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">
     <i aria-hidden="true" class="fa fa-file-pdf-o"></i> PDF
-  </a>&nbsp;
+  </a>
   &bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">
     <i aria-hidden="true" class="fa fa-print"></i> Print
   </a><br />
