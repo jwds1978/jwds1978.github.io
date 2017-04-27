@@ -1,4 +1,5 @@
 ---
+adsDisplay: false
 title: Search
 ---
 
