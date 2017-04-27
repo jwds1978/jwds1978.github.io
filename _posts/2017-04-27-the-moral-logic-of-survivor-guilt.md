@@ -54,6 +54,7 @@ title: "The Moral Logic of Survivor Guilt"
   there, and are pervasive.&nbsp; And, they raise the question of just how irrational those feelings are&hellip;&nbsp; If they aren't, of what is the basis of
   their reasonableness?
 </p>
+<!-- excerptBreak -->
 <img
   alt="" height="353" src="{{ site.uri.assets }}/blog/2017/04/27/the-moral-logic-of-survivor-guilt/innominate_1_176x353.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="176" />
