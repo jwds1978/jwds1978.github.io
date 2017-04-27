@@ -18,6 +18,13 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154257147112084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/857680478337478656"
+    text: Twitter
+    title: Twitter
 tags:
   - Health
   - Self
@@ -36,6 +43,7 @@ title: "Take the Suck Out of Mental Health"
   they feel that they're &quot;stressed out&quot; and just need to suck it up &#8212; no vacuum pun intended.&nbsp; This disheartens me, as I'd hoped that our
   society was well past this stigma, and could understand that seeking help isn't a sign of weakness &#8212; rather, as one of strength.
 </p>
+<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>
