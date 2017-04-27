@@ -85,6 +85,14 @@
     </ul>
   </li>
   <li>
+    Memorial Park, Sudbury, Ontario, Canada
+    <ul>
+      <li>
+        46.490107, -80.991792, 259
+      </li>
+    </ul>
+  </li>
+  <li>
     The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada
     <ul>
       <li>
