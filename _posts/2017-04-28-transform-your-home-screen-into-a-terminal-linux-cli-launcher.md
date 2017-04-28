@@ -31,6 +31,16 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154259269227084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/7Uau6BptgqK"
+    text: Google+
+    title: Google+
+  - href: "https://twitter.com/jwds1978/status/858003231783497728"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
   - Tech
@@ -53,6 +63,7 @@ title: "Transform Your Home Screen Into a Terminal :: Linux CLI Launcher"
   everything.&nbsp; You can call, manage your contacts, and/or text using simple commands.&nbsp; Aside from supporting some basic GNU/Linux commands, the
   application offers the ability to create aliases&hellip;&nbsp; Running your favourite games and/or applications effortlessly.
 </p>
+<!-- excerptBreak -->
 <p>
   You don't have to be a GNU/Linux nerd nor know all of the commands.&nbsp; The launcher provides a built-in command suggestion feature.&nbsp; Navigating the
   launcher's relatively easy.&nbsp; With some practice, it helps you to understand some of the more basic terminal commands &#8212; should you try to run a

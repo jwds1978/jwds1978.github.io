@@ -59,6 +59,14 @@ title: Social
     </ul>
   </li>
   <li>
+    Google+
+    <ul>
+      <li>
+        <a href="https://plus.google.com/115164780760274259502" rel="me" target="_blank" title="James Stewart">James Stewart</a>
+      </li>
+    </ul>
+  </li>
+  <li>
     Gravatar
     <ul>
       <li>
