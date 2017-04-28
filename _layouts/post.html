@@ -30,7 +30,7 @@ layout: default
   </h1>
   <h6>
     <span style="float: right;">
-      {{ pageWords }} Word{% if pageWords != 1 %}s{% endif %}
+      {{ pageWords }} Word{% if pageWords != 1 %}s{% endif %}<br />
       by {% if pageAuthor.hyperlink.uri %}<a {% if pageAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}{% if pageAuthor.hyperlink.hcard %}rel="author external" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}<span {% if pageAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ pageAuthor.name | escape }}</span>{% if pageAuthor.hyperlink.uri %}</a>{% endif %}<br />
       {% if page.comments %}<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
     </span>
