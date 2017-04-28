@@ -19,6 +19,13 @@ location:
   latitude: 46.5063465
   longitude: -80.9448486
   text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154257731587084"
+    text: Facebook
+    title: Facebook
+  - href: "https://twitter.com/jwds1978/status/857768580435279872"
+    text: Twitter
+    title: Twitter
 tags:
   - Law
   - "The Suck"
@@ -41,6 +48,7 @@ title: "Aaron Greenspan Sued Google for Disabling His AdSense Account"
   Undoubtedly, Google AdSense rules the contextual ad space.&nbsp; Regardless, Google will keep serving your ad space with advertisements &#8212; provided, of
   course, that you have a valid Google AdSense account.&nbsp; Otherwise, you have to turn to AdSense-alternative program for your ad revenue stream.
 </p>
+<!-- excerptBreak -->
 <p>
   This story's about Aaron Greenspan.&nbsp; One fine day, Greenspan received the following e-mail from the AdSense team:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-why-i-sued-google-and-won-updated">
