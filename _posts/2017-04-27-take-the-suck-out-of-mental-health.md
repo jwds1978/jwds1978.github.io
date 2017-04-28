@@ -65,7 +65,7 @@ title: "Take the Suck Out of Mental Health"
   Mental Health Week is May 1<sup>st</sup>&#8211;7<sup>th</sup>.&nbsp; Take this, perfect, opportunity to be loud and proud &#8212; encourage everyone to break
   this stigma by learning, talking, and/or engaging with others on all sorts of issues related to mental health.&nbsp; As wellness champions, there are a lot of
   different things that we can do to make this happen:
-  <ul
+  <ul>
     <li>
       Arrange a lunch time recharging activity, such as a dance class and/or a walk in the park.
     </li>
