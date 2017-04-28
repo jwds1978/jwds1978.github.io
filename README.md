@@ -117,6 +117,14 @@
     </ul>
   </li>
   <li>
+    Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada
+    <ul>
+      <li>
+        46.5063465, -80.9448486, 272
+      </li>
+    </ul>
+  </li>
+  <li>
     Tim Hortons, 196 Cedar St., Sudbury, Ontario, P3E 1B4, Canada
     <ul>
       <li>
