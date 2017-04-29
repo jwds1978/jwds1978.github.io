@@ -13,6 +13,16 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154261750787084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/DnWBNizpcty"
+    text: Google+
+    title: Google+
+  - href: "https://twitter.com/jwds1978/status/858367706617270272"
+    text: Twitter
+    title: Twitter
 tags:
   - Business
   - Career
@@ -35,6 +45,7 @@ title: "Channel the Anger"
   workplace.&nbsp; However, when I look back at my biggest wins, my most impressive accomplishments have all started with the same common
   denominator&hellip;&nbsp; I'd gotten angry.
 </p>
+<!-- excerptBreak -->
 <p>
   I didn't let it control me.&nbsp; I felt it.&nbsp; I tried to identify what it was that had pushed my buttons &#8212; I went about solving that conflicting
   emotion.&nbsp; I find that getting angry &#8212; in a controlled sense &#8212; has helped me.&nbsp; I think that it may help you as well.
