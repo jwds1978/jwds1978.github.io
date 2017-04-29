@@ -1,6 +1,7 @@
 ---
 cloudflareSSE: true
 title: Social
+twitterWidget: true
 ---
 
 {% include ads_large-skyscraper_300x250.htm %}
