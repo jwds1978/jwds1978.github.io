@@ -19,7 +19,7 @@ citations:
     slug: "how-we-got-1000-subscribers-from-a-single-blog-post-in-24-hours"
   - author: "YouTube"
     date:
-      accessed: "2017-04-28 19"57"21 America/Toronto"
+      accessed: "2017-04-28 19:57:21 America/Toronto"
     href: "https://www.youtube.com/yt/press/statistics.html"
     name: "Statistics"
     slug: "statistics"
