@@ -26,6 +26,16 @@ location:
   latitude: 46.5063465
   longitude: -80.9448486
   text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154260762677084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/3WJNbBWjRZt"
+    text: Google+
+    title: Google+
+  - href: "https://twitter.com/jwds1978/status/858208652313985024"
+    text: Twitter
+    title: Twitter
 tags:
   - Health
   - Lifestyle
@@ -47,11 +57,16 @@ title: "Homeless in Sudbury"
   </a>.
 </p>
 <p>
+  &nbsp;
+</p>
+<p>
   To be perfectly honest, I've recently come to find myself homeless&hellip;&nbsp; And, not for the first time in my life either.&nbsp; However, the last
   time was quite some years ago though.&nbsp; In fact, I've been living on the street since around about 16 April 2017.&nbsp; I've been staying off-and-on at
   the Off the Street Emergency Shelter since it opened in November 2016.&nbsp; However, they closed for the season, in mid-April.&nbsp; Given that, I'm now out
   on the street.&nbsp; While I wouldn't say that I'm particularly ashamed of the fact that I'm without a place to live, it's also not something that I generally
   let many know either&hellip;&nbsp; That is, until now, at least.
+</p>
+<!-- excerptBreak -->
 <p>
   It was fucking snowing, just a few days ago, but the city seems to think that's still warm enough to have closed the shelter when they did though.&nbsp; WTF,
   eh?&nbsp; I'd like to see one of those people, who have decision-making authortity within the Homelessness Network &#8212; or, WTFever it's called &#8212;
@@ -131,7 +146,7 @@ title: "Homeless in Sudbury"
   &nbsp;
 </p>
 <img
-  alt="" height="291" src="{{ site.uri.assets }}/blog/2017/04/29/homeless-in-sudbury/iinnominate_2_169x291.png"
+  alt="" height="291" src="{{ site.uri.assets }}/blog/2017/04/29/homeless-in-sudbury/innominate_2_169x291.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="169" />
 <h4>
   Who Experiences Homelessness
