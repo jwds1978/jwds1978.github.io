@@ -98,13 +98,14 @@ citations:
     slug: "update-they-are-having-us-sign-papers-for-full-refunds-they-are-just-pieces-of-computer-paper-but-i-mean-refunds"
 comments: true
 date: "2017-04-28 23:09:18 America/Toronto"
-last_modified_at: "2017-04-28 23:09:18 America/Toronto"
+last_modified_at: "2017-04-28 23:53:29 America/Toronto"
 layout: post
 location:
   altitude: 272
   latitude: 46.5063465
   longitude: -80.9448486
   text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+modifiedReason: Spelling
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154260462862084"
     text: Facebook
@@ -133,10 +134,10 @@ twitterWidget: true
   src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-tranded/innominate_1_482x301.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
-  It was supposed to be the most glamorous event of the year&hellip;&nbsp; With all the selfie opportunities and flower-crowns that a young, gym-bodied social
-  media influencer could dream of.&nbsp; However, Fyre Festival, an elite concert event on a deserted island in the Bahamas &#8212; with tickets priced up to
-  $12,000 USD &#8212; has, quickly, turned into a terrifying B-movie.&nbsp; Flocks of Instagram models were forced to seek shelter in an airport, after arriving
-  to discover a lack of food, appalling accommodations, feral dogs roaming the grounds, and violent locals.
+  It was supposed to be the most glamorous event of the year&hellip;&nbsp; With all the selfie opportunities and flower-crowns that a young and gym-bodied
+  social media influencer could dream of.&nbsp; However, Fyre Festival, an elite concert event on a deserted island in the Bahamas &#8212; with tickets priced
+  up to $12,000 USD &#8212; has, quickly, turned into a terrifying B-movie.&nbsp; Flocks of Instagram models were forced to seek shelter in an airport, after
+  arriving to discover a lack of food, appalling accommodations, feral dogs roaming the grounds, and violent locals.
 </p>
 <p>
   As a result, social media exploded overnight, with tales of Instagram-filtered terror and disappointment, with beautiful festival-goers arriving on the island
@@ -228,7 +229,7 @@ twitterWidget: true
 </p>
 <p>
   While the event continues to be traumatic to the many rich and/or beautiful people, currently seeking shelter in an airport and eager to fly home, social
-  media has &#8212; somewhat understandably &#8212; reacted with giggles.
+  media has &#8212; somewhat, understandably &#8212; reacted with giggles.
 </p>
 <p>
   <blockquote cite="https://twitter.com/Neethz426/status/857818411014946817" class="twitter-tweet" data-lang="en">

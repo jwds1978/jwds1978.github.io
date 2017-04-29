@@ -15,6 +15,27 @@ layout: default
   &nbsp;
 </p>
 {% endif %}
+<p style="font-size: smaller; text-align: center;">
+  <i aria-hidden="true" class="fa fa-share"></i> Share to:&nbsp;
+  <a href="https://www.facebook.com/sharer.php?t={{ page.title | url_param_escape }}&u={{ pageURI | url_param_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook
+  </a>
+  &nbsp;&bull;&nbsp; <a href="https://plus.google.com/share?url={{ pageURI | url_param_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-google-plus-official"></i> Google+
+  </a>
+  &nbsp;&bull;&nbsp; <a href="https://linkedin.com/shareArticle?mini=true&title={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-linkedin"></i> LinkedIn
+  </a>
+  &nbsp;&bull;&nbsp; <a href="https://reddit.com/submit?title={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit
+  </a>
+  &nbsp;&bull;&nbsp; <a href="https://twitter.com/share?text={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" target="_blank" title="">
+    <i aria-hidden="true" class="fa fa-twitter"></i> Twitter
+  </a>
+</p>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
 <article class="h-entry">
   <div style="display: none;">
     <p class="p-summary">
