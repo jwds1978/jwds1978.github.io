@@ -71,8 +71,10 @@ sitemap: true
 social:
   links:
     - https://www.facebook.com/jwds1978
+    - https://plus.google.com/115164780760274259502
     - https://www.instagram.com/jwds1978
     - https://twitter.com/jwds1978
+    - https://www.youtube.com/channel/UCEvgM-VbahDYiKx_UK1ZHnw
 source: .
 theme: jekyll-theme-midnight
 timezone: America/Toronto
