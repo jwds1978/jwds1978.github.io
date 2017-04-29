@@ -133,6 +133,7 @@ twitterWidget: true
   to discover half-built tents, their luggage being thrown out of the back of a truck, muggers and thieves laying in-wait to steal wallets from trust fund kids,
   unhelpful staff, and &quot;gourmet cuisine&quot; that turned out to be nothing except for ham and cheese sandwiches.
 </p>
+<!-- excerptBreak -->
 <p>
   <a
     href="{{ site.url }}{{ page.url }}#cite-stuck-at-fyrefestival-trying-to-leave-for-the-last-8-hours-barley-any-food-or-water-or-security-or-electricity"
