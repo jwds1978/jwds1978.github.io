@@ -58,6 +58,16 @@ location:
   latitude: 46.5063465
   longitude: -80.9448486
   text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154260157897084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/fvtS7s3JAGy"
+    text: Google+
+    title: Google+
+  - href: "https://twitter.com/jwds1978/status/858114116241805312"
+    text: Twitter
+    title: Twitter
 tags:
   - Business
   - "How to"
@@ -82,6 +92,7 @@ title: "Boost Sales with Video Content and Story-Telling in Business-to-Business
   to see posts with useful information.&nbsp; However, they're also people who don't always need a narrative to understand that a specific piece of content's
   valuable.
 </p>
+<!-- excerptBreak -->
 <p>
   This, is where stories come into play.&nbsp; A good story can capture a user's attention, hold them on the page, and evoke a desire to learn where the story
   goes.&nbsp; That's why, different brands from all over the world, have started using video content and story-telling in both their B2B and B2C marketing
