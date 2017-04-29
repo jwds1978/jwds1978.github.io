@@ -17,12 +17,25 @@ citations:
     href: "https://www.groovehq.com/blog/1000-subscribers"
     name: "How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours"
     slug: "how-we-got-1000-subscribers-from-a-single-blog-post-in-24-hours"
+  - author: "YouTube"
+    date:
+      accessed: "2017-04-28 19"57"21 America/Toronto"
+    href: "https://www.youtube.com/yt/press/statistics.html"
+    name: "Statistics"
+    slug: "statistics"
   - author: "Template Monster"
     date:
-      accessed: "2017-04-28 13:41:18 America/Toronto"
-    href: "https://go.forces.army/Template-Monster_Business"
-    name: "Themes for Business and Corporate Websites"
-    slug: "themes-for-business-and-corporate-websites"
+      accessed: "2017-04-28 20:02:42 America/Toronto"
+    href: "https://go.forces.army/Template-Monster"
+    name: "Template Monster"
+    slug: "template-monster"
+  - author: "Boeing"
+    date:
+      accessed: "2017-04-28 19:44:22 America/Toronto"
+      published: "2017-03-16 America/Toronto"
+    href: "http://www.boeing.com/features/2017/03/wgs-satellite-03-17.page"
+    name: "The Flight Before the Launch"
+    slug: "the-flight-before-the-launch"
   - author: "Alex Turnbull"
     date:
       accessed: "2017-04-28 13:49:46 America/Toronto"
@@ -30,15 +43,21 @@ citations:
     href: "https://blog.bufferapp.com/power-of-story"
     name: "The Power of Storytelling: How We Got 300% More People To Read Our Content"
     slug: "the-power-of-storytelling-how-we-got-300-more-people-to-read-our-content"
+  - author: "Template Monster"
+    date:
+      accessed: "2017-04-28 13:41:18 America/Toronto"
+    href: "https://go.forces.army/Template-Monster_Business"
+    name: "Themes for Business and Corporate Websites"
+    slug: "themes-for-business-and-corporate-websites"
 comments: true
-date: "0000-00-00 00:00:00 America/Toronto"
-last_modified_at: "0000-00-00 00:00:00 America/Toronto"
+date: "2017-04-28 20:11:18 America/Toronto"
+last_modified_at: "2017-04-28 20:11:18 America/Toronto"
 layout: post
 location:
-  altitude: 
-  latitude: 
-  longitude: 
-  text: 
+  altitude: 272
+  latitude: 46.5063465
+  longitude: -80.9448486
+  text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
 tags:
   - Business
   - "How to"
@@ -140,5 +159,84 @@ title: "Boost Sales with Video Content and Story-Telling in Business-to-Business
   their success stories via videos, which are known as better attention-grabbers and stronger influencers.
 </p>
 <p>
-  Just have a look at the Aston Martin story of using Salesforce to add a personal touch to their business.
+  Just have a look at the Aston Martin story of using Salesforce to add a personal touch to their business.<br />
+  &nbsp;<br />
+  <iframe
+    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/_OEw1fXBOtg?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+</p>
+<p>
+  &nbsp;
+</p>
+<h4>
+  Boeing
+</h4>
+<p>
+  Replaced press releases with news stories on their Features pages.&nbsp; With the help of stories, the company tells the history of their establishment, the
+  way they operate right now, as well as their plans for future.&nbsp; For example, within the Space Features block, there's a story under the title of
+  &quot;<a href="{{ site.url }}{{ page.url }}#cite-the-flight-before-the-launch" rel="me" title="The Flight Before the Launch">
+    The Flight Before the Launch
+  </a>&quot;.
+</p>
+<p>
+  The written story, about the preparation before the launch of WGS-9 and its shipment from the Los Angeles to Florida, is accompanied by a brief explanatory
+  video &#8212; making it easier for non-tech-savvy users to understand what the whole story's about, and, where it goes.<br />
+  &nbsp;<br />
+  <iframe
+    allowfullscreen src="https://players.brightcove.net/800000612001/a7975ab0-d4c3-4514-a6c3-d7bfff0667c5_default/index.html?videoId=5357901319001"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+</p>
+<p>
+  &nbsp;
+</p>
+<h3 id="why-video-content-and-story-telling-is-so-effective">
+  Why Video Content and Story-Telling is So Effective
+</h3>
+<p>
+  As noted earlier, people love being entertained by visual content.&nbsp; That's why, more and more often, marketers use video ads to promote their offerings
+  and to get the audience more engaged.&nbsp; In their <a href="{{ site.url }}{{ page.url }}#cite-statistics" rel="me" title="Statistics">press kit</a>, the
+  giant video streaming platform &#8212; YouTube &#8212; states that they receive over 1,000,000,000 users watching video content of various kinds on a daily
+  basis.&nbsp; What's more, YouTube videos are being reached by the 18&#8211;49 target age-range &#8212; which, most of the online marketers are on the hunt
+  for.
+</p>
+<p>
+  Taking into account, the extraordinary popularity of YouTube videos amongst millions of users, both world-known brands and mom-and-pop companies have started
+  investing into YouTube advertisements &#8212; as well as launching their own YouTube channels, featuring tutorials, bringing value to their customers,
+  reviews, entertaining stuff, and/or merely highlights of memorable company events.&nbsp;
+  <a href="{{ site.url }}{{ page.url }}#cite-template-monster" rel="me" title="Template Monster">TemplateMonster</a> also doesn't lag behind the trends and
+  updates their YouTube channel with valuable pieces of video content, every now-and-again.
+</p>
+<p>
+  Put plainly, the reasons why videos are indispensable for the success of your online marketing campaign, are as below:
+  <ul>
+    <li>
+      A video breaks-down corporate walls, referring to consumers as friends.
+    </li>
+    <li>
+      A video leaves less room for misinterpretation.
+    </li>
+    <li>
+      A video shows a product in action &#8212; revealing, in what ways, it can benefit their lives.
+    </li>
+    <li>
+      People enjoy video content more than print.
+    </li>
+    <li>
+      Videos let customers feel like they're participating in an active relationship with the brands that they enjoy.
+    </li>
+    <li>
+      Videos visualize the marketing intent.
+    </li>
+  </ul>
+</p>
+<p>
+  &nbsp;
+</p>
+<h3 id="final-thoughts">
+  Final Thoughts
+</h3>
+<p>
+  Even if you run a small company, and you don't have the budget for an Oscar-winning movie, record short video clips &#8212; revealing your company
+  story.&nbsp; Introduce people to your employees and/or loyal fans.&nbsp; Get inspired by the way that trend-setters use visual stories in their marketing
+  campaigns &#8212; considering, in what ways, you can do the same.
 </p>
