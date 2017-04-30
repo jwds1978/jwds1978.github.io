@@ -1,21 +1,9 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - Entertainment
   - Innominate
   - "Living and Leisure"
   - News
-  - "Proving Ground"
-  - "Sports and Recreation"
 citations:
-  - author: ""
-    date:
-      accessed: "0000-00-00 00:00:00 America/Toronto"
-      published: "0000-00-00 00:00:00 America/Toronto"
-    href: ""
-    name: ""
-    slug: ""
   - author: "James Stewart"
     date:
       accessed: "2017-04-29 23:10:18 America/Toronto"
@@ -24,82 +12,38 @@ citations:
     name: "The Moral Logic of Survivor Guilt"
     slug: "the-moral-logic-of-survivor-guilt"
 comments: true
-date: "0000-00-00 00:00:00 America/Toronto"
-last_modified_at: "0000-00-00 00:00:00 America/Toronto"
+date: "2017-04-29 23:55:08 America/Toronto"
+last_modified_at: "2017-04-29 23:55:08 America/Toronto"
 layout: post
 location:
-  altitude: 
-  latitude: 
-  longitude: 
-  text: ""
+  altitude: 272
+  latitude: 46.5063465
+  longitude: -80.9448486
+  text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
 tags:
- - Art
-  - Art
-  - Beauty
-  - Design
-  - Fashion
-  - "How to"
-  - Photography
-  - Writing
- - "Business and Tech"
-  - Business
-  - Career
-  - Finance
-  - Law
-  - "Real Estate"
-  - "Social Media"
-  - Tech
- - Entertainment
-  - Celebrity
-  - Comedy
-  - Entertainment
-  - Gaming
-  - "Movies and TV"
-  - Music
- - Innominate
-  - Innominate
-  - MyCAF
-  - "The Suck"
- - "Living and Leisure"
-  - Automotive
   - Family
-  - Food
-  - Good
   - Health
-  - "Higher Power"
-  - Home
   - Lifestyle
-  - "Pets and Animals"
-  - Relationship
-  - Self
-  - Travel
-  - Wedding
- - News
-  - Education
   - Medical
-  - News
+  - MyCAF
   - Opinionated
-  - Politics
+  - Relationship
   - Science
- - "Proving Ground"
- - "Sports and Recreation"
-  - Baseball
-  - Basketball
-  - Football
-  - "Other Sports"
-  - Outdoors
-  - Soccer
-  - Sports
+  - Self
+  - "The Suck"
 title: "Understanding Combat PTSD, from the Inside, Out"
 ---
 
 <p>
   People from all walks of life can face dealing with PTSD&hellip;&nbsp; Someone who's in a car crash, a policeman, someone who's assaulted, etc.&nbsp; People
   who struggle with PTSD all have similar problems and/or issues.&nbsp; However, Combat PTSD, is the outcome of many weeks, months, or years of experiencing
-  life threatening.&nbsp; Below, is a poem about Combat PTSD.&nbsp; I've tried several different ways of verifying its origins, find out more about the writer,
-  etc.&nbsp; However, the only information that I was able to find is that it's thought to have been written by a Vietnam veteran &#8212; who was also a member
-  of the Nez Perce tribe &#8212; who went through the North Chicago VA Combat Trauma Program in 1991, and that since then, his writing's given out to all of the
-  vets who want a copy.
+  life threatening.
+</p>
+<!-- excerptBreak -->
+<p>
+  Below, is a poem about Combat PTSD.&nbsp; I've tried several different ways of verifying its origins, find out more about the writer, etc.&nbsp; However, the
+  only information that I was able to find is that it's thought to have been written by a Vietnam veteran &#8212; who was also a member of the Nez Perce tribe
+  &#8212; who went through the North Chicago VA Combat Trauma Program in 1991, and that since then, his writing's given out to all of the vets who want a copy.
   <blockquote>
     They said I would be changed in my body.<br />
     I would move through the physical world in a different manner.<br />
@@ -131,8 +75,8 @@ title: "Understanding Combat PTSD, from the Inside, Out"
   </blockquote>
 </p>
 <p>
-  Regardless of its origins, this poem says a lot about the challenges and difficulties that we &#8212; as warriors &#8212; face.&nbsp; We must have the support
-  and understanding as we struggle with &quot;the beast&quot; known as Combat PTSD.
+  Regardless of its origins, this poem says a lot about the challenges and difficulties that we &#8212; as warriors &#8212; face.&nbsp; We must have, the
+  support and understanding, as we struggle with &quot;the beast&quot; known as Combat PTSD.
 </p>
 <p>
   &nbsp;
@@ -190,6 +134,11 @@ title: "Understanding Combat PTSD, from the Inside, Out"
     individuals with PTSD to get into fights, drive aggressively, become angry at insignificant things, and/or drastically over-react to any sort of challenge.
   </li>
   <li>
+    <span style="font-weight: bolder;">Depression and/or Suicide:</span>&nbsp; People with post-traumatic stress disorder are seven times more likely to be
+    depressed than someone else within the general population.&nbsp; It's one of the largest complaints associated with PTSD.&nbsp; And, unfortunately, this
+    depression goes hand-in-hand with high rates of suicide amongst our nation's returning heroes.&nbsp; It's estimated that 22 commit suicide each day.
+  </li>
+  <li>
     <span style="font-weight: bolder;">Guilt:</span>&nbsp; The guilt associated with post-traumatic stress disorder is often called
     <a href="{{ site.url }}{{ page.url }}#cite-the-moral-logic-of-survivor-guilt" rel="me" title="The Moral Logic of Survivor Guilt">survivor's guilt</a>.&nbsp;
     The veteran feels a great deal of guilt because he survived an attack when a comrade didn't.&nbsp; He feels guilty, that a friend lost their legs in an
@@ -197,17 +146,37 @@ title: "Understanding Combat PTSD, from the Inside, Out"
     still in harm's way.
   </li>
   <li>
-    <span style="font-weight: bolder;">Depression and/or Suicide:</span>&nbsp; People with post-traumatic stress disorder are seven times more likely to be
-    depressed than someone else within the general population.&nbsp; It's one of the largest complaints associated with PTSD.&nbsp; And, unfortunately, this
-    depression goes hand-in-hand with high rates of suicide amongst our nation's returning heroes.&nbsp; It's estimated that 22 commit suicide each day.
+    <span style="font-weight: bolder;">Lack of Trust:</span>&nbsp; This change, in a veteran with PTSD, is also caused by his time in combat.&nbsp; While in
+    combat, he had to assume that everyone he met &#8212; even those who were called allies &#8212; were possible enemies.&nbsp; The only people that he knew he
+    could rely on, in order to stay alive, were himself and those within his immediate group &#8212; people who'd proven themselves to each other in
+    combat.&nbsp; After that same veteran returns home, he feels alone, and without the protection of his battle-tested counterparts.&nbsp; He doesn't trust
+    anybody else &#8212; not even people that he's known for his entire life &#8212; to be able to watch-out for him.&nbsp; He feels that he, alone, is the only
+    one whom he can count on and/or trust.
   </li>
   <li>
-    <span style="font-weight: bolder;">:</span>&nbsp; 
+    <span style="font-weight: bolder;">Paranoia:</span>&nbsp; In war, a paranoid soldier's a soldier who stays alive.&nbsp; Every item in his environment, from
+    a pothole to a child carrying a backpack, must be regarded as a potential threat.&nbsp; When that same soldier, whose mind has been changed by PTSD returns
+    home, he's often unable to shut-off his vigilant behaviour.&nbsp; Veterans will often and almost constantly, &quot;patrol&quot; their homes to check for
+    intruders, insist that they sit with their backs to a wall and facing the door so that they can analyze every person who enters a room, and/or even drive
+    off the road in order to avoid discarded trash &#8212; because this, often, indicates an Improvised Explosive Device during combat.
   </li>
   <li>
-    <span style="font-weight: bolder;">:</span>&nbsp; 
-  </li>
-  <li>
-    <span style="font-weight: bolder;">:</span>&nbsp; 
+    <span style="font-weight: bolder;">Poor Coping Skills:</span>&nbsp; Due to the physical and mental changes that a veteran with PTSD has, they're often
+    unable to cope in what most people would consider &quot;normal&quot; circumstances.&nbsp; They're easily overwhelmed by too much noise, too many people, too
+    many changes, and/or too much stimuli of any sort.&nbsp; Dealing with post-traumatic stress disorder, and all of its symptoms, takes most of their energy
+    and concentration.&nbsp; Anything else, especially something that's unexpected, can cause a violent reaction and/or simply cause the veteran to shut-down.
   </li>
 </ul>
+<p>
+  &nbsp;
+</p>
+<p>
+  <iframe
+    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/ZWVgFxr4zC8?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+  &nbsp;<br />
+  Understanding these changes helps many people understand, for the first time, just how &quot;real&quot; post-traumatic stress disorder is.&nbsp;
+  Unfortunately, hidden wounds, such as PTSD), are often hard for people to grasp and/or empathize with.&nbsp; Hopefully, after learning more about the
+  &quot;mechanics&quot; behind PTSD, you'll be better able to talk about PTSD and the real impact that it can have on the life of a veteran and/or those who
+  love and/or care for him/her.
+</p>
