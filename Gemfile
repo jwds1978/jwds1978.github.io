@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'github-pages', '~> 127', group: :jekyll_plugins
+gem 'jekyll-tagging', '~> 1.0'
+gem 'jekyll-tagging-related_posts', '~> 0.2.2'
 gem 'liquid_pluralize', '~> 1.0', '>= 1.0.2'
 gem 'liquid_reading_time', '~> 1.1', '>= 1.1.2'
 gem 'rake', '~> 12.0'

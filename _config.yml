@@ -51,6 +51,10 @@ gems:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
+  - liquid_pluralize
+  - liquid_reading_time
 include:
   - .gitattributes
   - .gitignore
@@ -76,6 +80,10 @@ social:
     - https://twitter.com/jwds1978
     - https://www.youtube.com/channel/UCEvgM-VbahDYiKx_UK1ZHnw
 source: .
+tag_feed_dir: tag
+tag_feed_layout: tag_feed
+tag_page_dir: tag
+tag_page_layout: tag_page
 theme: jekyll-theme-midnight
 timezone: America/Toronto
 title: "James W.D. Stewart"
