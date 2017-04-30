@@ -14,14 +14,14 @@ citations:
     slug: "dysphemism"
 comments: true
 date: "2017-04-23 15:43:35 America/Toronto"
-last_modified_at: "2017-04-23 21:25:15 America/Toronto"
+last_modified_at: "2017-04-29 23:18:08 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
-modifiedReason: Grammar
+modifiedReason: "Added a YouTube Video"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154248143507084"
     text: Facebook
@@ -87,7 +87,11 @@ title: "Camaraderie's One Trait the Civilian Sector's Lacking"
   instills a strong sense of community and shared experiences that's bonded by trust.&nbsp; I can go years without seeing a military friend and immediately know
   that he/she has my back if I needed the help.&nbsp; Some friends will help you move out of your apartment, but others will help you bury a body.&nbsp; This is
   a common military <a href="{{ site.url }}{{ page.url }}#cite-dysphemism" rel="me" title="Dysphemism">dysphemistic</a> point&hellip;&nbsp; I don't ever intend
-  to be in a situation where I have to bury someone or something.
+  to be in a situation where I have to bury someone or something.<br />
+  &nbsp;<br />
+  <iframe
+    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/LRZqkEfKXwc?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
   This shared sense of camaraderie is crucial in picking teams that endure tough endeavors.&nbsp; This may be more of a positive consequence of being from the
