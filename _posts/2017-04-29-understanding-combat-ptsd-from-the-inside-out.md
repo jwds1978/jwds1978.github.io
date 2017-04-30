@@ -62,31 +62,24 @@ title: "Understanding Combat PTSD, from the Inside, Out"
   only information that I was able to find is that it's thought to have been written by a Vietnam veteran &#8212; who was also a member of the Nez Perce tribe
   &#8212; who went through the North Chicago VA Combat Trauma Program in 1991, and that since then, his writing's given out to all of the vets who want a copy.
   <blockquote>
-    They said I would be changed in my body.<br />
-    I would move through the physical world in a different manner.<br />
-    I would have pain where there was no blood.<br />
-    I would react to sights, sounds, movement and touch in a crazy way, as though I were back in war.<br />
+    They said I would be changed in my body.&nbsp; I would move through the physical world in a different manner.&nbsp; I would have pain where there was no
+    blood.&nbsp; I would react to sights, sounds, movement and touch in a crazy way, as though I were back in war.<br />
     &nbsp;<br />
-    They said I would be wounded in my thoughts.<br />
-    I would forget how to trust, and I would think that others were trying to hurt me.<br />
-    I would see dangers in the kindness and concern of my relatives and others.<br />
-    Most of all, I would not be able to think in a reasonable manner, and it would seem that everyone else was crazy.<br />
+    They said I would be wounded in my thoughts.&nbsp; I would forget how to trust, and I would think that others were trying to hurt me.&nbsp; I would see
+    dangers in the kindness and concern of my relatives and others.&nbsp; Most of all, I would not be able to think in a reasonable manner, and it would seem
+    that everyone else was crazy.<br />
     &nbsp;<br />
     They told me that it would appear to me that I was alone even in the midst of the people, and that there was no one else like me.<br />
     &nbsp;<br />
-    They warned me that it would be as though my emotions were locked up, and I would be cold in my heart and not remember the ways of caring for others.<br />
-    While I might give meat and blankets to the elders, or food to the children, I would not be able to feel the goodness of these actions.<br />
-    That I would do these things out of habit and not from caring.<br />
+    They warned me that it would be as though my emotions were locked up, and I would be cold in my heart and not remember the ways of caring for others.&nbsp;
+    While I might give meat and blankets to the elders, or food to the children, I would not be able to feel the goodness of these actions.&nbsp; That I would
+    do these things out of habit and not from caring.<br />
     &nbsp;<br />
-    They predicted that I might do harm to others without plan or intention.<br />
-    They knew that my spirit would be wounded.<br />
+    They predicted that I might do harm to others without plan or intention.&nbsp; They knew that my spirit would be wounded.<br />
     &nbsp;<br />
-    They said I would be lonely and that I would find no comfort in family, friends, elders or spirits.<br />
-    I would be cut off from both beauty and pain.<br />
-    My dreams would be dark and frightening.<br />
-    My days would be filled with searching and not finding.<br />
-    I would not be able to find connections between myself and the rest of creation.<br />
-    I would look forward to an early death.<br />
+    They said I would be lonely and that I would find no comfort in family, friends, elders or spirits.&nbsp; I would be cut off from both beauty and
+    pain.&nbsp; My dreams would be dark and frightening.&nbsp; My days would be filled with searching and not finding.&nbsp; I would not be able to find
+    connections between myself and the rest of creation.&nbsp; I would look forward to an early death.<br />
     &nbsp;<br />
     And, I would need cleansing in all these things.
   </blockquote>
