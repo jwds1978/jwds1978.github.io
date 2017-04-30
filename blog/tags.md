@@ -33,6 +33,9 @@ title: "Blog (Tags)"
   importantly, I reserve the right to change and evolve my opinions over time&hellip;&nbsp; That's what good conversations do &#8212; and, blogs are
   inherently conversations.
 </p>
+<img
+  alt="" height="73" src="{{ site.uri.assets }}/naked/images/suck-my-words_482x073.png"
+  style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
 <p>
   &nbsp;
 </p>
