@@ -21,6 +21,16 @@ location:
   longitude: -80.9448486
   text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
 modifiedReason: "Added an Image"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154262947762084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/9NBnz777Pxb"
+    text: Google+
+    title: Google+
+  - href: "https://twitter.com/jwds1978/status/858534666512601089"
+    text: Twitter
+    title: Twitter
 tags:
   - Family
   - Health
@@ -43,10 +53,10 @@ title: "Understanding Combat PTSD, from the Inside, Out"
   who struggle with PTSD all have similar problems and/or issues.&nbsp; However, Combat PTSD, is the outcome of many weeks, months, or years of experiencing
   life threatening.
 </p>
-<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>
+<!-- excerptBreak -->
 <p>
   Below, is a poem about Combat PTSD.&nbsp; I've tried several different ways of verifying its origins, find out more about the writer, etc.&nbsp; However, the
   only information that I was able to find is that it's thought to have been written by a Vietnam veteran &#8212; who was also a member of the Nez Perce tribe
