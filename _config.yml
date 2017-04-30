@@ -82,6 +82,8 @@ social:
 source: .
 tag_feed_dir: tag
 tag_feed_layout: tag_feed
+tag_page_data:
+  sitemap: false
 tag_page_dir: tag
 tag_page_layout: tag_page
 theme: jekyll-theme-midnight
