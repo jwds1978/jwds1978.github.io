@@ -10,6 +10,12 @@ title: About
 <p>
   &nbsp;
 </p>
+<img
+  alt="" height="87" src="{{ site.uri.assets }}/naked/images/warfighter-made_418x087.png"
+  style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="418" />
+<p>
+  &nbsp;
+</p>
 <p>
   James, a Canadian Forces veteran, is an information technology consultant.&nbsp; He's based in Sudbury, Ontario, Canada&hellip;&nbsp; However, he's able to
   telecommute globally though.&nbsp; He's willing to travel, upon pre-payment of associated expenses (i.e. airfare, hotel, etc.), as well.
