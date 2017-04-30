@@ -57,8 +57,8 @@ comments: true
 <!--/email_off-->
 <!--/sse-->
 <p>
-  Hai!&nbsp; And, welcome to James Stewart's Web site.&nbsp; While there may be others like it, this one is his&hellip;&nbsp; He made this thing; a thing of
-  wonder.
+  Hai!&nbsp; And, welcome to James Stewart's Web site.&nbsp; While there may be others like it, this one is his&hellip;&nbsp; He made this thing &#8212; a thing
+  of wonder.
 </p>
 <p>
   James is a consultant of all things IT.&nbsp; That doesn't really say all that much about him, eh?&nbsp; Learn

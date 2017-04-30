@@ -5,7 +5,7 @@ title: About
 ---
 
 <p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
-    And, if you don't know&hellip;&nbsp; Now, you know.&nbsp; James&hellip;&nbsp; He gets all of the things done.
+  Who's this man?&nbsp; Dude, myth, and/or mega developer &#8212; unstoppable robotic ninja?
 </p>
 <p>
   &nbsp;
