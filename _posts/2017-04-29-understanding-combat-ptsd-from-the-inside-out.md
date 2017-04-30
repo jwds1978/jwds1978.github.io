@@ -13,13 +13,14 @@ citations:
     slug: "the-moral-logic-of-survivor-guilt"
 comments: true
 date: "2017-04-29 23:55:08 America/Toronto"
-last_modified_at: "2017-04-29 23:55:08 America/Toronto"
+last_modified_at: "2017-04-30 00:07:28 America/Toronto"
 layout: post
 location:
   altitude: 272
   latitude: 46.5063465
   longitude: -80.9448486
   text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+modifiedReason: "Added an Image"
 tags:
   - Family
   - Health
@@ -34,12 +35,18 @@ tags:
 title: "Understanding Combat PTSD, from the Inside, Out"
 ---
 
+<img
+  alt="" height="177" src="{{ site.uri.assets }}/blog/2017/04/29/understanding-combat-ptsd-from-the-inside-out/combat-ptsd_187x177.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="187" />
 <p>
   People from all walks of life can face dealing with PTSD&hellip;&nbsp; Someone who's in a car crash, a policeman, someone who's assaulted, etc.&nbsp; People
   who struggle with PTSD all have similar problems and/or issues.&nbsp; However, Combat PTSD, is the outcome of many weeks, months, or years of experiencing
   life threatening.
 </p>
 <!-- excerptBreak -->
+<p>
+  &nbsp;
+</p>
 <p>
   Below, is a poem about Combat PTSD.&nbsp; I've tried several different ways of verifying its origins, find out more about the writer, etc.&nbsp; However, the
   only information that I was able to find is that it's thought to have been written by a Vietnam veteran &#8212; who was also a member of the Nez Perce tribe
