@@ -30,6 +30,10 @@ citations:
     slug: "terms-and-conditions-adsense"
 comments: true
 date: "2017-04-13 17:27:42 America/Toronto"
+image:
+  height: 491
+  path: "https://assets.forces.army/blog/2017/04/13/how-to-get-the-most-of-affiliate-programs/hotlink-ok/how-affiliate-marketing-works_482x491.png"
+  width: 482
 last_modified_at: "2017-04-13 17:51:04 America/Toronto"
 layout: post
 location:

@@ -19,6 +19,10 @@ citations:
     slug: "embrace-the-suck-james-w-d-stewart"
 comments: true
 date: "2017-04-26 11:28:59 America/Toronto"
+image:
+  height: 224
+  path: "https://assets.forces.army/blog/2017/04/26/why-you-need-to-embrace-the-suck-in-2017/hotlink-ok/innominate_1_482x224.png"
+  width: 482
 last_modified_at: "2017-04-26 16:56:32 America/Toronto"
 layout: post
 location:

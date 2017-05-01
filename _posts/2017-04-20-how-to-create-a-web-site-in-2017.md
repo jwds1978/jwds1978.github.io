@@ -29,6 +29,10 @@ citations:
     slug: "joomla-downloads"
 comments: true
 date: "2017-04-20 16:24:04 America/Toronto"
+image:
+  height: 107
+  path: "https://assets.forces.army/blog/2017/04/20/how-to-create-a-web-site-in-2017/hotlink-ok/how-to-create-web-sites_482x107.png"
+  width: 482
 last_modified_at: "2017-04-25 16:46:24 America/Toronto"
 layout: post
 location:

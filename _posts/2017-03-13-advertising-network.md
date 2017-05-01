@@ -4,6 +4,10 @@ categories:
   - "Business and Tech"
 comments: true
 date: "2017-03-13 15:51:26 America/Toronto"
+image:
+  height: 75
+  path: "https://assets.forces.army/blog/2017/03/13/advertising-network/hotlink-ok/project-revenue_75x75.png"
+  width: 75
 last_modified_at: "2017-03-13 16:25:16 America/Toronto"
 layout: post
 location:

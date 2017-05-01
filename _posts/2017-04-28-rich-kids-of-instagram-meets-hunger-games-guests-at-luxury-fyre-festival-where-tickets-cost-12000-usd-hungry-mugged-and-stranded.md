@@ -97,7 +97,10 @@ citations:
     name: "UPDATE: they are having us sign papers for full refunds. They are just pieces of computer paper but I mean...refunds"
     slug: "update-they-are-having-us-sign-papers-for-full-refunds-they-are-just-pieces-of-computer-paper-but-i-mean-refunds"
 comments: true
-date: "2017-04-28 23:09:18 America/Toronto"
+date: "2017-04-28 23:09:18 America/Toronto"image:
+  height: 301
+  path: "https://assets.forces.army/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/hotlink-ok/innominate_1_482x301.png"
+  width: 482
 last_modified_at: "2017-04-28 23:53:29 America/Toronto"
 layout: post
 location:
@@ -131,7 +134,7 @@ twitterWidget: true
 
 <img
   alt="" height="301"
-  src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-tranded/innominate_1_482x301.png"
+  src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/innominate_1_482x301.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   It was supposed to be the most glamorous event of the year&hellip;&nbsp; With all the selfie opportunities and flower-crowns that a young and gym-bodied
@@ -151,7 +154,7 @@ twitterWidget: true
     rel="me" title="Stuck at #fyrefestival trying to leave for the last 8 hours. barley any food or water or security or electricity">
     <img
       alt="" height="643"
-      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-tranded/LamaanGallal_482x643.png"
+      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/LamaanGallal_482x643.png"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a><br />
   &nbsp;<br />
@@ -160,7 +163,7 @@ twitterWidget: true
     rel="me" title="The dinner that @fyrefestival promised us was catered by Steven Starr is literally bread, cheese, and salad with dressing. #fyrefestival">
     <img
       alt="" height="482"
-      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-tranded/trev4president_482x482.png"
+      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/trev4president_482x482.png"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a>
   <blockquote cite="https://twitter.com/JananBuisier/status/857814840320118786" class="twitter-tweet" data-lang="en">
@@ -179,7 +182,7 @@ twitterWidget: true
     rel="me" title="The 'gourmet cuisine' this weekend was included in the ticket cost. We are being fed salads and ham and cheese sandwiches out of this tent">
     <img
       alt="" height="362"
-      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-tranded/DylanACOP_482x362.png"
+      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/DylanACOP_482x362.png"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a><br />
   &nbsp;<br />
@@ -188,7 +191,7 @@ twitterWidget: true
     rel="me" title="This is how Fyre Fest handles luggage. Just drop it out of a shipping container. At night. With no lights. #fyrefestival">
     <img
       alt="" height="271"
-      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-tranded/WNFIV_482x271.png"
+      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/WNFIV_482x271.png"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a>
 </p>
@@ -205,7 +208,7 @@ twitterWidget: true
     title="Bahamas official statement on Fyre Festival #FyreFestival">
     <img
       alt="" height="695"
-      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-tranded/VisitTheBahamas_482x695.png"
+      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/VisitTheBahamas_482x695.png"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a>
 </p>
@@ -283,7 +286,7 @@ twitterWidget: true
     rel="me" title="UPDATE: they are having us sign papers for full refunds. They are just pieces of computer paper but I mean...refunds">
     <img
       alt="" height="643"
-      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-tranded/DylanACOP_482x643.png"
+      src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/DylanACOP_482x643.png"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a>
 </p>

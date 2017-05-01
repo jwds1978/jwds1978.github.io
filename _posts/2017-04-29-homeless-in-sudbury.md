@@ -19,6 +19,10 @@ citations:
     slug: "what-we-know-about-veteran-homelessness-in-canada-and-whats-being-done-to-address-the-issue"
 comments: true
 date: "2017-04-29 02:19:31 America/Toronto"
+image:
+  height: 253
+  path: "https://assets.forces.army/blog/2017/04/29/homeless-in-sudbury/hotlink-ok/innominate_1_297x253.png"
+  width: 297
 last_modified_at: "2017-04-29 02:19:31 America/Toronto"
 layout: post
 location:

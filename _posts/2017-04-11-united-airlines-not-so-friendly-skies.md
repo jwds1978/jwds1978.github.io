@@ -21,6 +21,10 @@ citations:
     slug: "video-shows-security-dragging-united-airlines-passenger-off-overbooked-flight"
 comments: true
 date: "2017-04-11 10:42:17 America/Toronto"
+image:
+  height: 286
+  path: "https://assets.forces.army/blog/2017/04/11/united-airlines-not-so-friendly-skies/hotlink-ok/crowded-airplane_450x286.png"
+  width: 450
 last_modified_at: "2017-04-11 10:42:17 America/Toronto"
 layout: post
 location:

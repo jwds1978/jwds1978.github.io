@@ -6,6 +6,10 @@ categories:
   - News
 comments: true
 date: "2017-05-01 00:24:42 America/Toronto"
+image:
+  height: 190
+  path: "https://assets.forces.army/blog/2017/05/01/the-identity-of-a-warfighter/hotlink-ok/warfighter-creed_482x190.png"
+  width: 482
 last_modified_at: "2017-05-01 00:24:42 America/Toronto"
 layout: post
 location:

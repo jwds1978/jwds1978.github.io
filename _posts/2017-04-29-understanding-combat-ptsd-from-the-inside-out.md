@@ -13,6 +13,10 @@ citations:
     slug: "the-moral-logic-of-survivor-guilt"
 comments: true
 date: "2017-04-29 23:55:08 America/Toronto"
+image:
+  height: 177
+  path: "https://assets.forces.army/blog/2017/04/29/understanding-combat-ptsd-from-the-inside-out/hotlink-ok/combat-ptsd_187x177.png"
+  width: 187
 last_modified_at: "2017-04-30 00:07:28 America/Toronto"
 layout: post
 location:

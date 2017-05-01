@@ -24,6 +24,10 @@ citations:
     slug: "t-ui-linux-shell-launcher-community"
 comments: true
 date: "2017-04-28 12:38:51 America/Toronto"
+image:
+  height: 222
+  path: "https://assets.forces.army/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/hotlink-ok/innominate_1_160x222.png"
+  width: 160
 last_modified_at: "2017-04-28 12:38:51 America/Toronto"
 layout: post
 location:

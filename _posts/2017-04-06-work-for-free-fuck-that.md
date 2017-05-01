@@ -39,6 +39,10 @@ citations:
     slug: "youre-doing-it-for-the-exposure"
 comments: true
 date: "2017-04-06 16:42:58 America/Toronto"
+image:
+  height: 482
+  path: "https://assets.forces.army/blog/2017/04/06/work-for-free-fuck-that/hotlink-ok/youre-doing-it-for-the-exposure_482x482.png"
+  width: 482
 last_modified_at: "2017-04-06 16:42:58 America/Toronto"
 layout: post
 location:

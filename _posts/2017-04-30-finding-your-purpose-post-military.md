@@ -27,6 +27,10 @@ citations:
     slug: "the-infantrymans-arrogance"
 comments: true
 date: "2017-04-30 15:39:52 America/Toronto"
+image:
+  height: 229
+  path: "https://assets.forces.army/blog/2017/04/30/finding-your-purpose-post-military/hotlink-ok/what-is-your-why_263x229.png"
+  width: 263
 last_modified_at: "2017-04-30 20:59:18 America/Toronto"
 layout: post
 location:

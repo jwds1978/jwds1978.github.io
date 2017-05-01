@@ -12,6 +12,10 @@ citations:
     slug: "why-i-sued-google-and-won-updated"
 comments: true
 date: "2017-04-27 21:14:07 America/Toronto"
+image:
+  height: 362
+  path: "https://assets.forces.army/blog/2017/04/27/aaron-greenspan-sued-google-for-disabling-his-adsense-account/hotlink-ok/innominate_1_482x362.png"
+  width: 482
 last_modified_at: "2017-04-27 21:14:07 America/Toronto"
 layout: post
 location:

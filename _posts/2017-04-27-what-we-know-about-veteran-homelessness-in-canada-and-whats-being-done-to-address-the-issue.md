@@ -85,6 +85,10 @@ citations:
     slug: "wounded-warriors-canada"
 comments: true
 date: "2017-04-27 10:14:39 America/Toronto"
+image:
+  height: 143
+  path: "https://assets.forces.army/blog/2017/04/27/what-we-know-about-veteran-homelessness-in-canada-and-whats-being-done-to-address-the-issue/hotlink-ok/innominate_2_482x143.png"
+  width: 482
 last_modified_at: "2017-04-27 10:14:39 America/Toronto"
 layout: post
 location:

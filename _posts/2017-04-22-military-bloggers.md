@@ -40,6 +40,10 @@ citations:
     slug: "the-military-writers-guild"
 comments: true
 date: "2017-04-22 15:40:02 America/Toronto"
+image:
+  height: 185
+  path: "https://assets.forces.army/blog/2017/04/22/military-bloggers/hotlink-ok/Military-Writers-Guild_257x185.png"
+  width: 257
 last_modified_at: "2017-04-23 12:35:41 America/Toronto"
 layout: post
 location:

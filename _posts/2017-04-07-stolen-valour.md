@@ -33,6 +33,10 @@ citations:
     slug: "the-strange-case-of-franck-gervais-impersonating-a-soldier"
 comments: true
 date: "2017-04-07 16:51:01 America/Toronto"
+image:
+  height: 725
+  path: "https://assets.forces.army/blog/2017/04/07/stolen-valour/hotlink-ok/meal-team-six_482x725.png"
+  width: 482
 last_modified_at: "2017-04-10 10:40:51 America/Toronto"
 layout: post
 location:

@@ -21,6 +21,10 @@ citations:
     slug: "new-study-shows-brief-meditation-can-reduce-anger"
 comments: true
 date: "2017-04-26 16:43:57 America/Toronto"
+image:
+  height: 224
+  path: "https://assets.forces.army/blog/2017/04/26/7-things-destroying-your-mental-enegery/hotlink-ok/innominate_1_482x224.png"
+  width: 482
 last_modified_at: "2017-04-26 16:43:57 America/Toronto"
 layout: post
 location:

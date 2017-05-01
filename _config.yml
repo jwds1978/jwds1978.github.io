@@ -35,6 +35,14 @@ copyright:
   singleLine:
     text: "Copyright (c) 2017 James W.D. Stewart.  All rights reserved."
     html: "&copy;2017 James W.D. Stewart.&nbsp; All rights reserved."
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        height: 301
+        path: "https://assets.forces.army/naked/images/hotlink-ok/keep-calm_301x301.png"
+        width: 301
 # description: "Embrace 'The Suck'"
 destination: _site
 enforce_ssl: "forces.army"
@@ -61,6 +69,7 @@ include:
   - .nojekyll
   - .well-known
   - CNAME
+lang: en_CA
 layout: default
 logo: "https://assets.forces.army/naked/images/hotlink-ok/keep-calm_301x301.png"
 paginate: 5

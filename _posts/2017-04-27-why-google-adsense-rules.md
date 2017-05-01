@@ -5,6 +5,10 @@ categories:
   - "Living and Leisure"
 comments: true
 date: "2017-04-27 22:52:26 America/Toronto"
+image:
+  height: 158
+  path: "https://assets.forces.army/blog/2017/04/27/why-google-adsense-rules/hotlink-ok/Google_AdSense_482x158.png"
+  width: 482
 last_modified_at: "2017-04-27 22:52:26 America/Toronto"
 layout: post
 location:

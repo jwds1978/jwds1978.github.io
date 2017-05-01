@@ -4,6 +4,10 @@ categories:
   - News
 comments: true
 date: "2017-04-24 11:22:27 America/Toronto"
+image:
+  height: 477
+  path: "https://assets.forces.army/blog/2017/04/24/children-should-never-witness-war/hotlink-ok/this-war-of-mine_the-little-ones_482x477.png"
+  width: 482
 last_modified_at: "2017-04-24 11:22:27 America/Toronto"
 layout: post
 location:
