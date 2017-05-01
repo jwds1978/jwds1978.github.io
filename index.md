@@ -56,9 +56,11 @@ comments: true
 </div>
 <!--/email_off-->
 <!--/sse-->
-<img
-  alt="" height="266" src="{{ site.uri.assets }}/naked/images/web-site_482x266.png" style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;"
-  width="482" />
+<a href="{{ site.url }}/freelance" rel="me" title="">
+  <img
+    alt="" height="133" src="{{ site.uri.assets }}/naked/images/web-site_241x133.png" style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;"
+    width="241" />
+</a>
 <p>
   Hai!&nbsp; And, welcome to James Stewart's Web site.&nbsp; While there may be others like it, this one is his&hellip;&nbsp; He made this thing &#8212; a thing
   of wonder.
