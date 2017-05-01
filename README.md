@@ -40,7 +40,7 @@
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="gps-coordinates-latitude-longitude-altitude">
   GPS Coordinates (Latitude, Longitude, Altitude)
 </h3>
 <ul>
@@ -152,7 +152,7 @@
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="resources">
   Resources
 </h3>
 <ul>
@@ -251,7 +251,7 @@
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="qr-code-minimum-size">
   QR Code Minimum Size
 </h3>
 <table style="margin: 0 auto;">

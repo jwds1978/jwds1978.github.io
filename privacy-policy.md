@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-<h3>
+<h3 id="section-1-what-we-do-with-your-information">
   Section 1 &#8212; What We Do with Your Information
 </h3>
 <p>
@@ -19,7 +19,7 @@ title: "Privacy Policy"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-2-consent">
   Section 2 &#8212; Consent
 </h3>
 <p>
@@ -47,7 +47,7 @@ title: "Privacy Policy"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-3-disclosure">
   Section 3 &#8212; Disclosure
 </h3>
 <p>
@@ -57,7 +57,7 @@ title: "Privacy Policy"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-4-payment">
   Section 4 &#8212; Payment
 </h3>
 <p>
@@ -75,7 +75,7 @@ title: "Privacy Policy"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-5-third-party-services">
   Section 5 &#8212; Third-Party Services
 </h3>
 <p>
@@ -112,7 +112,7 @@ title: "Privacy Policy"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-6-security">
   Section 6 &#8212; Security
 </h3>
 <p>
@@ -132,7 +132,7 @@ title: "Privacy Policy"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-7-age-of-consent">
   Section 7 &#8212; Age of Consent
 </h3>
 <p>
@@ -142,7 +142,7 @@ title: "Privacy Policy"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-8-changes-to-this-privacy-policy">
   Section 8 &#8212; Changes to This Privacy Policy
 </h3>
 <p>
@@ -157,7 +157,7 @@ title: "Privacy Policy"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="questions-and-contact-information">
   Questions and Contact Information
 </h3>
 <p>

@@ -2,7 +2,7 @@
 title: "Terms and Conditions"
 ---
 
-<h3>
+<h3 id="overview">
   Overview
 </h3>
 <p>
@@ -30,7 +30,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-1-online-store-terms">
   Section 1 &#8212; Online Store Terms
 </h3>
 <p>
@@ -50,7 +50,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-2-general-conditions">
   Section 2 &#8212; General Conditions
 </h3>
 <p>
@@ -78,7 +78,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-3-accuracy-completeness-and-timeliness-of-information">
   Section 3 &#8212; Accuracy, Completeness and Timeliness of Information
 </h3>
 <p>
@@ -94,7 +94,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-4-modifications-to-the-services-and-prices">
   Section 4 &#8212; Modifications to the Services and Prices
 </h3>
 <p>
@@ -109,7 +109,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-5-products-or-services">
   Section 5 &#8212; Products or Services
 </h3>
 <p>
@@ -133,7 +133,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-6-accuracy-of-billing-and-account-information">
   Section 6 &#8212; Accuracy of Billing and Account Information
 </h3>
 <p>
@@ -154,7 +154,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-7-optional-tools">
   Section 7 &#8212; Optional Tools
 </h3>
 <p>
@@ -176,7 +176,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-8-third-party-links">
   Section 8 &#8212; Third-Party Links
 </h3>
 <p>
@@ -195,7 +195,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-9-user-comments-feedback-and-other-submissions">
   Section 9 &#8212; User Comments, Feedback and Other Submissions
 </h3>
 <p>
@@ -230,7 +230,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-10-personal-information">
   Section 10 &#8212; Personal Information
 </h3>
 <p>
@@ -240,7 +240,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-11-errors-inaccuracies-and-omissions">
   Section 11 &#8212; Errors, Inaccuracies and Omissions
 </h3>
 <p>
@@ -257,7 +257,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-12-prohibited-uses">
   Section 12 &#8212; Prohibited Uses
 </h3>
 <p>
@@ -304,7 +304,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-13-disclaimer-of-warranties-limitation-of-liability">
   Section 13 &#8212; Disclaimer of Warranties; Limitation of Liability
 </h3>
 <p>
@@ -335,7 +335,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-14-indemnification">
   Section 14 &#8212; Indemnification
 </h3>
 <p>
@@ -347,7 +347,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-15-severability">
   Section 15 &#8212; Severability
 </h3>
 <p>
@@ -358,7 +358,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-16-termination">
   Section 16 &#8212; Termination
 </h3>
 <p>
@@ -376,7 +376,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-17-entire-agreement">
   Section 17 &#8212; Entire Agreement
 </h3>
 <p>
@@ -393,7 +393,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-18-governing-law">
   Section 18 &#8212; Governing Law
 </h3>
 <p>
@@ -403,7 +403,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-19-changes-to-terms-of-service">
   Section 19 &#8212; Changes to Terms of Service
 </h3>
 <p>
@@ -417,7 +417,7 @@ title: "Terms and Conditions"
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="section-20-contact-information">
   Section 20 &#8212; Contact Information
 </h3>
 <p>

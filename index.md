@@ -77,7 +77,7 @@ comments: true
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="that-blog-thing">
   That Blog Thing&nbsp;
   <sup>Most Recent</sup>
 </h3>
@@ -90,7 +90,7 @@ comments: true
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="useful-things">
   Useful Things&nbsp;
   <sup>James, He Uses the Things</sup>
 </h3>

@@ -31,7 +31,7 @@ title: About
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="content-management-systems">
   Content Management Systems
 </h3>
 <p>
@@ -43,7 +43,7 @@ title: About
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="ecommerce-platforms">
   eCommerce Platforms
 </h3>
 <p>
@@ -55,7 +55,7 @@ title: About
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="web-development">
   Web Development
 </h3>
 <p>
@@ -64,7 +64,7 @@ title: About
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="web-hosting-software">
   Web Hosting Software
 </h3>
 <p>

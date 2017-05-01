@@ -4,7 +4,7 @@ title: Donate
 ---
 
 {% include ads_large-skyscraper_300x250.htm %}
-<h3>
+<h3 id="bitcoin">
   Bitcoin&nbsp;
   <sup>Preferred</sup>
 </h3>
@@ -30,7 +30,7 @@ title: Donate
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="fiat">
   Fiat
 </h3>
 <ul>
@@ -70,7 +70,7 @@ title: Donate
 <p>
   &nbsp;
 </p>
-<h3>
+<h3 id="wish-list">
   Wish List
 </h3>
 <ul>
