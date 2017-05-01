@@ -4,6 +4,10 @@ quickJump: true
 title: "In Case of Emergency"
 ---
 
+{% include ads_responsive_468x060.htm %}
+<p>
+  &nbsp;
+</p>
 <p id="top" style="text-align: center;">
   Jump to:&nbsp; <select class="quickJumpMenu">
     <option value="{{ site.url }}{{ page.url }}"></option>
@@ -756,3 +760,7 @@ title: "In Case of Emergency"
     Weight:&nbsp; &asymp; 200 Pounds
   </li>
 </ul>
+<p>
+  &nbsp;
+</p>
+{% include ads_responsive_468x060.htm %}
