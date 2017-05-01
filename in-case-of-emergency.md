@@ -1,5 +1,9 @@
 ---
 cloudflareSSE: true
+image:
+  height: 446
+  path: "https://assets.forces.army/naked/images/hotlink-ok/Icey_482x446.png"
+  width: 482
 quickJump: true
 title: "In Case of Emergency"
 ---

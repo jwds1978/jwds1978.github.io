@@ -43,6 +43,14 @@ defaults:
         height: 301
         path: "https://assets.forces.army/naked/images/hotlink-ok/keep-calm_301x301.png"
         width: 301
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      image:
+        height: 73
+        path: "https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png"
+        width: 482
 # description: "Embrace 'The Suck'"
 destination: _site
 enforce_ssl: "forces.army"

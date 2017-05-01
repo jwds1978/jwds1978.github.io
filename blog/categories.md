@@ -1,5 +1,9 @@
 ---
 comments: true
+image:
+  height: 73
+  path: "https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png"
+  width: 482
 liMarquee: true
 title: "Blog (Categories)"
 ---

@@ -1,4 +1,8 @@
 ---
+image:
+  height: 196
+  path: "https://assets.forces.army/naked/images/hotlink-ok/embrace-the-suck_336x196.png"
+  width: 336
 liMarquee: true
 title: "Embrace 'The Suck'"
 ---

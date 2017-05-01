@@ -1,4 +1,8 @@
 ---
+image:
+  height: 75
+  path: "https://assets.forces.army/astore/hotlink-ok/aStore_200x75.png"
+  width: 200
 title: "Store"
 ---
 

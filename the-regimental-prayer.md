@@ -1,4 +1,8 @@
 ---
+image:
+  height: 125
+  path: "https://assets.forces.army/naked/images/hotlink-ok/RCR_VRI_cypher_116x125.png"
+  width: 116
 title: "The Regimental Prayer"
 ---
 

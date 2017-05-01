@@ -69,7 +69,7 @@ comments: true
   of wonder.
 </p>
 <p>
-  James is a consultant of all things IT.&nbsp; That doesn't really say all that much about him, eh?
+  James is a consultant of all things IT.&nbsp; That doesn't really say all that much about him though, eh?
 </p>
 <p>
   Learn <a href="{{ site.url }}/about" rel="me" title="">moar things about him</a>, nao.
