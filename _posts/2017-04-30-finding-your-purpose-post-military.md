@@ -7,6 +7,13 @@ categories:
 citations:
   - author: "James Stewart"
     date:
+      accessed: "2017-04-30 14:45:22 America/Toronto"
+      published: "2017-04-23 15:43:35 America/Toronto"
+    href: "https://forces.army/blog/2017/04/23/camaraderies-one-trait-the-civilian-sectors-lacking"
+    name: "Camaraderie's One Trait the Civilian Sector's Lacking"
+    slug: "camaraderies-one-trait-the-civilian-sectors-lacking"
+  - author: "James Stewart"
+    date:
       accessed: "2017-04-30 14:47:01 America/Toronto"
     href: "https://forces.army/the-suck"
     name: "Embrace 'The Suck'"
