@@ -56,6 +56,9 @@ comments: true
 </div>
 <!--/email_off-->
 <!--/sse-->
+<img
+  alt="" height="133" src="{{ site.uri.assets }}/naked/images/punisher_097x133.png" style="border: 0px; float: left; margin-bottom: 10px; margin-right: 10px;"
+  width="97" />
 <a href="{{ site.url }}/freelance" rel="me" title="">
   <img
     alt="" height="133" src="{{ site.uri.assets }}/naked/images/web-site_241x133.png" style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;"
