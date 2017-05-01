@@ -50,7 +50,8 @@ citations:
     name: "Themes for Business and Corporate Websites"
     slug: "themes-for-business-and-corporate-websites"
 comments: true
-date: "2017-04-28 20:11:18 America/Toronto"image:
+date: "2017-04-28 20:11:18 America/Toronto"
+image:
   height: 288
   path: "https://assets.forces.army/blog/2017/04/28/boost-sales-with-video-content-and-story-telling-in-business-to-business-marketing/hotlink-ok/innominate_1_482x288.png"
   width: 482

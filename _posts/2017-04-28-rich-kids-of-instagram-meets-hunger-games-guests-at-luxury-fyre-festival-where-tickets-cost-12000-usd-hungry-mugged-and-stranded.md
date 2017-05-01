@@ -97,7 +97,8 @@ citations:
     name: "UPDATE: they are having us sign papers for full refunds. They are just pieces of computer paper but I mean...refunds"
     slug: "update-they-are-having-us-sign-papers-for-full-refunds-they-are-just-pieces-of-computer-paper-but-i-mean-refunds"
 comments: true
-date: "2017-04-28 23:09:18 America/Toronto"image:
+date: "2017-04-28 23:09:18 America/Toronto"
+image:
   height: 301
   path: "https://assets.forces.army/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/hotlink-ok/innominate_1_482x301.png"
   width: 482
