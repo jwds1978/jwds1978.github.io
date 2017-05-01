@@ -30,8 +30,8 @@ title: "Blog (Categories)"
 </style>
 <p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
   This is my view, from my foxhole.&nbsp; &quot;Everybody has their own war&quot;&hellip;&nbsp; Take what you need; leaving the rest.&nbsp; And, most
-  importantly, I reserve the right to change and evolve my opinions over time&hellip;&nbsp; That's what good conversations do &#8212; and, blogs are
-  inherently conversations.
+  importantly, I reserve the right to change and evolve my opinions over time&hellip;&nbsp; That's what good conversations do &#8212; and blogs, are
+  inherently, conversations.
 </p>
 <img
   alt="" height="73" src="{{ site.uri.assets }}/naked/images/suck-my-words_482x073.png"
