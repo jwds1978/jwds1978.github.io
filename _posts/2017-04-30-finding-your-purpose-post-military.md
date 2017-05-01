@@ -20,14 +20,14 @@ citations:
     slug: "the-infantrymans-arrogance"
 comments: true
 date: "2017-04-30 15:39:52 America/Toronto"
-last_modified_at: "2017-04-30 16:05:41 America/Toronto"
+last_modified_at: "2017-04-30 20:59:18 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
-modifiedReason: "Added an Image"
+modifiedReason: "Changed the Image"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154264640242084"
     text: Facebook
@@ -51,8 +51,8 @@ title: "Finding Your Purpose Post-Military"
 ---
 
 <img
-  alt="" height="220" src="{{ site.uri.assets }}/blog/2017/04/30/finding-your-purpose-post-military/what-is-my-purpose_377x220.png"
-  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="377" />
+  alt="" height="229" src="{{ site.uri.assets }}/blog/2017/04/30/finding-your-purpose-post-military/what-is-your-why_263x229.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="263" />
 <p>
   So much of life after the military is an identity crisis.&nbsp; Yes, there's the emotional, mental, and/or physical pain&hellip;&nbsp; The nightmares, rage,
   and/or insomnia&hellip;&nbsp; The grief, the edginess, and/or the isolation&hellip;&nbsp; Forced smiles, numbness, and/or lack of connection.&nbsp; But,
