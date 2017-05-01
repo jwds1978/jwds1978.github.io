@@ -93,6 +93,14 @@
     </ul>
   </li>
   <li>
+    Rainbow Centre, 40 Elm St., Sudbury, Ontario, P3C 1S8, Canada
+    <ul>
+      <li>
+        46.4940836, -80.99273169999998, 259
+      </li>
+    </ul>
+  </li>
+  <li>
     The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada
     <ul>
       <li>

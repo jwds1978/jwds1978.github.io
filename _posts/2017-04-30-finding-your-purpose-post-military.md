@@ -23,10 +23,10 @@ date: "2017-04-30 15:39:52 America/Toronto"
 last_modified_at: "2017-04-30 20:59:18 America/Toronto"
 layout: post
 location:
-  altitude: 266
-  latitude: 46.4955102
-  longitude: -80.99748220000004
-  text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+  altitude: 259
+  latitude: 46.4940836
+  longitude: -80.99273169999998
+  text: "Rainbow Centre, 40 Elm St., Sudbury, Ontario, P3C 1S8, Canada"
 modifiedReason: "Changed the Image"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154264640242084"
