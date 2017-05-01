@@ -13,6 +13,16 @@ location:
   latitude: 46.5063465
   longitude: -80.9448486
   text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154265503712084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/FhgAJWXgzaW"
+    text: Google+
+    title: Google+
+  - href: "https://twitter.com/jwds1978/status/858901048009916416"
+    text: Twitter
+    title: Twitter
 tags:
   - Health
   - "How to"
@@ -33,6 +43,7 @@ title: "The Identity of a Warfighter"
   somehow mean that you're forgetting and/or leaving your fallen buddies behind &#8212; that becoming whole now, will invalidate the sacrifice and suffering
   that happened.
 </p>
+<!-- excerptBreak -->
 <p>
   Let's have a look at this fear &#8212; as irrational as it may be.&nbsp; It's, closely, tied to the experience of having been at your ultimate best in combat
   and the deflated experience of life after &#8212; when you no longer really know and/or feel comfortable, with who you are, as a warfighter in civilian
