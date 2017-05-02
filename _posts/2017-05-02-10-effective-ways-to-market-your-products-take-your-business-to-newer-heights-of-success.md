@@ -35,9 +35,10 @@ title: "10 Effective Ways to Market Your Products: Take Your Business to Newer H
 <p>
   Within this article, I'll outline some of the most effective ways to promote your products.&nbsp; You may be surprised that most of these are simple to
   practice.&nbsp; However, all of these require unrelenting and dedicated efforts over time in order to be successful.&nbsp; Build the right strategies and
-  focus upon bringing them to life.&nbsp; Don't just sit back to grow your business &#8212; get out and work!&nbsp; Here come 10 tips which will get you
-  started down the path.
+  focus upon bringing them to life.&nbsp; Don't just sit back to grow your business &#8212; get out and work!&nbsp; Here are several tips which will get you
+  started.
 </p>
+<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>
