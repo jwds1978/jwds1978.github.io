@@ -7,6 +7,9 @@
     <meta content="8IhwjdCFEPf3MDA6fi8uCL25P91r_0ZY3liS6UKT8d8" name="google-site-verification" />
     <meta content="#000000" name="msapplication-TileColor" />
     <meta content="{{ site.url }}/ms-icon-144x144.png" name="msapplication-TileImage" />
+    {% if page.robotsIndex == false %}
+    <meta content="noindex" name="robots" />
+    {% endif %}
     <meta content="#000000" name="theme-color" />
     <meta content="initial-scale=1, user-scalable=no, width=device-width" name="viewport" />
     <meta content="{{ page.url }}" property="webmention:redirected_from" />

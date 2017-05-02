@@ -1,5 +1,6 @@
 ---
 adsDisplay: false
+robotsIndex: false
 sitemap: false
 title: "Search"
 ---
