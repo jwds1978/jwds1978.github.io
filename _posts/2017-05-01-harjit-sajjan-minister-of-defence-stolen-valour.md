@@ -27,13 +27,17 @@ citations:
     slug: "tories-accuse-harjit-sajjan-of-stolen-valour"
 comments: true
 date: "2017-05-01 20:32:36 America/Toronto"
+image:
+  height: 271
+  path: "https://assets.forces.army/blog/2017/05/01/harjit-sajjan-minister-of-defence-stolen-valour/hotlink-ok/Harjit-Sajjan_482x271.png"
+  width: 482
 last_modified_at: "2017-05-01 20:32:36 America/Toronto"
 layout: post
 location:
-  altitude: 
-  latitude: 
-  longitude: 
-  text: ""
+  altitude: 266
+  latitude: 46.4955102
+  longitude: -80.99748220000004
+  text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
 tags:
   - Law
   - MyCAF
