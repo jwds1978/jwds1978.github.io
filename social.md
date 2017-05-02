@@ -108,6 +108,15 @@ twitterWidget: true
     </ul>
   </li>
   <li>
+    Pinterest
+    <ul>
+      <li>
+        <a href="https://www.pinterest.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br />
+        <a data-pin-do="buttonFollow" href="https://www.pinterest.com/jwds1978" rel="me" target="_blank" title="jwds1978">James Stewart</a>
+      </li>
+    </ul>
+  </li>
+  <li>
     Reddit
     <ul>
       <li>
