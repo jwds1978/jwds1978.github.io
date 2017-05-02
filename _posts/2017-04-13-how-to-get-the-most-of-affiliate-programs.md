@@ -419,16 +419,18 @@ title: "How to Get the Most of Affiliate Programs"
   few of them:
   <ul>
     <li>
-      <a href="https://www.iubenda.com" rel="external" target="_blank" title="Generate a privacy policy in seconds. Easy. Fast. Beautiful.">
+      <a href="https://www.iubenda.com" rel="external nofollow" target="_blank" title="Generate a privacy policy in seconds. Easy. Fast. Beautiful.">
         Privacy &amp; Cookie Policy Generator
       </a>
     </li>
     <li>
-      <a href="https://privacypolicygenerator.info" rel="external" target="_blank" title="The fastest free privacy policy generator!">Privacy Policy Generator</a>
+      <a href="https://privacypolicygenerator.info" rel="external nofollow" target="_blank" title="The fastest free privacy policy generator!">
+        Privacy Policy Generator
+      </a>
     </li>
     <li>
       <a
-        href="https://termsfeed.com/privacy-policy/generator" rel="external" target="_blank"
+        href="https://termsfeed.com/privacy-policy/generator" rel="external nofollow" target="_blank"
         title="Generate a Privacy Policy, 2017 up-to-date, for your business with the Privacy Policy Generator from TermsFeed.">
         Privacy Policy Generator
       </a>
@@ -510,10 +512,12 @@ title: "How to Get the Most of Affiliate Programs"
 </p>
 <p>
   Once everything's ready on your end, and you're sure that you comply with all of the requirements,
-  <a href="https://www.google.com/adsense/g-app-single-1?hl=en&signup=rs&subid=ww-ww-org-signup" rel="external" target="_blank" title="">feel free to apply</a>.&nbsp; The
-  process is relatively easy and user-friendly, as with all of the Google services.&nbsp; The most commonly requested information regarding AdSense can be found
-  on <a href="https://support.google.com/adsense/#topic=3373519" rel="external" target="_blank" title="">their support page</a> and/or discussed in
-  <a href="https://productforums.google.com/forum/#!forum/adsense" rel="external" target="_blank" title="">their community</a>.
+  <a href="https://www.google.com/adsense/g-app-single-1?hl=en&signup=rs&subid=ww-ww-org-signup" rel="external nofollow" target="_blank" title="">
+    feel free to apply
+  </a>.&nbsp;
+  The process is relatively easy and user-friendly, as with all of the Google services.&nbsp; The most commonly requested information regarding AdSense can be
+  found on <a href="https://support.google.com/adsense/#topic=3373519" rel="external nofollow" target="_blank" title="">their support page</a> and/or discussed
+  in <a href="https://productforums.google.com/forum/#!forum/adsense" rel="external nofollow" target="_blank" title="">their community</a>.
 </p>
 <p>
   If you follow all of the guidelines from this article, you should be approved without any problems.&nbsp; So, just apply and go get yourself a cup of coffee.

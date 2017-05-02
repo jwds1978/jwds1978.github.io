@@ -634,14 +634,14 @@ title: "How to Create a Web Site in 2017"
 </p>
 <p>
   First of all, you'll need to download the
-  <a href="https://downloads.joomla.org/latest" rel="external" target="_blank" title="Latest :: Joomla! Downloads">latest Joomla! package</a>.&nbsp; You can do
-  it on the   <a href="{{ site.url }}{{ page.url }}#cite-joomla-downloads" rel="me" title="Joomla! Downloads">Joomla! official Web site</a> since Joomla! is a
-  free and open-source project.
+  <a href="https://downloads.joomla.org/latest" rel="external nofollow" target="_blank" title="Latest :: Joomla! Downloads">latest Joomla! package</a>.&nbsp;
+  You can do it on the <a href="{{ site.url }}{{ page.url }}#cite-joomla-downloads" rel="me" title="Joomla! Downloads">Joomla! official Web site</a> since
+  Joomla! is a free and open-source project.
 </p>
 <p>
   Once you've downloaded the
-  <a href="https://downloads.joomla.org/latest" rel="external" target="_blank" title="Latest :: Joomla! Downloads">latest Joomla! package</a>, you should unpack
-  it and move the files to your <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a> FTP.
+  <a href="https://downloads.joomla.org/latest" rel="external nofollow" target="_blank" title="Latest :: Joomla! Downloads">latest Joomla! package</a>, you
+  should unpack it and move the files to your <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a> FTP.
 </p>
 <p>
   Just click on the &quot;File Manager&quot; button from within your <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a>

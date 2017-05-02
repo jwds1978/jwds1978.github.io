@@ -35,7 +35,7 @@ title: "Future Things"
       <a href="{{ site.uri.aStore }}/#detail/B00TZR3WRM" rel="me" title="">Logitech MX Master Wireless Mouse (910-004337)</a>
     </li>
     <li>
-      <a href="http://www.bestbuy.ca/en-ca/product/mz-75e1t0b-am/10366522.aspx" rel="external" target="_blank" title="">
+      <a href="http://www.bestbuy.ca/en-ca/product/mz-75e1t0b-am/10366522.aspx" rel="external nofollow" target="_blank" title="">
         Samsung 850 EVO 1TB Internal Solid State Drive (MZ-75E1T0B/AM)
       </a>
     </li>

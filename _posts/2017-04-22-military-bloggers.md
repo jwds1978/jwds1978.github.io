@@ -98,8 +98,8 @@ title: "Military Bloggers"
   &nbsp;
 </p>
 <p>
-  The first wave (2001 &#8211; 2007) of mil-blogging was defined and dominated by first-person (i.e. boots-on-the-ground) narratives, unmediated by news editors,
-  broadcasts, and/or publications.&nbsp; Some of these, such as Matt Gallagher's blog, later grew into larger, book-length works:
+  The first wave (2001 &#8211; 2007) of mil-blogging was defined and dominated by first-person (i.e. boots-on-the-ground) narratives, unmediated by news
+  editors, broadcasts, and/or publications.&nbsp; Some of these, such as Matt Gallagher's blog, later grew into larger, book-length works:
   <ul>
     <li>
       <a href="{{ site.uri.aStore }}/#detail/0306819678" rel="me" title="">Kaboom: Embracing the Suck in a Savage Little War</a> by Matt Gallagher
@@ -132,8 +132,8 @@ title: "Military Bloggers"
     If anything, the blogs hearken back, really, to an earlier time in the growth of the Republic.<br />
     &nbsp;<br />
     We're the
-    &quot;<a href="https://en.wikipedia.org/wiki/Broadside_(printing)" rel="external" target="_blank" title="Broadside (printing)">broadsides</a>&quot; of this
-    era.
+    &quot;<a href="https://en.wikipedia.org/wiki/Broadside_(printing)" rel="external nofollow" target="_blank" title="Broadside (printing)">broadsides</a>&quot;
+    of this era.
   </blockquote>
 </p>
 <p>

@@ -33,7 +33,9 @@
   </li>
 </ul>
 <p>
-  <a href="https://www.brainbench.com/images/certlogo/color/cert/webdesignergraphicdesign.gif" rel="external" target="_blank" title="Brainbench Certification">
+  <a
+    href="https://www.brainbench.com/images/certlogo/color/cert/webdesignergraphicdesign.gif" rel="external nofollow" target="_blank"
+    title="Brainbench Certification">
     Brainbench Certification
   </a>
 </p>
@@ -160,13 +162,13 @@
     Conversions
     <ul>
       <li>
-        <a href="https://www.fcc.gov/media/radio/dms-decimal" rel="external" target="_blank" title="DMS to Decimal">DMS to Decimal</a>
+        <a href="https://www.fcc.gov/media/radio/dms-decimal" rel="external nofollow" target="_blank" title="DMS to Decimal">DMS to Decimal</a>
       </li>
       <li>
-        <a href="http://www.gps-coordinates.net" rel="external" target="_blank" title="Google Maps - GPS coordinates, latitude and longitude">GPS</a>
+        <a href="http://www.gps-coordinates.net" rel="external nofollow" target="_blank" title="Google Maps - GPS coordinates, latitude and longitude">GPS</a>
       </li>
       <li>
-        <a href="http://endmemo.com/sconvert/millimeterpixel.php" rel="external" target="_blank" title="mm to px Converter">mm to px</a>
+        <a href="http://endmemo.com/sconvert/millimeterpixel.php" rel="external nofollow" target="_blank" title="mm to px Converter">mm to px</a>
       </li>
     </ul>
   </li>
@@ -175,7 +177,8 @@
     <ul>
       <li>
         <a
-          href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" rel="external" target="_blank" title="This is intended as a quick reference.">
+          href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" rel="external nofollow" target="_blank"
+          title="This is intended as a quick reference.">
           Markdown Cheatsheet
         </a>
       </li>
@@ -184,13 +187,15 @@
         <ul>
           <li>
             <a
-              href="https://help.github.com/articles/repository-metadata-on-github-pages" rel="external" target="_blank"
+              href="https://help.github.com/articles/repository-metadata-on-github-pages" rel="external nofollow" target="_blank"
               title="Repository metadata on GitHub Pages">
               Repository metadata
             </a>
           </li>
           <li>
-            <a href="https://help.github.com/articles/what-is-github-pages/#usage-limits" rel="external" target="_blank" title="Usage Limits">Usage Limits</a>
+            <a href="https://help.github.com/articles/what-is-github-pages/#usage-limits" rel="external nofollow" target="_blank" title="Usage Limits">
+              Usage Limits
+            </a>
           </li>
         </ul>
       </li>
@@ -201,14 +206,14 @@
     <ul>
       <li>
         <a
-          href="http://gmpg.org/xfn" rel="external" target="_blank"
+          href="http://gmpg.org/xfn" rel="external nofollow" target="_blank"
           title="XHTML Friends Network is a simple way to represent human relationships using hyperlinks.">
           XHTML Friends Network
         </a>
         <ul>
           <li>
             <a
-              href="http://gmpg.org/xfn/11" rel="external" target="_blank"
+              href="http://gmpg.org/xfn/11" rel="external nofollow" target="_blank"
               title="Version 1.1 of the XFN meta data profile: the list of the values used in XFN with their significance.">Profile</a>
           </li>
         </ul>
@@ -223,26 +228,28 @@
       </li>
       <li>
         <a
-          href="https://jscompress.com" rel="external" target="_blank
+          href="https://jscompress.com" rel="external nofollow" target="_blank
           title="JSCompress.com is an online javascript compressor that allows you to compress and minify your javascript files.">JSCompress</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="http://microformatshiv.com" rel="external" target="_blank" title="A cross browser javascript microformats parser which can also be used in browser extensions.">
+    <a
+      href="http://microformatshiv.com" rel="external nofollow" target="_blank"
+      title="A cross browser javascript microformats parser which can also be used in browser extensions.">
       microformat-shiv
     </a>
   </li>
   <li>
     <a
-      href="http://microformats.org/wiki" rel="external" target="_blank"
+      href="http://microformats.org/wiki" rel="external nofollow" target="_blank"
       title="This wiki is the central resource of the microformats community and provides microformats authoring guides, references, specifications, drafts, publishing patterns, research, brainstorming, and issue tracking.">
       Microformats Wiki
     </a>
   </li>
   <li>
     <a
-      href="https://developer.mozilla.org/en-US/docs/Web/Manifest" rel="external" target="_blank"
+      href="https://developer.mozilla.org/en-US/docs/Web/Manifest" rel="external nofollow" target="_blank"
       title="The Web app manifest provides information about an application (i.e. author, description, icon, and name) in a JSON text file.">
       Web App Manifest
     </a>

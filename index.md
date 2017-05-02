@@ -74,3 +74,7 @@ comments: true
 <p>
   Learn <a href="{{ site.url }}/about" rel="me" title="">moar things about him</a>, nao.
 </p>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+{% include ads_responsive_468x060.htm %}

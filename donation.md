@@ -205,7 +205,7 @@ title: Donate
         <ul>
           <li>
             1 &times;&nbsp;
-            <a href="http://www.bestbuy.ca/en-ca/product/mm450-x/10581219.aspx" rel="external" target="_blank" title="">
+            <a href="http://www.bestbuy.ca/en-ca/product/mm450-x/10581219.aspx" rel="external nofollow" target="_blank" title="">
               Sennheiser MM450-X Bluetooth Travel Headset - Online Only
             </a>
           </li>
@@ -216,13 +216,13 @@ title: Donate
         <ul>
           <li>
             1 &times;&nbsp;
-            <a href="http://www.bestbuy.ca/en-ca/product/m6h77aa/10418304.aspx" rel="external" target="_blank" title="">
+            <a href="http://www.bestbuy.ca/en-ca/product/m6h77aa/10418304.aspx" rel="external nofollow" target="_blank" title="">
               HP Power Pack Plus 18000mAh Portable Charger (M6H77AA) - Black/Blue
             </a>
           </li>
           <li>
             1 &times;&nbsp;
-            <a href="http://www.bestbuy.ca/en-ca/product/pth651/10270039.aspx" rel="external" target="_blank" title="">
+            <a href="http://www.bestbuy.ca/en-ca/product/pth651/10270039.aspx" rel="external nofollow" target="_blank" title="">
               Wacom Intuos Pro Graphic Tablet &amp; Pen - Medium
             </a>
           </li>
@@ -233,7 +233,7 @@ title: Donate
         <ul>
           <li>
             1 &times;&nbsp;
-            <a href="http://www.bestbuy.ca/en-ca/product/abacobrzbk01-bl/10543499.aspx" rel="external" target="_blank" title="">
+            <a href="http://www.bestbuy.ca/en-ca/product/abacobrzbk01-bl/10543499.aspx" rel="external nofollow" target="_blank" title="">
               Arctic Cooling Breeze (Black) USB Fan - Online Only
             </a>
           </li>
