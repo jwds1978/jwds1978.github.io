@@ -149,6 +149,23 @@ title: Blogroll
     </ul>
   </li>
   <li>
+    <a href="{{ site.uri.shortURL }}/Mr-Rebates" rel="external" target="_blank" title="Mr. Rebates">
+      <img
+        alt="" height="60" src="{{ site.uri.assets }}/naked/images/Mr-Rebates_120x060.gif" style="border: 0px; float: right; margin-left: 10px;" width="120" />
+    </a>
+    <a href="{{ site.uri.shortURL }}/Mr-Rebates" rel="external" target="_blank" title="Mr. Rebates">Mr. Rebates</a>
+    <ul>
+      <li>
+        What is Mr. Rebates?&nbsp; It's an online shopping mall, where you get cash-back rebates plus money-saving coupons, on any purchase that you make
+        through their partner stores.
+      </li>
+      <li>
+        You can shop online, at hundreds of stores &#8212; Best Buy, Dell, Macy's, Office Depot, Old Navy, etc.&nbsp; You can get up to 30% cash-back!&nbsp; Why
+        pay full-price, when you can get a cash-back discount on your online purchases?
+      </li>
+    </ul>
+  </li>
+  <li>
     <div style="float: right; margin-left: 10px;">
       <a href="{{ site.uri.shortURL }}/PIA" rel="external" target="_blank" title="Private Internet Access">
         <img alt="" height="438" src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_320x438.png" style="border: 0px; float: right;" width="320" />
