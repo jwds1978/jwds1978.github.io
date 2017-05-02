@@ -12,6 +12,10 @@ title: Blogroll
 <p>
   &nbsp;
 </p>
+{% include ads_responsive_468x060.htm %}
+<p>
+  &nbsp;
+</p>
 <h3 id="innominate">
   Innominate
 </h3>
@@ -41,6 +45,10 @@ title: Blogroll
     <a href="https://www.w3schools.com" rel="external nofollow" target="_blank" title="W3Schools Online Web Tutorials">W3Schools</a>
   </li>
 </ul>
+<p>
+  &nbsp;
+</p>
+{% include ads_responsive_468x060.htm %}
 <p>
   &nbsp;
 </p>
@@ -340,3 +348,7 @@ title: Blogroll
     <a href="{{ site.uri.shortURL }}/XDA-Depot" rel="external" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
   </li>
 </ul>
+<p>
+  &nbsp;
+</p>
+{% include ads_responsive_468x060.htm %}
