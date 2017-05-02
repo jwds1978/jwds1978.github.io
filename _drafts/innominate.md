@@ -9,25 +9,29 @@ categories:
   - "Proving Ground"
   - "Sports and Recreation"
 citations:
-  - author: 
+  - author: ""
     date:
       accessed: "0000-00-00 00:00:00 America/Toronto"
       published: "0000-00-00 00:00:00 America/Toronto"
-    href: 
-    name: 
-    slug: 
+    href: ""
+    name: ""
+    slug: ""
 comments: true
 date: "0000-00-00 00:00:00 America/Toronto"
+image:
+  height: 
+  path: ""
+  width: 
 last_modified_at: "0000-00-00 00:00:00 America/Toronto"
 layout: post
 location:
   altitude: 
   latitude: 
   longitude: 
-  text: 
+  text: ""
 modifiedReason: 
 syndications:
-  - href: 
+  - href: ""
     text: 
     title: 
 tags:
@@ -88,5 +92,6 @@ tags:
   - Outdoors
   - Soccer
   - Sports
-title: 
+title: ""
 ---
+
