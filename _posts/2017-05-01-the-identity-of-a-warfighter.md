@@ -25,6 +25,9 @@ syndications:
   - href: "https://plus.google.com/115164780760274259502/posts/FhgAJWXgzaW"
     text: Google+
     title: Google+
+  - href: "https://www.pinterest.com/pin/554013191649994254"
+    text: Pinterest
+    title: Pinterest
   - href: "https://twitter.com/jwds1978/status/858901048009916416"
     text: Twitter
     title: Twitter
