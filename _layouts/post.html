@@ -85,7 +85,7 @@ layout: default
     <span style="float: right;">
       {{ pageWords }} Word{% if pageWords != 1 %}s{% endif %}<br />
       by {% if pageAuthor.hyperlink.uri %}<a {% if pageAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ pageAuthor.hyperlink.uri }}" {% if pageAuthors != "jwds" %}{% if pageAuthor.hyperlink.hcard %}rel="author external nofollow" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ pageAuthor.hyperlink.title | escape }}">{% endif %}<span {% if pageAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ pageAuthor.name | escape }}</span>{% if pageAuthor.hyperlink.uri %}</a>{% endif %}<br />
-      {% if page.comments %}<a data-disqus-identifier="{{ page.url }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
+      {% if page.comments %}<a data-disqus-identifier="{{ page.disqusIdentifier }}" href="{{ site.url }}{{ page.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
     </span>
     Published:&nbsp; <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y @ %T %Z" }}</time><br />
     Updated:&nbsp; {% if pageDatePublished != pageDateModified %}<time class="dt-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% if page.modifiedReason and page.modifiedReason != blank %}&nbsp; <sup>{{ page.modifiedReason | escape }}</sup>{% endif %}{% else %}N/A{% endif %}<br />
@@ -200,12 +200,12 @@ layout: default
 <div id="disqus_thread"></div>
 <script>
   var disqus_config = function () {
-    this.page.identifier = "{{ page.url }}", this.page.title = "{{ page.title }}", this.page.url = "{{ site.url }}{{ page.url }}"
+    this.page.identifier = "{{ page.disqusIdentifier }}", this.page.title = "{{ page.title }}", this.page.url = "{{ site.url }}{{ page.url }}"
   };
   ! function () {
     var a = document,
       b = a.createElement("script");
-    b.src = "//jwds.disqus.com/embed.js", b.setAttribute("data-timestamp", +new Date), (a.head || a.body).appendChild(b)
+    b.src = "https://jwds.disqus.com/embed.js", b.setAttribute("data-timestamp", +new Date), (a.head || a.body).appendChild(b)
   }();
 </script>
 <noscript>

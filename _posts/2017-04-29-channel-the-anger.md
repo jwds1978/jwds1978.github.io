@@ -6,6 +6,7 @@ categories:
   - "Living and Leisure"
 comments: true
 date: "2017-04-29 13:04:17 America/Toronto"
+disqusIdentifier: 3973472424489582726292556237636283692777292878357839564374278593295786876896936369873276397974232447
 image:
   height: 191
   path: "https://assets.forces.army/blog/2017/04/29/channel-the-anger/hotlink-ok/innominate_1_340x191.png"

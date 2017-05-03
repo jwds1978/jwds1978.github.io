@@ -13,6 +13,7 @@ citations:
     slug: vita-monster
 comments: true
 date: "2017-03-12 13:29:18 America/Toronto"
+disqusIdentifier: 7472453886663983843735778524484493585994668737422235684772777794582862546565923779653453979543273333
 last_modified_at: "2017-03-13 10:07:53 America/Toronto"
 layout: post
 location:

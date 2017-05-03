@@ -19,6 +19,7 @@ citations:
     slug: "a-year-at-war"
 comments: true
 date: "2017-04-27 00:47:23 America/Toronto"
+disqusIdentifier: 6494846847578393449292689536359686942844286879288923237273253599479863333723929478595647277837698869
 last_modified_at: "2017-04-27 00:47:23 America/Toronto"
 layout: post
 location:

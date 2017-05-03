@@ -15,6 +15,7 @@ citations:
     slug: "stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer"
 comments: true
 date: "2017-04-03 16:20:39 America/Toronto"
+disqusIdentifier: 2936339844586769657873643638277786568289438794868593258492679739784993773734938364279524974369968423
 image:
   height: 321
   path: "https://assets.forces.army/blog/2017/04/03/a-guide-to-not-working-on-freelance-exchanges-fiverr-upwork/hotlink-ok/the-moment-begins_482x321.png"

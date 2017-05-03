@@ -4,6 +4,7 @@ categories:
   - "Business and Tech"
 comments: true
 date: "2017-05-02 13:09:23 America/Toronto"
+disqusIdentifier: 9672834354422663889889278952384353849343633846757484979537929966474943373747538696539248558288268788
 image:
   height: 288
   path: "https://assets.forces.army/blog/2017/05/02/10-effective-ways-to-market-your-products-take-your-business-to-newer-heights-of-success/hotlink-ok/public-market_482x288.png"

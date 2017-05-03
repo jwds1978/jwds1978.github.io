@@ -11,6 +11,7 @@ citations:
     slug: "hats-on-for-mental-health-day-2017"
 comments: true
 date: "2017-04-27 15:30:41 America/Toronto"
+disqusIdentifier: 3345649265722947395393966988484479493822886735573247389644642833757393395227486929287778457999293227
 image:
   height: 220
   path: "https://assets.forces.army/blog/2017/04/27/take-the-suck-out-of-mental-health/hotlink-ok/innominate_1_330x220.png"

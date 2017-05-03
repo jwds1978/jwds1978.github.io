@@ -27,6 +27,7 @@ citations:
     slug: "about-the-elgin-street-mission"
 comments: true
 date: "2017-02-16 11:44:43 America/Toronto"
+disqusIdentifier: 4264326928897239488966669722728467484582659657966524953587922676564553946727258426273456535889557847
 last_modified_at: "2017-02-18 16:07:43 America/Toronto"
 layout: post
 location:

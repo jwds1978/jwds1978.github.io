@@ -44,6 +44,7 @@ citations:
     slug: "small-arms-modernization"
 comments: true
 date: "2017-04-24 16:13:48 America/Toronto"
+disqusIdentifier: 6224455924486863556693238245465458656376835388436693333526945487894476836756697874535496439877647587
 image:
   height: 347
   path: "https://assets.forces.army/blog/2017/04/24/the-best-pistol-for-canada/hotlink-ok/innominate_1_482x347.png"

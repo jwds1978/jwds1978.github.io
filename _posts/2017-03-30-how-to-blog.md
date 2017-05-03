@@ -74,6 +74,7 @@ citations:
     slug: "top-10-mommy-bloggers-who-do-you-really-read"
 comments: true
 date: "2017-03-30 13:30:26 America/Toronto"
+disqusIdentifier: 6427524348995253623387225346244227328575662384766984825557874733475487467275779857389877378424525653
 image:
   height: 248
   path: "https://assets.forces.army/blog/2017/03/30/how-to-blog/hotlink-ok/Image-01_482x248.png"

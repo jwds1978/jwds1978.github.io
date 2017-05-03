@@ -70,6 +70,7 @@ citations:
     slug: "why-do-people-abuse"
 comments: true
 date: "2017-04-21 15:00:55 America/Toronto"
+disqusIdentifier: 6982294684973294493656984327352853583943389466559446585974356728644938935454768423285688679678472587
 image:
   height: 281
   path: "https://assets.forces.army/blog/2017/04/21/some-thoughts-about-abuse-anger-and-victimization/hotlink-ok/you-deserve-to-be-safe_482x281.png"

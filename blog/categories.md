@@ -103,7 +103,7 @@ title: "Blog (Categories)"
             <span style="float: right;">
               {{ postWords }} Word{% if postWords != 1 %}s{% endif %}<br />
               by {% if postAuthor.hyperlink.uri %}<a {% if postAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}{% if postAuthor.hyperlink.hcard %}rel="author external nofollow" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}<span {% if postAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ postAuthor.name | escape }}</span>{% if postAuthor.hyperlink.uri %}</a>{% endif %}{% if post.comments %}<br />
-              <a data-disqus-identifier="{{ post.url }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
+              <a data-disqus-identifier="{{ post.disqusIdentifier }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
             </span>
             Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time><br />
             Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% if post.modifiedReason and post.modifiedReason != blank %}&nbsp; <sup>{{ post.modifiedReason | escape }}</sup>{% endif %}{% else %}N/A{% endif %}<br />

@@ -23,6 +23,7 @@ citations:
     slug: "static-site-generators"
 comments: true
 date: "2017-04-02 01:11:47 America/Toronto"
+disqusIdentifier: 7288642799568488639633236575482557482322239786857958863349786383857685547676664627468889927732782682
 last_modified_at: "2017-04-02 10:45:29 America/Toronto"
 layout: post
 location:

@@ -4,6 +4,7 @@ categories:
   - "Business and Tech"
 comments: true
 date: "2017-03-13 15:51:26 America/Toronto"
+disqusIdentifier: 5754355885555639836646272587592759499986828259962784235336689864484584546266322327393686262344657464
 image:
   height: 75
   path: "https://assets.forces.army/blog/2017/03/13/advertising-network/hotlink-ok/project-revenue_75x75.png"

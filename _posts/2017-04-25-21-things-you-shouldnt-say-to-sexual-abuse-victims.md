@@ -42,6 +42,7 @@ citations:
     slug: "the-wounded-heart-hope-for-adult-victims-of-childhood-sexual-abuse"
 comments: true
 date: "2017-04-25 12:35:07 America/Toronto"
+disqusIdentifier: 6253437672877485265485983467859925286239339823553234435888762324522755396944437259253752544232458286
 image:
   height: 241
   path: "https://assets.forces.army/blog/2017/04/25/21-things-you-shouldnt-say-to-sexual-abuse-victims/hotlink-ok/innominate_1_482x241.png"

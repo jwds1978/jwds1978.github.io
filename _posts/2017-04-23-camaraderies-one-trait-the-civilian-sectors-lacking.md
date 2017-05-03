@@ -14,6 +14,7 @@ citations:
     slug: "dysphemism"
 comments: true
 date: "2017-04-23 15:43:35 America/Toronto"
+disqusIdentifier: 7659487836973834339227269667432568874488629432468335857729887927243789427875443895874647299896248563
 image:
   height: 323
   path: "https://assets.forces.army/blog/2017/04/23/camaraderies-one-trait-the-civilian-sectors-lacking/hotlink-ok/the-camaraderie-is-what-you-miss-the-most_482x323.png"

@@ -29,7 +29,7 @@
           <span style="float: right;">
             {{ postWords }} Word{% if postWords != 1 %}s{% endif %}<br />
             by {% if postAuthor.hyperlink.uri %}<a {% if postAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}{% if postAuthor.hyperlink.hcard %}rel="author external nofollow" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}<span {% if postAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ postAuthor.name | escape }}</span>{% if postAuthor.hyperlink.uri %}</a>{% endif %}{% if fzfneysekpthfcbx.comments %}<br />
-            <a data-disqus-identifier="{{ fzfneysekpthfcbx.url }}" href="{{ site.url }}{{ fzfneysekpthfcbx.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
+            <a data-disqus-identifier="{{ fzfneysekpthfcbx.disqusIdentifier }}" href="{{ site.url }}{{ fzfneysekpthfcbx.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
           </span>
           Published:&nbsp; <time class="dt-published" datetime="{{ fzfneysekpthfcbx.date | date_to_xmlschema }}">{{ fzfneysekpthfcbx.date | date: "%d %B %Y @ %T %Z" }}</time><br />
           Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ fzfneysekpthfcbx.last_modified_at | date_to_xmlschema }}">{{ fzfneysekpthfcbx.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% if fzfneysekpthfcbx.modifiedReason and fzfneysekpthfcbx.modifiedReason != blank %}&nbsp; <sup>{{ fzfneysekpthfcbx.modifiedReason | escape }}</sup>{% endif %}{% else %}N/A{% endif %}<br />

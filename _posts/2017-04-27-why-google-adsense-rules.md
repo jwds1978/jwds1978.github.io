@@ -5,6 +5,7 @@ categories:
   - "Living and Leisure"
 comments: true
 date: "2017-04-27 22:52:26 America/Toronto"
+disqusIdentifier: 3983284244467325744626984263989873832859687852849645627472483766663743756776375495627966352868452239
 image:
   height: 158
   path: "https://assets.forces.army/blog/2017/04/27/why-google-adsense-rules/hotlink-ok/Google_AdSense_482x158.png"

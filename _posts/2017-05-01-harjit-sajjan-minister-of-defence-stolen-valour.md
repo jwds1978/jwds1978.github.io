@@ -27,6 +27,7 @@ citations:
     slug: "tories-accuse-harjit-sajjan-of-stolen-valour"
 comments: true
 date: "2017-05-01 20:32:36 America/Toronto"
+disqusIdentifier: 9922629249697858226245582689958544599628757955644298366863328827327337559649837947578694825476484986
 image:
   height: 271
   path: "https://assets.forces.army/blog/2017/05/01/harjit-sajjan-minister-of-defence-stolen-valour/hotlink-ok/Harjit-Sajjan_482x271.png"
