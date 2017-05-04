@@ -12,19 +12,19 @@ citations:
     name: "Definition of a Veteran"
     slug: "definition-of-a-veteran"
 comments: true
-date: "0000-00-00 00:00:00 America/Toronto"
+date: "2017-05-04 11:22:44 America/Toronto"
 disqusIdentifier: 7349975856463822435467995366273379866727825289742438982353495858878563579425246955826699722569943275
 image:
   height: 467
-  path: "https://assets.forces.army/blog/2017/05/02/the-definition-of-a-veteran/hotlink-ok/veteran_482x467.png"
+  path: "https://assets.forces.army/blog/2017/05/04/the-definition-of-a-veteran/hotlink-ok/veteran_482x467.png"
   width: 482
-last_modified_at: "0000-00-00 00:00:00 America/Toronto"
+last_modified_at: "2017-05-04 11:22:44 America/Toronto"
 layout: post
 location:
-  altitude: 
-  latitude: 
-  longitude: 
-  text: ""
+  altitude: 266
+  latitude: 46.4955102
+  longitude: -80.99748220000004
+  text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
 tags:
   - Law
   - MyCAF
@@ -35,7 +35,7 @@ title: "The Definition of a Veteran"
 ---
 
 <img
-  alt="" height="467" src="{{ site.uri.assets }}/blog/2017/05/02/the-definition-of-a-veteran/veteran_482x467.png"
+  alt="" height="467" src="{{ site.uri.assets }}/blog/2017/05/04/the-definition-of-a-veteran/veteran_482x467.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   I've heard and/or seen the definition of what a veteran is more times than I care to fucking recall.&nbsp; And, quite frankly, there's only really one
