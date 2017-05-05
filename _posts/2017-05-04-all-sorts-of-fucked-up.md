@@ -23,6 +23,19 @@ location:
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+syndications:
+  - href: ""
+    text: Facebook
+    title: Facebook
+  - href: ""
+    text: Google+
+    title: Google+
+  - href: ""
+    text: Pinterest
+    title: Pinterest
+  - href: ""
+    text: Twitter
+    title: Twitter
 tags:
   - Health
   - Lifestyle
@@ -32,8 +45,8 @@ title: "All Sorts of Fucked-Up"
 ---
 
 <img
-  alt="" height="482" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/disabled_482x482.png"
-  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
+  alt="" height="120" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/disabled_120x120.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="120" />
 <p>
   I've posted previous articles with some photos showing just how fuck-up my leg is.&nbsp; They're far more detailed and graphic than those within this
   particular post.&nbsp; However, below, find a few photos that I'd taken today.&nbsp; I'm in an excessive amount of pain the last couple of weeks &#8212;
