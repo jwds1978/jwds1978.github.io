@@ -16,13 +16,14 @@ image:
   height: 482
   path: "https://assets.forces.army/blog/2017/05/04/all-sorts-of-fucked-up/hotlink-ok/disabled_482x482.png"
   width: 482
-last_modified_at: "2017-05-04 20:02:04 America/Toronto"
+last_modified_at: "2017-05-04 20:34:24 America/Toronto"
 layout: post
 location:
   altitude: 266
   latitude: 46.4955102
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+modifiedReason: "Grammar and Spelling"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154274738692084"
     text: Facebook
@@ -48,7 +49,7 @@ title: "All Sorts of Fucked-Up"
   alt="" height="120" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/disabled_120x120.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="120" />
 <p>
-  I've posted previous articles with some photos showing just how fuck-up my leg is.&nbsp; They're far more detailed and graphic than those within this
+  I've posted previous articles with some photos showing just how fucked-up my leg is.&nbsp; They're far more detailed and graphic than those within this
   particular post.&nbsp; However, below, find a few photos that I'd taken today.&nbsp; I'm in an excessive amount of pain the last couple of weeks &#8212;
   lack of medical care, living on the street, etc. aggrivating shit.
 </p>
@@ -86,7 +87,7 @@ title: "All Sorts of Fucked-Up"
   photo, as I didnt have a change of socks or anything on me, and the blood had bonded the sock and my foot together when it dried.
 </p>
 <p>
-  There was a blood blister on my left foot where that blotch is now.&nbsp; However, it has since ruptured &#8212; leaving behind, a Loonie-size hole in my
+  There was a blood blister on my right foot where that blotch is now.&nbsp; However, it has since ruptured &#8212; leaving behind, a Loonie-size hole in my
   foot.&nbsp; My leg, as can be sort of seen in the above photos, is getting rubbed fucking raw by my brace.
 </p>
 <p>
@@ -96,7 +97,7 @@ title: "All Sorts of Fucked-Up"
   damn notice to him.
 </p>
 <p>
-  Let's break thos down Barney-style:
+  Let's break this down Barney-style:
   <ol style="list-style-type: decimal;">
     <li>
       My landlord won't tell my worker that I'm living there until I pay him rent&hellip;&nbsp; He thought that I was leaving ASAP &#8212; and, without any
@@ -125,8 +126,8 @@ title: "All Sorts of Fucked-Up"
       with is to leave with me.&nbsp; I'm not a fucking addict, am not there by court order, nor for some addictions counselling shit.&nbsp; I need a bed to
       sleep at night for a few days &#8212; nothing more and nothing less.<br />
       &nbsp;<br />
-      Being a gimp, it's rather unreasonable of them, to expect me to travel back-and-forth to their building several times each day in order to get my
-      pills.&nbsp; I have a difficult enough time, getting around in general&hellip;&nbsp; Given my current health condition(s), exacerbated by street-living
+      Being a gimp, it's rather unreasonable of them, to expect for me to travel back-and-forth to their building several times each day in order to get my
+      pills.&nbsp; I have a difficult enough time, getting around, in general&hellip;&nbsp; Given my current health condition(s), exacerbated by street-living
       and the stress and shit that goes along with it, mobility is fast becoming all but impossible for me.&nbsp; I soldier-on, pushing through it though, as I
       have no other transportation at the moment; giving me no other alternative.<br />
       &nbsp;<br />
@@ -139,7 +140,8 @@ title: "All Sorts of Fucked-Up"
     <li>
       Unable to continue sleeping inside of the restaurant, I was forced onto the street.&nbsp; I've been sleeping on the street for the past couple of nights,
       and don't have any particular hope of getting off of the street any time soon either.&nbsp; Last night, I slept on the ground next to The Mission, between
-      them and their neighbouring fir station&hellip;&nbsp; I froze my fucking ass of &#8212; not having a sleeping bag or any-damn-thing.
+      them and their neighbouring fire station&hellip;&nbsp; I froze my fucking ass off &#8212; not having a sleeping bag or any-damn-thing &#8212; it got down
+      to -7&deg;C (19.4&deg;F) overnight.
     </li>
   </ol>
 </p>
