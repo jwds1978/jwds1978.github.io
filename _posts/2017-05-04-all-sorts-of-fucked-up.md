@@ -24,16 +24,16 @@ location:
   longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
 syndications:
-  - href: ""
+  - href: "https://www.facebook.com/jwds1978/posts/10154274738692084"
     text: Facebook
     title: Facebook
-  - href: ""
+  - href: "https://plus.google.com/115164780760274259502/posts/SUGW4uzJtZH"
     text: Google+
     title: Google+
-  - href: ""
+  - href: "https://www.pinterest.com/pin/554013191650012452"
     text: Pinterest
     title: Pinterest
-  - href: ""
+  - href: "https://twitter.com/jwds1978/status/860287283253137408"
     text: Twitter
     title: Twitter
 tags:
