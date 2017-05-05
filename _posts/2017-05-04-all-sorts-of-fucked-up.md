@@ -55,6 +55,9 @@ title: "All Sorts of Fucked-Up"
 </p>
 <!-- excerptBreak -->
 <p>
+  &nbsp;
+</p>
+<p>
   <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-10-51_2397x3196.jpeg" rel="me" target="_blank" title="">
     <img
       alt="" height="643" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-10-51_0482x0643.png"
@@ -78,6 +81,9 @@ title: "All Sorts of Fucked-Up"
       alt="" height="643" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_13-05-23_0482x0643.png"
       style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
   </a>
+</p>
+<p>
+  &nbsp;
 </p>
 <p>
   While, they're all somewhat blury &#8212; exception being, the last one &#8212; you should, at least, be able to ascertain that there's something not quite
