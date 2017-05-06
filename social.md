@@ -4,7 +4,7 @@ title: Social
 twitterWidget: true
 ---
 
-{% include ads_large-skyscraper_300x250.htm %}
+{% include adsense_large-skyscraper_300x600.htm %}
 <ul>
   <li>
     Android File Host

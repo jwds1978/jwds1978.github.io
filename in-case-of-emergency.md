@@ -8,7 +8,7 @@ quickJump: true
 title: "In Case of Emergency"
 ---
 
-{% include ads_responsive_728x090.htm %}
+{% include adsense_responsive.htm %}
 <p>
   &nbsp;
 </p>
@@ -773,4 +773,4 @@ title: "In Case of Emergency"
 <p>
   &nbsp;
 </p>
-{% include ads_responsive_728x090.htm %}
+{% include adsense_responsive.htm %}

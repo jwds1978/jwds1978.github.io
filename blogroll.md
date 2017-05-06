@@ -12,7 +12,7 @@ title: Blogroll
 <p>
   &nbsp;
 </p>
-{% include ads_responsive_728x090.htm %}
+{% include adsense_responsive.htm %}
 <p>
   &nbsp;
 </p>
@@ -48,7 +48,7 @@ title: Blogroll
 <p>
   &nbsp;
 </p>
-{% include ads_responsive_728x090.htm %}
+{% include adsense_responsive.htm %}
 <p>
   &nbsp;
 </p>
@@ -368,4 +368,4 @@ title: Blogroll
 <p>
   &nbsp;
 </p>
-{% include ads_responsive_728x090.htm %}
+{% include adsense_responsive.htm %}

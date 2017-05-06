@@ -61,7 +61,7 @@ title: "Blog (Tags)"
   <p>
     &nbsp;
   </p>
-  {% include ads_responsive_728x090.htm %}
+  {% include adsense_responsive.htm %}
   <p>
     &nbsp;
   </p>
@@ -127,7 +127,7 @@ title: "Blog (Tags)"
 <p>
   &nbsp;
 </p>
-{% include ads_responsive_728x090.htm %}
+{% include adsense_responsive.htm %}
 <p>
   &nbsp;
 </p>

@@ -21,7 +21,7 @@ title: "The Regimental Prayer"
 <p>
   &nbsp;
 </p>
-{% include ads_responsive_728x090.htm %}
+{% include adsense_responsive.htm %}
 <p>
   &nbsp;
 </p>
