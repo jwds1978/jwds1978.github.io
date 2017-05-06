@@ -77,6 +77,10 @@ comments: true
 <p>
   &nbsp;
 </p>
+{% include ads_responsive_468x060.htm %}
+<p>
+  &nbsp;
+</p>
 <h3 id="that-blog-thing">
   That Blog Thing&nbsp; <sup>Most Recent</sup>
 </h3>
