@@ -3,7 +3,6 @@ layout: nil
 ---
 
 {{ site.copyright.comment.html }}
-<!DOCTYPE html>
 <html>
   <head>
   </head>
