@@ -48,7 +48,7 @@ title: "Don't Use AdSense on a Business Web Site"
 ---
 
 <p>
-  <a href="{{ site.url }}{{ page.url }}#cite-google-adsense" rel="me" title="Google AdSense">Google Adsense</a> is one of the most commonly used advertising
+  <a href="{{ site.url }}{{ page.url }}#cite-google-adsense" rel="me" title="Google AdSense">Google AdSense</a> is one of the most commonly used advertising
   platforms, today, within the Internet industry &#8212; with millions of publishers world-wide.&nbsp; Almost every Web property &#8212; whether, small or large
   &#8212; is making money online with AdSense.&nbsp; Is your Web property amongst those?
 </p>
