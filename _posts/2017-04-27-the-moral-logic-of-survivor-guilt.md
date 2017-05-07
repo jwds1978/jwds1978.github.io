@@ -22,11 +22,7 @@ date: "2017-04-27 00:47:23 America/Toronto"
 disqusIdentifier: 6494846847578393449292689536359686942844286879288923237273253599479863333723929478595647277837698869
 last_modified_at: "2017-04-27 00:47:23 America/Toronto"
 layout: post
-location:
-  altitude: 259
-  latitude: 46.490107
-  longitude: -80.991792
-  text: "Memorial Park, Sudbury, Ontario, Canada"
+location: "canada_ontario_sudbury_memorial-park"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154255736032084"
     text: Facebook

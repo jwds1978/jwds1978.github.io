@@ -17,18 +17,14 @@ citations:
     slug: "google-adsense"
 comments: true
 date: "2017-05-06 15:25:16 America/Toronto"
-disqusIdentifier: 
+disqusIdentifier: 5675335338966924958583554552633656956826338955886553984598446267963533253343867989359965942948665845
 image:
   height: 268
   path: "https://assets.forces.army/blog/2017/05/06/dont-use-adsense-on-a-business-web-site/hotlink-ok/innominate_1_482x268.png"
   width: 482
 last_modified_at: "2017-05-06 15:25:16 America/Toronto"
 layout: post
-location:
-  altitude: 266
-  latitude: 46.4955102
-  longitude: -80.99748220000004
-  text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+location: "canada_ontario_sudbury_mackenzie_74"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154279026507084"
     text: Facebook

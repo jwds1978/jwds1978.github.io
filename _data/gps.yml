@@ -1,0 +1,84 @@
+canada:
+  altitude: 469
+  dd:
+    latitude: 56.130366
+    longitude: -106.34677099999999
+  text: "Canada"
+canada_ontario:
+  altitude: 172
+  dd:
+    latitude: 51.253775
+    longitude: -85.32321389999998
+  text: "Ontario, Canada"
+canada_ontario_sudbury:
+  altitude: 267
+  dd:
+    latitude: 46.522099
+    longitude: -80.95303530000001
+  text: "Sudbury, Ontario, Canada"
+canada_ontario_sudbury_barrydowne_465:
+  altitude: 272
+  dd:
+    latitude: 46.5063465
+    longitude: -80.9448486
+  text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+canada_ontario_sudbury_bruce_720:
+  altitude: 265
+  dd:
+    latitude: 46.5088417
+    longitude: -80.99389309999998
+  text: "The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada"
+canada_ontario_sudbury_cedar_196:
+  altitude: 260
+  dd:
+    latitude: 46.4922063
+    longitude: -80.99056200000001
+  text: "Tim Hortons, 196 Cedar St., Sudbury, Ontario, P3E 1B4, Canada"
+canada_ontario_sudbury_elgin_344_the-mission:
+  altitude: 263
+  dd:
+    latitude: 46.4870493
+    longitude: -80.99035090000001
+  text: "The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada"
+canada_ontario_sudbury_elm_40:
+  altitude: 259
+  dd:
+    latitude: 46.4940836
+    longitude: -80.99273169999998
+  text: "Rainbow Centre, 40 Elm St., Sudbury, Ontario, P3C 1S8, Canada"
+canada_ontario_sudbury_kathleen_557:
+  altitude: 277
+  dd:
+    latitude: 46.5001578
+    longitude: -81.004458
+  text: "The Frood Hotel, 557 Kathleen St., Sudbury, Ontario, P3C 2N1, Canada"
+canada_ontario_sudbury_kingsway_1003:
+  altitude: 274
+  dd:
+    latitude: 46.4998513
+    longitude: -80.96398699999997
+  text: "Tim Hortons, 1003 Kingsway, Sudbury, Ontario, P3B 2E6, Canada"
+canada_ontario_sudbury_larch_200:
+  altitude: 259
+  dd:
+    latitude: 46.49145069999999
+    longitude: -80.9899049
+  text: "200 Larch St., Sudbury, Ontario, P3E 1C5, Canada"
+canada_ontario_sudbury_mackenzie_74:
+  altitude: 266
+  dd:
+    latitude: 46.4955102
+    longitude: -80.99748220000004
+  text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+canada_ontario_sudbury_memorial-park:
+  altitude: 259
+  dd:
+    latitude: 46.490107
+    longitude: -80.991792
+  text: "Memorial Park, Sudbury, Ontario, Canada"
+canada_ontario_sudbury_notre-dame_1181:
+  altitude: 276
+  dd:
+    latitude: 46.5232909
+    longitude: -80.98368149999999
+  text: "Tim Hortons, 1181 Notre Dame Ave., Sudbury, Ontario, P3A 2T8, Canada"

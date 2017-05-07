@@ -7,11 +7,7 @@ date: "2017-02-19 13:13:39 America/Toronto"
 disqusIdentifier: 7772867232688647743379696328387222599549328376273293574456882673936473696357876985884952447952623242
 last_modified_at: "2017-02-19 13:55:15 America/Toronto"
 layout: post
-location:
-  altitude: 266
-  latitude: 46.4955102
-  longitude: -80.99748220000004
-  text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+location: "canada_ontario_sudbury_mackenzie_74"
 modifiedReason: Spelling
 published: false
 syndications:

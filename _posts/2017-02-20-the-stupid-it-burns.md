@@ -16,11 +16,7 @@ date: "2017-02-20 19:42:13 America/Toronto"
 disqusIdentifier: 8349622736289799646893834569377924935297693322757867642559854773967352738553537844875728263437234453
 last_modified_at: "2017-02-20 19:42:13 America/Toronto"
 layout: post
-location:
-  altitude: 263
-  latitude: 46.4870493
-  longitude: -80.99035090000001
-  text: "The Elgin Street Mission, 344 Elgin St., Sudbury, Ontario, P3E 3N9, Canada"
+location: "canada_ontario_sudbury_elgin_344_the-mission"
 published: false
 syndications:
   - href: "https://m.facebook.com/story.php?story_fbid=10154085862482084&id=719142083"

@@ -8,11 +8,7 @@ date: "2017-03-03 19:38:53 America/Toronto"
 disqusIdentifier: 6782867763754443299576762769688269475724788997755236276393497996997554855253994963864834855396698832
 last_modified_at: "2017-03-04 13:02:37 America/Toronto"
 layout: post
-location:
-  altitude: 274
-  latitude: 46.4998513
-  longitude: -80.96398699999997
-  text: "Tim Hortons, 1003 Kingsway, Sudbury, Ontario, P3B 2E6, Canada"
+location: "canada_ontario_sudbury_kingsway_1003"
 modifiedReason: Spelling
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154112438607084"

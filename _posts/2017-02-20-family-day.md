@@ -7,11 +7,7 @@ date: "2017-02-20 12:23:38 America/Toronto"
 disqusIdentifier: 5859685393336299283832326945493496384534254663745528349746585647847357448564548582975763996793597762
 last_modified_at: "2017-02-20 12:55:47 America/Toronto"
 layout: post
-location:
-  altitude: 259
-  latitude: 46.49145069999999
-  longitude: -80.9899049
-  text: "200 Larch St., Sudbury, Ontario, P3E 1C5, Canada"
+location: "canada_ontario_sudbury_larch_200"
 modifiedReason: Spelling
 syndications:
   - href: "https://m.facebook.com/story.php?story_fbid=10154085137382084&id=719142083"

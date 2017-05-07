@@ -12,11 +12,7 @@ image:
   width: 482
 last_modified_at: "2017-04-27 22:52:26 America/Toronto"
 layout: post
-location:
-  altitude: 272
-  latitude: 46.5063465
-  longitude: -80.9448486
-  text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+location: "canada_ontario_sudbury_barrydowne_465"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154257886507084"
     text: Facebook

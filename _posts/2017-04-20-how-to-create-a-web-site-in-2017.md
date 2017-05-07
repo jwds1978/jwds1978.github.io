@@ -36,11 +36,7 @@ image:
   width: 482
 last_modified_at: "2017-04-25 16:46:24 America/Toronto"
 layout: post
-location:
-  altitude: 265
-  latitude: 46.5088417
-  longitude: -80.99389309999998
-  text: "The Balmoral, 720 Bruce Ave., Sudbury, Ontario, P3C 5C4, Canada"
+location: "canada_ontario_sudbury_bruce_720"
 modifiedReason: "Added YouTube Video for Power Builder"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154239967272084"

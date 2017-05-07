@@ -25,11 +25,7 @@ image:
   width: 
 last_modified_at: "0000-00-00 00:00:00 America/Toronto"
 layout: post
-location:
-  altitude: 
-  latitude: 
-  longitude: 
-  text: ""
+location: ""
 modifiedReason: 
 syndications:
   - href: ""

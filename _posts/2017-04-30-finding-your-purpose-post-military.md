@@ -34,11 +34,7 @@ image:
   width: 263
 last_modified_at: "2017-04-30 20:59:18 America/Toronto"
 layout: post
-location:
-  altitude: 259
-  latitude: 46.4940836
-  longitude: -80.99273169999998
-  text: "Rainbow Centre, 40 Elm St., Sudbury, Ontario, P3C 1S8, Canada"
+location: "canada_ontario_sudbury_elm_40"
 modifiedReason: "Changed the Image"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154264640242084"

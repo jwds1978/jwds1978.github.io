@@ -40,11 +40,7 @@ image:
   width: 482
 last_modified_at: "2017-04-10 10:40:51 America/Toronto"
 layout: post
-location:
-  altitude: 266
-  latitude: 46.4955102
-  longitude: -80.99748220000004
-  text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+location: "canada_ontario_sudbury_mackenzie_74"
 modifiedReason: Grammar
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154202019317084"

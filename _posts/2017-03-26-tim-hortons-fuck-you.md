@@ -22,11 +22,7 @@ date: "2017-03-26 15:07:22 America/Toronto"
 disqusIdentifier: 6345592533948246224478343558767943254339354987382488757556699336854957377377953899439868597236257662
 last_modified_at: "2017-03-26 15:49:47 America/Toronto"
 layout: post
-location:
-  altitude: 260
-  latitude: 46.4922063
-  longitude: -80.99056200000001
-  text: "Tim Hortons, 196 Cedar St., Sudbury, Ontario, P3E 1B4, Canada"
+location: "canada_ontario_sudbury_cedar_196"
 modifiedReason: Grammar
 tags:
   - Food
