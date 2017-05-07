@@ -32,6 +32,19 @@ image:
 last_modified_at: "2017-05-07 15:36:20 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154281521192084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/RsF7xodtBKn"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650053926"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/861313254261489665"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
 title: "Decrease the Bounce Rate of Your Web Site"
@@ -50,12 +63,12 @@ title: "Decrease the Bounce Rate of Your Web Site"
   actions people are taking after arriving at your landing page(s).&nbsp; Are they moving to other Web pages of your Web site or are they jumping away to an
   entirely different Web site.
 </p>
+<!-- excerptBreak -->
 <p>
   Your Web site's bounce rate's a great measurement for the success of your Web site.&nbsp; Granted, maintaining a good bounce rate's difficult, it's not
   impossible.&nbsp; I'll share few tips which have been successful in helping me to decrease the bounce rate of my own Web sites.&nbsp; They should be helpful
   to you too.
 </p>
-<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>
