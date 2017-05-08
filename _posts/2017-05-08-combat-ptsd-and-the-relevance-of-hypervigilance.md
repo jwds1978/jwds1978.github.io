@@ -35,6 +35,7 @@ title: "Combat PTSD and the Relevance of Hypervigilance"
   requirement for being hypervigilant.&nbsp; Without fear, there's no requirement to be looking for something.&nbsp; The most a civilian's, partially
   hypervigilant, is within daily acts of driving a motor vehicle and crossing the road.&nbsp; That's the, typical, extent of a civilian's hypervigilance.
 </p>
+<!-- excerptBreak -->
 <p>
   A rape victim &#8212; a female raped by a male &#8212; due to the fear endured, from being rendered powerless during the rape, the victim now creates a state
   of hypervigilance and/or awareness for any male who looks remotely threatening to them.&nbsp; They fear being raped again &#8212; the brain has created an
