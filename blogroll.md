@@ -149,6 +149,49 @@ title: Blogroll
     </ul>
   </li>
   <li>
+    <a href="https://medicalert.ca/speak4me" rel="external" target="_blank" title="MedicAlert">
+      <img
+        alt="" height="227" src="{{ site.uri.assets }}/naked/images/MedicAlert-Foundation_376x227.png" style="border: 0px; float: right; margin-left: 10px;"
+        width="376" />
+    </a>
+    <a href="https://medicalert.ca/speak4me" rel="external" target="_blank" title="MedicAlert">MedicAlert</a>&nbsp; <sup>Referral Code: JS17-1979</sup>
+    <ul>
+      <li>
+        24/7 Protection
+        <ul>
+          <li>
+            When your life's at risk, paramedics call the 24/7 Emergency Hotline.&nbsp; The call's answered in 5 seconds, providing your full medical record.
+          </li>
+        </ul>
+      </li>
+      <li>
+        Notifies Family
+        <ul>
+          <li>
+            Don't face an emergency alone.&nbsp; The 24/7 Emergency Hotline specialists, immediately, alert your loved ones.
+          </li>
+        </ul>
+      </li>
+      <li>
+        Speaks for You
+        <ul>
+          <li>
+            When you're helpless and/or hurt, your MedicAlert ID and membership give paramedics the information that they need in order to save your life.
+          </li>
+        </ul>
+      </li>
+      <li>
+        You Need MedicAlert
+        <ul>
+          <li>
+            Don't die of denial&hellip;&nbsp; A medical emergency could happen to you.&nbsp; Get the same protection and peace of mind that I have by signing-up
+            for MedicAlert!
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
     <a href="{{ site.uri.shortURL }}/Mr-Rebates" rel="external" target="_blank" title="Mr. Rebates">
       <img
         alt="" height="60" src="{{ site.uri.assets }}/naked/images/Mr-Rebates_120x060.gif" style="border: 0px; float: right; margin-left: 10px;" width="120" />
