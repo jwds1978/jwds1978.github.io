@@ -14,6 +14,19 @@ last_modified_at: "2017-05-08 12:52:52 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
 modifiedReason: "Grammar and Spelling"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154283486527084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/brSkGvj9ukJ"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650067145"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/861627115921432577"
+    text: Twitter
+    title: Twitter
 tags:
   - Health
   - MyCAF
