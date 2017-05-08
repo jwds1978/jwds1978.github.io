@@ -10,9 +10,10 @@ image:
   height: 177
   path: "https://assets.forces.army/blog/2017/05/08/combat-ptsd-and-the-relevance-of-hypervigilance/hotlink-ok/combat-ptsd_187x177.png"
   width: 187
-last_modified_at: "2017-05-08 12:38:43 America/Toronto"
+last_modified_at: "2017-05-08 12:52:52 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+modifiedReason: "Grammar and Spelling"
 tags:
   - Health
   - MyCAF
@@ -26,7 +27,7 @@ title: "Combat PTSD and the Relevance of Hypervigilance"
   alt="" height="177" src="{{ site.uri.assets }}/blog/2017/05/08/combat-ptsd-and-the-relevance-of-hypervigilance/combat-ptsd_187x177.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="187" />
 <p>
-  Firstly, let's get the definition out of the way&ellip;&nbsp; Hypervigilance is an enhanced state of sensory sensitivity, accompanied by an exaggerated
+  Firstly, let's get the definition out of the way&hellip;&nbsp; Hypervigilance is an enhanced state of sensory sensitivity, accompanied by an exaggerated
   intensity of behaviours, whose purpose is to detect threats.&nbsp; Although it may feel like paranoia, they're not the same thing.
 </p>
 <p>
