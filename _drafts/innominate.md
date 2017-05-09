@@ -1,13 +1,48 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
+  - Beauty
+  - Business
+  - Car
+  - Career
+  - Cat
+  - "Celebrity Gossip"
+  - Design
+  - DIY
+  - Dog
+  - Economics
+  - Education
   - Entertainment
-  - Innominate
-  - "Living and Leisure"
-  - News
-  - "Proving Ground"
-  - "Sports and Recreation"
+  - Fashion
+  - Finance
+  - Fitness
+  - Food
+  - Gaming
+  - Green
+  - Health
+  - History
+  - Law
+  - Lifestyle
+  - Marketing
+  - Medical
+  - Money
+  - Movie
+  - Music
+  - Nature
+  - Parenting
+  - Pet
+  - Photography
+  - Political
+  - "Real Estate"
+  - Science
+  - SEO
+  - Shopping
+  - "Social Media"
+  - Sports
+  - Technology
+  - Travel
+  - University
+  - Wedding
+  - Wine
 citations:
   - author: ""
     date:

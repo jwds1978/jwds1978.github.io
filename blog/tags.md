@@ -8,6 +8,8 @@ liMarquee: true
 title: "Blog (Tags)"
 ---
 
+{% assign sortedTags = site.tags | sort: 'value' %}
+
 <style>
   .post-tag {
     background: rgba(79, 94, 104, 0.15);
@@ -54,7 +56,7 @@ title: "Blog (Tags)"
 </p>
 <div class="tags-expo">
   <div class="tags-expo-list">
-    {% for tag in site.tags %}
+    {% for tag in sortedTags %}
     <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me" title="">{{ tag[0] }}</a>
     {% endfor %}
   </div>
@@ -72,7 +74,7 @@ title: "Blog (Tags)"
       </p>
       <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
     </div>
-    {% for tag in site.tags %}
+    {% for tag in sortedTags %}
     <p>
       &nbsp;
     </p>
