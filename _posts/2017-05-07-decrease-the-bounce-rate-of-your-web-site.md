@@ -1,6 +1,6 @@
 ---
 categories:
-  - Art
+  - Technology
 citations:
   - author: "Innominate"
     date:

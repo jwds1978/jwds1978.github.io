@@ -1,6 +1,7 @@
 ---
 categories:
-  - "Business and Tech"
+  - Business
+  - Technology
 citations:
   - author: "Innominate"
     date:
@@ -39,7 +40,7 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
+  - Opinionated
 title: "Don't Use AdSense on a Business Web Site"
 ---
 

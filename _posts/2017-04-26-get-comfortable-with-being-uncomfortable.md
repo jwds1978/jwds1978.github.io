@@ -1,8 +1,6 @@
 ---
 categories:
-  - Art
-  - Innominate
-  - "Living and Leisure"
+  - Lifestyle
 comments: true
 date: "2017-04-26 12:47:17 America/Toronto"
 disqusIdentifier: 5748569635694778384869332967382385745629599956445352795977453736626928282566242477467367628869326966
@@ -23,8 +21,6 @@ syndications:
     title: Twitter
 tags:
   - "How to"
-  - Lifestyle
-  - Self
   - "The Suck"
 title: "Get Comfortable with Being Uncomfortable"
 ---

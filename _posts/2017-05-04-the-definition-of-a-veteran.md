@@ -1,9 +1,8 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Law
+  - Lifestyle
+  - Political
 citations:
   - author: "Veterans Affairs Canada"
     date:
@@ -35,10 +34,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Law
   - MyCAF
   - Opinionated
-  - Politics
   - Self
 title: "The Definition of a Veteran"
 ---

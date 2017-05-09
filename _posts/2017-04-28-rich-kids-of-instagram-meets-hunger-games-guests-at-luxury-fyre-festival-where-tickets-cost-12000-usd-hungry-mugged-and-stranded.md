@@ -1,10 +1,13 @@
 ---
 categories:
-  - "Business and Tech"
+  - "Celebrity Gossip"
   - Entertainment
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Law
+  - Lifestyle
+  - Music
+  - Photography
+  - "Social Media"
+  - Travel
 citations:
   - author: "The Bahamas‏"
     date:
@@ -118,14 +121,11 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Celebrity
-  - Entertainment
-  - Lifestyle
-  - Music
+  - Comedy
   - News
-  - "Social Media"
+  - Outdoors
+  - "The Stupid"
   - "The Suck"
-  - Travel
 title: "'Rich Kids of Instagram Meets Hunger Games': Guests at Luxury Fyre Festival Where Tickets Cost $12,000 USD 'Hungry, Mugged, and Stranded'"
 twitterWidget: true
 ---

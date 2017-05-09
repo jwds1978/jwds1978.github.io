@@ -1,9 +1,6 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Medical
 citations:
   - author: "EV Rider"
     date:
@@ -26,12 +23,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Finance
-  - Health
-  - Medical
   - Self
   - "The Suck"
-  - Travel
 title: "Vita Monster"
 ---
 

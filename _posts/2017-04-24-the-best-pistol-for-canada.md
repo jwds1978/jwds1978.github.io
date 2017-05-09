@@ -1,8 +1,10 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - News
+  - Economics
+  - History
+  - Law
+  - Money
+  - Political
 citations:
   - author: "Cabela's Retail Canada Inc."
     date:
@@ -60,12 +62,10 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Law
   - MyCAF
   - News
   - Opinionated
-  - Politics
-  - "The Suck"
+  - "The Stupid"
 title: "The Best Pistol for Canada"
 ---
 

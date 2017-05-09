@@ -1,7 +1,8 @@
 ---
 categories:
-  - Innominate
   - "Proving Ground"
+  - "Social Media"
+  - Technology
 comments: true
 date: "2017-02-10 00:28:13 America/Toronto"
 disqusIdentifier: 9389278329422243635239786324653834695232324982598738639856322354423743235465789579577276279723983968

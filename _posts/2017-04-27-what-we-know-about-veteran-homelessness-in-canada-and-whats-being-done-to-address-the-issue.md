@@ -1,8 +1,6 @@
 ---
 categories:
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Political
 citations:
   - author: "Innominate"
     date:
@@ -101,10 +99,9 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Lifestyle
   - MyCAF
+  - News
   - Opinionated
-  - Politics
   - Self
   - "The Suck"
 title: "What We Know About Veteran Homelessness in Canada and What's Being Done to Address the Issue"

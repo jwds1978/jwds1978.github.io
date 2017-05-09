@@ -1,6 +1,6 @@
 ---
 categories:
-  - "Business and Tech"
+  - Technology
 comments: true
 date: "2017-02-28 17:44:14 America/Toronto"
 disqusIdentifier: 6927733759889397889949657734886495867448645227782887672962555343592575362762394268694628388662577878
@@ -9,7 +9,7 @@ layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
 modifiedReason: Spelling
 tags:
-  - Tech
+  - Innominate
 title: "The Git Life"
 ---
 

@@ -1,7 +1,6 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
+  - Technology
 citations:
   - author: "Innominate"
     date:
@@ -37,7 +36,6 @@ syndications:
     title: Twitter
 tags:
   - "How to"
-  - Tech
 title: "Static Site Generation"
 ---
 

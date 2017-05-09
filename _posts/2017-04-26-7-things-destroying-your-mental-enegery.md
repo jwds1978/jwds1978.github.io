@@ -1,9 +1,7 @@
 ---
 categories:
-  - Art
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Health
+  - Lifestyle
 citations:
   - author: "Brian Tracy"
     date:
@@ -37,11 +35,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
-  - "How to"
-  - Lifestyle
-  - Medical
-  - Self
   - "The Suck"
 title: "7 Things Destroying Your Mental Energy"
 ---

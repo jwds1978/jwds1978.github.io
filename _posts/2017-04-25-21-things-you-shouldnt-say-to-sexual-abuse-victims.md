@@ -1,9 +1,6 @@
 ---
 categories:
-  - "Business and Tech"
   - Innominate
-  - "Living and Leisure"
-  - News
 citations:
   - author: "Boz Tchividjian"
     date:
@@ -58,11 +55,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Law
   - Opinionated
   - Relationship
-  - Self
-  - "The Suck"
 title: "21 Things You Shouldn't Say to Sexual Abuse Victims"
 ---
 

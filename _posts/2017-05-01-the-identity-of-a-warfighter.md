@@ -1,9 +1,7 @@
 ---
 categories:
-  - Art
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Health
+  - Lifestyle
 comments: true
 date: "2017-05-01 00:24:42 America/Toronto"
 disqusIdentifier: 5353473628296569683638643863496977782239582654393894457637254382679969889867665833924494393744277449
@@ -28,10 +26,9 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
   - "How to"
-  - Lifestyle
   - MyCAF
+  - News
   - Opinionated
   - Self
   - "The Suck"

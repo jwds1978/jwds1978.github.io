@@ -1,8 +1,7 @@
 ---
 categories:
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Health
+  - Medical
 citations:
   - author: "James Dao"
     date:
@@ -31,7 +30,7 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
+  - MyCAF
   - Opinionated
   - Self
   - "The Suck"

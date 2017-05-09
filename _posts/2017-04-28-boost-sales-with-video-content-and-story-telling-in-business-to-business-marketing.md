@@ -1,8 +1,10 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - Entertainment
+  - Business
+  - Marketing
+  - SEO
+  - "Social Media"
+  - Technology
 citations:
   - author: "Innominate"
     date:
@@ -70,10 +72,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
+  - Art
   - "How to"
-  - "Movies and TV"
-  - Tech
 title: "Boost Sales with Video Content and Story-Telling in Business-to-Business Marketing"
 ---
 

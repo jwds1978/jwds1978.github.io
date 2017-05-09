@@ -1,9 +1,8 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Business
+  - Economics
+  - Money
 citations:
   - author: "David Thorne"
     date:
@@ -55,12 +54,10 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
-  - Career
-  - Finance
+  - Art
+  - "How to"
   - Opinionated
   - Self
-  - "Social Media"
   - "The Suck"
 title: "Work for Free; Fuck That"
 ---

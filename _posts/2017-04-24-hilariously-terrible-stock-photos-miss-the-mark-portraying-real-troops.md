@@ -1,7 +1,6 @@
 ---
 categories:
-  - Art
-  - News
+  - Photography
 comments: true
 date: "2017-04-24 12:59:21 America/Toronto"
 disqusIdentifier: 9263797995335359853282748659488755633666598284833388957837657998968926783299435527362325232868496786
@@ -17,8 +16,9 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
+  - Comedy
   - Opinionated
-  - Photography
+  - "The Stupid"
 title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
 ---
 

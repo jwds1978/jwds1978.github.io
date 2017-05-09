@@ -1,7 +1,6 @@
 ---
 categories:
-  - Innominate
-  - "Living and Leisure"
+  - Law
 comments: true
 date: "2017-02-20 12:23:38 America/Toronto"
 disqusIdentifier: 5859685393336299283832326945493496384534254663745528349746585647847357448564548582975763996793597762
@@ -18,7 +17,7 @@ syndications:
     title: Twitter
 tags:
   - Family
-  - "The Suck"
+  - Opinionated
 title: "Family Day"
 ---
 

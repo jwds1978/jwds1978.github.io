@@ -1,8 +1,6 @@
 ---
 categories:
   - Innominate
-  - "Living and Leisure"
-  - News
 citations:
   - author: "Innominate"
     date:
@@ -26,9 +24,9 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Food
   - Opinionated
   - Self
+  - "The Stupid"
   - "The Suck"
 title: "The Stupid, It Burns"
 ---

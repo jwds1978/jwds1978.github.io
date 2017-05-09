@@ -1,8 +1,6 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
+  - Law
 citations:
   - author: "Queen's Printer for Ontario"
     date:
@@ -40,7 +38,7 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Law
+  - Opinionated
   - Self
   - "The Suck"
 title: "Human Rights"

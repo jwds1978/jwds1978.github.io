@@ -1,7 +1,8 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
+  - Design
+  - DIY
+  - Technology
 citations:
   - author: "Dave Gandy"
     date:
@@ -47,7 +48,6 @@ syndications:
     title: Twitter
 tags:
   - "How to"
-  - "Social Media"
 title: "How to Create a Web Site in 2017"
 ---
 

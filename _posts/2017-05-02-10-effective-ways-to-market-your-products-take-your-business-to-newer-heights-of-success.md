@@ -1,7 +1,8 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
+  - Business
+  - Marketing
+  - "Social Media"
 comments: true
 date: "2017-05-02 13:09:23 America/Toronto"
 disqusIdentifier: 9672834354422663889889278952384353849343633846757484979537929966474943373747538696539248558288268788
@@ -26,10 +27,7 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
   - "How to"
-  - "Social Media"
-  - Tech
 title: "10 Effective Ways to Market Your Products: Take Your Business to Newer Heights of Success"
 ---
 

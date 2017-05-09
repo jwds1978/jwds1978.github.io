@@ -1,7 +1,12 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
+  - Business
+  - Career
+  - Marketing
+  - Money
+  - SEO
+  - "Social Media"
+  - Technology
 citations:
   - author: "Priit Kallas"
     date:
@@ -90,18 +95,13 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
-  - Career
-  - Finance
   - "How to"
-  - Law
-  - "Social Media"
   - Writing
 title: "How to Blog"
 ---
 
 <h3 id="trying-to-learn-how-to-blog">
-  Trying To Learn How To Blog?
+  Trying to Learn How to Blog?
 </h3>
 <h6>
   Then you've come to the right place.

@@ -1,7 +1,6 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
+  - Technology
 citations:
   - author: "benzarr410"
     date:
@@ -44,7 +43,6 @@ syndications:
     title: Twitter
 tags:
   - "How to"
-  - Tech
 title: "Transform Your Home Screen Into a Terminal :: Linux CLI Launcher"
 ---
 

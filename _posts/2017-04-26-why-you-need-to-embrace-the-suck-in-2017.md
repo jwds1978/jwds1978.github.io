@@ -1,8 +1,6 @@
 ---
 categories:
-  - Art
-  - Innominate
-  - "Living and Leisure"
+  - Lifestyle
 citations:
   - author: "James Stewart"
     date:
@@ -36,10 +34,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
-  - "How to"
-  - Lifestyle
-  - Self
   - "The Suck"
 title: "Why You Need to Embrace 'The Suck' in 2017"
 ---

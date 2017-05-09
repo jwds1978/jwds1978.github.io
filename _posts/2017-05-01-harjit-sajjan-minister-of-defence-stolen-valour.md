@@ -1,8 +1,7 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - News
+  - Law
+  - Political
 citations:
   - author: "Lee Berthiaume"
     date:
@@ -49,11 +48,10 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Law
   - MyCAF
   - News
   - Opinionated
-  - Politics
+  - "The Stupid"
 title: "Harjit Sajjan, Minister of Defence, Stolen Valour"
 ---
 

@@ -1,9 +1,7 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Business
+  - Law
 citations:
   - author: "David Moffat"
     date:
@@ -25,12 +23,9 @@ layout: post
 location: "canada_ontario_sudbury_cedar_196"
 modifiedReason: Grammar
 tags:
-  - Food
-  - Health
-  - Law
-  - Medical
   - Opinionated
   - Self
+  - "The Stupid"
   - "The Suck"
 title: "Tim Hortons, Fuck You"
 ---

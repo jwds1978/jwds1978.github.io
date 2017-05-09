@@ -1,8 +1,8 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - "Living and Leisure"
+  - Business
+  - Shopping
+  - Technology
 comments: true
 date: "2017-03-29 12:26:14 America/Toronto"
 disqusIdentifier: 6485234554626734249777959568683895698665783882384966422374778357584923347285367369828884567594622222
@@ -11,12 +11,7 @@ layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
 published: false
 tags:
-  - Business
-  - Career
-  - Finance
   - Self
-  - Tech
-  - Writing
 title: "Future Things"
 ---
 

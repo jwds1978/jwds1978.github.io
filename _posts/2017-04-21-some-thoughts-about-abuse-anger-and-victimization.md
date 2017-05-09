@@ -1,9 +1,8 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Health
+  - Law
+  - Medical
 citations:
   - author: "Kathryn Patricelli"
     date:
@@ -87,11 +86,10 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Law
-  - Medical
   - Opinionated
   - Relationship
   - Self
+  - "The Stupid"
   - "The Suck"
 title: "Some Thoughts About Abuse, Anger, and Victimization"
 ---

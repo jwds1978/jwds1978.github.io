@@ -1,9 +1,7 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Law
+  - Travel
 citations:
   - author: "Pete Evans"
     date:
@@ -37,13 +35,9 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
-  - Law
   - News
   - Opinionated
-  - "Social Media"
-  - "The Suck"
-  - Travel
+  - "The Stupid"
 title: "United Airlines: Not So Friendly Skies"
 ---
 

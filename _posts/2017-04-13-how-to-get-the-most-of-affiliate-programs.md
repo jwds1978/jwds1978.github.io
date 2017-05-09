@@ -1,8 +1,8 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - "Living and Leisure"
+  - Business
+  - Money
+  - Technology
 citations:
   - author: "Google"
     date:
@@ -47,11 +47,7 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
-  - Career
-  - Finance
   - "How to"
-  - Self
 title: "How to Get the Most of Affiliate Programs"
 ---
 

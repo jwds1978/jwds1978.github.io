@@ -1,8 +1,8 @@
 ---
 categories:
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Health
+  - Medical
+  - Science
 citations:
   - author: "James Stewart"
     date:
@@ -34,13 +34,8 @@ syndications:
     title: Twitter
 tags:
   - Family
-  - Health
-  - Lifestyle
-  - Medical
   - MyCAF
   - Opinionated
-  - Relationship
-  - Science
   - Self
   - "The Suck"
 title: "Understanding Combat PTSD, from the Inside, Out"

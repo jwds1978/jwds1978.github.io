@@ -1,8 +1,6 @@
 ---
 categories:
   - Innominate
-  - "Living and Leisure"
-  - News
 comments: true
 date: "2017-03-07 13:38:39 America/Toronto"
 disqusIdentifier: 5494276736578952899464778575943287245375735922869373837483266928369472399886528747993398225556638539
@@ -17,9 +15,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
-  - Medical
   - Opinionated
+  - "The Stupid"
   - "The Suck"
 title: "Ignorant Fucktards"
 ---

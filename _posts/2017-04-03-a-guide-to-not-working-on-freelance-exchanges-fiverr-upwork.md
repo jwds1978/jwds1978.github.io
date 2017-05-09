@@ -1,10 +1,7 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Business
+  - Technology
 citations:
   - author: "Liam Veitch"
     date:
@@ -32,12 +29,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
-  - Career
-  - Finance
   - "How to"
   - Opinionated
-  - Self
   - "The Suck"
 title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 ---
@@ -244,7 +237,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
   &nbsp;
 </p>
 <h3 id="were-all-indenticalancers">
-  We're all &quot;identicalancers&quot;
+  We're all &quot;Identicalancers&quot;
 </h3>
 <p>
   On freelancer exchanges, there isn't a whole lot of room to develop a central presence which is tailored to your style and message.&nbsp; Instead, we're

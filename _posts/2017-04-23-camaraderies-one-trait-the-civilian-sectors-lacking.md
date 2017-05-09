@@ -1,9 +1,6 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Lifestyle
 citations:
   - author: "Innominate"
     date:
@@ -31,8 +28,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Career
-  - Lifestyle
   - MyCAF
   - Opinionated
   - Self

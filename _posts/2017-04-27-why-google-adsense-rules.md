@@ -1,8 +1,7 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - "Living and Leisure"
+  - Money
+  - Technology
 comments: true
 date: "2017-04-27 22:52:26 America/Toronto"
 disqusIdentifier: 3983284244467325744626984263989873832859687852849645627472483766663743756776375495627966352868452239
@@ -21,13 +20,7 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
-  - Career
-  - Finance
-  - "How to"
-  - Self
-  - "Social Media"
-  - Tech
+  - Opinionated
 title: "Why Google AdSense Rules"
 ---
 

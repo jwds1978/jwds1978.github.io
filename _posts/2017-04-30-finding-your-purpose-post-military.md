@@ -1,9 +1,7 @@
 ---
 categories:
-  - Art
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Health
+  - Lifestyle
 citations:
   - author: "James Stewart"
     date:
@@ -47,13 +45,11 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
   - "Higher Power"
   - "How to"
-  - Lifestyle
+  - MyCAF
   - Opinionated
   - Self
-  - MyCAF
   - "The Suck"
 title: "Finding Your Purpose Post-Military"
 ---

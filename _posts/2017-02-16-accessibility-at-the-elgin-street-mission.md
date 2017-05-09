@@ -1,9 +1,6 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Law
 citations:
   - author: "Queen's Printer for Ontario"
     date:
@@ -41,11 +38,9 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
-  - Law
-  - Medical
   - Opinionated
   - Self
+  - "The Stupid"
   - "The Suck"
 title: "Accessibility at The Elgin Street Mission"
 ---

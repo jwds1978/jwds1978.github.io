@@ -33,6 +33,7 @@ categories:
   - Pet
   - Photography
   - Political
+  - "Proving Ground"
   - "Real Estate"
   - Science
   - SEO
@@ -88,6 +89,7 @@ tags:
   - Relationship
   - Self
   - Soccer
+  - "The Stupid"
   - "The Suck"
   - Writing
 title: ""

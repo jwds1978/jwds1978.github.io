@@ -1,9 +1,9 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
+  - Business
+  - Career
+  - Health
+  - Lifestyle
 comments: true
 date: "2017-04-29 13:04:17 America/Toronto"
 disqusIdentifier: 3973472424489582726292556237636283692777292878357839564374278593295786876896936369873276397974232447
@@ -25,8 +25,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Business
-  - Career
   - "How to"
   - Self
   - "The Suck"

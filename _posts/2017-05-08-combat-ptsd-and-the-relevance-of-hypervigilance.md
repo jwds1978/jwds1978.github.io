@@ -1,8 +1,9 @@
 ---
 categories:
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Health
+  - Lifestyle
+  - Medical
+  - Science
 comments: true
 date: "2017-05-08 12:38:43 America/Toronto"
 disqusIdentifier: 2365468658377995859658499962435527866887326437234297333474457445325462346579789883476636236626442289
@@ -28,9 +29,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
   - MyCAF
-  - Science
+  - Opinionated
   - Self
   - "The Suck"
 title: "Combat PTSD and the Relevance of Hypervigilance"

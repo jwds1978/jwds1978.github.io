@@ -1,8 +1,6 @@
 ---
 categories:
   - Innominate
-  - "Living and Leisure"
-  - News
 comments: true
 date: "2017-03-11 12:10:39 America/Toronto"
 disqusIdentifier: 7876556698445493473924423282738744988895954454587688993969955364974247776698396386484286353894972838
@@ -18,8 +16,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
-  - Medical
   - MyCAF
   - Self
   - "The Suck"

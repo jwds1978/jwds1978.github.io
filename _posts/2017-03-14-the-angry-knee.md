@@ -1,8 +1,6 @@
 ---
 categories:
   - Innominate
-  - "Living and Leisure"
-  - News
 citations:
   - author: "James Stewart"
     date:
@@ -25,8 +23,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
-  - Medical
   - Self
   - "The Suck"
 title: "The Angry Knee"

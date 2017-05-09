@@ -1,9 +1,6 @@
 ---
 categories:
-  - Art
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
+  - "Social Media"
 citations:
   - author: "Charlie Sherpa"
     date:
@@ -57,9 +54,7 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - MyCAF
   - Self
-  - "Social Media"
   - Writing
 title: "Military Bloggers"
 ---

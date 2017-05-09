@@ -1,7 +1,6 @@
 ---
 categories:
-  - Innominate
-  - "Living and Leisure"
+  - Car
 comments: true
 date: "2017-02-19 13:13:39 America/Toronto"
 disqusIdentifier: 7772867232688647743379696328387222599549328376273293574456882673936473696357876985884952447952623242
@@ -19,6 +18,7 @@ syndications:
     title: Twitter
 tags:
   - Automotive
+  - Self
   - "The Suck"
 title: "Oxygen Sensor"
 ---

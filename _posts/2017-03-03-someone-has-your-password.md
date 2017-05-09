@@ -1,8 +1,7 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
-  - "Living and Leisure"
+  - Law
+  - Technology
 comments: true
 date: "2017-03-03 19:38:53 America/Toronto"
 disqusIdentifier: 6782867763754443299576762769688269475724788997755236276393497996997554855253994963864834855396698832
@@ -19,7 +18,6 @@ syndications:
     title: Twitter
 tags:
   - Self
-  - Tech
   - "The Suck"
 title: "Somone Has Your Password"
 ---

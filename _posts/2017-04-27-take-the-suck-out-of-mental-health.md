@@ -1,7 +1,6 @@
 ---
 categories:
-  - Innominate
-  - "Living and Leisure"
+  - Health
 citations:
   - author: "James Murgatroyd Communications"
     date:
@@ -27,7 +26,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
   - Self
   - "The Suck"
 title: "Take the Suck Out of Mental Health"

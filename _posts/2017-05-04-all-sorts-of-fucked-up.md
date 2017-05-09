@@ -1,7 +1,8 @@
 ---
 categories:
-  - Innominate
-  - "Living and Leisure"
+  - Health
+  - Lifestyle
+  - Medical
 citations:
   - author: "James Stewart"
     date:
@@ -34,8 +35,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
-  - Lifestyle
   - Self
   - "The Suck"
 title: "All Sorts of Fucked-Up"

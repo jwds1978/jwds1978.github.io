@@ -1,8 +1,6 @@
 ---
 categories:
   - Innominate
-  - "Living and Leisure"
-  - News
 citations:
   - author: "Innominate"
     date:
@@ -39,8 +37,6 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Health
-  - Lifestyle
   - Opinionated
   - Self
   - "The Suck"

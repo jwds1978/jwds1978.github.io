@@ -1,7 +1,6 @@
 ---
 categories:
-  - "Business and Tech"
-  - Innominate
+  - Law
 citations:
   - author: "Aaron Greenspan"
     date:
@@ -28,7 +27,7 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Law
+  - News
   - "The Suck"
 title: "Aaron Greenspan Sued Google for Disabling His AdSense Account"
 ---

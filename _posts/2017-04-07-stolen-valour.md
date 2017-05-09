@@ -1,9 +1,6 @@
 ---
 categories:
-  - Art
-  - Innominate
-  - "Living and Leisure"
-  - News
+  - Law
 citations:
   - author: "RangerUp"
     date:
@@ -50,14 +47,8 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Career
-  - Law
-  - Lifestyle
-  - MyCAF
-  - News
   - Opinionated
-  - Self
-  - "The Suck"
+  - "The Stupid"
 title: "Stolen Valour"
 ---
 
