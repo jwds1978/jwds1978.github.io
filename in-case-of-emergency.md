@@ -18,6 +18,7 @@ title: "In Case of Emergency"
     <option value="{{ site.url }}{{ page.url }}#ailments">Ailments</option>
     <option value="{{ site.url }}{{ page.url }}#allergies">Allergies</option>
     <option value="{{ site.url }}{{ page.url }}#innominate">Innominate</option>
+    <option value="{{ site.url }}{{ page.url }}#medicalert">MedicAlert</option>
     <option value="{{ site.url }}{{ page.url }}#medications">Medications</option>
     <option value="{{ site.url }}{{ page.url }}#personal-data">Personal Data</option>
   </select><br />
@@ -29,6 +30,22 @@ title: "In Case of Emergency"
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
 </div>
+<h3 id="medicalert">
+  MedicAlert
+</h3>
+<p>
+  <a href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-09_13-49_684x753.png" rel="me" target="_blank" title="">
+    <img
+      alt="" height="417" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-09_13-49_379x417.png" style="border: 0px; float: left; margin-right: 10px;"
+      width="379" />
+  </a>
+</p>
+<p>
+  &nbsp;
+</p>
+<span style="float: right; font-size: x-small;">
+  <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
+</span>
 <h3 id="ailments">
   Ailments
 </h3>
