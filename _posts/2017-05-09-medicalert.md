@@ -26,6 +26,19 @@ image:
 last_modified_at: "2017-05-09 15:45:47 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154286346557084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/BuA1ZZG6Xwe"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650085827"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/862034284575588352"
+    text: Twitter
+    title: Twitter
 tags:
   - Self
 title: "MedicAlert"
@@ -44,6 +57,9 @@ title: "MedicAlert"
   die of denial&hellip;&nbsp; A medical emergency could happen to you too.&nbsp; Get the same protection and peace of mind that I have by
   <a href="{{ site.url }}{{ page.url }}#cite-medicalert-referral-program" rel="me" title="MedicAlert Referral Program">signing-up for MedicAlert</a>!&nbsp; For
   a discount and/or special offer when signing-up, be sure to use my referral code &#8212; &quot;JS17-1979&quot;.
+</p>
+<p>
+  &nbsp;
 </p>
 <!-- excerptBreak -->
 <p>
