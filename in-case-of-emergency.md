@@ -31,13 +31,11 @@ title: "In Case of Emergency"
   </span>
 </div>
 <h3 id="medicalert">
-  MedicAlert
+  MedicAlert&nbsp; <sup>ID #13193255C</sup>
 </h3>
 <p>
   <a href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-09_13-49_684x753.png" rel="me" target="_blank" title="">
-    <img
-      alt="" height="417" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-09_13-49_379x417.png" style="border: 0px; float: left; margin-right: 10px;"
-      width="379" />
+    <img alt="" height="417" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-09_13-49_379x417.png" style="border: 0px;" width="379" />
   </a>
 </p>
 <p>
