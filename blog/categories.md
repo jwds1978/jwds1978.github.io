@@ -8,7 +8,7 @@ liMarquee: true
 title: "Blog (Categories)"
 ---
 
-{% assign sortedCategories = site.categories | sort: 'value' %}
+{% assign sortedCategories = site.categories | sort %}
 
 <style>
   .post-tag {
