@@ -20,6 +20,7 @@ categories:
   - Green
   - Health
   - History
+  - Innominate
   - Law
   - Lifestyle
   - Marketing
@@ -67,63 +68,28 @@ syndications:
     text: 
     title: 
 tags:
- - Art
   - Art
-  - Beauty
-  - Design
-  - Fashion
-  - "How to"
-  - Photography
-  - Writing
- - "Business and Tech"
-  - Business
-  - Career
-  - Finance
-  - Law
-  - "Real Estate"
-  - "Social Media"
-  - Tech
- - Entertainment
-  - Celebrity
-  - Comedy
-  - Entertainment
-  - Gaming
-  - "Movies and TV"
-  - Music
- - Innominate
-  - Innominate
-  - MyCAF
-  - "The Suck"
- - "Living and Leisure"
   - Automotive
-  - Family
-  - Food
-  - Good
-  - Health
-  - "Higher Power"
-  - Home
-  - Lifestyle
-  - "Pets and Animals"
-  - Relationship
-  - Self
-  - Travel
-  - Wedding
- - News
-  - Education
-  - Medical
-  - News
-  - Opinionated
-  - Politics
-  - Science
- - "Proving Ground"
- - "Sports and Recreation"
   - Baseball
   - Basketball
+  - Comedy
+  - Family
   - Football
+  - Good
+  - "Higher Power"
+  - Home
+  - "How to"
+  - Innominate
+  - MyCAF
+  - News
+  - Opinionated
   - "Other Sports"
   - Outdoors
+  - Relationship
+  - Self
   - Soccer
-  - Sports
+  - "The Suck"
+  - Writing
 title: ""
 ---
 
