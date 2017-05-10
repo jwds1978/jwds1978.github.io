@@ -38,6 +38,19 @@ image:
 last_modified_at: "2017-05-10 14:12:58 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154288603882084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/KVWfd7Xm7hk"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650100078"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/862371425746911241"
+    text: Twitter
+    title: Twitter
 tags:
   - MyCAF
   - Opinionated
