@@ -100,6 +100,19 @@ image:
 last_modified_at: "2017-05-11 14:26:33 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154290959892084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/VnsfDCFESgi"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650115722"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/862740201801736192"
+    text: Twitter
+    title: Twitter
 tags:
   - Family
   - Home
