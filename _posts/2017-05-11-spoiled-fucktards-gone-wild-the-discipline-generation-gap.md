@@ -100,6 +100,19 @@ image:
 last_modified_at: "2017-05-11 14:26:33 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: ""
+    text: Facebook
+    title: Facebook
+  - href: ""
+    text: Google+
+    title: Google+
+  - href: ""
+    text: Pinterest
+    title: Pinterest
+  - href: ""
+    text: Twitter
+    title: Twitter
 tags:
   - Family
   - Home
@@ -124,6 +137,7 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   that nursery-age children are becoming increasingly violent and disrespectful towards their teachers &#8212; &quot;parent battering&quot; is on the rise
   &#8212; and the number of policemen attacked by children is soaring.
 </p>
+<!-- excerptBreak -->
 <p>
   Dr. Sigman, said:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-the-spoilt-generation">
