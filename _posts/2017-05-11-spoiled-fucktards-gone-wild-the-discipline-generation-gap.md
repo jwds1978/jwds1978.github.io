@@ -1,58 +1,69 @@
 ---
 categories:
-  - Beauty
   - Business
-  - Car
   - Career
-  - Cat
-  - "Celebrity Gossip"
-  - Design
-  - DIY
-  - Dog
-  - Economics
   - Education
-  - Entertainment
-  - Fashion
-  - Finance
-  - Fitness
-  - Food
-  - Gaming
-  - Green
-  - Health
-  - History
-  - Innominate
   - Law
   - Lifestyle
-  - Marketing
-  - Medical
-  - Money
-  - Movie
-  - Music
-  - Nature
   - Parenting
-  - Pet
-  - Photography
-  - Political
-  - "Proving Ground"
-  - "Real Estate"
-  - Science
-  - SEO
-  - Shopping
-  - "Social Media"
-  - Sports
-  - Technology
-  - Travel
   - University
-  - Wedding
-  - Wine
 citations:
-  - author: ""
+  - author: "Malcolm Parker"
     date:
-      accessed: "0000-00-00 00:00:00 America/Toronto"
-      published: "0000-00-00 00:00:00 America/Toronto"
-    href: ""
-    name: ""
-    slug: ""
+      accessed: "2017-05-11 13:59:36 America/Toronto"
+      published: "2014-04-16 16:28 America/Toronto"
+    href: "https://theconversation.com/a-fine-balance-disability-discrimination-and-public-safety-25653"
+    name: "A fine balance: disability, discrimination and public safety"
+    slug: "a-fine-balance-disability-discrimination-and-public-safety"
+  - author: "Fran Kelly"
+    date:
+      accessed: "2017-05-11 13:05:49 America/Toronto"
+      published: "2013-12-04 06:48 America/Toronto"
+    href: "http://www.abc.net.au/radionational/programs/breakfast/survey-australias-students-going-backwards/5133058"
+    name: "Australia's students slide in international rankings"
+    slug: "australias-students-slide-in-international-rankings"
+  - author: "Brotherhood of St. Laurence"
+    date:
+      accessed: "2017-05-11 13:10:15 America/Toronto"
+      published: "2014-02-24 America/Toronto"
+    href: "http://apo.org.au/node/38182"
+    name: "Australian youth unemployment 2014: snapshot"
+    slug: "australian-youth-unemployment-2014-snapshot"
+  - author: "Rachael Sharman"
+    date:
+      accessed: "2017-05-11 14:21:53 America/Toronto"
+      published: "2014-10-20 15:12 America/Toronto"
+    href: "https://theconversation.com/bulldozer-parents-creating-psychologically-fragile-children-32730"
+    name: "Bulldozer parents: creating psychologically fragile children"
+    slug: "bulldozer-parents-creating-psychologically-fragile-children"
+  - author: "Ben Pike"
+    date:
+      accessed: "2017-05-11 13:46:17 America/Toronto"
+      published: "2013-06-30 17:45 America/Toronto"
+    href: "http://www.news.com.au/finance/work/careers-advice-system-failing-australian-schoolchildren-says-national-centre-for-vocational-education-and-research-study/news-story/a3d800b686520e2305c90deeaf2e2bc0"
+    name: "Careers advice system failing Australian schoolchildren, says National Centre for Vocational Education and Research study"
+    slug: "careers-advice-system-failing-australian-schoolchildren-says-national-centre-for-vocational-education-and-research-study"
+  - author: "Julie Hare"
+    date:
+      accessed: "2017-05-11 13:56:11 America/Toronto"
+      published: "2013-06-19 00:00 America/Toronto"
+    href: "http://www.theaustralian.com.au/higher-education/failed-studentchristopher-miller-sues-for-southern-cross-uni-refund/news-story/14b4c6bea57a8acb7eb24a2b2b646b11"
+    name: "Failed student Christopher Miller sues for Southern Cross Uni refund"
+    slug: "failed-student-christopher-miller-sues-for-southern-cross-uni-refund"
+  - author: "Benjamin Preiss"
+    date:
+      accessed: "2017-05-11 13:50:04 America/Toronto"
+      published: "2012-05-17 America/Toronto"
+    href: "http://www.theage.com.au/victoria/school-failed-to-get-me-into-law-20120516-1yrcb.html"
+    name: "School 'failed to get me into law'"
+    slug: "school-failed-to-get-me-into-law"
+  - author: "Carolyn Williams"
+    date:
+      accessed: "2017-05-11 14:13:24 America/Toronto"
+      published: "2010-10-13 America/Toronto"
+    href: "http://www.tandfonline.com/doi/abs/10.1080/01580370500056422?journalCode=csce20"
+    name: "The discursive construction of the 'competent' learner-worker: from key competencies to 'employability skills'"
+    slug: "the-discursive-construction-of-the-competent-learner-worker-from-key-competencies-to-employability-skills"
   - author: "Royal Society of Medicine"
     date:
       accessed: "2017-05-10 19:25:21 America/Toronto"
@@ -66,45 +77,40 @@ citations:
     href: "http://store.forces.army/#detail/0749941480"
     name: "The Spoilt Generation"
     slug: "the-spoilt-generation"
+  - author: "Cesare Aloisi, Robert Coe, Steve Higgins, Lee Elliot Major"
+    date:
+      accessed: "2017-05-11 12:51:02 America/Toronto"
+      published: "2014-10-31 America/Toronto"
+    href: "http://www.suttontrust.com/researcharchive/great-teaching"
+    name: "What makes great teaching?"
+    slug: "what-makes-great-teaching"
+  - author: "Matthew Banner, David Dunning, Joyce Ehrlinger, Kerri Johnson, Justin Kruger"
+    date:
+      accessed: "2017-05-11 13:38:31 America/Toronto"
+    href: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2702783"
+    name: "Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent"
+    slug: "why-the-unskilled-are-unaware-further-explorations-of-absent-self-insight-among-the-incompetent"
 comments: true
-date: "0000-00-00 00:00:00 America/Toronto"
+date: "2017-05-11 14:26:33 America/Toronto"
 disqusIdentifier: JDD5V8VXDMB3TZDJ4G7YMW95WRSJ5WGN9YPSWDVK5Z3G3HD7VCQ2599D7YCC4M5FP7DU6YRR3QRKSTKNH5BMQNUF3YFMMSYY4EXN
 image:
-  height: 
-  path: "https://assets.forces.army/blog/"
-  width: 
-last_modified_at: "0000-00-00 00:00:00 America/Toronto"
+  height: 720
+  path: "https://assets.forces.army/blog/2017/05/10/spoiled-fucktards-gone-wild-the-discipline-generation-gap/hotlink-ok/fucktard_720x720.png"
+  width: 720
+last_modified_at: "2017-05-11 14:26:33 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
 tags:
-  - Art
-  - Automotive
-  - Baseball
-  - Basketball
-  - Comedy
   - Family
-  - Football
-  - Good
-  - "Higher Power"
   - Home
-  - "How to"
-  - Innominate
-  - MyCAF
-  - News
   - Opinionated
-  - "Other Sports"
-  - Outdoors
-  - Relationship
-  - Self
-  - Soccer
   - "The Stupid"
   - "The Suck"
-  - Writing
 title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
 ---
 
 <img
-  alt="" height="316" src="{{ site.uri.assets }}/blog/2017/05/10/spoiled-fucktards-gone-wild-the-discipline-generation-gap/innominate_1_468x316.png"
+  alt="" height="316" src="{{ site.uri.assets }}/blog/2017/05/11/spoiled-fucktards-gone-wild-the-discipline-generation-gap/innominate_1_468x316.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="468" />
 <p>
   An ever-increasing lack of authority has bred, as a leading psychologist forewarned, a &quot;spoilt generation&quot; of children who believe that grown-ups
@@ -143,7 +149,7 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   over their lives.
 </p>
 <img
-  alt="" height="340" src="{{ site.uri.assets }}/blog/2017/05/10/spoiled-fucktards-gone-wild-the-discipline-generation-gap/innominate_2_468x340.png"
+  alt="" height="340" src="{{ site.uri.assets }}/blog/2017/05/11/spoiled-fucktards-gone-wild-the-discipline-generation-gap/innominate_2_468x340.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="468" />
 <p>
   Dr. Sigman says that youngsters' inflated sense of their own importance is fuelling the obesity epidemic.&nbsp; Children feel that they have the right to
@@ -304,4 +310,150 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   All of these examples and scenarios lead to chaos and great frustration in the classroom.&nbsp; Don't misunderstand, teachers love your children and want to
   see them grow, be happy, and be successful.&nbsp; However, they strongly need for the parents to step-up and support them and the purpose of their job.&nbsp;
   If we all work together, classrooms will run smoother, our children will be happier and ready-to-learn, and we can all thrive.
+</p>
+<p>
+  &nbsp;
+</p>
+<img
+  alt="" height="322" src="{{ site.uri.assets }}/blog/2017/05/11/spoiled-fucktards-gone-wild-the-discipline-generation-gap/innominate_3_482x322.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
+<p>
+  Recently,
+  <a href="{{ site.url }}{{ page.url }}#cite-what-makes-great-teaching" rel="me" title="What makes great teaching?">a research centre in the United Kingdom</a>
+  found that lavishing praise upon students &#8212; particularly, low-attaining students &#8212; may be counter-productive.&nbsp; By providing a
+  no-consequence/no-failure environment, in which the top priority's to make everybody feel good about themselves, we're doing little more than setting young
+  people up to fail.
+</p>
+<p>
+  It would appear that our modern education systems have delivered us not only a
+  <a
+    href="{{ site.url }}{{ page.url }}#cite-australias-students-slide-in-international-rankings" rel="me"
+    title="Australia's students slide in international rankings">
+    back-slide of Australian student rankings
+  </a>,
+  but also the highest youth unemployment rate in decades.&nbsp; Research suggests that basic employability skills &#8212; where the worker can arrive on time,
+  take instruction, and get along with others &#8212;
+  <a href="{{ site.url }}{{ page.url }}#cite-australian-youth-unemployment-2014-snapshot" rel="me" title="Australian youth unemployment 2014: snapshot">
+    are wanting in this generation of young people
+  </a>.
+</p>
+<p>
+  An advertisement for an apprentice, recently posted on a job Web site, perfectly summarized the difficulty faced by employers trying to give a young person a
+  go.&nbsp; It listed only two selection criteria:
+  <ol style="list-style-type: decimal;">
+    <li>
+      Can turn-up Monday through Friday.
+    </li>
+    <li>
+      Not afraid to work.
+    </li>
+  </ol>
+</p>
+<p>
+  The stories that came my way shared a common history&hellip;&nbsp; Early-on, in the training path of some young people, there can be a total disconnect
+  between the individual's assessment of their strengths and weaknesses as compared to everyone else's.
+</p>
+<p>
+  This isn't anything new. Typically, coined &quot;poor insight&quot;, there's a raft of research including the aptly named
+  <a
+    href="{{ site.url }}{{ page.url }}#cite-why-the-unskilled-are-unaware-further-explorations-of-absent-self-insight-among-the-incompetent" rel="me"
+    title="Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent">
+    Why the Unskilled are Unaware
+  </a>
+  that demonstrates the cognitive mechanisms at fault here &#8212; or, more simply put, why stupid people don't know that they're stupid.
+</p>
+<p>
+  But, what happens when this person hits your training environment?&nbsp; What's the education system's role, responsibility, and/or duty of care &#8212; and,
+  to whom &#8212; in this situation?
+</p>
+<p>
+  &nbsp;
+</p>
+<img
+  alt="" height="322" src="{{ site.uri.assets }}/blog/2017/05/11/spoiled-fucktards-gone-wild-the-discipline-generation-gap/innominate_4_482x322.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
+<h3 id="can-education-fix-this">
+  Can Education Fix This?
+</h3>
+<p>
+  Sadly, our modern education system's become complicit in the
+  <a
+    href="{{ site.url }}{{ page.url }}#cite-careers-advice-system-failing-australian-schoolchildren-says-national-centre-for-vocational-education-and-research-study"
+    rel="me" title="Careers advice system failing Australian schoolchildren, says National Centre for Vocational Education and Research study">
+    business of manufacturing aspirations
+  </a>,
+  no matter how delusional.&nbsp; This is facilitated by the
+  <a href="{{ site.url }}{{ page.url }}#cite-school-failed-to-get-me-into-law" rel="me" title="School 'failed to get me into law'">
+    ever-present fear of litigation
+  </a>
+  if little Johnny and/or Sally becomes in any way upset by honest feedback
+  <a
+    href="{{ site.url }}{{ page.url }}#cite-failed-student-christopher-miller-sues-for-southern-cross-uni-refund" rel="me"
+    title="Failed student Christopher Miller sues for Southern Cross Uni refund">
+    regarding their performance
+  </a>.
+</p>
+<p>
+  This has left teaching staff too terrified to have conversations with students as to whether they're suited to their chosen career path, or at genuine risk of
+  <a
+    href="{{ site.url }}{{ page.url }}#cite-a-fine-balance-disability-discrimination-and-public-safety" rel="me"
+    title="A fine balance: disability, discrimination and public safety">
+    being found guilty of discrimination
+  </a>,
+  if they apply consequences for poor progress and/or dysfunctional behaviours that wouldn't be tolerated in a workplace.
+</p>
+<p>
+  Here are a couple of examples:
+  <ul>
+    <li>
+      TAFE trainee X was capable of doing the tasks required of him.&nbsp; However, he had a habit of proffering potentially dangerous advice to clients outside
+      of his training &#8212; despite being been told not to do this.&nbsp; His placement took to hiding the phone from him.&nbsp; He also over-shared gruesome
+      details of his chaotic personal life to stunned clients.&nbsp; Trainee X was convinced that he'd be offered employment, at the end of his stint, although
+      his placement told him not to expect this &#8212; privately, labelling him &quot;a disaster&quot; and &quot;unemployable&quot;.
+    </li>
+    <li>
+      University student Y committed a serious, immoral, and (un)professional foul during a work placement &#8212; raising serious concerns, regarding her
+      character and fitness, to practice.&nbsp; Against her supervisors' recommendation, her university rewarded her behaviour with a second chance to complete
+      her placement, inflicting her upon another &#8212; unwitting &#8212; workplace.
+    </li>
+  </ul>
+</p>
+<p>
+  Consider also, the impact of the various get-out-of-jail-free cards &#8212; appeals, exam re-sits, extensions, supplementary assessments &#8212; available to
+  students in the case of poor performance, shambolic time-management, and/or concerning interpersonal behaviours (i.e. lack of initiative, poor team skills,
+  poorly developed ethics, unadaptable to change, etc.).&nbsp; Would these be available in the work place?
+</p>
+<p>
+  While there's an interesting and nuanced debate to be had about if and how educators could teach
+  <a
+    href="{{ site.url }}{{ page.url }}#cite-the-discursive-construction-of-the-competent-learner-worker-from-key-competencies-to-employability-skills" rel="me"
+    title="The discursive construction of the 'competent' learner-worker: from key competencies to 'employability skills'">
+    personal attributes and employability skills
+  </a>,
+  the most basic understanding of how consequences shape human behaviour would suggest that rewarding such conduct by making excuses and allowing endless
+  chances will only groom future unemployables.
+</p>
+<p>
+  &nbsp;
+</p>
+<h3 id="its-for-their-own-good">
+  It's for Their Own Good
+</h3>
+<p>
+  Has it occurred to anyone else, that by providing a fantasy training environment which in no way reflects the expectations of a real workplace, actually isn't
+  fair to students?
+</p>
+<p>
+  When educators are prevented from providing genuine feedback and applying realistic consequences, we deny students the opportunity to recognise and play to
+  their strengths, while reflecting upon their weaknesses &#8212; to change any counter-productive attitudes/behaviours and/or redirect their efforts into a
+  more suitable career course.
+</p>
+<p>
+  The solution, requires a shift in attitude from educational organisations, students &#8212; and,
+  <a
+    href="{{ site.url }}{{ page.url }}#cite-bulldozer-parents-creating-psychologically-fragile-children" rel="me"
+    title="Bulldozer parents: creating psychologically fragile children">
+    their parents
+  </a>
+  &#8212; with clear legal protections in-place for educators who, rather than setting students up to fail, actually want them to learn how to succeed.
 </p>
