@@ -95,24 +95,11 @@ date: "2017-05-11 14:26:33 America/Toronto"
 disqusIdentifier: JDD5V8VXDMB3TZDJ4G7YMW95WRSJ5WGN9YPSWDVK5Z3G3HD7VCQ2599D7YCC4M5FP7DU6YRR3QRKSTKNH5BMQNUF3YFMMSYY4EXN
 image:
   height: 720
-  path: "https://assets.forces.army/blog/2017/05/10/spoiled-fucktards-gone-wild-the-discipline-generation-gap/hotlink-ok/fucktard_720x720.png"
+  path: "https://assets.forces.army/blog/2017/05/11/spoiled-fucktards-gone-wild-the-discipline-generation-gap/hotlink-ok/fucktard_720x720.png"
   width: 720
 last_modified_at: "2017-05-11 14:26:33 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
-syndications:
-  - href: ""
-    text: Facebook
-    title: Facebook
-  - href: ""
-    text: Google+
-    title: Google+
-  - href: ""
-    text: Pinterest
-    title: Pinterest
-  - href: ""
-    text: Twitter
-    title: Twitter
 tags:
   - Family
   - Home
