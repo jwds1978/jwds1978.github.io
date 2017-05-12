@@ -13,6 +13,19 @@ image:
 last_modified_at: "2017-05-12 10:31:32 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154292966677084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/QSDGRWSA6q9"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650126769"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/863041314006413312"
+    text: Twitter
+    title: Twitter
 tags:
   - Innominate
 title: "4 Types of Drunk"
