@@ -34,8 +34,8 @@ title: "In Case of Emergency"
   MedicAlert&nbsp; <sup>ID #13193255C</sup>
 </h3>
 <p>
-  <a href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-09_13-49_684x753.png" rel="me" target="_blank" title="">
-    <img alt="" height="417" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-09_13-49_379x417.png" style="border: 0px;" width="379" />
+  <a href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-11_19-41_684x759.png" rel="me" target="_blank" title="">
+    <img alt="" height="421" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-11_19-41_379x421.png" style="border: 0px;" width="379" />
   </a>
 </p>
 <p>
