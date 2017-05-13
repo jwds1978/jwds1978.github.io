@@ -34,8 +34,12 @@ title: "In Case of Emergency"
   MedicAlert&nbsp; <sup>ID #13193255C</sup>
 </h3>
 <p>
-  <a href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-12_12-19_684x771.png" rel="me" target="_blank" title="">
-    <img alt="" height="427" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-12_12-19_379x427.png" style="border: 0px;" width="379" />
+  <a
+    href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-12_23-05_684x753.png" rel="me" target="_blank"
+    title="MedicAlert :: Wallet Card :: 2017-05-12T23:05-04:00">
+    <img
+      alt="MedicAlert :: Wallet Card :: 2017-05-12T23:05-04:00" height="417" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-12_23-05_379x417.png"
+      style="border: 0px;" width="379" />
   </a>
 </p>
 <p>
