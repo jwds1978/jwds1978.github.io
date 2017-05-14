@@ -82,7 +82,7 @@ comments: true
   &nbsp;
 </p>
 <h3 id="that-blog-thing">
-  That Blog Thing&nbsp; <sup>Most Recent</sup>
+  <i aria-hidden="true" class="fa fa-book"></i>&nbsp; That Blog Thing&nbsp; <sup>Most Recent</sup>
 </h3>
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
