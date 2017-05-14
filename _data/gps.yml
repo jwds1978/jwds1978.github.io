@@ -70,6 +70,12 @@ canada_ontario_sudbury_mackenzie_74:
     latitude: 46.4955102
     longitude: -80.99748220000004
   text: "Greater Sudbury Public Library, 74 Mackenzie St., Sudbury, Ontario, P3C 4X8, Canada"
+canada_ontario_sudbury_martindale_1373:
+  altitude: 263
+  dd:
+    latitude: 46.4640023
+    longitude: -81.0096729
+  text: "Tim Hortons, 1373 Martindale Rd., Sudbury, Ontario, P3E 4J7, Canada"
 canada_ontario_sudbury_memorial-park:
   altitude: 259
   dd:

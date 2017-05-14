@@ -19,10 +19,10 @@ title: "In Case of Emergency"
 </h3>
 <p>
   <a
-    href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-13_13-59_684x761.png" rel="me" target="_blank"
-    title="MedicAlert :: Wallet Card :: 2017-05-13T13:59-04:00">
+    href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-14_12-18_684x773.png" rel="me" target="_blank"
+    title="MedicAlert :: Wallet Card :: 2017-05-14T12:18-04:00">
     <img
-      alt="MedicAlert :: Wallet Card :: 2017-05-13T13:59-04:00" height="422" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-13_13-59_379x422.png"
+      alt="MedicAlert :: Wallet Card :: 2017-05-14T12:18-04:00" height="428" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-14_12-18_379x428.png"
       style="border: 0px;" width="379" />
   </a>
 </p>
