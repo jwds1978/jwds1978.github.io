@@ -55,6 +55,7 @@ title: Contact
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="e-mail">
+  <i aria-hidden="true" class="fa fa-envelope"></i>&nbsp;
   E-mail&nbsp;
   <sup>Preferrably, PGP-Encrypted</sup>
 </h3>

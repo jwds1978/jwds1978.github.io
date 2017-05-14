@@ -39,7 +39,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Facebook
+    <i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook
     <ul>
       <li>
         <a href="https://www.facebook.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
@@ -47,7 +47,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    GitHub
+    <i aria-hidden="true" class="fa fa-github"></i> GitHub
     <ul>
       <li>
         <a href="https://github.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
@@ -60,7 +60,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Google+
+    <i aria-hidden="true" class="fa fa-google-plus-official"></i> Google+
     <ul>
       <li>
         <a href="https://plus.google.com/115164780760274259502" rel="me" target="_blank" title="James Stewart">James Stewart</a>
@@ -76,7 +76,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Hacker News
+    <i aria-hidden="true" class="fa fa-hacker-news"></i> Hacker News
     <ul>
       <li>
         <a href="https://news.ycombinator.com/user?id=stew721" rel="me" target="_blank" title="stew721">stew721</a>
@@ -84,7 +84,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Instagram
+    <i aria-hidden="true" class="fa fa-instagram"></i> Instagram
     <ul>
       <li>
         <a href="https://www.instagram.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
@@ -108,7 +108,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Pinterest
+    <i aria-hidden="true" class="fa fa-pinterest"></i> Pinterest
     <ul>
       <li>
         <a href="https://www.pinterest.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br />
@@ -117,7 +117,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Reddit
+    <i aria-hidden="true" class="fa fa-reddit"></i> Reddit
     <ul>
       <li>
         <a href="https://www.reddit.com/user/stew3721" rel="me" target="_blank" title="stew3721">stew3721</a>
@@ -133,7 +133,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Stack Exchange
+    <i aria-hidden="true" class="fa fa-stack-exchange"></i> Stack Exchange
     <ul>
       <li>
         <a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title="">James Stewart</a><br />
@@ -144,7 +144,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Steam
+    <i aria-hidden="true" class="fa fa-steam"></i> Steam
     <ul>
       <li>
         <a href="https://steamcommunity.com/id/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
@@ -168,7 +168,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    Twitter
+    <i aria-hidden="true" class="fa fa-twitter"></i> Twitter
     <ul>
       <li>
         <a href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br />
@@ -196,7 +196,7 @@ twitterWidget: true
     </ul>
   </li>
   <li>
-    YouTube
+    <i aria-hidden="true" class="fa fa-youtube"></i> YouTube
     <ul>
       <li>
         <div class="g-ytsubscribe" data-channelid="UCEvgM-VbahDYiKx_UK1ZHnw" data-count="default" data-layout="full" data-theme="dark"></div>
