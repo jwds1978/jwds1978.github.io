@@ -5,6 +5,7 @@ title: Donate
 
 {% include adsense_large-skyscraper_300x600.htm %}
 <h3 id="bitcoin">
+  <i aria-hidden="true" class="fa fa-btc"></i>&nbsp;
   Bitcoin&nbsp;
   <sup>Preferred</sup>
 </h3>
@@ -46,7 +47,7 @@ title: Donate
     </ul>
   </li>
   <li>
-    PayPal
+    <i aria-hidden="true" class="fa fa-paypal"></i>&nbsp; PayPal
     <ul>
       <li>
         <a href="https://www.paypal.me/stew721" rel="me" target="_blank" title="WNS329B9N2G3G">WNS329B9N2G3G</a>&nbsp;
@@ -78,7 +79,7 @@ title: Donate
     <img
       alt="" height="40" src="{{ site.uri.assets }}/naked/images/Amazon_wish-list_99x40.png"
       style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="99" />
-    Amazon<br />
+    <i aria-hidden="true" class="fa fa-amazon"></i>&nbsp; Amazon<br />
     <span style="font-size: smaller;">
       &nbsp;<br />
       <!--sse-->
