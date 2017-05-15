@@ -52,11 +52,12 @@ title: "Severe Pain, What to Do"
   detest pain medications.&nbsp; I did all that I could to avoid making use of opioids &#8212; relying upon 8&#8211;10+G of Ibuprofen each day instead.&nbsp; As
   I age though, I'm finding that the effects of the extreme abuse which I'd put my body through is fast catching up with my gimp-ass.
 </p>
+<!-- excerptBreak -->
 <p>
   I hurt every-fucking-where and it's become quite miserable when I'm off of my pain management medications.&nbsp; Trust me &#8212; I don't wish to be on them
   &#8212; but, I need them all the same.&nbsp; While I do somewhat understand the changes in law, all that the lawmakers are accomplishing is to make people
   like me live in absolute fucking Hell &#8212; the addicts and/or abusers, they simply turn to more heroin.&nbsp; You'll never be able to control the
-  addicts.&nbsp; To punish those whom don't abuse it, and require them to live a relatively normal life, is abo-fucking-lutely unjust.
+  addicts.&nbsp; To punish those whom don't abuse it, and require them to live a relatively normal life, is abso-fucking-lutely unjust.
 </p>
 <p>
   I'm living in a constant pain that I'd not wish upon my worst enemy.&nbsp; The pain is excrutiating most times and my mobility is drastically decreasing with
@@ -77,7 +78,6 @@ title: "Severe Pain, What to Do"
   existing/prescribed long-term medication(s) for clear and visible injuries&hellip;&nbsp; Fuck, I had to fight with him last year, after stripping down in the
   office for him see my legs along with their visible wounds and my custom designed/manufactured orthosis &#8212; for a simple refill of my Arthrotec, FFS!
 </p>
-<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>
