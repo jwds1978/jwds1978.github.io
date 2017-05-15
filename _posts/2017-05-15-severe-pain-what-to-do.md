@@ -26,9 +26,10 @@ image:
   height: 565
   path: "https://assets.forces.army/blog/2017/05/15/severe-pain-what-to-do/hotlink-ok/innominate_3_849x565.png"
   width: 849
-last_modified_at: "2017-05-15 12:05:41 America/Toronto"
+last_modified_at: "2017-05-15 12:29:58 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_martindale_1373"
+modifiedReason: "Removed Image"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154301141817084"
     text: Facebook
@@ -102,9 +103,6 @@ title: "Severe Pain, What to Do"
 <p>
   &nbsp;
 </p>
-<img
-  alt="" height="295" src="{{ site.uri.assets }}/blog/2017/05/15/severe-pain-what-to-do/innominate_1_350x295.png"
-  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="350" />
 <h3 id="changing-the-rules">
   Changing the Rules
 </h3>
