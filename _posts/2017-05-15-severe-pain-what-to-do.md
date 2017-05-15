@@ -29,6 +29,19 @@ image:
 last_modified_at: "2017-05-15 12:05:41 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_martindale_1373"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154301141817084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/eR9HJL1JHa7"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650167228"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/864153692504821760"
+    text: Twitter
+    title: Twitter
 tags:
   - Opinionated
   - Self
