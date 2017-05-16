@@ -41,6 +41,9 @@ syndications:
   - href: "https://www.pinterest.com/pin/554013191650181103"
     text: Pinterest
     title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/160727308131/vanishing-veterans"
+    text: Tumblr
+    title: Tumblr
   - href: "https://twitter.com/jwds1978/status/864315810155814912"
     text: Twitter
     title: Twitter
