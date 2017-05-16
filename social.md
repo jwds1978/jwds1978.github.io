@@ -171,7 +171,11 @@ twitterWidget: true
     <i aria-hidden="true" class="fa fa-tumblr"></i>&nbsp; Tumblr
     <ul>
       <li>
-        <a href="https://blog-tumblr.forces.army" rel="me" target="_blank" title="">Forces.ARMY</a>
+        <a href="https://blog-tumblr.forces.army" rel="me" target="_blank" title="forces-army">Forces.ARMY</a><br />
+        <iframe
+          allowtransparency="true" class="btn" height="20" scrolling="no"
+          src="https://platform.tumblr.com/v2/follow_button.html?color=black&tumblelog=forces-army&type=follow"
+          style="border: none; overflow: hidden; padding: 0;" width="65"></iframe>
       </li>
     </ul>
   </li>
