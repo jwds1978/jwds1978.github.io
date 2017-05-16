@@ -57,12 +57,15 @@ layout: default
     <i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit
   </a>
   &nbsp;&bull;&nbsp;
-  <a class="tumblr-share-button" data-color="black" data-notes="right" href="https://embed.tumblr.com/share" rel="external" target="_blank" title=""></a>
+  <div style="vertical-align: middle;">
+    <a class="tumblr-share-button" data-color="black" data-notes="right" href="https://embed.tumblr.com/share" rel="external" target="_blank" title=""></a>
+  </div>
   &nbsp;&bull;&nbsp;
   <a
-    href="https://twitter.com/share?text={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;"
-    target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-twitter"></i> Twitter
+    class="twitter-share-button" data-dnt="false" data-lang="en"
+    href="https://twitter.com/intent/tweet?text={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" target="_blank"
+    title="">
+    Tweet
   </a>
 </p>
 <p style="font-size: smaller;">
@@ -177,12 +180,15 @@ layout: default
     <i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit
   </a>
   &nbsp;&bull;&nbsp;
-  <a class="tumblr-share-button" data-color="black" data-notes="right" href="https://embed.tumblr.com/share" rel="external" target="_blank" title=""></a>
+  <div style="vertical-align: middle;">
+    <a class="tumblr-share-button" data-color="black" data-notes="right" href="https://embed.tumblr.com/share" rel="external" target="_blank" title=""></a>
+  </div>
   &nbsp;&bull;&nbsp;
   <a
-    href="https://twitter.com/share?text={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;"
-    target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-twitter"></i> Twitter
+    class="twitter-share-button" data-dnt="false" data-lang="en"
+    href="https://twitter.com/intent/tweet?text={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" target="_blank"
+    title="">
+    Tweet
   </a>
 </p>
 {% if page.adsDisplay != false %}
