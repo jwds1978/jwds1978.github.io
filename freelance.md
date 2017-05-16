@@ -324,7 +324,7 @@ title: "Freelance"
     </ul>
   </li>
   <li>
-    <span style="font-weight: bolder;">Paid/Sponsored Review</span>
+    <span style="font-weight: bolder;">Paid/Sponsored Review of Product/Service</span>
     <ul>
       <li>
         $68 CAD
