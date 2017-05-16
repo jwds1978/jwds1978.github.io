@@ -168,6 +168,14 @@ twitterWidget: true
     </ul>
   </li>
   <li>
+    <i aria-hidden="true" class="fa fa-tumblr"></i>&nbsp; Tumblr
+    <ul>
+      <li>
+        <a href="https://blog-tumblr.forces.army" rel="me" target="_blank" title="">Forces.ARMY</a>
+      </li>
+    </ul>
+  </li>
+  <li>
     <i aria-hidden="true" class="fa fa-twitter"></i>&nbsp; Twitter
     <ul>
       <li>
