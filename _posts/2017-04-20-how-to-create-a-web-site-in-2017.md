@@ -48,6 +48,7 @@ syndications:
     title: Twitter
 tags:
   - "How to"
+  - Sponsored
 title: "How to Create a Web Site in 2017"
 ---
 

@@ -89,6 +89,7 @@ tags:
   - Relationship
   - Self
   - Soccer
+  - Sponsored
   - "The Stupid"
   - "The Suck"
   - Writing

@@ -47,6 +47,7 @@ syndications:
     title: Twitter
 tags:
   - "How to"
+  - Sponsored
 title: "Decrease the Bounce Rate of Your Web Site"
 ---
 

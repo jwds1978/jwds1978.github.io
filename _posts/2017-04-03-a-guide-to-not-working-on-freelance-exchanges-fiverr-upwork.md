@@ -31,6 +31,7 @@ syndications:
 tags:
   - "How to"
   - Opinionated
+  - Sponsored
   - "The Suck"
 title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 ---

@@ -48,6 +48,7 @@ syndications:
     title: Twitter
 tags:
   - "How to"
+  - Sponsored
 title: "How to Get the Most of Affiliate Programs"
 ---
 

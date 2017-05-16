@@ -9,6 +9,7 @@ layout: default
 {% capture pageWords %}{{ content | number_of_words }}{% endcapture %}
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 {% assign pageLocation = site.data.gps[page.location] %}
+{% if page.tags contains "Sponsored" %}{% assign pageSponsored = true %}{% endif %}
 
 <img
   alt="" height="73" src="{{ site.uri.assets }}/naked/images/suck-my-words_482x073.png"
@@ -139,6 +140,14 @@ layout: default
   </p>
   {% endif %}
 </article>
+{% if pageSponsored %}
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+<p style="font-size: xx-small; text-align: justify;">
+  {{ site.sponsored.blog }}
+</p>
+{% endif %}
 <p style="font-size: smaller;">
   &nbsp;
 </p>

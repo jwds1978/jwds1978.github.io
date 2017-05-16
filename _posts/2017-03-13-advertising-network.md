@@ -18,6 +18,7 @@ modifiedReason: Spelling
 published: false
 tags:
   - Innominate
+  - Sponsored
 title: "Advertising Network"
 ---
 

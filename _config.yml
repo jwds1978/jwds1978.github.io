@@ -97,6 +97,10 @@ social:
     - https://twitter.com/jwds1978
     - https://www.youtube.com/channel/UCEvgM-VbahDYiKx_UK1ZHnw
 source: .
+sponsored:
+  blog: |
+    <span style="font-weight: bolder;">DISCLAIMER:</span>&nbsp; I receive(d) compensation in exchange for writing this article.&nbsp; Although this posting is
+    sponsored, all opinions are my own.
 tag_feed_dir: tag
 tag_feed_layout: tag_feed
 tag_page_data:

@@ -28,6 +28,7 @@ syndications:
     title: Twitter
 tags:
   - "How to"
+  - Sponsored
 title: "10 Effective Ways to Market Your Products: Take Your Business to Newer Heights of Success"
 ---
 
