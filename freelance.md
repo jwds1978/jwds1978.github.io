@@ -324,6 +324,14 @@ title: "Freelance"
     </ul>
   </li>
   <li>
+    <span style="font-weight: bolder;">Paid/Sponsored Review</span>
+    <ul>
+      <li>
+        $68 CAD
+      </li>
+    </ul>
+  </li>
+  <li>
     <span style="font-weight: bolder;">PC Build-out:</span>&nbsp; If you've already got a design that you'd like for your PC, and/or James has designed one for
     you, he can build it.
     <ul>
