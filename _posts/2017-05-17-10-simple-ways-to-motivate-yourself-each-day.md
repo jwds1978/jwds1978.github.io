@@ -32,6 +32,19 @@ image:
 last_modified_at: "2017-05-17 07:51:09 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_memorial-park"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154307781297084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/2XHaxbJgBWf"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650198232"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/864811777292476416"
+    text: Twitter
+    title: Twitter
 tags:
   - Innominate
 title: "10 Simple Ways to Motivate Yourself Each Day"
