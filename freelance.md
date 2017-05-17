@@ -330,7 +330,7 @@ title: "Freelance"
         $68 CAD
         <ul>
           <li>
-            Ad-Free Posting
+            Ad-Free:&nbsp; Removal of embedded on-site advertisements.
             <ul>
               <li>
                 +$34 CAD
