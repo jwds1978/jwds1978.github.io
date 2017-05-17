@@ -26,6 +26,9 @@ title: Blogroll
     </a>
   </li>
   <li>
+    <a href="http://fontawesome.io" rel="external nofollow" target="_blank" title="Font Awesome by Dave Gandy">Font Awesome</a>
+  </li>
+  <li>
     <a href="https://search.google.com/structured-data/testing-tool" rel="external nofollow" target="_blank" title="Structured Data Testing Tool">
       Google :: Structured Data Testing Tool
     </a>
