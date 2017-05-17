@@ -89,6 +89,7 @@ title: "Blog (Categories)"
       {% capture postWords %}{{ post.content | number_of_words }}{% endcapture %}
       {% assign postAuthor = site.data.authors[postAuthors] %}
       {% assign postLocation = site.data.gps[post.location] %}
+      {% if post.tags contains "Sponsored" %}{% assign postSponsored = true %}{% else %}{% assign postSponsored = false %}{% endif %}
       <li>
         <article class="h-entry">
           <div style="display: none;">
@@ -100,6 +101,9 @@ title: "Blog (Categories)"
             </p>
           </div>
           <span style="font-size: larger;">
+            {% if postSponsored %}
+            <i aria-hidden="true" class="fa fa-money" style="float: right; margin-left: 10px;" title="Sponsored"></i>
+            {% endif %}
             <a class="u-url" href="{{ site.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a>
           </span>
           <h6>

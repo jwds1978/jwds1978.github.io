@@ -9,7 +9,7 @@ layout: default
 {% capture pageWords %}{{ content | number_of_words }}{% endcapture %}
 {% assign pageAuthor = site.data.authors[pageAuthors] %}
 {% assign pageLocation = site.data.gps[page.location] %}
-{% if page.tags contains "Sponsored" %}{% assign pageSponsored = true %}{% endif %}
+{% if page.tags contains "Sponsored" %}{% assign pageSponsored = true %}{% else %}{% assign pageSponsored = false %}{% endif %}
 
 <img
   alt="" height="73" src="{{ site.uri.assets }}/naked/images/suck-my-words_482x073.png"
