@@ -78,8 +78,11 @@ layout: default
     </p>
     <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
   </div>
-  <h1 class="p-name">
-    {{ page.title | escape }}
+  <h1>
+    {% if pageSponsored %}
+    <i aria-hidden="true" class="fa fa-money" style="float: right; margin-left: 10px;" title="Sponsored"></i>
+    {% endif %}
+    <span class="p-name">{{ page.title | escape }}</span>
   </h1>
   <h6>
     <span style="float: right;">
