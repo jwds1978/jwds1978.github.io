@@ -29,12 +29,13 @@ title: Contact
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="phone">
+  <i aria-hidden="true" class="fa fa-phone"></i>&nbsp;
   Call and/or Text James, Maybe&nbsp;
   <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
 </h3>
 <ul>
   <li>
-    Mobile
+    <i aria-hidden="true" class="fa fa-mobile"></i>&nbsp; Mobile
     <ul>
       <li>
         <span data-last="3664" id="3664">+1 (646) 340-<span>3664</span></span>
