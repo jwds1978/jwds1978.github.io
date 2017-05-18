@@ -114,10 +114,6 @@ title: Donate
           </li>
           <li>
             1 &times;&nbsp;
-            <a href="{{ site.uri.aStore }}/#detail/B00TZR3WRM" rel="me" title="">Logitech MX Master Wireless Mouse (910-004337)</a>
-          </li>
-          <li>
-            1 &times;&nbsp;
             <a href="{{ site.uri.aStore }}/#detail/B010UBPLO8" rel="me" title="">
               Medicine Reminder &#8212; The Original Pocket Doctor Timer By Itzbeen &#8212; Keeps Track of All your Medications at Once
             </a>
