@@ -20,6 +20,19 @@ image:
 last_modified_at: "2017-05-18 16:44:55 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154311660157084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/eosNbQCHboq"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650217344"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/865309418027659264"
+    text: Twitter
+    title: Twitter
 tags:
   - Self
 title: "Drug-Induced Nosebleeds"
@@ -41,6 +54,7 @@ title: "Drug-Induced Nosebleeds"
   medications.&nbsp; In a study of 281 patients with nosebleeds (i.e. epistaxis) who sought treatment at a Nova Scotia emergency room, from 2005&#8211;2006,
   researchers found that 41% had taken one or more anticoagulant drugs.
 </p>
+<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>
