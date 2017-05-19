@@ -16,7 +16,6 @@ citations:
     href: "https://www.google.com/adsense"
     name: "Google AdSense"
     slug: "google-adsense"
-comments: true
 date: "2017-05-06 15:25:16 America/Toronto"
 disqusIdentifier: 5675335338966924958583554552633656956826338955886553984598446267963533253343867989359965942948665845
 image:

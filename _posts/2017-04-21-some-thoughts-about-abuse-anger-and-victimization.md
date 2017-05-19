@@ -67,7 +67,6 @@ citations:
     href: "https://www.mentalhelp.net/articles/why-do-people-abuse"
     name: "Why Do People Abuse?"
     slug: "why-do-people-abuse"
-comments: true
 date: "2017-04-21 15:00:55 America/Toronto"
 disqusIdentifier: 6982294684973294493656984327352853583943389466559446585974356728644938935454768423285688679678472587
 image:

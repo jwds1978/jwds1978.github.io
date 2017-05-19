@@ -15,7 +15,6 @@ citations:
     href: "https://forces.army/blog/2017/04/27/what-we-know-about-veteran-homelessness-in-canada-and-whats-being-done-to-address-the-issue"
     name: "What We Know About Veteran Homelessness in Canada and What's Being Done to Address the Issue"
     slug: "what-we-know-about-veteran-homelessness-in-canada-and-whats-being-done-to-address-the-issue"
-comments: true
 date: "2017-04-29 02:19:31 America/Toronto"
 disqusIdentifier: 2459579268623254793968792227995375938534369286263767992253475473234439626769296844887857847834846756
 image:

@@ -53,7 +53,6 @@ citations:
     href: ""
     name: ""
     slug: ""
-comments: true
 date: "0000-00-00 00:00:00 America/Toronto"
 disqusIdentifier: 
 image:

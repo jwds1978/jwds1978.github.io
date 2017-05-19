@@ -8,7 +8,6 @@ citations:
     href: "http://canwetalk.ca/hats-on-for-mental-health-day-2017"
     name: "Hats On For Mental Health Day 2017"
     slug: "hats-on-for-mental-health-day-2017"
-comments: true
 date: "2017-04-27 15:30:41 America/Toronto"
 disqusIdentifier: 3345649265722947395393966988484479493822886735573247389644642833757393395227486929287778457999293227
 image:

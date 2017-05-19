@@ -3,7 +3,6 @@ categories:
   - Medical
   - Science
   - Wine
-comments: true
 date: "2017-05-12 10:31:32 America/Toronto"
 disqusIdentifier: EVYMV9H7JXHPZ86UMCZ6UMMY56MMVWB99GDD9KYYJJYYQQNRQ96E7GAYYBTW82KRF7AHMQ8X5TA5ZWQF24P6JRCFXCTPNKCXWQGH
 image:

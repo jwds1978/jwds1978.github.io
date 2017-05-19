@@ -44,7 +44,6 @@ citations:
     href: "http://www.forces.gc.ca/en/business-defence-acquisition-guide-2015/land-systems-339.page"
     name: "Small Arms Modernization"
     slug: "small-arms-modernization"
-comments: true
 date: "2017-04-24 16:13:48 America/Toronto"
 disqusIdentifier: 6224455924486863556693238245465458656376835388436693333526945487894476836756697874535496439877647587
 image:

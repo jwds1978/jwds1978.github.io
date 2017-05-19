@@ -39,6 +39,7 @@ defaults:
   - scope:
       path: ""
     values:
+      comments: false
       image:
         height: 301
         path: "https://assets.forces.army/naked/images/hotlink-ok/keep-calm_301x301.png"
@@ -47,6 +48,7 @@ defaults:
       path: ""
       type: "posts"
     values:
+      comments: true
       image:
         height: 73
         path: "https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png"

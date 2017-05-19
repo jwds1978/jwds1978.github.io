@@ -22,7 +22,6 @@ citations:
     href: "http://uxmovement.com/navigation/why-external-links-should-open-in-new-tabs"
     name: "Why External Links Should Open in New Tabs"
     slug: "why-external-links-should-open-in-new-tabs"
-comments: true
 date: "2017-05-07 15:36:20 America/Toronto"
 disqusIdentifier: 6673646868278263589699979476499262578844327843563357647968937286453778586573734798478799376788696466
 image:

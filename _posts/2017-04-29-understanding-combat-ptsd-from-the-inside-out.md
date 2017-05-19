@@ -11,7 +11,6 @@ citations:
     href: "https://forces.army/blog/2017/04/27/the-moral-logic-of-survivor-guilt"
     name: "The Moral Logic of Survivor Guilt"
     slug: "the-moral-logic-of-survivor-guilt"
-comments: true
 date: "2017-04-29 23:55:08 America/Toronto"
 disqusIdentifier: 7466354785249637627564546236569283493565368524835323626473943369973484656984387963336249983965376348
 image:

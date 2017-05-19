@@ -28,7 +28,6 @@ citations:
     href: "http://www.michaelspratt.com/law-blog/franck-gervais"
     name: "The Strange Case of Franck Gervais: Impersonating a Soldier"
     slug: "the-strange-case-of-franck-gervais-impersonating-a-soldier"
-comments: true
 date: "2017-04-07 16:51:01 America/Toronto"
 disqusIdentifier: 7873942659598662747997386682877337884759885273379779892937459796694765954964925334533896442956328575
 image:

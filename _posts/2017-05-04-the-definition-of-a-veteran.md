@@ -10,7 +10,6 @@ citations:
     href: "http://www.veterans.gc.ca/eng/about-us/definition-veteran"
     name: "Definition of a Veteran"
     slug: "definition-of-a-veteran"
-comments: true
 date: "2017-05-04 11:22:44 America/Toronto"
 disqusIdentifier: 7349975856463822435467995366273379866727825289742438982353495858878563579425246955826699722569943275
 image:

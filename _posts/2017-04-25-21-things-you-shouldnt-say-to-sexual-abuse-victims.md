@@ -37,7 +37,6 @@ citations:
     href: "http://store.forces.army/#detail/1600063071"
     name: "The Wounded Heart: Hope for Adult Victims of Childhood Sexual Abuse"
     slug: "the-wounded-heart-hope-for-adult-victims-of-childhood-sexual-abuse"
-comments: true
 date: "2017-04-25 12:35:07 America/Toronto"
 disqusIdentifier: 6253437672877485265485983467859925286239339823553234435888762324522755396944437259253752544232458286
 image:

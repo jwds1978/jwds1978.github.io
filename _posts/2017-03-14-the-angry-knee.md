@@ -9,7 +9,6 @@ citations:
     href: "https://forces.army/blog/2017/03/11/rigors-of-war"
     name: "Rigors of War"
     slug: "rigors-of-war"
-comments: true
 date: "2017-03-14 14:14:58 America/Toronto"
 disqusIdentifier: 6559434698748886855526524354424422336722442747483887545378825432275522682639895754432559863693743454
 last_modified_at: "2017-03-14 14:14:58 America/Toronto"

@@ -51,7 +51,6 @@ citations:
     href: "https://go.forces.army/Template-Monster_Business"
     name: "Themes for Business and Corporate Websites"
     slug: "themes-for-business-and-corporate-websites"
-comments: true
 date: "2017-04-28 20:11:18 America/Toronto"
 disqusIdentifier: 6737997789272896954467346383754888554699386296599452255994359648236549478988396334677936647654989554
 image:

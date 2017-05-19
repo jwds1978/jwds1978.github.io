@@ -17,7 +17,6 @@ citations:
     href: "https://www.thestar.com/news/world/2017/04/10/video-shows-security-dragging-united-airlines-passenger-off-overbooked-flight.html"
     name: "Video shows security dragging United Airlines passenger off 'overbooked' flight"
     slug: "video-shows-security-dragging-united-airlines-passenger-off-overbooked-flight"
-comments: true
 date: "2017-04-11 10:42:17 America/Toronto"
 disqusIdentifier: 5534243764682534582957292789478243482654227936789357299654948378889942695739965557243792765597288637
 image:

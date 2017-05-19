@@ -19,7 +19,6 @@ citations:
     href: "http://www.northwoodmedical.ca"
     name: "Northwood Medical Clinics"
     slug: "northwood-medical-clinics"
-comments: true
 date: "2017-05-15 12:05:41 America/Toronto"
 disqusIdentifier: 5C2V5U8T4KN93P3DH26472XNCRU45ZV7XPMM9JVPNFJVDTUZN8QH698Z7R8DUFGQSBSDMXGK9BBXTTHKZVEY9NVKHTZTEB63AHEY
 image:

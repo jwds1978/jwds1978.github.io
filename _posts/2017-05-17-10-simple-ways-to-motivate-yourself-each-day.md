@@ -22,7 +22,6 @@ citations:
     href: "http://christopherdessi.com/what-no-one-tells-you-about-being-an-entrepreneur"
     name: "What No One Tells You About Being An Entrepreneur"
     slug: "what-no-one-tells-you-about-being-an-entrepreneur"
-comments: true
 date: "2017-05-17 07:51:09 America/Toronto"
 disqusIdentifier: 4FRND3A7PQYKV6C65U77CE8B889SCCN3U2UMQ38UMY738X8WNT8Q9TH7AQQ8HCZV8RV6VSYMQ82V8PJ6X5NTEUNK8QZTFT44PUZ4
 image:

@@ -21,7 +21,6 @@ citations:
     href: "http://www.themission.ca"
     name: "The Elgin Street Mission"
     slug: "the-elgin-street-mission"
-comments: true
 date: "2017-05-15 20:35:23 America/Toronto"
 disqusIdentifier: HNHUV5KUXU36NEEBV2T3U3THMV5KG5M7R5Y3GJDNY23AYS4YYXPM5XAZM6HN55N7C5EPH57MRYG7HT28EN99ZSG58PGPVD7EBPUE
 image:

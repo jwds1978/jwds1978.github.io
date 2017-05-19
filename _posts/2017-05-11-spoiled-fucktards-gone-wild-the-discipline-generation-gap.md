@@ -90,7 +90,6 @@ citations:
     href: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2702783"
     name: "Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent"
     slug: "why-the-unskilled-are-unaware-further-explorations-of-absent-self-insight-among-the-incompetent"
-comments: true
 date: "2017-05-11 14:26:33 America/Toronto"
 disqusIdentifier: JDD5V8VXDMB3TZDJ4G7YMW95WRSJ5WGN9YPSWDVK5Z3G3HD7VCQ2599D7YCC4M5FP7DU6YRR3QRKSTKNH5BMQNUF3YFMMSYY4EXN
 image:

@@ -10,7 +10,6 @@ citations:
     href: "http://forces.army/store/#detail/B00PJIDO9C"
     name: "Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer"
     slug: "stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer"
-comments: true
 date: "2017-04-03 16:20:39 America/Toronto"
 disqusIdentifier: 2936339844586769657873643638277786568289438794868593258492679739784993773734938364279524974369968423
 image:

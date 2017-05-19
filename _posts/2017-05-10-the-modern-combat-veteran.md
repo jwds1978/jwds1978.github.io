@@ -28,7 +28,6 @@ citations:
     href: "https://www.ncbi.nlm.nih.gov/pubmed/17389351"
     name: "The place of culture in forensic psychiatry."
     slug: "the-place-of-culture-in-forensic-psychiatry"
-comments: true
 date: "2017-05-10 14:12:58 America/Toronto"
 disqusIdentifier: J8D3Q72W9NY4ACWUKAV8UZBZSNSXV7DC9FEZ9PZB99RQQ9THJUCCPCEFYD4S5EZNQZTZDFKGEJCW33SE92TDTXY9TJ5V8WDJQAXH
 image:

@@ -10,7 +10,6 @@ citations:
     href: "https://forces.army/in-case-of-emergency"
     name: "In Case of Emergency"
     slug: "in-case-of-emergency"
-comments: true
 date: "2017-05-04 20:02:04 America/Toronto"
 disqusIdentifier: 5794542745359369353938765386235678598633598525942768823797337324972496654743567575525629692588547896
 image:

@@ -35,7 +35,6 @@ citations:
     href: "https://www.militarywritersguild.org"
     name: "The Military Writers Guild"
     slug: "the-military-writers-guild"
-comments: true
 date: "2017-04-22 15:40:02 America/Toronto"
 disqusIdentifier: 8629783349648685328654937223557542549893326567834644969673946426376536986328368839962869277629836772
 image:

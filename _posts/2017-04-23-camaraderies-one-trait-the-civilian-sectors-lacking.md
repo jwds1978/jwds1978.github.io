@@ -9,7 +9,6 @@ citations:
     href: "https://en.wikipedia.org/wiki/Dysphemism"
     name: "Dysphemism"
     slug: "dysphemism"
-comments: true
 date: "2017-04-23 15:43:35 America/Toronto"
 disqusIdentifier: 7659487836973834339227269667432568874488629432468335857729887927243789427875443895874647299896248563
 image:

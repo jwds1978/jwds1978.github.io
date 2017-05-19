@@ -10,7 +10,6 @@ citations:
     href: "http://store.forces.army/#detail/0816063303"
     name: "The Encyclopedia of Drug Abuse"
     slug: "the-encyclopedia-of-drug-abuse"
-comments: true
 date: "2017-05-18 16:44:55 America/Toronto"
 disqusIdentifier: 9FYJE38PH7UU5WVRS2HB4BUEK2N4H7SP52H322P55F4M7AGT3NWG5CCGGAEKV76GVPEDHU9WJV6T77X8QE2ND658E5CJ9VHN9VQQ
 image:

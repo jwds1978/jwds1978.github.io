@@ -17,7 +17,6 @@ citations:
     href: "https://www.psychologytoday.com/blog/urban-survival/201602/new-study-shows-brief-meditation-can-reduce-anger"
     name: "New Study Shows Brief Meditation Can Reduce Anger"
     slug: "new-study-shows-brief-meditation-can-reduce-anger"
-comments: true
 date: "2017-04-26 16:43:57 America/Toronto"
 disqusIdentifier: 4332369258454897885248422833479999677477328559392569937459349292437632522748872634952229882568774929
 image:

@@ -24,7 +24,6 @@ citations:
     href: "http://globalnews.ca/news/3417497/harjit-sajjan-stolen-valour"
     name: "Tories accuse Harjit Sajjan of 'stolen valour'"
     slug: "tories-accuse-harjit-sajjan-of-stolen-valour"
-comments: true
 date: "2017-05-01 20:32:36 America/Toronto"
 disqusIdentifier: 9922629249697858226245582689958544599628757955644298366863328827327337559649837947578694825476484986
 image:

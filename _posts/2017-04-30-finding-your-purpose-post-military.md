@@ -23,7 +23,6 @@ citations:
     href: "https://forces.army/blog/2017/02/10/the-infantrymans-arrogance"
     name: "The Infantryman's Arrogance"
     slug: "the-infantrymans-arrogance"
-comments: true
 date: "2017-04-30 15:39:52 America/Toronto"
 disqusIdentifier: 6387997359583562467378266757567948278552354632466629743663489267622993294229455384672449557834639997
 image:

@@ -15,7 +15,6 @@ citations:
     href: "https://forces.army/the-suck"
     name: "Embrace 'The Suck' :: James W.D. Stewart"
     slug: "embrace-the-suck-james-w-d-stewart"
-comments: true
 date: "2017-04-26 11:28:59 America/Toronto"
 disqusIdentifier: 4938437636796825629259596755884466766627954736376873273758658245289485844336537377672536843889265253
 image:

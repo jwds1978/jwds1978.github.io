@@ -16,7 +16,6 @@ citations:
     href: "https://medicalert.ca/speak4me"
     name: "MedicAlert Referral Program"
     slug: "medicalert-referral-program"
-comments: true
 date: "2017-05-09 15:45:47 America/Toronto"
 disqusIdentifier: AMP82WXFY366KPWKG6EDXHQ8FU5REWFW4BVRRKDSE4WBM8ET6AZ2AWM8MQGMJN2N6JE8M8Q2FPMRFFF4GGX54JR3RHWNSD4A2PKP
 image:

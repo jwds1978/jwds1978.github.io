@@ -99,7 +99,6 @@ citations:
     href: "https://twitter.com/DylanACOP/status/857807824696610816"
     name: "UPDATE: they are having us sign papers for full refunds. They are just pieces of computer paper but I mean...refunds"
     slug: "update-they-are-having-us-sign-papers-for-full-refunds-they-are-just-pieces-of-computer-paper-but-i-mean-refunds"
-comments: true
 date: "2017-04-28 23:09:18 America/Toronto"
 disqusIdentifier: 2274659299389497678728896656397923642823339226249942767296427582928794697963873387286432224234748869
 image:

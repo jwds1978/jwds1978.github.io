@@ -81,7 +81,6 @@ citations:
     href: "https://woundedwarriors.ca"
     name: "Wounded Warriors Canada"
     slug: "wounded-warriors-canada"
-comments: true
 date: "2017-04-27 10:14:39 America/Toronto"
 disqusIdentifier: 8589433636843229878293768353576828465899478588735959924847662965537743444777548343359539882743642892
 image:

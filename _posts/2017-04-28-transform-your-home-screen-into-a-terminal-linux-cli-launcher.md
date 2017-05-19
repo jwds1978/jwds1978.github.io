@@ -21,7 +21,6 @@ citations:
     href: "https://plus.google.com/communities/103936578623101446195"
     name: "T-UI, Linux Shell Launcher Community"
     slug: "t-ui-linux-shell-launcher-community"
-comments: true
 date: "2017-04-28 12:38:51 America/Toronto"
 disqusIdentifier: 8242233543466494763646474229732275926559753363546975223765428662855889253395774337598436985398666634
 image:

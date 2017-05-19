@@ -28,7 +28,6 @@ citations:
     href: "https://downloads.joomla.org"
     name: "Joomla! Downloads"
     slug: "joomla-downloads"
-comments: true
 date: "2017-04-20 16:24:04 America/Toronto"
 disqusIdentifier: 5544536367496397999962892464223598378395695859534529456323795879764368463635542427634342265788926765
 image:
