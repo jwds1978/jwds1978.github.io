@@ -15,6 +15,19 @@ image:
 last_modified_at: "2017-05-19 15:13:34 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154314009922084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/fGig4huC9FF"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650229630"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/865649694591995906"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
   - Writing
