@@ -335,8 +335,8 @@ title: "Open Invitation for Guest Bloggers"
       cited.
     </li>
     <li>
-      <span style="font-weight: bolder;">Call to Action:</span>&nbsp; Don't forget this!&bsp; At the end of your postng, invite readers to comment, like, and/or
-      share it.
+      <span style="font-weight: bolder;">Call to Action:</span>&nbsp; Don't forget this!&nbsp; At the end of your postng, invite readers to comment, like,
+      and/or share it.
     </li>
     <li>
       <span style="font-weight: bolder;">Copyright:</span>&nbsp; You must be the original author, or an agent of its author with their full authority to assign
