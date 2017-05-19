@@ -71,9 +71,7 @@ layout: default
           </p>
         </div>
         <span style="font-size: larger;">
-          {% if postSponsored %}
-          <i aria-hidden="true" class="fa fa-money" style="float: right; margin-left: 10px;" title="Sponsored"></i>
-          {% endif %}
+          {% if postSponsored %}<i aria-hidden="true" class="fa fa-money" style="float: right; margin-left: 10px;" title="Sponsored"></i>{% endif %}
           <a class="u-url" href="{{ site.url }}{{ post.url }}" rel="me">{{ post.title | escape }}</a>
         </span>
         <h6>
@@ -89,9 +87,9 @@ layout: default
         <blockquote cite="{{ site.url }}{{ post.url }}" class="p-summary">
           {{ post.excerpt }}
         </blockquote>
-        <div style="font-size: xx-small; text-align: right;">
+        <div style="font-size: smaller; text-align: right;">
           &nbsp;<br />
-          <a href="{{ site.url }}{{ post.url }}" rel="me" title="">&hellip; Read More &hellip;</a><br />
+          <a href="{{ site.url }}{{ post.url }}" rel="me" title="">&hellip;&nbsp; Read More&nbsp; &hellip;</a><br />
           &nbsp;
         </div>
       </article>

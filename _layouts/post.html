@@ -24,46 +24,28 @@ layout: default
 </p>
 {% endif %}
 <p style="font-size: smaller; text-align: center;">
-  <i aria-hidden="true" class="fa fa-share"></i> Share to:&nbsp;
+  <span style="white-space: nowrap;"><i aria-hidden="true" class="fa fa-share"></i> Share to:</span>&nbsp;
   <a
     href="mailto:?body={{ pageURI | url_param_escape }}&subject={{ page.title | url_param_escape }}" rel="external" style="white-space: nowrap;" target="_blank"
-    title="">
-    <i aria-hidden="true" class="fa fa-envelope"></i> E-mail
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    title=""><i aria-hidden="true" class="fa fa-envelope"></i> E-mail</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://www.facebook.com/sharer.php?t={{ page.title | url_param_escape }}&u={{ pageURI | url_param_escape }}" rel="external"
-    style="white-space: nowrap;" target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a href="https://plus.google.com/share?url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;" target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-google-plus-official"></i> Google+
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook</a>&nbsp;
+  &bull;&nbsp; <a
+    href="https://plus.google.com/share?url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;" target="_blank" title=""><i
+      aria-hidden="true" class="fa fa-google-plus-official"></i> Google+</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://linkedin.com/shareArticle?mini=true&title={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external"
-    style="white-space: nowrap;" target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-linkedin"></i> LinkedIn
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-linkedin"></i> LinkedIn</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://pinterest.com/pin/create/button/?description={{ page.title | url_param_escape }}&media={{ page.image.path | url_param_escape }}&url={{ pageURI | url_param_escape }}"
-    rel="external" style="white-space: nowrap;" target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-pinterest"></i> Pinterest
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-pinterest"></i> Pinterest</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://reddit.com/submit?title={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;"
-    target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    target="_blank" title=""><i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://twitter.com/share?text={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;"
-    target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-twitter"></i> Twitter
-  </a>
+    target="_blank" title=""><i aria-hidden="true" class="fa fa-twitter"></i> Twitter</a>
 </p>
 <p style="font-size: smaller;">
   &nbsp;
@@ -79,10 +61,10 @@ layout: default
     <a class="u-url" href="{{ site.url }}{{ page.url }}" rel="me">{{ site.url }}{{ page.url }}</a>
   </div>
   <h1>
-    {% if pageSponsored %}
-    <i aria-hidden="true" class="fa fa-money" style="float: right; margin-left: 10px;" title="Sponsored"></i>
-    {% endif %}
-    <span class="p-name">{{ page.title | escape }}</span>
+    {% if pageSponsored %}<i aria-hidden="true" class="fa fa-money" style="float: right; margin-left: 10px;" title="Sponsored"></i>{% endif %}
+    <span class="p-name">
+      {{ page.title | escape }}
+    </span>
   </h1>
   <h6>
     <span style="float: right;">
@@ -154,46 +136,28 @@ layout: default
   &nbsp;
 </p>
 <p style="font-size: smaller; text-align: center;">
-  <i aria-hidden="true" class="fa fa-share"></i> Share to:&nbsp;
+  <span style="white-space: nowrap;"><i aria-hidden="true" class="fa fa-share"></i> Share to:</span>&nbsp;
   <a
     href="mailto:?body={{ pageURI | url_param_escape }}&subject={{ page.title | url_param_escape }}" rel="external" style="white-space: nowrap;" target="_blank"
-    title="">
-    <i aria-hidden="true" class="fa fa-envelope"></i> E-mail
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    title=""><i aria-hidden="true" class="fa fa-envelope"></i> E-mail</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://www.facebook.com/sharer.php?t={{ page.title | url_param_escape }}&u={{ pageURI | url_param_escape }}" rel="external"
-    style="white-space: nowrap;" target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a href="https://plus.google.com/share?url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;" target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-google-plus-official"></i> Google+
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook</a>&nbsp;
+  &bull;&nbsp; <a
+    href="https://plus.google.com/share?url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;" target="_blank" title=""><i
+      aria-hidden="true" class="fa fa-google-plus-official"></i> Google+</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://linkedin.com/shareArticle?mini=true&title={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external"
-    style="white-space: nowrap;" target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-linkedin"></i> LinkedIn
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-linkedin"></i> LinkedIn</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://pinterest.com/pin/create/button/?description={{ page.title | url_param_escape }}&media={{ page.image.path | url_param_escape }}&url={{ pageURI | url_param_escape }}"
-    rel="external" style="white-space: nowrap;" target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-pinterest"></i> Pinterest
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-pinterest"></i> Pinterest</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://reddit.com/submit?title={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;"
-    target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit
-  </a>
-  &nbsp;&bull;&nbsp;
-  <a
+    target="_blank" title=""><i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit</a>&nbsp;
+  &bull;&nbsp; <a
     href="https://twitter.com/share?text={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external" style="white-space: nowrap;"
-    target="_blank" title="">
-    <i aria-hidden="true" class="fa fa-twitter"></i> Twitter
-  </a>
+    target="_blank" title=""><i aria-hidden="true" class="fa fa-twitter"></i> Twitter</a>
 </p>
 {% if page.adsDisplay != false %}
 <p style="font-size: smaller;">

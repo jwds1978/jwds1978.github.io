@@ -24,8 +24,8 @@ title: "Freelance"
   &nbsp;
 </p>
 <p>
-  Below are just a few of the <a href="{{ site.url }}{{ page.url }}#services" rel="me" title="">services</a> that James provides on a freelance basis.&nbsp;
-  <a href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with the specifics of your particular project(s) and/or needs for a personalized
+  Below are just a few of the <a href="{{ site.url }}{{ page.url }}#services" rel="me" title="">services</a> that James provides on a freelance basis.&nbsp; <a
+    href="{{ site.url }}/contact" rel="me" title="">Contact him</a> with the specifics of your particular project(s) and/or needs for a personalized
   estimate/quotation.
 </p>
 <p>
@@ -445,8 +445,7 @@ title: "Freelance"
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="work-time-things">
-  Work-Time Things&nbsp;
-  <sup>No Rollovers</sup>
+  Work-Time Things&nbsp; <sup>No Rollovers</sup>
 </h3>
 <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
   <li>
@@ -472,11 +471,9 @@ title: "Freelance"
   &nbsp;
 </p>
 <div style="float: right; margin-bottom: 10px; margin-left: 10px;">
-  <a href="{{ site.url }}/blog/2017/04/06/work-for-free-fuck-that" rel="me" title="Work for Free; Fuck That">
-    <img
-      alt="" height="480" src="{{ site.uri.assets }}/naked/images/exposure-bucks_482x480.png" style="border: 0px; float: right; margin-left: 10px;"
-      width="482" />
-  </a>
+  <a href="{{ site.url }}/blog/2017/04/06/work-for-free-fuck-that" rel="me" title="Work for Free; Fuck That"><img
+    alt="" height="480" src="{{ site.uri.assets }}/naked/images/exposure-bucks_482x480.png" style="border: 0px; float: right; margin-left: 10px;"
+    width="482" /></a>
   <span style="font-size: x-small;">
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>

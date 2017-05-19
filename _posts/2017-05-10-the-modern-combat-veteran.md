@@ -77,8 +77,8 @@ title: "The Modern Combat Veteran"
   The incident that solidifies the mental wound of PTSD, results in a mind-numbing and/or psychic shift.&nbsp; In response to the trauma of combat, the person
   needs to make a mental detachment to do &quot;what needs to be done&quot;.&nbsp; The survival mode of operation forgoes the higher levels of functioning and
   depends upon the primitive reactionary portion of the brain.&nbsp; When this unconscious detachment's been activated too frequently and/or for extended
-  periods of time, it becomes part of conscious processing and interferes with everyday interactions.&nbsp;
-  <a href="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind" rel="me" title="The Dissociative Mind">According to Howell</a>, dissociation refers to:
+  periods of time, it becomes part of conscious processing and interferes with everyday interactions.&nbsp; <a
+    href="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind" rel="me" title="The Dissociative Mind">According to Howell</a>, dissociation refers to:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind">
     the separation of mental and experiential contents that would normally be connected.&nbsp; The word dissociation is laden with multiple meanings and refers
     to many kinds of phenomena, processes, and conditions.&nbsp; Dissociation is both adaptive and maladaptive, both verb and noun, both cause and

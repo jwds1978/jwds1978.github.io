@@ -72,11 +72,8 @@ title: "Take the Suck Out of Mental Health"
       Hold a fundraising event with donations going to a local mental health organization.
     </li>
     <li>
-      Host a
-      <a href="{{ site.url }}{{ page.url }}#cite-hats-on-for-mental-health-day-2017" rel="me" title="Hats On For Mental Health Day 2017">
-        Hats On for Mental Health
-      </a>
-      day.&nbsp; It's a fun initiative.
+      Host a <a href="{{ site.url }}{{ page.url }}#cite-hats-on-for-mental-health-day-2017" rel="me" title="Hats On For Mental Health Day 2017">Hats On for
+      Mental Health</a> day.&nbsp; It's a fun initiative.
     </li>
     <li>
       Host a lunch-and-learn information session.

@@ -53,29 +53,21 @@ title: "All Sorts of Fucked-Up"
   &nbsp;
 </p>
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-10-51_2397x3196.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="643" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-10-51_0482x0643.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a><br />
+  <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-10-51_2397x3196.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="643" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-10-51_0482x0643.png"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-11-10_2271x3027.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="642" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-11-10_0482x0642.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a><br />
+  <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-11-10_2271x3027.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="642" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-11-10_0482x0642.png"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-11-34_2084x2777.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="642" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-11-34_0482x0642.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a><br />
+  <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-11-34_2084x2777.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="642" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_11-11-34_0482x0642.png"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_13-05-23_2045x2727.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="643" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_13-05-23_0482x0643.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_13-05-23_2045x2727.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="643" src="{{ site.uri.assets }}/blog/2017/05/04/all-sorts-of-fucked-up/2017-05-04_13-05-23_0482x0643.png"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   &nbsp;
@@ -118,8 +110,8 @@ title: "All Sorts of Fucked-Up"
         style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="262" />
       I tried to get a bed at the Salvation Army, for a few days anyhow, while trying to sort-out this clusterfuck that I've found myself in.<br />
       &nbsp;<br />
-      During the intake process, I'm asked about prescription medication.&nbsp; As per
-      <a href="{{ site.url }}{{ page.url }}#cite-in-case-of-emergency" rel="me" title="In Case of Emergency">my ICE Web page</a>, I'm on several medications and
+      During the intake process, I'm asked about prescription medication.&nbsp; As per <a
+        href="{{ site.url }}{{ page.url }}#cite-in-case-of-emergency" rel="me" title="In Case of Emergency">my ICE Web page</a>, I'm on several medications and
       take them several times throughout each day.<br />
       &nbsp;<br />
       The intake worker, or who-the-fuck-ever she was, told me that I'd need to hand them over to her as they take all medications.&nbsp; At that point, I told

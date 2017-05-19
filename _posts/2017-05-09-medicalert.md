@@ -54,8 +54,8 @@ title: "MedicAlert"
 </p>
 <p>
   When you're helpless and/or hurt, your MedicAlert ID and membership, give paramedics the information that they need in order to save your life.&nbsp; Don't
-  die of denial&hellip;&nbsp; A medical emergency could happen to you too.&nbsp; Get the same protection and peace of mind that I have by
-  <a href="{{ site.url }}{{ page.url }}#cite-medicalert-referral-program" rel="me" title="MedicAlert Referral Program">signing-up for MedicAlert</a>!&nbsp; For
+  die of denial&hellip;&nbsp; A medical emergency could happen to you too.&nbsp; Get the same protection and peace of mind that I have by <a
+    href="{{ site.url }}{{ page.url }}#cite-medicalert-referral-program" rel="me" title="MedicAlert Referral Program">signing-up for MedicAlert</a>!&nbsp; For
   a discount and/or special offer when signing-up, be sure to use my referral code &#8212; &quot;JS17-1979&quot;.
 </p>
 <p>
@@ -66,11 +66,9 @@ title: "MedicAlert"
   &nbsp;
 </p>
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/05/09/medicalert/MedicAlert_2017-05-09_13-49_684x753.png" rel="me" target="_blank" title="">
-    <img
-      alt="" height="531" src="{{ site.uri.assets }}/blog/2017/05/09/medicalert/MedicAlert_2017-05-09_13-49_482x531.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/05/09/medicalert/MedicAlert_2017-05-09_13-49_684x753.png" rel="me" target="_blank" title=""><img
+    alt="" height="531" src="{{ site.uri.assets }}/blog/2017/05/09/medicalert/MedicAlert_2017-05-09_13-49_482x531.png"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   &nbsp;

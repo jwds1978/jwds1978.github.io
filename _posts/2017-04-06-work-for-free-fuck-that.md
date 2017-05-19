@@ -68,10 +68,9 @@ title: "Work for Free; Fuck That"
 <p>
   Working for free&hellip;&nbsp; We've all done it.&nbsp; Most freelancers will have regretted it at some stage.&nbsp; Yet, the allure of the E-word &#8212;
   'exposure', has seduced many a talented artist, musician, or designer into giving away their services for zero financial compensation; as illustrated
-  beautifully (and swearily) in
-  <a href="{{ site.url }}{{ page.url }}#cite-youre-doing-it-for-the-exposure" rel="me" title="You're doing it for the EXPOSURE">
-    this classic viral cartoon by The Oatmeal
-  </a>.
+  beautifully (and swearily) in <a
+    href="{{ site.url }}{{ page.url }}#cite-youre-doing-it-for-the-exposure" rel="me" title="You're doing it for the EXPOSURE">this classic viral cartoon by The
+  Oatmeal</a>.
 </p>
 <p>
   If you're making art for art's sake, a little exposure can go a long way.&nbsp; But, if you're trying to make a living and valuing your own service, you're
@@ -98,13 +97,10 @@ title: "Work for Free; Fuck That"
   you the one opportunity to build your career and develop your reputation through the allocated store in Camden.&quot;
 </p>
 <p>
-  Freelancers' frustrations at being patronised were easy to find following a Twitter backlash, but this sarcastic response, reportedly via
-  <a
+  Freelancers' frustrations at being patronised were easy to find following a Twitter backlash, but this sarcastic response, reportedly via <a
     href="{{ site.url }}{{ page.url }}#cite-this-artist-had-the-best-response-when-sainsburys-advertised-an-unpaid-job" rel="me"
-    title="This Artist Had The Best Response When Sainsbury's Advertised An Unpaid Job">
-    Graeme Snow-Matter
-  </a>
-  (probably, not his real name) &#8212; won national headlines, turning the tables on the advertiser.
+    title="This Artist Had The Best Response When Sainsbury's Advertised An Unpaid Job">Graeme Snow-Matter</a> (probably, not his real name) &#8212; won
+  national headlines, turning the tables on the advertiser.
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-this-artist-had-the-best-response-when-sainsburys-advertised-an-unpaid-job">
     Artists are looking for a well-stocked supermarket to voluntarily restock our kitchens.&nbsp; Gain particular experience in the food industry whilst
     satisfying our need to feed ourselves and live comfortably.&nbsp; Why not put your skills into action?
@@ -132,17 +128,13 @@ title: "Work for Free; Fuck That"
 <p>
   <a
     href="{{ site.url }}{{ page.url }}#cite-meet-the-hero-designer-who-publicly-shamed-showtime-for-asking-him-to-work-for-free" rel="me"
-    title="Meet the Hero Designer Who Publicly Shamed Showtime for Asking Him to Work for Free">
-    Cassaro explained to Adweek
-  </a>,
-  and true to his word, he told Showtime where they could stick their wonderful offer.
+    title="Meet the Hero Designer Who Publicly Shamed Showtime for Asking Him to Work for Free">Cassaro explained to Adweek</a>, and true to his word, he told
+  Showtime where they could stick their wonderful offer.
 </p>
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/04/06/work-for-free-fuck-that/dan-cassaro_reaction_953x664.png" rel="me" target="_blank" title="">
-    <img
-      alt="" height="336" src="{{ site.uri.assets }}/blog/2017/04/06/work-for-free-fuck-that/dan-cassaro_reaction_482x336.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/04/06/work-for-free-fuck-that/dan-cassaro_reaction_953x664.png" rel="me" target="_blank" title=""><img
+    alt="" height="336" src="{{ site.uri.assets }}/blog/2017/04/06/work-for-free-fuck-that/dan-cassaro_reaction_482x336.png"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   &nbsp;
@@ -151,21 +143,15 @@ title: "Work for Free; Fuck That"
   &quot;If the Deal Goes Ahead, There Will Be Money In It for You&quot;
 </h3>
 <p>
-  You may remember David Thorne as the Internet maestro who brought us the hilarious exchange in which he tried to pay-off an outstanding bill using
-  <a
+  You may remember David Thorne as the Internet maestro who brought us the hilarious exchange in which he tried to pay-off an outstanding bill using <a
     href="{{ site.url }}{{ page.url }}#cite-next-time-ill-spend-the-money-on-drugs-instead" rel="me"
-    title="Next time, I'll spend the money on drugs instead.">
-    a drawing of a spider
-  </a>.&nbsp;
-  But one of his slightly lesser known documented disagreements was over a late payment that had dragged out longer than desired.
+    title="Next time, I'll spend the money on drugs instead.">a drawing of a spider</a>.&nbsp; But one of his slightly lesser known documented disagreements was
+  over a late payment that had dragged out longer than desired.
 </p>
 <p>
   <a
     href="{{ site.url }}{{ page.url }}#cite-its-like-twitter-except-we-charge-people-to-use-it" rel="me"
-    title="It's like Twitter. Except we charge people to use it.">
-    An e-mail to Thorne
-  </a>
-  read:
+    title="It's like Twitter. Except we charge people to use it.">An e-mail to Thorne</a> read:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-its-like-twitter-except-we-charge-people-to-use-it">
     I am working on a really exciting project at the moment and need a logo designed.&nbsp; Basically something representing peer to peer networking.&nbsp; I
     have to have something to show prospective clients this week so would you be able to pull something together in the next few days?&nbsp; I will also need a

@@ -47,12 +47,9 @@ title: "Homeless in Sudbury"
   alt="" height="253" src="{{ site.uri.assets }}/blog/2017/04/29/homeless-in-sudbury/innominate_1_297x253.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="297" />
 <p>
-  A couple of days ago, I'd posted an article about
-  <a
+  A couple of days ago, I'd posted an article about <a
     href="{{ site.url }}{{ page.url }}#cite-what-we-know-about-veteran-homelessness-in-canada-and-whats-being-done-to-address-the-issue" rel="me"
-    title="What We Know About Veteran Homelessness in Canada and What's Being Done to Address the Issue">
-    veteran homelessness in Canada
-  </a>.
+    title="What We Know About Veteran Homelessness in Canada and What's Being Done to Address the Issue">veteran homelessness in Canada</a>.
 </p>
 <p>
   &nbsp;

@@ -24,9 +24,9 @@ title: About
   James doesn't sugar-coat shit&hellip;&nbsp; He's not Willy fucking Wonka!
 </p>
 <p>
-  James has been professionally developing software since circa 2000.&nbsp; You may recognize him from cPanel and/or
-  <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.&nbsp; Although he's versed in
-  <a href="{{ site.url }}/resume#languages" rel="me" title="">several programming languages</a>, he has focused primarily on PHP.
+  James has been professionally developing software since circa 2000.&nbsp; You may recognize him from cPanel and/or <a
+    href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.&nbsp; Although he's versed in <a
+    href="{{ site.url }}/resume#languages" rel="me" title="">several programming languages</a>, he has focused primarily on PHP.
 </p>
 <p>
   &nbsp;

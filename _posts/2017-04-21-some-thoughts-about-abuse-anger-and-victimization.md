@@ -535,10 +535,9 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
         <li>
           A type of abuse that involves verbal, physical, emotional, and/or sexual abuse toward an individual and/or a group of individuals based solely on some
           characteristic they may share in common with others such as their religious and/or sexual affiliations and/or the colour of their skin.&nbsp; In
-          Canada,
-          <a href="{{ site.url }}{{ page.url }}#cite-criminal-code-rsc-1985-c-c-46" rel="me" title="Criminal Code (R.S.C., 1985, c. C-46)">The Criminal Code</a>
-          includes guidance that says sentences shall take into account evidence &quot;that the offence was motivated by bias, prejudice or hate based on race,
-          national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation, or any other similar
+          Canada, <a href="{{ site.url }}{{ page.url }}#cite-criminal-code-rsc-1985-c-c-46" rel="me" title="Criminal Code (R.S.C., 1985, c. C-46)">The Criminal
+          Code</a> includes guidance that says sentences shall take into account evidence &quot;that the offence was motivated by bias, prejudice or hate based
+          on race, national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation, or any other similar
           factor&quot;.
         </li>
         <li>

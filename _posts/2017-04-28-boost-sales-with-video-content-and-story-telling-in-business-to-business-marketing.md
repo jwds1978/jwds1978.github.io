@@ -101,11 +101,10 @@ title: "Boost Sales with Video Content and Story-Telling in Business-to-Business
   businesses.
 </p>
 <p>
-  So, is video content or story-telling that useful for your
-  <a href="{{ site.url }}{{ page.url }}#cite-themes-for-business-and-corporate-websites" rel="me" title="Themes for Business and Corporate Websites">
-    business
-  </a>?&nbsp;
-  Let's try to find an answer to this question while considering several cases for using story-telling within B2B marketing.
+  So, is video content or story-telling that useful for your <a
+    href="{{ site.url }}{{ page.url }}#cite-themes-for-business-and-corporate-websites" rel="me"
+    title="Themes for Business and Corporate Websites">business</a>?&nbsp; Let's try to find an answer to this question while considering several cases for
+  using story-telling within B2B marketing.
 </p>
 <p>
   &nbsp;
@@ -114,20 +113,13 @@ title: "Boost Sales with Video Content and Story-Telling in Business-to-Business
   Learn from the Trend-Setters
 </h3>
 <p>
-  To check how stories work in online marketing, customer service software company
-  <a href="{{ site.url }}{{ page.url }}#cite-groove" rel="me" title="Groove">Groove</a> once ran a
-  <a
-    href="{{ site.url }}{{ page.url }}#cite-the-power-of-storytelling-how-we-got-300-more-people-to-read-our-content" rel="me"
-    title="The Power of Storytelling: How We Got 300% More People To Read Our Content">
-    case study
-  </a>
-  on how the same text delivered to their clients, through a narrative and a story, influenced the way that people reacted to it.&nbsp; What they did first, was
-  a publication of an article
-  &quot;<a
+  To check how stories work in online marketing, customer service software company <a
+    href="{{ site.url }}{{ page.url }}#cite-groove" rel="me" title="Groove">Groove</a> once ran a <a
+      href="{{ site.url }}{{ page.url }}#cite-the-power-of-storytelling-how-we-got-300-more-people-to-read-our-content" rel="me"
+      title="The Power of Storytelling: How We Got 300% More People To Read Our Content">case study</a> on how the same text delivered to their clients, through
+  a narrative and a story, influenced the way that people reacted to it.&nbsp; What they did first, was a publication of an article &quot;<a
     href="{{ site.url }}{{ page.url }}#cite-how-we-got-1000-subscribers-from-a-single-blog-post-in-24-hours" rel="me"
-    title="How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours">
-    How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours
-  </a>&quot;.
+    title="How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours">How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours</a>&quot;.
 </p>
 <p>
   Next, they e-mailed two versions of this text to their subscribers.&nbsp; In the first version, the text was wrapped-up into a story, where users were taken
@@ -185,10 +177,8 @@ title: "Boost Sales with Video Content and Story-Telling in Business-to-Business
 </h4>
 <p>
   Replaced press releases with news stories on their Features pages.&nbsp; With the help of stories, the company tells the history of their establishment, the
-  way they operate right now, as well as their plans for future.&nbsp; For example, within the Space Features block, there's a story under the title of
-  &quot;<a href="{{ site.url }}{{ page.url }}#cite-the-flight-before-the-launch" rel="me" title="The Flight Before the Launch">
-    The Flight Before the Launch
-  </a>&quot;.
+  way they operate right now, as well as their plans for future.&nbsp; For example, within the Space Features block, there's a story under the title of &quot;<a
+    href="{{ site.url }}{{ page.url }}#cite-the-flight-before-the-launch" rel="me" title="The Flight Before the Launch">The Flight Before the Launch</a>&quot;.
 </p>
 <p>
   The written story, about the preparation before the launch of WGS-9 and its shipment from the Los Angeles to Florida, is accompanied by a brief explanatory
@@ -214,8 +204,8 @@ title: "Boost Sales with Video Content and Story-Telling in Business-to-Business
 <p>
   Taking into account, the extraordinary popularity of YouTube videos amongst millions of users, both world-known brands and mom-and-pop companies have started
   investing into YouTube advertisements &#8212; as well as launching their own YouTube channels, featuring tutorials, bringing value to their customers,
-  reviews, entertaining stuff, and/or merely highlights of memorable company events.&nbsp;
-  <a href="{{ site.url }}{{ page.url }}#cite-template-monster" rel="me" title="Template Monster">TemplateMonster</a> also doesn't lag behind the trends and
+  reviews, entertaining stuff, and/or merely highlights of memorable company events.&nbsp; <a
+    href="{{ site.url }}{{ page.url }}#cite-template-monster" rel="me" title="Template Monster">TemplateMonster</a> also doesn't lag behind the trends and
   updates their YouTube channel with valuable pieces of video content, every now-and-again.
 </p>
 <p>

@@ -234,8 +234,8 @@ title: "Terms and Conditions"
   Section 10 &#8212; Personal Information
 </h3>
 <p>
-  Your submission of personal information through the store is governed by our
-  <a href="{{ site.url }}/privacy-policy" rel="me" title="Privacy Policy">Privacy Policy</a>.
+  Your submission of personal information through the store is governed by our <a href="{{ site.url }}/privacy-policy" rel="me" title="Privacy Policy">Privacy
+  Policy</a>.
 </p>
 <p>
   &nbsp;
@@ -421,6 +421,6 @@ title: "Terms and Conditions"
   Section 20 &#8212; Contact Information
 </h3>
 <p>
-  Questions about the Terms of Service should be sent to us at
-  <a href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army</a>.
+  Questions about the Terms of Service should be sent to us at <a
+    href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army</a>.
 </p>

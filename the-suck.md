@@ -8,7 +8,7 @@ title: "Embrace 'The Suck'"
 ---
 
 <p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
-    Remember&hellip;&nbsp; Never give up &#8212; and, embrace &quot;the suck&quot;.
+  Remember&hellip;&nbsp; Never give up &#8212; and, embrace &quot;the suck&quot;.
 </p>
 <p>
   &nbsp;

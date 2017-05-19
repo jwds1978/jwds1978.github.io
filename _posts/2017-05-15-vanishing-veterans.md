@@ -98,14 +98,11 @@ title: "Vanishing Veterans"
   </blockquote>
 </p>
 <p>
-  One of the solutions that is proving very successful is
-  <a
+  One of the solutions that is proving very successful is <a
     href="{{ site.url }}{{ page.url }}#cite-cockrell-house-provides-a-home-for-veterans-in-transition" rel="me"
-    title="Cockrell House provides a home for veterans in transition">
-    Cockrell House
-  </a>
-  in Colwood, British Columbia.&nbsp; Much more than just housing, it's a full program that expects residents to move out and into more permanent accommodations
-  within two years &#8212; helping them develop the life skills which they need to do that.
+    title="Cockrell House provides a home for veterans in transition">Cockrell House</a> in Colwood, British Columbia.&nbsp; Much more than just housing, it's a
+  full program that expects residents to move out and into more permanent accommodations within two years &#8212; helping them develop the life skills which
+  they need to do that.
 </p>
 <p>
   &quot;It's a hand up, not a hand out&quot;, says Dave Sinclair, President of British Columbia/Yukon Command, which helped to fund Cockrell House.
@@ -117,7 +114,7 @@ title: "Vanishing Veterans"
   Myself, I've recently found myself homeless for yet another time in my life.&nbsp; I, absolutely, houldn't be in the position that I am at the moment.&nbsp;
   I've been sleeping outside, in the streets, using cardboard as shelter &#8212; in sub-zero and cold/wet weather, at times &#8212; for some weeks now.&nbsp;
   I'm waiting for my social assistance (i.e. Ontario Disability Support Program, Ontario Works, etc.) to get unfucked &#8212; I'venot received a single fucking
-  cent for the month of May.&nbsp; As such, I can't pay rent, and am relying upon places such as
-  <a href="{{ site.url }}{{ page.url }}#cite-the-elgin-street-mission" rel="me" title="The Elgin Street Mission">The Mission</a> in order to eat.&nbsp; Some
+  cent for the month of May.&nbsp; As such, I can't pay rent, and am relying upon places such as <a
+    href="{{ site.url }}{{ page.url }}#cite-the-elgin-street-mission" rel="me" title="The Elgin Street Mission">The Mission</a> in order to eat.&nbsp; Some
   days, I'm able to get 2 meals from them.&nbsp; However, most days, I eat only once per day &#8212; during their supper meal time in the evening.
 </p>

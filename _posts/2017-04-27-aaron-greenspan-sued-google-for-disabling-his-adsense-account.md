@@ -36,13 +36,11 @@ title: "Aaron Greenspan Sued Google for Disabling His AdSense Account"
   alt="" height="362" src="{{ site.uri.assets }}/blog/2017/04/27/aaron-greenspan-sued-google-for-disabling-his-adsense-account/innominate_1_482x362.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
-  Tonight, we're going to hear
-  <a href="{{ site.url }}{{ page.url }}#cite-why-i-sued-google-and-won-updated" rel="me" title="Why I Sued Google (and Won) [Updated]">
-    a story about a guy named Aaron Greenspan
-  </a>,
-  who sued AdSense for disabling his account &#8212; and, he won the case.&nbsp; The Google AdSense team has been disabling many accounts to protect other
-  publishers and advertisers interests.&nbsp; However, at times, they aren't necessarily correct&hellip;&nbsp; Many people have lost their hard-earned AdSense
-  revenue due to having their account(s) disabled.
+  Tonight, we're going to hear <a
+    href="{{ site.url }}{{ page.url }}#cite-why-i-sued-google-and-won-updated" rel="me" title="Why I Sued Google (and Won) [Updated]">a story about a guy named
+  Aaron Greenspan</a>, who sued AdSense for disabling his account &#8212; and, he won the case.&nbsp; The Google AdSense team has been disabling many accounts
+  to protect other publishers and advertisers interests.&nbsp; However, at times, they aren't necessarily correct&hellip;&nbsp; Many people have lost their
+  hard-earned AdSense revenue due to having their account(s) disabled.
 </p>
 <p>
   Undoubtedly, Google AdSense rules the contextual ad space.&nbsp; Regardless, Google will keep serving your ad space with advertisements &#8212; provided, of

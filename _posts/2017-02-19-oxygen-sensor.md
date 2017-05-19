@@ -28,11 +28,9 @@ title: "Oxygen Sensor"
 </p>
 <!-- excerptBreak -->
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/02/19/oxygen-sensor/2017-02-19_11-59-29_03-02.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="240" src="{{ site.uri.assets }}/blog/2017/02/19/oxygen-sensor/2017-02-19_11-59-29_360x240.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="360" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/02/19/oxygen-sensor/2017-02-19_11-59-29_03-02.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="240" src="{{ site.uri.assets }}/blog/2017/02/19/oxygen-sensor/2017-02-19_11-59-29_360x240.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="360" /></a>
 </p>
 <p>
   Lately, I've been noticing that my car is burning through upward of &frac14; tank per day.&nbsp; Significantly, more than usual.&nbsp; Somebody who was

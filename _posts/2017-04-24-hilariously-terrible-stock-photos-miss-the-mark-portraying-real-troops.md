@@ -43,12 +43,10 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     &nbsp;<br />
     <a
       href="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_2_675x675.png" rel="me"
-      target="_blank" title="">
-      <img
+      target="_blank" title=""><img
         alt="" height="482"
         src="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_2_482x482.png"
-        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-    </a><br />
+        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
     &nbsp;<br />
     Let's start with an easy one here&hellip;&nbsp; It's two men in uniform, who are supposed to be drone operators.&nbsp; The facial hair of the man on the
     right would never be allowed in the Forces.&nbsp; Next, there's the complete lack of any name, rank, and/or service insignias.&nbsp; Collars up is a mistake
@@ -60,12 +58,10 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     &nbsp;<br />
     <a
       href="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_1_675x675.png" rel="me"
-      target="_blank" title="">
-      <img
+      target="_blank" title=""><img
         alt="" height="482"
         src="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_1_482x482.png"
-        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-    </a><br />
+        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
     &nbsp;<br />
     In this stock photo, a group of recruits are being yelled at by their instructor.&nbsp; For some unknown reason, the recruits and the instructor are in
     differing uniforms.&nbsp; There's also the bad hair cuts that would mean trouble for the life of any recruit.&nbsp; And, again, we see various types of
@@ -77,12 +73,10 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     &nbsp;<br />
     <a
       href="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_3_912x472.png" rel="me"
-      target="_blank" title="">
-      <img
+      target="_blank" title=""><img
         alt="" height="249"
         src="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_3_482x249.png"
-        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-    </a><br />
+        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
     &nbsp;<br />
     This 360&deg; stock image of a soldier is just bad &#8212; all of the way around.&nbsp; Let's start from the bottom; working upward.&nbsp; The boots that
     he's wearing &#8212; without his pants tucked-in &#8212; are nowhere close to military issue.&nbsp; Then, there's his actual fatigues.&nbsp; All of that
@@ -96,12 +90,10 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     &nbsp;<br />
     <a
       href="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_4_675x675.png" rel="me"
-      target="_blank" title="">
-      <img
+      target="_blank" title=""><img
         alt="" height="482"
         src="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_4_482x482.png"
-        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-    </a><br />
+        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
     &nbsp;<br />
     This &quot;American soldier&quot;, certainly, shows a lot of enthusiasm for his service.&nbsp; However, it's easy to see without looking too hard &#8212;
     don't look too hard &#8212; that it's all a bit over the top.&nbsp; We see bags on top of bags on top of bags&hellip;&nbsp; My personal favourite, is the
@@ -114,12 +106,10 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     &nbsp;<br />
     <a
       href="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_5_675x675.png" rel="me"
-      target="_blank" title="">
-      <img
+      target="_blank" title=""><img
         alt="" height="482"
         src="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_5_482x482.png"
-        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-    </a><br />
+        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
     &nbsp;<br />
     This stock image of three soldiers, might look pretty hardcore at a glimpse, but this one's really just ridiculous.&nbsp; From the bad face painting &#8212;
     mismatched with the guy on the right &#8212; to the haphazardly rolled sleeves, on what may or may not be actual military fatigues, these guys are more than
@@ -133,12 +123,10 @@ title: "Hilariously Terrible Stock Photos Miss the Mark Portraying Real Troops"
     &nbsp;<br />
     <a
       href="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_6_675x675.png" rel="me"
-      target="_blank" title="">
-      <img
+      target="_blank" title=""><img
         alt="" height="482"
         src="{{ site.uri.assets }}/blog/2017/04/24/hilariously-terrible-stock-photos-miss-the-mark-portraying-real-troops/innominate_6_482x482.png"
-        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-    </a><br />
+        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
     &nbsp;<br />
     This one had to come in first place, because it's just too awful for words.&nbsp; This is supposed to show a female soldier who's also a mother.&nbsp; But,
     how could the photographer think that this was even a remotely good idea?&nbsp; When did the Forces switch to tank tops and leggings instead of

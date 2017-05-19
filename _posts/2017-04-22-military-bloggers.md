@@ -63,10 +63,10 @@ title: "Military Bloggers"
   alt="" height="185" src="{{ site.uri.assets }}/blog/2017/04/22/military-bloggers/Military-Writers-Guild_257x185.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="257" />
 <p>
-  Offhand, I don't know when blogging really became well-known throughout the Internet, but I do know that I started to blog once I created my
-  <a href="{{ site.url }}" rel="me" title="">Web site</a> though.&nbsp; A friend of mine told me about adding a blog to my Web site &#8212; gaining the
-  attention of many bloggers.&nbsp; It was a great idea as now I have the opportunity to first-hand speak to many veterans through my blog, without having to
-  leave my home.
+  Offhand, I don't know when blogging really became well-known throughout the Internet, but I do know that I started to blog once I created my <a
+    href="{{ site.url }}" rel="me" title="">Web site</a> though.&nbsp; A friend of mine told me about adding a blog to my Web site &#8212; gaining the attention
+  of many bloggers.&nbsp; It was a great idea as now I have the opportunity to first-hand speak to many veterans through my blog, without having to leave my
+  home.
 </p>
 <p>
   Once I started <a href="{{ site.uri.blog }}" rel="me" title="">my own blog</a>, and began reading up on what it takes to blog, I soon realized that there are
@@ -161,8 +161,8 @@ title: "Military Bloggers"
   literary, genre, professional, academic, journalistic &#8212; is an opportunity to bridge the civil-military divide.
 </p>
 <p>
-  Recently, a group of movers, shooters, and communicators established an on-line confederation called
-  <a href="{{ site.url }}{{ page.url }}#cite-the-military-writers-guild" rel="me" title="The Military Writers Guild">The Military Writers Guild</a>.&nbsp; I'm
+  Recently, a group of movers, shooters, and communicators established an on-line confederation called <a
+    href="{{ site.url }}{{ page.url }}#cite-the-military-writers-guild" rel="me" title="The Military Writers Guild">The Military Writers Guild</a>.&nbsp; I'm
   pleased to find that it seems to be a mix of young turks and salty dogs.&nbsp; There are digital immigrants and digital natives.&nbsp; There are soldiers and
   sailors and fellow travelers &#8212; and all of them, naturally, are story-tellers.
 </p>

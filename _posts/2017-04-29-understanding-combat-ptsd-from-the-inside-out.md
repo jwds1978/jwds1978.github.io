@@ -145,8 +145,8 @@ title: "Understanding Combat PTSD, from the Inside, Out"
     depression goes hand-in-hand with high rates of suicide amongst our nation's returning heroes.&nbsp; It's estimated that 22 commit suicide each day.
   </li>
   <li>
-    <span style="font-weight: bolder;">Guilt:</span>&nbsp; The guilt associated with post-traumatic stress disorder is often called
-    <a href="{{ site.url }}{{ page.url }}#cite-the-moral-logic-of-survivor-guilt" rel="me" title="The Moral Logic of Survivor Guilt">survivor's guilt</a>.&nbsp;
+    <span style="font-weight: bolder;">Guilt:</span>&nbsp; The guilt associated with post-traumatic stress disorder is often called <a
+      href="{{ site.url }}{{ page.url }}#cite-the-moral-logic-of-survivor-guilt" rel="me" title="The Moral Logic of Survivor Guilt">survivor's guilt</a>.&nbsp;
     The veteran feels a great deal of guilt because he survived an attack when a comrade didn't.&nbsp; He feels guilty, that a friend lost their legs in an
     explosion, while he remained relatively untouched.&nbsp; He feels guilty that he's at home, in safe surroundings, while others that he fought alongside are
     still in harm's way.

@@ -151,13 +151,9 @@ title: "10 Simple Ways to Motivate Yourself Each Day"
       <ul style="list-style-type: none;">
         <li>
           Recently, I began waking up two hours earlier than usual during the week.&nbsp; Instead of viewing it as two hours less that I get to sleep, I view it
-          as
-          <a
+          as <a
             href="{{ site.url }}{{ page.url }}#cite-one-simple-life-hack-to-help-you-create-good-habits" rel="me"
-            title="One Simple Life Hack to Help You Create Good Habits">
-            two extra hours to my day
-          </a>
-          &#8212; allowing me to add a full workday each week.
+            title="One Simple Life Hack to Help You Create Good Habits">two extra hours to my day</a> &#8212; allowing me to add a full workday each week.
         </li>
       </ul>
     </li>
@@ -170,11 +166,9 @@ title: "10 Simple Ways to Motivate Yourself Each Day"
           &nbsp;<br />
           <a
             href="{{ site.url }}{{ page.url }}#cite-what-no-one-tells-you-about-being-an-entrepreneur" rel="me"
-            title="What No One Tells You About Being An Entrepreneur">
-            Sharing defeats and admitting failure
-          </a>'s
-          a powerful cultivator of motivation, allowing you to move past the failure.&nbsp; Work through the emotion instead of taking it out on someone
-          else.&nbsp; Then, move on to something more constructive.<br />
+            title="What No One Tells You About Being An Entrepreneur">Sharing defeats and admitting failure</a>'s a powerful cultivator of motivation, allowing
+          you to move past the failure.&nbsp; Work through the emotion instead of taking it out on someone else.&nbsp; Then, move on to something more
+          constructive.<br />
           &nbsp;<br />
           Sharing these vulnerable moments also cultivates a deeper connection with peers.
         </li>

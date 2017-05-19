@@ -149,49 +149,43 @@ twitterWidget: true
 <p>
   <a
     href="{{ site.url }}{{ page.url }}#cite-stuck-at-fyrefestival-trying-to-leave-for-the-last-8-hours-barley-any-food-or-water-or-security-or-electricity"
-    rel="me" title="Stuck at #fyrefestival trying to leave for the last 8 hours. barley any food or water or security or electricity">
-    <img
+    rel="me" title="Stuck at #fyrefestival trying to leave for the last 8 hours. barley any food or water or security or electricity"><img
       alt="" height="643"
       src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/LamaanGallal_482x643.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a><br />
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
   &nbsp;<br />
   <a
     href="{{ site.url }}{{ page.url }}#cite-the-dinner-that-fyrefestival-promised-us-was-catered-by-teven-starr-is-literally-bread-cheese-and-salad-with-dressing-fyrefestival"
-    rel="me" title="The dinner that @fyrefestival promised us was catered by Steven Starr is literally bread, cheese, and salad with dressing. #fyrefestival">
-    <img
+    rel="me"
+    title="The dinner that @fyrefestival promised us was catered by Steven Starr is literally bread, cheese, and salad with dressing. #fyrefestival"><img
       alt="" height="482"
       src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/trev4president_482x482.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
   <blockquote cite="https://twitter.com/JananBuisier/status/857814840320118786" class="twitter-tweet" data-lang="en">
     <p dir="ltr" lang="en">
-      U.S. Citizens attempting to leave <a href="https://twitter.com/hashtag/Bahamas?src=hash">#Bahamas</a> after
-      <a href="https://twitter.com/hashtag/fyrefestival?src=hash" target="_blank">#fyrefestival</a>
-      <a href="https://twitter.com/hashtag/scam?src=hash" target="_blank">#scam</a>. People are scared. This festival put people in danger.
-      <a href="https://twitter.com/hashtag/fyrehoax?src=hash" target="_blank">#fyrehoax</a>
-      <a href="https://t.co/7mlble0Obt" target="_blank">pic.twitter.com/7mlble0Obt</a>
+      U.S. Citizens attempting to leave <a href="https://twitter.com/hashtag/Bahamas?src=hash">#Bahamas</a> after <a
+        href="https://twitter.com/hashtag/fyrefestival?src=hash" target="_blank">#fyrefestival</a> <a
+          href="https://twitter.com/hashtag/scam?src=hash" target="_blank">#scam</a>. People are scared. This festival put people in danger. <a
+            href="https://twitter.com/hashtag/fyrehoax?src=hash" target="_blank">#fyrehoax</a> <a
+              href="https://t.co/7mlble0Obt" target="_blank">pic.twitter.com/7mlble0Obt</a>
     </p>
     &mdash; Janan Buisier (@JananBuisier) <a href="https://twitter.com/JananBuisier/status/857814840320118786" target="_blank">April 28, 2017</a>
   </blockquote>
   &nbsp;<br />
   <a
     href="{{ site.url }}{{ page.url }}#cite-the-gourmet-cuisine-this-weekend-was-included-in-the-ticket-cost-we-are-being-fed-salads-and-ham-and-cheese-sandwiches-out-of-this-tent"
-    rel="me" title="The 'gourmet cuisine' this weekend was included in the ticket cost. We are being fed salads and ham and cheese sandwiches out of this tent">
-    <img
+    rel="me"
+    title="The 'gourmet cuisine' this weekend was included in the ticket cost. We are being fed salads and ham and cheese sandwiches out of this tent"><img
       alt="" height="362"
       src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/DylanACOP_482x362.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a><br />
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
   &nbsp;<br />
   <a
     href="{{ site.url }}{{ page.url }}#cite-this-is-how-fyre-fest-handles-luggage-just-drop-it-out-of-a-shipping-container-at-night-with-no-lights-fyrefestival"
-    rel="me" title="This is how Fyre Fest handles luggage. Just drop it out of a shipping container. At night. With no lights. #fyrefestival">
-    <img
+    rel="me" title="This is how Fyre Fest handles luggage. Just drop it out of a shipping container. At night. With no lights. #fyrefestival"><img
       alt="" height="271"
       src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/WNFIV_482x271.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   Reportedly, one woman who paid $10,000 USD for a VIP ticket, left her belongings in a half-erected tent &#8212; only, to have them stolen minutes later.&nbsp;
@@ -203,12 +197,10 @@ twitterWidget: true
   &nbsp;<br />
   <a
     href="{{ site.url }}{{ page.url }}#cite-bahamas-official-statement-on-fyre-festival-fyrefestival" rel="me"
-    title="Bahamas official statement on Fyre Festival #FyreFestival">
-    <img
+    title="Bahamas official statement on Fyre Festival #FyreFestival"><img
       alt="" height="695"
       src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/VisitTheBahamas_482x695.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   Fyre Festival, is the brain-child of tech entrepreneur Billy McFarland and Noughties rapper, Ja Rule&hellip;&nbsp; Designed as an exotic alternative to
@@ -235,8 +227,8 @@ twitterWidget: true
 <p>
   <blockquote cite="https://twitter.com/Neethz426/status/857818411014946817" class="twitter-tweet" data-lang="en">
     <p dir="ltr" lang="en">
-      Pic of Ja Rule right now <a href="https://twitter.com/hashtag/fyrefestival?src=hash" target="_blank">#fyrefestival</a>
-      <a href="https://t.co/29o0JsEgPo" target="_blank">pic.twitter.com/29o0JsEgPo</a>
+      Pic of Ja Rule right now <a href="https://twitter.com/hashtag/fyrefestival?src=hash" target="_blank">#fyrefestival</a> <a
+        href="https://t.co/29o0JsEgPo" target="_blank">pic.twitter.com/29o0JsEgPo</a>
     </p>
     &mdash; MK (@Neethz426) <a href="https://twitter.com/Neethz426/status/857818411014946817" target="_blank">April 28, 2017</a>
   </blockquote>
@@ -281,12 +273,10 @@ twitterWidget: true
   &nbsp;<br />
   <a
     href="{{ site.url }}{{ page.url }}#cite-update-they-are-having-us-sign-papers-for-full-refunds-they-are-just-pieces-of-computer-paper-but-i-mean-refunds"
-    rel="me" title="UPDATE: they are having us sign papers for full refunds. They are just pieces of computer paper but I mean...refunds">
-    <img
+    rel="me" title="UPDATE: they are having us sign papers for full refunds. They are just pieces of computer paper but I mean...refunds"><img
       alt="" height="643"
       src="{{ site.uri.assets }}/blog/2017/04/28/rich-kids-of-instagram-meets-hunger-games-guests-at-luxury-fyre-festival-where-tickets-cost-12000-usd-hungry-mugged-and-stranded/DylanACOP_482x643.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   The festival's Instagram account has claimed that they're working to &quot;accommodate guests and deliver a great experience&quot;.&nbsp; They've directed

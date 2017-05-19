@@ -132,10 +132,9 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   levels of violence &#8212; at home, at school, and in the street.
 </p>
 <p>
-  Dr. Sigman, a fellow of the
-  <a href="{{ site.url }}{{ page.url }}#cite-the-royal-society-of-medicine" rel="me" title="The Royal Society of Medicine">Royal Society of Medicine</a>, said
-  that nursery-age children are becoming increasingly violent and disrespectful towards their teachers &#8212; &quot;parent battering&quot; is on the rise
-  &#8212; and the number of policemen attacked by children is soaring.
+  Dr. Sigman, a fellow of the <a href="{{ site.url }}{{ page.url }}#cite-the-royal-society-of-medicine" rel="me" title="The Royal Society of Medicine">Royal
+  Society of Medicine</a>, said that nursery-age children are becoming increasingly violent and disrespectful towards their teachers &#8212; &quot;parent
+  battering&quot; is on the rise &#8212; and the number of policemen attacked by children is soaring.
 </p>
 <!-- excerptBreak -->
 <p>
@@ -332,24 +331,19 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   alt="" height="322" src="{{ site.uri.assets }}/blog/2017/05/11/spoiled-fucktards-gone-wild-the-discipline-generation-gap/innominate_3_482x322.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
-  Recently,
-  <a href="{{ site.url }}{{ page.url }}#cite-what-makes-great-teaching" rel="me" title="What makes great teaching?">a research centre in the United Kingdom</a>
-  found that lavishing praise upon students &#8212; particularly, low-attaining students &#8212; may be counter-productive.&nbsp; By providing a
+  Recently, <a href="{{ site.url }}{{ page.url }}#cite-what-makes-great-teaching" rel="me" title="What makes great teaching?">a research centre in the United
+  Kingdom</a> found that lavishing praise upon students &#8212; particularly, low-attaining students &#8212; may be counter-productive.&nbsp; By providing a
   no-consequence/no-failure environment, in which the top priority's to make everybody feel good about themselves, we're doing little more than setting young
   people up to fail.
 </p>
 <p>
-  It would appear that our modern education systems have delivered us not only a
-  <a
+  It would appear that our modern education systems have delivered us not only a <a
     href="{{ site.url }}{{ page.url }}#cite-australias-students-slide-in-international-rankings" rel="me"
-    title="Australia's students slide in international rankings">
-    back-slide of Australian student rankings
-  </a>,
-  but also the highest youth unemployment rate in decades.&nbsp; Research suggests that basic employability skills &#8212; where the worker can arrive on time,
-  take instruction, and get along with others &#8212;
-  <a href="{{ site.url }}{{ page.url }}#cite-australian-youth-unemployment-2014-snapshot" rel="me" title="Australian youth unemployment 2014: snapshot">
-    are wanting in this generation of young people
-  </a>.
+    title="Australia's students slide in international rankings">back-slide of Australian student rankings</a>, but also the highest youth unemployment rate in
+  decades.&nbsp; Research suggests that basic employability skills &#8212; where the worker can arrive on time, take instruction, and get along with others
+  &#8212; <a
+    href="{{ site.url }}{{ page.url }}#cite-australian-youth-unemployment-2014-snapshot" rel="me" title="Australian youth unemployment 2014: snapshot">are
+  wanting in this generation of young people</a>.
 </p>
 <p>
   An advertisement for an apprentice, recently posted on a job Web site, perfectly summarized the difficulty faced by employers trying to give a young person a
@@ -368,13 +362,10 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   between the individual's assessment of their strengths and weaknesses as compared to everyone else's.
 </p>
 <p>
-  This isn't anything new. Typically, coined &quot;poor insight&quot;, there's a raft of research including the aptly named
-  <a
+  This isn't anything new.&nbsp; Typically, coined &quot;poor insight&quot;, there's a raft of research including the aptly named <a
     href="{{ site.url }}{{ page.url }}#cite-why-the-unskilled-are-unaware-further-explorations-of-absent-self-insight-among-the-incompetent" rel="me"
-    title="Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent">
-    Why the Unskilled are Unaware
-  </a>
-  that demonstrates the cognitive mechanisms at fault here &#8212; or, more simply put, why stupid people don't know that they're stupid.
+    title="Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent">Why the Unskilled are Unaware</a> that
+  demonstrates the cognitive mechanisms at fault here &#8212; or, more simply put, why stupid people don't know that they're stupid.
 </p>
 <p>
   But, what happens when this person hits your training environment?&nbsp; What's the education system's role, responsibility, and/or duty of care &#8212; and,
@@ -390,31 +381,21 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   Can Education Fix This?
 </h3>
 <p>
-  Sadly, our modern education system's become complicit in the
-  <a
+  Sadly, our modern education system's become complicit in the <a
     href="{{ site.url }}{{ page.url }}#cite-careers-advice-system-failing-australian-schoolchildren-says-national-centre-for-vocational-education-and-research-study"
-    rel="me" title="Careers advice system failing Australian schoolchildren, says National Centre for Vocational Education and Research study">
-    business of manufacturing aspirations
-  </a>,
-  no matter how delusional.&nbsp; This is facilitated by the
-  <a href="{{ site.url }}{{ page.url }}#cite-school-failed-to-get-me-into-law" rel="me" title="School 'failed to get me into law'">
-    ever-present fear of litigation
-  </a>
-  if little Johnny and/or Sally becomes in any way upset by honest feedback
-  <a
+    rel="me" title="Careers advice system failing Australian schoolchildren, says National Centre for Vocational Education and Research study">business of
+    manufacturing aspirations</a>, no matter how delusional.&nbsp; This is facilitated by the <a
+      href="{{ site.url }}{{ page.url }}#cite-school-failed-to-get-me-into-law" rel="me" title="School 'failed to get me into law'">ever-present fear of
+  litigation</a> if little Johnny and/or Sally becomes in any way upset by honest feedback <a
     href="{{ site.url }}{{ page.url }}#cite-failed-student-christopher-miller-sues-for-southern-cross-uni-refund" rel="me"
-    title="Failed student Christopher Miller sues for Southern Cross Uni refund">
-    regarding their performance
-  </a>.
+    title="Failed student Christopher Miller sues for Southern Cross Uni refund">regarding their performance</a>.
 </p>
 <p>
   This has left teaching staff too terrified to have conversations with students as to whether they're suited to their chosen career path, or at genuine risk of
   <a
     href="{{ site.url }}{{ page.url }}#cite-a-fine-balance-disability-discrimination-and-public-safety" rel="me"
-    title="A fine balance: disability, discrimination and public safety">
-    being found guilty of discrimination
-  </a>,
-  if they apply consequences for poor progress and/or dysfunctional behaviours that wouldn't be tolerated in a workplace.
+    title="A fine balance: disability, discrimination and public safety">being found guilty of discrimination</a>, if they apply consequences for poor progress
+    and/or dysfunctional behaviours that wouldn't be tolerated in a workplace.
 </p>
 <p>
   Here are a couple of examples:
@@ -438,14 +419,11 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   poorly developed ethics, unadaptable to change, etc.).&nbsp; Would these be available in the work place?
 </p>
 <p>
-  While there's an interesting and nuanced debate to be had about if and how educators could teach
-  <a
+  While there's an interesting and nuanced debate to be had about if and how educators could teach <a
     href="{{ site.url }}{{ page.url }}#cite-the-discursive-construction-of-the-competent-learner-worker-from-key-competencies-to-employability-skills" rel="me"
-    title="The discursive construction of the 'competent' learner-worker: from key competencies to 'employability skills'">
-    personal attributes and employability skills
-  </a>,
-  the most basic understanding of how consequences shape human behaviour would suggest that rewarding such conduct by making excuses and allowing endless
-  chances will only groom future unemployables.
+    title="The discursive construction of the 'competent' learner-worker: from key competencies to 'employability skills'">personal attributes and employability
+    skills</a>, the most basic understanding of how consequences shape human behaviour would suggest that rewarding such conduct by making excuses and allowing
+  endless chances will only groom future unemployables.
 </p>
 <p>
   &nbsp;
@@ -463,11 +441,8 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   more suitable career course.
 </p>
 <p>
-  The solution, requires a shift in attitude from educational organisations, students &#8212; and,
-  <a
+  The solution, requires a shift in attitude from educational organisations, students &#8212; and, <a
     href="{{ site.url }}{{ page.url }}#cite-bulldozer-parents-creating-psychologically-fragile-children" rel="me"
-    title="Bulldozer parents: creating psychologically fragile children">
-    their parents
-  </a>
-  &#8212; with clear legal protections in-place for educators who, rather than setting students up to fail, actually want them to learn how to succeed.
+    title="Bulldozer parents: creating psychologically fragile children">their parents</a> &#8212; with clear legal protections in-place for educators who,
+  rather than setting students up to fail, actually want them to learn how to succeed.
 </p>

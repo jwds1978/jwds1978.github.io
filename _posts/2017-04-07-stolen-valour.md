@@ -71,14 +71,10 @@ title: "Stolen Valour"
 </p>
 <p>
   While this seems to be an issue more prevalent within the United States of America than here in Canada, we do have our share as well.&nbsp; The most recent of
-  which readily comes to my mind is
-  <a
+  which readily comes to my mind is <a
     href="{{ site.url }}{{ page.url }}#cite-the-strange-case-of-franck-gervais-impersonating-a-soldier" rel="me"
-    title="The Strange Case of Franck Gervais: Impersonating a Soldier">
-    Franck Gervais
-  </a>.&nbsp;
-  Franck had never been in the military, yet he wore a military uniform to the Ottawa Remembrance Day ceremonies.&nbsp; Hell, he even gave a public interview on
-  national television during the ceremonies.
+    title="The Strange Case of Franck Gervais: Impersonating a Soldier">Franck Gervais</a>.&nbsp; Franck had never been in the military, yet he wore a military
+  uniform to the Ottawa Remembrance Day ceremonies.&nbsp; Hell, he even gave a public interview on national television during the ceremonies.
 </p>
 <p>
   Personally, I don't much care if somebody makes false claims about military service&hellip;&nbsp; They're, usually, trying to pick-up a woman or some other
@@ -99,8 +95,8 @@ title: "Stolen Valour"
 <p>
   The guy who made the Navy SEAL claims, from what I gather from other local veterans, may have served with the merchant marines.&nbsp; However, quite clearly,
   is no SEAL.&nbsp; Another veteran had advised me that a contact within VAC told him that the guy has some service, but is full-of-shit about his SEAL claims
-  though.&nbsp; I'd sent a message, via Facebook Messenger, to
-  <a href="{{ site.url }}{{ page.url }}#cite-phony-navy-seals-verifications" rel="me" title="Phony Navy SEALs Verifications">Don Shipley</a> about this
+  though.&nbsp; I'd sent a message, via Facebook Messenger, to <a
+    href="{{ site.url }}{{ page.url }}#cite-phony-navy-seals-verifications" rel="me" title="Phony Navy SEALs Verifications">Don Shipley</a> about this
   guy.&nbsp; But, I've yet to receive a response from Don.&nbsp; I guess, he has no real interest in Canadians that are passing themselves off as SEALs.&nbsp; I
   told this guy straight-out, if he was a Navy SEAL, than I was a fucking submarine door-gunner&hellip; And, that my Navy buddy, who was standing beside me at
   the time, had a screen door from one of our deisel subs for sale.

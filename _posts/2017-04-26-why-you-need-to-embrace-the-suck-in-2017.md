@@ -44,19 +44,14 @@ title: "Why You Need to Embrace 'The Suck' in 2017"
 <p>
   The military has a way of boiling everything down to its most eloquent and basic foundation.&nbsp; They teach newcomers to embrace, what they refer to as,
   &quot;<a
-    href="{{ site.url }}{{ page.url }}#cite-embrace-the-suck-james-w-d-stewart" rel="me" title="Embrace 'The Suck' :: James W.D. Stewart">
-    the suck
-  </a>&quot;.
+    href="{{ site.url }}{{ page.url }}#cite-embrace-the-suck-james-w-d-stewart" rel="me" title="Embrace 'The Suck' :: James W.D. Stewart">the suck</a>&quot;.
 </p>
 <p>
-  It's that threshold where your body breaks down and
-  <a
+  It's that threshold where your body breaks down and <a
     href="{{ site.url }}{{ page.url }}#cite-7-things-destroying-your-mental-enegery-blog-james-w-d-stewart" rel="me"
-    title="7 Things Destroying Your Mental Energy :: Blog :: James W.D. Stewart">
-    your mind takes over
-  </a>.&nbsp;
-  If you're weak-minded and ready to quit, your body will follow suit.&nbsp; If you're expecting &quot;the suck&quot;, then you welcome it &#8212; even, embrace
-  it.&nbsp; You won't succumb to it &#8212; you push yourself through it.
+    title="7 Things Destroying Your Mental Energy :: Blog :: James W.D. Stewart">your mind takes over</a>.&nbsp; If you're weak-minded and ready to quit, your
+  body will follow suit.&nbsp; If you're expecting &quot;the suck&quot;, then you welcome it &#8212; even, embrace it.&nbsp; You won't succumb to it &#8212; you
+  push yourself through it.
 </p>
 <!-- excerptBreak -->
 <p>

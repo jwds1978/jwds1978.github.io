@@ -125,13 +125,10 @@ title: "21 Things You Shouldn't Say to Sexual Abuse Victims"
       <li>
         Perhaps&helip;&nbsp; Perhaps, not.&nbsp; Sociopaths and psychopaths don't process regret and/or shame like others do.&nbsp; They tend to blame society,
         their upbringing, and even the victim themselves for their violations.&nbsp; A sexual predator may be redeemable, but their pathway to health is long
-        and excruciating.&nbsp; There's
-        <a
+        and excruciating.&nbsp; There's <a
           href="{{ site.url }}{{ page.url }}#cite-caught-on-tape-5-self-serving-responses-by-sex-offenders-in-the-church" rel="me"
-          title="Caught on tape: 5 self-serving responses by sex offenders in the church">
-          one article
-        </a>,
-        that truly, helped me to understand how many predators process &quot;getting caught&quot;.
+          title="Caught on tape: 5 self-serving responses by sex offenders in the church">one article</a>, that truly, helped me to understand how many
+        predators process &quot;getting caught&quot;.
       </li>
     </ul>
   </li>
@@ -166,13 +163,10 @@ title: "21 Things You Shouldn't Say to Sexual Abuse Victims"
     But, was it full sexual abuse?&nbsp; He just leered?&nbsp; That's it?
     <ul style="list-style-type: none;">
       <li>
-        Dan Allender, in his book
-        <a
+        Dan Allender, in his book <a
           href="{{ site.url }}{{ page.url }}#cite-the-wounded-heart-hope-for-adult-victims-of-childhood-sexual-abuse" rel="me"
-          title="The Wounded Heart: Hope for Adult Victims of Childhood Sexual Abuse">
-          The Wounded Heart
-        </a>, shares that healing from sexual abuse is difficult &#8212; no matter, what form it takes.&nbsp; Don't minimize someone's journey just because it
-        doesn't fit-in with your idea of violaton.
+          title="The Wounded Heart: Hope for Adult Victims of Childhood Sexual Abuse">The Wounded Heart</a>, shares that healing from sexual abuse is difficult
+        &#8212; no matter, what form it takes.&nbsp; Don't minimize someone's journey just because it doesn't fit-in with your idea of violaton.
       </li>
     </ul>
   </li>
@@ -282,10 +276,8 @@ title: "21 Things You Shouldn't Say to Sexual Abuse Victims"
 <p>
   <a
     href="{{ site.url }}{{ page.url }}#cite-not-marked-finding-hope-and-healing-after-sexual-abuse" rel="me"
-    title="Not Marked: Finding Hope and Healing after Sexual Abuse">
-    Not Marked
-  </a>
-  proved too risky for publishers.&nbsp; So, it was crowdfunded &#8212; which, turned-out to be an amazing success.&nbsp; What's unique about the book, is that
-  it's written from the perspective of a survivor.&nbsp; It doesn't offer clich&eacute; answers&hellip;&nbsp; It's honest&hellip;&nbsp; And, the author's
-  husband shared his unique journey of how to walk a loved one through their sexual abuse.
+    title="Not Marked: Finding Hope and Healing after Sexual Abuse">Not Marked</a> proved too risky for publishers.&nbsp; So, it was crowdfunded &#8212; which,
+  turned-out to be an amazing success.&nbsp; What's unique about the book, is that it's written from the perspective of a survivor.&nbsp; It doesn't offer
+  clich&eacute; answers&hellip;&nbsp; It's honest&hellip;&nbsp; And, the author's husband shared his unique journey of how to walk a loved one through their
+  sexual abuse.
 </p>

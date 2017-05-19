@@ -77,8 +77,8 @@ title: "10 Effective Ways to Market Your Products: Take Your Business to Newer H
   Maintain a Blog
 </h3>
 <p>
-  While developing a content strategy, always give importance to blog posts.&nbsp; You can make use of a blog and/or
-  <a href="{{ site.uri.shortURL }}/Template-Monster_Business" rel="external" target="_blank" title="">your business Web site</a> to announce your product and/or
+  While developing a content strategy, always give importance to blog posts.&nbsp; You can make use of a blog and/or <a
+    href="{{ site.uri.shortURL }}/Template-Monster_Business" rel="external" target="_blank" title="">your business Web site</a> to announce your product and/or
   share valuable customer information.&nbsp; You can make your blogs more interactive, by telling consumers about the products, and also include a widget and/or
   button for the customers to directly buy your products.
 </p>

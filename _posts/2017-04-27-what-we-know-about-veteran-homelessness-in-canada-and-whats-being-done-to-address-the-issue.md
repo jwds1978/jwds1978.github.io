@@ -142,8 +142,8 @@ title: "What We Know About Veteran Homelessness in Canada and What's Being Done 
 <p>
   Another study, found that veterans comprised 4.3% of a sample of the adult homeless population with severe mental illness.&nbsp; But, beyond these
   demographical criteria, not much else has been researched.&nbsp; Until further quantitative data is published, no safe assumption can safely be made on the
-  approximately
-  <a href="{{ site.url }}{{ page.url }}#cite-general-statistics" rel="me" title="General Statistics">685,000 active and retired Canadian veterans</a>.
+  approximately <a href="{{ site.url }}{{ page.url }}#cite-general-statistics" rel="me" title="General Statistics">685,000 active and retired Canadian
+  veterans</a>.
 </p>
 <p>
   &nbsp;
@@ -152,11 +152,10 @@ title: "What We Know About Veteran Homelessness in Canada and What's Being Done 
   Factors at Play
 </h3>
 <p>
-  Veterans Affairs Canada highlights
-  <a href="{{ site.url }}{{ page.url }}#cite-transition-to-civilian-life" rel="me" title="Transition to Civilian Life">the importance of career transition</a>
-  upon returning from service.&nbsp; Veterans themselves, also identified additional challenges, beyond starting a new career.&nbsp; Transitioning to civilian
-  life was one of the main factors leading to homelessness &#8212; identified in Ray's 2011 study.&nbsp; One veteran described the transition &quot;like being
-  on Mars and coming back to Earth&quot; and another one shared a similar experience:
+  Veterans Affairs Canada highlights <a href="{{ site.url }}{{ page.url }}#cite-transition-to-civilian-life" rel="me" title="Transition to Civilian Life">the
+  importance of career transition</a> upon returning from service.&nbsp; Veterans themselves, also identified additional challenges, beyond starting a new
+  career.&nbsp; Transitioning to civilian life was one of the main factors leading to homelessness &#8212; identified in Ray's 2011 study.&nbsp; One veteran
+  described the transition &quot;like being on Mars and coming back to Earth&quot; and another one shared a similar experience:
   <blockquote>
     I was trying to set-up a business at the time, with no financial presence in the civilian world&hellip;&nbsp; Which, made it hard to get loans&hellip;&nbsp;
     I wound up, at that time, homeless&hellip;&nbsp; As a military person, living in barracks, I wasn't entirely prepared for what real finances in the real
@@ -206,16 +205,13 @@ title: "What We Know About Veteran Homelessness in Canada and What's Being Done 
   </ol>
 </p>
 <p>
-  In the United States, the
-  <a href="{{ site.url }}{{ page.url }}#cite-national-alliance-to-end-homelessness" rel="me" title="National Alliance to End Homelessness">
-    National Alliance to End Homelessness
-  </a>
-  identified additional factors, such as
-  <a href="{{ site.url }}{{ page.url }}#cite-fact-sheet-veteran-homelessness" rel="me" title="Fact Sheet: Veteran Homelessness">
-    traumatic brain injury, sexual trauma while serving in the military &#8212; especially, for female veterans &#8212; lack of transferable employment skills,
-    lack of strong social support networks, shortage of affordable housing options, and low living wage jobs
-  </a>.&nbsp;
-  These factors, combined with PTSD and/or another mental illness and/or addiction puts veterans at a greater risk of homelessness than the general population.
+  In the United States, the <a
+    href="{{ site.url }}{{ page.url }}#cite-national-alliance-to-end-homelessness" rel="me" title="National Alliance to End Homelessness">National Alliance to
+  End Homelessness</a> identified additional factors, such as <a
+    href="{{ site.url }}{{ page.url }}#cite-fact-sheet-veteran-homelessness" rel="me" title="Fact Sheet: Veteran Homelessness">traumatic brain injury, sexual
+  trauma while serving in the military &#8212; especially, for female veterans &#8212; lack of transferable employment skills, lack of strong social support
+  networks, shortage of affordable housing options, and low living wage jobs</a>.&nbsp; These factors, combined with PTSD and/or another mental illness and/or
+  addiction puts veterans at a greater risk of homelessness than the general population.
 </p>
 <p>
   &nbsp;
@@ -224,17 +220,15 @@ title: "What We Know About Veteran Homelessness in Canada and What's Being Done 
   What the Federal Governement's Doing
 </h3>
 <p>
-  The Government of Canada's Homelessness Partnering Strategy is providing over
-  <a href="{{ site.url }}{{ page.url }}#cite-budget-2013" rel="me" title="Budget 2013">$700,000,000 over 5 years (2014 &#8211; 2019)</a> to prevent and reduce
-  homelessness in Canada.&nbsp; One of HPS' directives for
-  <a href="{{ site.url }}{{ page.url }}#cite-funding-homelessness-projects" rel="me" title="Funding: Homelessness Projects">
-    this period is veteran homelessness
-  </a>, and
-  <a href="{{ site.url }}{{ page.url }}#cite-understanding-homelessness-and-the-trategy" rel="me" title="nderstanding Homelessness and the Strategy">
-    HPS and Veterans Affairs Canada are working together
-  </a>
-  to co-ordinate the regional and community-level services delivered by both departments.&nbsp; In addition, HPS is working with emergency shelters and crisis
-  service providers, to help identity homeless veterans and those at imminent risk in order to connect them with veteran-specific services.
+  The Government of Canada's Homelessness Partnering Strategy is providing over <a
+    href="{{ site.url }}{{ page.url }}#cite-budget-2013" rel="me" title="Budget 2013">$700,000,000 over 5 years (2014 &#8211; 2019)</a> to prevent and reduce
+  homelessness in Canada.&nbsp; One of HPS' directives for <a
+    href="{{ site.url }}{{ page.url }}#cite-funding-homelessness-projects" rel="me" title="Funding: Homelessness Projects">this period is veteran
+  homelessness</a>, and <a
+    href="{{ site.url }}{{ page.url }}#cite-understanding-homelessness-and-the-trategy" rel="me" title="nderstanding Homelessness and the Strategy">HPS and
+  Veterans Affairs Canada are working together</a> to co-ordinate the regional and community-level services delivered by both departments.&nbsp; In addition,
+  HPS is working with emergency shelters and crisis service providers, to help identity homeless veterans and those at imminent risk in order to connect them
+  with veteran-specific services.
 </p>
 <p>
   Veterans Affairs Canada is planning to open staffed offices in Brandon, Charlottetown, Corner Brook, Kelowna, Prince George, Saskatoon, Surrey, Sydney,
@@ -297,39 +291,30 @@ title: "What We Know About Veteran Homelessness in Canada and What's Being Done 
 </h3>
 <ul>
   <li>
-    <span style="font-weight: bolder;">
-      <a href="{{ site.url }}{{ page.url }}#cite-canadian-legacy-project" rel="me" title="Canadian Legacy Project">Canadian Legacy Project</a>:
-    </span>&nbsp;
-    Currently, working with organizations to develop a unique housing program for veterans in Calgary and provide support services to those in the area.
+    <span style="font-weight: bolder;"><a href="{{ site.url }}{{ page.url }}#cite-canadian-legacy-project" rel="me" title="Canadian Legacy Project">Canadian
+    Legacy Project</a>:</span>&nbsp; Currently, working with organizations to develop a unique housing program for veterans in Calgary and provide support
+    services to those in the area.
   </li>
   <li>
-    <span style="font-weight: bolder;">
-      <a href="{{ site.url }}{{ page.url }}#cite-veteran-services" rel="me" title="Veteran Services">The Royal Canadian Legion</a>:
-    </span>&nbsp;
-    Over 1,400 branches across Canada, serving veterans and their families, with a number of services &#8212; including, housing assistance, mental health,
-    assistance with Veterans Affairs Canada, and/or financial supports.
+    <span style="font-weight: bolder;"><a href="{{ site.url }}{{ page.url }}#cite-veteran-services" rel="me" title="Veteran Services">The Royal Canadian
+    Legion</a>:</span>&nbsp; Over 1,400 branches across Canada, serving veterans and their families, with a number of services &#8212; including, housing
+    assistance, mental health, assistance with Veterans Affairs Canada, and/or financial supports.
   </li>
   <li>
-    <span style="font-weight: bolder;">
-      <a href="{{ site.url }}{{ page.url }}#cite-vac-support-for-homeless-veterans" rel="me" title="VAC Support for Homeless Veterans">
-        Veterans Affairs Canada
-      </a>:
-    </span>&nbsp;
-    Their Web site has links to several community resources and government assistance programs for homeless veterans, including information on their offices
-    throughout Canada.
+    <span style="font-weight: bolder;"><a
+      href="{{ site.url }}{{ page.url }}#cite-vac-support-for-homeless-veterans" rel="me" title="VAC Support for Homeless Veterans">Veterans Affairs
+    Canada</a>:</span>&nbsp; Their Web site has links to several community resources and government assistance programs for homeless veterans, including
+    information on their offices throughout Canada.
   </li>
   <li>
-    <span style="font-weight: bolder;">
-      <a href="{{ site.url }}{{ page.url }}#cite-veterans-emergency-transition-services" rel="me" title="Veterans Emergency Transition Services">
-        VETS Canada
-      </a>:
-    </span>&nbsp;
-    A non-profit organization, recognized for their services provided across Canada, for veterans at-risk and/or experiencing homelessness.
+    <span style="font-weight: bolder;"><a
+      href="{{ site.url }}{{ page.url }}#cite-veterans-emergency-transition-services" rel="me" title="Veterans Emergency Transition Services">VETS
+    Canada</a>:</span>&nbsp; A non-profit organization, recognized for their services provided across Canada, for veterans at-risk and/or experiencing
+    homelessness.
   </li>
   <li>
-    <span style="font-weight: bolder;">
-      <a href="{{ site.url }}{{ page.url }}#cite-wounded-warriors-canada" rel="me" title="Wounded Warriors Canada">Wounded Warriors Canada</a>:
-    </span>&nbsp;
-    Supports veterans with health services &#8212; including, counseling, rehabilitation, skills-building programs, and networking opportunities.
+    <span style="font-weight: bolder;"><a href="{{ site.url }}{{ page.url }}#cite-wounded-warriors-canada" rel="me" title="Wounded Warriors Canada">Wounded
+    Warriors Canada</a>:</span>&nbsp; Supports veterans with health services &#8212; including, counseling, rehabilitation, skills-building programs, and
+    networking opportunities.
   </li>
 </ul>

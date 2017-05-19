@@ -56,15 +56,11 @@ title: "The Moral Logic of Survivor Guilt"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="176" />
 <p>
   Captain Adrian Bonenberger, head of a unit in Afghanistan that James Dao and other journalists of The New York Times reported on in their series
-  &quot;<a href="{{ site.url }}{{ page.url }}#cite-a-year-at-war" rel="me" title="A Year at War">A Year at War</a>&quot;,
-  <a
+  &quot;<a href="{{ site.url }}{{ page.url }}#cite-a-year-at-war" rel="me" title="A Year at War">A Year at War</a>&quot;, <a
     href="{{ site.url }}{{ page.url }}#cite-after-combat-the-unexpected-perils-of-coming-home" rel="me"
-    title="After Combat, the Unexpected Perils of Coming Home">
-    pondered those questions
-  </a>
-  as he thought about Specialist Jeremiah Pulaski.&nbsp; Jeremiah was killed by police in the wake of a deadly bar fight &#8212; shortly, after he'd returned
-  home.&nbsp; Back in Afghanistan, Pulaski had saved Bonenberger's life &#8212; twice in a single day.&nbsp; But, when Pulaski needed help, Bonenberger couldn't
-  be there for him:
+    title="After Combat, the Unexpected Perils of Coming Home">pondered those questions</a> as he thought about Specialist Jeremiah Pulaski.&nbsp; Jeremiah was
+  killed by police in the wake of a deadly bar fight &#8212; shortly, after he'd returned home.&nbsp; Back in Afghanistan, Pulaski had saved Bonenberger's life
+  &#8212; twice in a single day.&nbsp; But, when Pulaski needed help, Bonenberger couldn't be there for him:
   <blockquote>
     When he was in trouble, he was alone.&nbsp; We were in trouble, he was there for us.&nbsp; I know it's not rational or reasonable.&nbsp; There's nothing
     logical about it.&nbsp; But, I feel responsible.

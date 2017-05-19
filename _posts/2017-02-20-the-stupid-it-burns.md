@@ -41,10 +41,9 @@ title: "The Stupid, It Burns"
   -->
 <!--/sse-->
 <p>
-  There are some really ignorant fucktards working at
-  <a href="{{ site.url }}{{ page.url }}#cite-the-elgin-street-mission" rel="me" title="The Elgin Street Mission">The Elgin Street Mission</a>.&nbsp;
-  I have a zero-tolerance for stupid&hellip;&nbsp; It took a lot for me to not beat the stupid out of some shitbag staff tonight.&nbsp; We'll call him Pip
-  Koch-weser.
+  There are some really ignorant fucktards working at <a
+    href="{{ site.url }}{{ page.url }}#cite-the-elgin-street-mission" rel="me" title="The Elgin Street Mission">The Elgin Street Mission</a>.&nbsp; I have a
+  zero-tolerance for stupid&hellip;&nbsp; It took a lot for me to not beat the stupid out of some shitbag staff tonight.&nbsp; We'll call him Pip Koch-weser.
 </p>
 <!-- excerptBreak -->
 <p>
@@ -69,9 +68,7 @@ title: "The Stupid, It Burns"
   me right the fuck off&hellip;&nbsp; If I weren't upset before, I most definitely was now.
 </p>
 <p>
-  Fuck this fucking shit.&nbsp; I don't know WTF is going on around there, but this comes on the heels of
-  <a href="{{ site.url }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission" rel="me" title="Accessibility at The Elgin Street Mission">
-    what happened the other day
-  </a>.&nbsp;
-  That place needs to unfuck itself &#8212; right fucking swift-like.
+  Fuck this fucking shit.&nbsp; I don't know WTF is going on around there, but this comes on the heels of <a
+    href="{{ site.url }}/blog/2017/02/16/accessibility-at-the-elgin-street-mission" rel="me" title="Accessibility at The Elgin Street Mission">what happened the
+  other day</a>.&nbsp; That place needs to unfuck itself &#8212; right fucking swift-like.
 </p>

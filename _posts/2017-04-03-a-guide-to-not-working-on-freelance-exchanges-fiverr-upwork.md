@@ -67,13 +67,10 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
   give you the opportunity to not make the same mistakes that I did.
 </p>
 <p>
-  Here's an excerpt from
-  <a
+  Here's an excerpt from <a
     href="{{ site.url }}{{ page.url }}#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer" rel="me"
-    title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer">
-    a book
-  </a>.&nbsp;
-  In this chapter, he's talking about building attention and interest in you and your freelance service.&nbsp; It pretty much sums up my take:
+    title="Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer">a book</a>.&nbsp; In this chapter, he's talking about building attention and
+  interest in you and your freelance service.&nbsp; It pretty much sums up my take:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer">
     We live in a noisy world.&nbsp; Whether it's the irresistibly tactile Facebook notification icon or the audible blip of your email client, everybody wants a
     piece of your attention.<br />
@@ -281,8 +278,8 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
   A Restrictive Platform
 </h3>
 <p>
-  It's vital to their future revenue opportunities that platforms like
-  <a href="{{ site.uri.shortURL }}/Fiverr" rel="external" target="_blank" title="Fiverr">Fiverr</a> and Upwork keep all dialogue inside of channels which they
+  It's vital to their future revenue opportunities that platforms like <a
+    href="{{ site.uri.shortURL }}/Fiverr" rel="external" target="_blank" title="Fiverr">Fiverr</a> and Upwork keep all dialogue inside of channels which they
   can monitor.&nbsp; This means that relationships cannot be taken outside of the system; for fear of losing the project commission.
 </p>
 <p>

@@ -28,11 +28,9 @@ title: "Somone Has Your Password"
 </p>
 <!-- excerptBreak -->
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/03/03/someone-has-your-password/2017-03-04_09-47-29_1080x1920.png" rel="me" target="_blank" title="">
-    <img
-      alt="" height="852" src="{{ site.uri.assets }}/blog/2017/03/03/someone-has-your-password/2017-03-04_09-47-29_0482x0852.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/03/someone-has-your-password/2017-03-04_09-47-29_1080x1920.png" rel="me" target="_blank" title=""><img
+    alt="" height="852" src="{{ site.uri.assets }}/blog/2017/03/03/someone-has-your-password/2017-03-04_09-47-29_0482x0852.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
   Pictured above, is just one of the alerts that I'd received.&nbsp; There were actually numerous failed attempts to gain access to my account.&nbsp; All of
   them were from the same IP address.

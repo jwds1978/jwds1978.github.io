@@ -83,12 +83,9 @@ title: "7 Things Destroying Your Mental Energy"
           &nbsp;<br />
           <a
             href="{{ site.url }}{{ page.url }}#cite-new-study-shows-brief-meditation-can-reduce-anger" rel="me"
-            title="New Study Shows Brief Meditation Can Reduce Anger">
-            A study
-          </a>
-          shows that brief meditation &#8212; just 20 minutes &#8212; can reduce your anger.&nbsp; I've been meditating for goin on 10 years now.&nbsp; You
-          don't need apps and/or books to help you focus on your breath.&nbsp; But, if you find it difficult though, you may want to consider installing an app
-          such as Headspace.&nbsp; The meditations are simple and effective.
+            title="New Study Shows Brief Meditation Can Reduce Anger">A study</a> shows that brief meditation &#8212; just 20 minutes &#8212; can reduce your
+          anger.&nbsp; I've been meditating for goin on 10 years now.&nbsp; You don't need apps and/or books to help you focus on your breath.&nbsp; But, if you
+          find it difficult though, you may want to consider installing an app such as Headspace.&nbsp; The meditations are simple and effective.
         </li>
       </ul>
     </li>
@@ -126,13 +123,10 @@ title: "7 Things Destroying Your Mental Energy"
       Negative stacking.
       <ul style="list-style-type: none;">
         <li>
-          We all have to
-          &quot;<a
+          We all have to &quot;<a
             href="{{ site.url }}{{ page.url }}#cite-eat-that-frog-21-great-ways-to-stop-procrastinating-and-get-more-done-in-less-time" rel="me"
-            title="Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time">
-            eat the frog
-          </a>&quot;
-          and get things accomplished that we hate doing.&nbsp; I've found a powerful technique that helps me plow through my negative duties.<br />
+            title="Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time">eat the frog</a>&quot; and get things accomplished that
+          we hate doing.&nbsp; I've found a powerful technique that helps me plow through my negative duties.<br />
           &nbsp;<br />
           Some will tell you to tackle your hardest projects first-thing in the morning when you're fresh.&nbsp; I agree with this, given one minor
           caveat&hellip;&nbsp; After you do that one hard thing, do something that you enjoy.<br />

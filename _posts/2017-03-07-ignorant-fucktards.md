@@ -26,11 +26,9 @@ title: "Ignorant Fucktards"
 </p>
 <!-- excerptBreak -->
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="321" src="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02_482x321.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="321" src="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-07_06-25-05_03-02_482x321.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   The fucking junkies leaving their used and uncapped needles, along with all of the other associated paraphernalia, laying around every-fucking-where are bad
@@ -42,11 +40,9 @@ title: "Ignorant Fucktards"
   This is what I'd found a few mornings ago&hellip;
 </p>
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-02_06-30-22_03-02.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="321" src="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-02_06-30-22_03-02_482x321.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-02_06-30-22_03-02.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="321" src="{{ site.uri.assets }}/blog/2017/03/07/ignorant-fucktards/2017-03-02_06-30-22_03-02_482x321.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   When I'd walked in that morning, upon opening the door, the smell damn near made me fucking puke.&nbsp; I've smelled some bad, and rather unforgettable

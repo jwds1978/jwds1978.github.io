@@ -34,40 +34,29 @@ title: "The Angry Knee"
 </p>
 <!-- excerptBreak -->
 <p>
-  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-04-47_04-03.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="610" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-04-47_04-03_482x610.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-04-47_04-03.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="610" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-04-47_04-03_482x610.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-05-15_03-04.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="381" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-05-15_03-04_482x381.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-05-15_03-04.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="381" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-05-15_03-04_482x381.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-14_04-03.jpeg" rel="me" target="_blank" title="">
-    <img alt="" height="362" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-14_04-03_482x362.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-14_04-03.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="362" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-14_04-03_482x362.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-56_03-04.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="580" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-56_03-04_482x580.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-56_03-04.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="580" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-06-56_03-04_482x580.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-07-27_03-04.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="630" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-07-27_03-04_482x630.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-07-27_03-04.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="630" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-07-27_03-04_482x630.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
   &nbsp;<br />
-  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-07-41_03-04.jpeg" rel="me" target="_blank" title="">
-    <img
-      alt="" height="617" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-07-41_03-04_482x617.jpg"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+  <a href="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-07-41_03-04.jpeg" rel="me" target="_blank" title=""><img
+    alt="" height="617" src="{{ site.uri.assets }}/blog/2017/03/14/the-angry-knee/2017-03-13_22-07-41_03-04_482x617.jpg"
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   As can be seen, it's upset with me.&nbsp; I don't think that it likes the amount of walking and load-bearing which I've been subjecting it to as of

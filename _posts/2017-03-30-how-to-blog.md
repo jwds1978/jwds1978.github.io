@@ -119,13 +119,9 @@ title: "How to Blog"
 </h4>
 <p>
   Whether you're tired of barely scraping by with your 0900-1700 or are looking for something to keep you busy as a stay-at-home mom, dedicating your time to
-  maintaining a blog can be a viable means of bringing in a steady income.&nbsp; In fact, there are hundreds of bloggers out there who earn
-  <a
+  maintaining a blog can be a viable means of bringing in a steady income.&nbsp; In fact, there are hundreds of bloggers out there who earn <a
     href="{{ site.url }}{{ page.url }}#cite-how-two-moms-are-earning-over-40000-a-year-by-blogging" rel="me"
-    title="How Two Moms Are Earning Over $40,000 a Year By Blogging">
-    $40,000 a year or more
-  </a>
-  &#8212; just by blogging about things that interest them!
+    title="How Two Moms Are Earning Over $40,000 a Year By Blogging">$40,000 a year or more</a> &#8212; just by blogging about things that interest them!
 </p>
 <p>
   Okay, so there's a little more to it than that.&nbsp; Being able to write well about topics that matter to you is one aspect of running a successful blog, but
@@ -134,12 +130,10 @@ title: "How to Blog"
   Still, if you have the dedication and ambition, you can certainly turn blogging into a part- or even full-time career!
 </p>
 <p>
-  The average salary of a blogger varies greatly, with most bringing in
-  <a href="{{ site.url }}{{ page.url }}#cite-can-i-really-make-a-living-by-blogging" rel="me" title="Can I Really Make a Living by Blogging?">
-    a few hundred dollars per month
-  </a>.&nbsp;
-  The great thing about blogging, however, is that the possibilities are endless, and it is possible to earn a comfortable full-time living on blogging &#8212;
-  if you know how to engage your audience and utilize the tools/resources available to you.
+  The average salary of a blogger varies greatly, with most bringing in <a
+    href="{{ site.url }}{{ page.url }}#cite-can-i-really-make-a-living-by-blogging" rel="me" title="Can I Really Make a Living by Blogging?">a few hundred
+  dollars per month</a>.&nbsp; The great thing about blogging, however, is that the possibilities are endless, and it is possible to earn a comfortable
+  full-time living on blogging &#8212; if you know how to engage your audience and utilize the tools/resources available to you.
 </p>
 <p>
   Interested in blogging but not sure where to start?&nbsp; I've got you covered.&nbsp; By following five key steps, you can be well on your way to launching,
@@ -181,11 +175,10 @@ title: "How to Blog"
   Grab a Good Domain Name and Reliable Host
 </h5>
 <p>
-  Once you've decided on a general topic/focus for your blog, it's time to snag a domain name and hosting for your site.&nbsp;
-  <a href="{{ site.url }}{{ page.url }}#cite-good-domain-picking-tips-for-your-blog-setup" rel="me" title="Good Domain Name Picking Tips for Your Blog Setup">
-    Choosing a domain name
-  </a>
-  is more important than most new bloggers realize; you'll want to select something that's:
+  Once you've decided on a general topic/focus for your blog, it's time to snag a domain name and hosting for your site.&nbsp; <a
+    href="{{ site.url }}{{ page.url }}#cite-good-domain-picking-tips-for-your-blog-setup" rel="me"
+    title="Good Domain Name Picking Tips for Your Blog Setup">Choosing a domain name</a> is more important than most new bloggers realize; you'll want to select
+  something that's:
   <ul>
     <li>
       easy to remember
@@ -241,13 +234,9 @@ title: "How to Blog"
   Generally, for beginning bloggers, WordPress is a good place to start because they have affordable hosting, allow you to use your own domain for a small fee,
   and also offer plenty of blog templates (both paid and free) to suit your needs.&nbsp; Their interface is also very user-friendly, which is ideal for those
   who are new to running their own blog or website.&nbsp; If you want to explore other options, however, there are some tips worth keeping in mind that'll help
-  you
-  <a
+  you <a
     href="{{ site.url }}{{ page.url }}#cite-how-to-choose-the-right-content-management-system" rel="me"
-    title="How to Choose the Right Content Management System">
-    select the right CMS
-  </a>
-  for your needs.
+    title="How to Choose the Right Content Management System">select the right CMS</a> for your needs.
 </p>
 <p>
   Start by considering the specific features your blog will need, both now and in the future.&nbsp; For example, do you plan on starting your own online store to
@@ -311,16 +300,12 @@ title: "How to Blog"
 <p>
   Now that you have a better idea as to how your CMS works, it's time to start with your first blog posts.&nbsp; This is where taking the time to reflect on
   your audience and what will interest them becomes so important.&nbsp; With so many competing blogs there, the chances are good that whatever topic you're
-  thinking about writing about has already been done!&nbsp; In fact, did you know that there are already
-  <a href="{{ site.url }}{{ page.url }}#cite-the-rise-of-the-mommy-blogger-infographic" rel="me" title="The Rise of the Mommy Blogger [INFOGRAPHIC]">
-    almost 4 million
-  </a>
-  mommy blogs on the Web, and that
-  <a href="{{ site.url }}{{ page.url }}#cite-top-10-mommy-bloggers-who-do-you-really-read" rel="me" title="Top 10 Mommy Bloggers | Who Do You Really Read?">
-    14% of moms
-  </a>
-  with at least one child run a blog?&nbsp; With that in mind, you'll need to find a way to make your content more engaging, interesting, and unique than all
-  the other blog posts already out there.
+  thinking about writing about has already been done!&nbsp; In fact, did you know that there are already <a
+    href="{{ site.url }}{{ page.url }}#cite-the-rise-of-the-mommy-blogger-infographic" rel="me" title="The Rise of the Mommy Blogger [INFOGRAPHIC]">almost 4
+  million</a> mommy blogs on the Web, and that <a
+    href="{{ site.url }}{{ page.url }}#cite-top-10-mommy-bloggers-who-do-you-really-read" rel="me" title="Top 10 Mommy Bloggers | Who Do You Really Read?">14%
+  of moms</a> with at least one child run a blog?&nbsp; With that in mind, you'll need to find a way to make your content more engaging, interesting, and unique
+  than all the other blog posts already out there.
 </p>
 <h5>
   Come Up With an Engaging Title
@@ -330,12 +315,11 @@ title: "How to Blog"
   read more.&nbsp; A dull blog title can cause people to scroll right past your blog link, even if the content itself is fantastic.&nbsp; All too often, new
   bloggers find themselves facing a case of &quot;writer's block&quot; when it comes time to start their blogs because they can't come up with a creative
   title.&nbsp; If this is a problem you face, consider writing your blog first and then coming back to write the title at the end.&nbsp; After all, as content
-  manager
-  <a href="{{ site.url }}{{ page.url }}#cite-the-five-essential-elements-of-a-good-blog-post" rel="me" title="The Five Essential Elements of a Good Blog Post">
-    Amanda Hyer
-  </a>
-  explains, &quot;It doesn't matter if you craft [your title] in the beginning, middle or end &#8212; regardless, you should make sure that it's interesting and
-  intriguing enough that people will want to read your post as soon as they see it&quot;.
+  manager <a
+    href="{{ site.url }}{{ page.url }}#cite-the-five-essential-elements-of-a-good-blog-post" rel="me"
+    title="The Five Essential Elements of a Good Blog Post">Amanda Hyer</a> explains, &quot;It doesn't matter if you craft [your title] in the beginning, middle
+  or end &#8212; regardless, you should make sure that it's interesting and intriguing enough that people will want to read your post as soon as they see
+  it&quot;.
 </p>
 <p>
   By the time you've written your blog, you'll have a better idea of your main points and can craft an engaging and enticing title with greater ease.
@@ -544,27 +528,21 @@ title: "How to Blog"
   Schedule New Posts Ahead of Time
 </h5>
 <p>
-  Consider setting up your social media pages so that they
-  <a
+  Consider setting up your social media pages so that they <a
     href="{{ site.url }}{{ page.url }}#cite-how-to-create-a-social-media-marketing-plan-in-6-steps" rel="me"
-    title="How To Create A Social Media Marketing Plan In 6 Steps">
-    post on a specific schedule
-  </a>
-  or calendar.&nbsp; There are plenty of free apps you can use to make this happen.&nbsp; This way, you won't need to remember to post on social media every
-  time you post a new blog.&nbsp; Instead, you can set your social media pages up to post simultaneously, thus saving you time and hassle.&nbsp; This is also a
-  great way to make sure your followers stay up-to-date on everything that's new on your blog.
+    title="How To Create A Social Media Marketing Plan In 6 Steps">post on a specific schedule</a> or calendar.&nbsp; There are plenty of free apps you can use
+  to make this happen.&nbsp; This way, you won't need to remember to post on social media every time you post a new blog.&nbsp; Instead, you can set your social
+  media pages up to post simultaneously, thus saving you time and hassle.&nbsp; This is also a great way to make sure your followers stay up-to-date on
+  everything that's new on your blog.
 </p>
 <h5>
   Track Your Success and Make Adjustments as Needed
 </h5>
 <p>
-  Last but not least, be sure to track your success and and followers on social media using one of
-  <a
+  Last but not least, be sure to track your success and and followers on social media using one of <a
     href="{{ site.url }}{{ page.url }}#cite-46-free-social-media-monitoring-tools-to-improve-your-results" rel="me"
-    title="46 Free Social Media Monitoring Tools to Improve Your Results">
-    the many free tools
-  </a>
-  that are available.&nbsp; This is a great way to see what's working in your social media strategy and what areas you may need to improve on.
+    title="46 Free Social Media Monitoring Tools to Improve Your Results">the many free tools</a> that are available.&nbsp; This is a great way to see what's
+  working in your social media strategy and what areas you may need to improve on.
 </p>
 <p>
   Managing and monetizing a blog is something that takes time, patience, and lots of dedication.&nbsp; You may not be making hundreds of dollars a month right

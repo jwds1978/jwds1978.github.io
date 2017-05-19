@@ -41,8 +41,8 @@ title: "Tim Hortons, Fuck You"
 </p>
 <p>
   Today's definitely not one of my better days; not in the fucking least.&nbsp; My left knee's swollen like I've got a big-ass fucking grapefruit stuffed in
-  there and the associated pain is higher than usual.&nbsp; One of the side effects
-  <sup><a href="{{ site.url }}{{ page.url }}#cite-keppra-side-effects" rel="me" title="Keppra :: Side Effects">2</a></sup> of the new drug is drowsiness.&nbsp;
+  there and the associated pain is higher than usual.&nbsp; One of the side effects <sup><a
+    href="{{ site.url }}{{ page.url }}#cite-keppra-side-effects" rel="me" title="Keppra :: Side Effects">2</a></sup> of the new drug is drowsiness.&nbsp;
   Seemingly, it can last throughout the first month of my starting on it&hellip;&nbsp; Yay!
 </p>
 <p>

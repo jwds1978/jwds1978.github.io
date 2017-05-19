@@ -51,8 +51,8 @@ title: "Privacy Policy"
   Section 3 &#8212; Disclosure
 </h3>
 <p>
-  We may disclose your personal information if we are required by law to do so or if you violate our
-  <a href="{{ site.url }}/terms-and-conditions" rel="me" title="Terms and Conditions">Terms of Service</a>.
+  We may disclose your personal information if we are required by law to do so or if you violate our <a
+    href="{{ site.url }}/terms-and-conditions" rel="me" title="Terms and Conditions">Terms of Service</a>.
 </p>
 <p>
   &nbsp;
@@ -100,8 +100,8 @@ title: "Privacy Policy"
   information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 </p>
 <p>
-  Once you leave our store's Web site or are redirected to a third-party Web site or application, you are no longer governed by this Privacy Policy or
-  <a href="{{ site.url }}/terms-and-conditions" rel="me" title="Terms and Conditions">our Web site's Terms of Service</a>.
+  Once you leave our store's Web site or are redirected to a third-party Web site or application, you are no longer governed by this Privacy Policy or <a
+    href="{{ site.url }}/terms-and-conditions" rel="me" title="Terms and Conditions">our Web site's Terms of Service</a>.
 </p>
 <p>
   Links<br />

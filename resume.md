@@ -6,12 +6,10 @@ title: "Curriculum Vitae"
 
 <p id="top" style="text-align: center;">
   <i aria-hidden="true" class="fa fa-floppy-o"></i> Save as:&nbsp;
-  <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF">
-    <i aria-hidden="true" class="fa fa-file-pdf-o"></i> PDF
-  </a>
-  &nbsp;&bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}">
-    <i aria-hidden="true" class="fa fa-print"></i> Print
-  </a><br />
+  <a href="https://www.web2pdfconvert.com/convert" rel="alternate nofollow" target="_blank" title="Save {{ page.title }} as PDF"><i
+    aria-hidden="true" class="fa fa-file-pdf-o"></i> PDF</a>
+  &nbsp;&bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}"><i
+    aria-hidden="true" class="fa fa-print"></i> Print</a><br />
   &nbsp;<br />
   Jump to:&nbsp; <select class="quickJumpMenu">
     <option value="{{ site.url }}{{ page.url }}"></option>
@@ -210,9 +208,8 @@ title: "Curriculum Vitae"
     Projects
   </h3>
   <p>
-    <a href="{{ site.uri.assets }}/naked/images/project_forces-army_1080x1080.png" rel="me" target="_blank" title="">
-      <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/project_forces-army_0040x0040.png" style="border: 0px; float: right;" width="40" />
-    </a>
+    <a href="{{ site.uri.assets }}/naked/images/project_forces-army_1080x1080.png" rel="me" target="_blank" title=""><img
+      alt="" height="40" src="{{ site.uri.assets }}/naked/images/project_forces-army_0040x0040.png" style="border: 0px; float: right;" width="40" /></a>
     <a href="https://forces.army" rel="me" title="{{ site.title }}">forces.army</a>&nbsp; <sup>Web</sup><br />
     Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, JavaScript, JSON, Liquid, Markdown, Regular Expression, Ruby, Text, XML, YAML</sup><br />
     January 2017 &#8211; Present&nbsp; <sup>4 Months</sup><br />
@@ -245,11 +242,8 @@ title: "Curriculum Vitae"
     Correct transaction fees; reflecting the transaction exchange rate.
   </p>
   <p>
-    StripeXS&nbsp;
-    <sup>
-      Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon,
-      <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon
-    </sup><br />
+    StripeXS&nbsp; <sup>Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon, <a
+      href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, Java, JavaScript, JSON, PHP, Regular Expression, Smali, Smarty, SQL, XML</sup><br />
     November 2012 &#8211; 2016&nbsp; <sup>4 Years</sup>
     <ul>
@@ -260,19 +254,19 @@ title: "Curriculum Vitae"
         account; no matter the business type.&nbsp; International business owners, outside of North America, can begin accepting eCommerce and/or
         (mail/telephone)-order payments quickly and easily with a Stripe account.<br />
         &nbsp;<br />
-        <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for
-        <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> to provide complete/full tokenization
-        functionality/integration (including, but not limited to, within the cart/checkout and the administrative area) and payment dispute
-        automation/management (Stripe-specific) from within <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.<br />
+        <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for <a
+          href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> to provide complete/full tokenization functionality/integration
+        (including, but not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management (Stripe-specific) from
+        within <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.<br />
         &nbsp;
       </li>
       <li>
         November 2012 &#8211; October 2013:<br />
         &nbsp;<br />
-        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for
-        <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> to provide complete/full tokenization
-        functionality/integration (including, but not limited to, within the cart/checkout and the administrative area) and payment dispute
-        automation/management from within <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.
+        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for <a
+          href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> to provide complete/full tokenization functionality/integration
+        (including, but not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management from within <a
+          href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.
       </li>
     </ul>
   </p>
@@ -318,9 +312,8 @@ title: "Curriculum Vitae"
     <img
       alt="" height="40" src="{{ site.uri.assets }}/naked/images/Greater-Sudbury-Chamber-of-Commerce_210x40.png" style="border: 0px; float: right;"
       width="210" />John Kennedy<br />
-    <a href="http://sudburychamber.ca" rel="external nofollow" target="_blank" title="Greater Sudbury Chamber of Commerce">
-      Greater Sudbury Chamber of Commerce
-    </a>
+    <a href="http://sudburychamber.ca" rel="external nofollow" target="_blank" title="Greater Sudbury Chamber of Commerce">Greater Sudbury Chamber of
+    Commerce</a>
     <blockquote>
       James services each of his clients in the same professional way&hellip; Friendly and knowledgeable.&nbsp; As a small business owner, James knows the value
       of one-on-one service.
@@ -348,8 +341,8 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-job-title">CEO / Founder / President</span><br />
       <span class="p-name p-org">TekStorm Inc.</span><br />
-      <time class="dt-start" datetime="2013-10">October 2013</time> &#8211; <time class="dt-end" datetime="2016">2016</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P3Y">3 Years</time></sup><br />
+      <time class="dt-start" datetime="2013-10">October 2013</time> &#8211; <time class="dt-end" datetime="2016">2016</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P3Y">3 Years</time></sup><br />
       $237,151 CAD per Year
     </p>
   </div>
@@ -357,11 +350,11 @@ title: "Curriculum Vitae"
     <p>
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/WHMCS_178x040.png" style="border: 0px; float: right;" width="178" />
       <span class="p-job-title">Technical Analyst</span><br />
-      <span style="display: none;">
-        <a class="p-name p-org u-url" href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="WHMCS">WHMCS</a>
-      </span><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS">WHMCS</a><br />
-      <time class="dt-start" datetime="2013-02">February 2013</time> &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
+      <span style="display: none;"><a
+        class="p-name p-org u-url" href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="WHMCS">WHMCS</a></span><a
+          href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS">WHMCS</a><br />
+      <time class="dt-start" datetime="2013-02">February 2013</time> &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
       $2,234 USD per Month&nbsp; <sup>~$2,984 CAD per Month</sup>
     </p>
   </div>
@@ -369,8 +362,8 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-job-title">Software Architect, Sr. / Sole Proprietor</span><br />
       <span class="p-name p-org">James Stewart</span><br />
-      <time class="dt-start" datetime="2011-11">November 2011</time> &#8211; <time class="dt-end" datetime="2013-10">October 2013</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P2Y">2 Years</time></sup>
+      <time class="dt-start" datetime="2011-11">November 2011</time> &#8211; <time class="dt-end" datetime="2013-10">October 2013</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P2Y">2 Years</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -378,8 +371,8 @@ title: "Curriculum Vitae"
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/TeleTech_40x40.png" style="border: 0px; float: right;" width="40" />
       <span class="p-job-title">CSR I</span> &#8212; Time Warner Cable (New York City)<br />
       <a class="p-name p-org u-url" href="http://www.teletech.com" rel="external nofollow" target="_blank" title="TeleTech">TeleTech</a><br />
-      <time class="dt-start" datetime="2011-09">September 2011</time> &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P6M">6 Months</time></sup><br />
+      <time class="dt-start" datetime="2011-09">September 2011</time> &#8211; <time class="dt-end" datetime="2012-02">February 2012</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P6M">6 Months</time></sup><br />
       $16 CAD per Hour
     </p>
   </div>
@@ -387,16 +380,16 @@ title: "Curriculum Vitae"
     <p>
       (Contingent) <span class="p-job-title">Senior IT Consultant</span><br />
       <span class="p-name p-org">Near North Data Solutions</span><br />
-      <time class="dt-start" datetime="2011-03">March 2011</time> &#8211; <time class="dt-end" datetime="2012-01">January 2012</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
+      <time class="dt-start" datetime="2011-03">March 2011</time> &#8211; <time class="dt-end" datetime="2012-01">January 2012</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P11M">11 Months</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
     <p>
       (Contingent) <span class="p-job-title">Operations Specialist</span><br />
       <span class="p-name p-org">GG Web Hosting</span><br />
-      <time class="dt-start" datetime="2010-11">November 2010</time> &#8211; <time class="dt-end" datetime="2011-09">September 2011</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
+      <time class="dt-start" datetime="2010-11">November 2010</time> &#8211; <time class="dt-end" datetime="2011-09">September 2011</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P11M">11 Months</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -405,11 +398,10 @@ title: "Curriculum Vitae"
         alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Stream-Global-Services_86x40.png" style="border: 0px; float: right;"
         width="86" />
       <span class="p-job-title">Technical Support Professional</span> &#8212; Hewlett-Packard<br />
-      <a class="p-name p-org u-url" href="http://www.stream.com" rel="external nofollow" target="_blank" title="Stream Global Services">
-        Stream Global Services
-      </a><br />
-      <time class="dt-start" datetime="2009-11">November 2009</time> &#8211; <time class="dt-end" datetime="2010-11">November 2010</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
+      <a class="p-name p-org u-url" href="http://www.stream.com" rel="external nofollow" target="_blank" title="Stream Global Services">Stream Global
+      Services</a><br />
+      <time class="dt-start" datetime="2009-11">November 2009</time> &#8211; <time class="dt-end" datetime="2010-11">November 2010</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
       $10 CAD per Hour
     </p>
   </div>
@@ -418,8 +410,8 @@ title: "Curriculum Vitae"
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Sitel_40x40.png" style="border: 0px; float: right;" width="40" />
       <span class="p-job-title">Technical Support Specialist</span> &#8212; Hewlett-Packard<br />
       <a class="p-name p-org u-url" href="http://www.sitel.com/countries/canada" rel="external nofollow" target="_blank" title="Sitel Canada">Sitel</a><br />
-      <time class="dt-start" datetime="2006-03">March 2006</time> &#8211; <time class="dt-end" datetime="2009-10">October 2009</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P3Y8M">3 Years, 8 Months</time></sup><br />
+      <time class="dt-start" datetime="2006-03">March 2006</time> &#8211; <time class="dt-end" datetime="2009-10">October 2009</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P3Y8M">3 Years, 8 Months</time></sup><br />
       $20 CAD per Hour
     </p>
   </div>
@@ -427,8 +419,8 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-job-title">Technical Relationship Manager</span> &#8212; Verizon DSL<br />
       <span class="p-name p-org">Multi-Channel Communications, Inc.</span><br />
-      <time class="dt-start" datetime="2005-05">May 2005</time> &#8211; <time class="dt-end" datetime="2006-03">March 2006</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup><br />
+      <time class="dt-start" datetime="2005-05">May 2005</time> &#8211; <time class="dt-end" datetime="2006-03">March 2006</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P11M">11 Months</time></sup><br />
       $36 CAD per Hour
     </p>
   </div>
@@ -436,8 +428,8 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-job-title">Technical Support Manager</span> &#8212; Verizon DSL<br />
       <span class="p-name p-org">RMH Teleservices</span><br />
-      <time class="dt-start" datetime="2001-06">June 2001</time> &#8211; <time class="dt-end" datetime="2005-05">May 2005</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P4Y">4 Years</time></sup><br />
+      <time class="dt-start" datetime="2001-06">June 2001</time> &#8211; <time class="dt-end" datetime="2005-05">May 2005</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P4Y">4 Years</time></sup><br />
       $36 CAD per Hour
     </p>
   </div>
@@ -445,8 +437,8 @@ title: "Curriculum Vitae"
     <p>
       <span class="p-job-title">Sole Proprietor</span><br />
       <span class="p-name p-org">HiRize Discount Computer Systems</span><br />
-      <time class="dt-start" datetime="2000">2000</time> &#8211; <time class="dt-end" datetime="2001">2001</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P1Y">1 Year</time></sup>
+      <time class="dt-start" datetime="2000">2000</time> &#8211; <time class="dt-end" datetime="2001">2001</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P1Y">1 Year</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -455,11 +447,9 @@ title: "Curriculum Vitae"
       <span class="p-job-title">Soldier</span><br />
       <a
         class="p-name p-org u-url" href="http://www.forces.gc.ca" rel="external nofollow" target="_blank"
-        title="National Defence and the Canadian Armed Forces">
-        Canadian Armed Forces
-      </a><br />
-      <time class="dt-start" datetime="1994">1994</time> &#8211; <time class="dt-end" datetime="2000">2000</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P6Y">6 Years</time></sup>
+        title="National Defence and the Canadian Armed Forces">Canadian Armed Forces</a><br />
+      <time class="dt-start" datetime="1994">1994</time> &#8211; <time class="dt-end" datetime="2000">2000</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P6Y">6 Years</time></sup>
     </p>
   </div>
   <p>
@@ -478,11 +468,10 @@ title: "Curriculum Vitae"
         style="border: 0px; float: right;" width="155" />
       <span class="p-job-title">Big Brother</span><br />
       <a
-        class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" rel="external nofollow" target="_blank" title="Big Brothers Big Sisters of South Niagara">
-        Big Brothers Big Sisters of South Niagara
-      </a><br />
-      <time class="dt-start" datetime="2000-04">April 2000</time> &#8211; <time class="dt-end" datetime="2001-02">February 2001</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P11M">11 Months</time></sup>
+        class="p-name p-org u-url" href="http://www.bbbsinniagara.ca" rel="external nofollow" target="_blank"
+        title="Big Brothers Big Sisters of South Niagara">Big Brothers Big Sisters of South Niagara</a><br />
+      <time class="dt-start" datetime="2000-04">April 2000</time> &#8211; <time class="dt-end" datetime="2001-02">February 2001</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P11M">11 Months</time></sup>
     </p>
   </div>
   <div class="h-card h-event p-experience">
@@ -491,11 +480,10 @@ title: "Curriculum Vitae"
         alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/Search-and-Rescue-Niagara_71x40.png" style="border: 0px; float: right;"
         width="71" />
       <span class="p-job-title">Assistant Training Officer / Board Member</span><br />
-      <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" rel="external nofollow" target="_blank" title="Search and Rescue Niagara">
-        Search and Rescue Niagara
-      </a><br />
-      <time class="dt-start" datetime="2000-02">February 2000</time> &#8211; <time class="dt-end" datetime="2001-03">March 2001</time>&nbsp;
-      <sup><time class="dt-duration" datetime="P1Y2M">1 Year, 2 Months</time></sup>
+      <a class="p-name p-org u-url" href="http://www.searchandrescueniagara.ca" rel="external nofollow" target="_blank" title="Search and Rescue Niagara">Search
+      and Rescue Niagara</a><br />
+      <time class="dt-start" datetime="2000-02">February 2000</time> &#8211; <time class="dt-end" datetime="2001-03">March 2001</time>&nbsp; <sup><time
+        class="dt-duration" datetime="P1Y2M">1 Year, 2 Months</time></sup>
     </p>
   </div>
   <p>
@@ -511,12 +499,10 @@ title: "Curriculum Vitae"
     <p>
       <a
         href="http://www.confederationcollege.ca/program/aviation-flight-management" rel="external nofollow" target="_blank"
-        title="Aviation - Flight Management">
-        <span class="p-description">Aviation &#8212; Flight Management</span>
-      </a><br />
-      <a class="p-name p-org u-url" href="http://www.confederationcollege.ca" rel="external nofollow" target="_blank" title="Confederation College">
-        Confederation College
-      </a><br />
+        title="Aviation - Flight Management"><span class="p-description">Aviation &#8212; Flight Management</span></a><br />
+      <a
+        class="p-name p-org u-url" href="http://www.confederationcollege.ca" rel="external nofollow" target="_blank" title="Confederation College">Confederation
+      College</a><br />
       <span class="p-summary">
         This program is very well known within the aviation industry and is recognized as one of the best of its kind.&nbsp; Aviation &#8212; Flight Management
         has been running at Confederation since 1973.&nbsp; It's a demanding academic program and it has flight standards that are rigorous throughout the
@@ -560,9 +546,7 @@ title: "Curriculum Vitae"
         src="{{ site.uri.assets }}/naked/images/Brainbench_Internet-Professional_127x40.png" style="border: 0px; float: right;" width="127" />
       <a
         href="https://www.brainbench.com/xml/default/common/testcenter/bcip.xml" rel="external nofollow" target="_blank"
-        title="Brainbench Certified Internet Professional (BCIP)">
-        <span class="p-description">Internet Professional (BCIP)</span>
-      </a><br />
+        title="Brainbench Certified Internet Professional (BCIP)"><span class="p-description">Internet Professional (BCIP)</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external nofollow" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary">
         The Brainbench Certified Internet Professional (BCIP) has validated their skills in Internet-related technologies.
@@ -579,9 +563,7 @@ title: "Curriculum Vitae"
     <p>
       <a
         href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=68" rel="external nofollow" target="_blank"
-        title="Network Support Specialist">
-        <span class="p-description">Network Support Specialist</span>
-      </a><br />
+        title="Network Support Specialist"><span class="p-description">Network Support Specialist</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external nofollow" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a LAN
@@ -595,9 +577,7 @@ title: "Curriculum Vitae"
     <p>
       <a
         href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=17" rel="external nofollow" target="_blank"
-        title="Web Administrator (BCIP)">
-        <span class="p-description">Web Administrator (BCIP)</span>
-      </a><br />
+        title="Web Administrator (BCIP)"><span class="p-description">Web Administrator (BCIP)</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external nofollow" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for overseeing a Web site and Web server.&nbsp; A Web administrator must have an in-depth knowledge of networking, including installation,
@@ -629,9 +609,7 @@ title: "Curriculum Vitae"
     <p>
       <a
         href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=16" rel="external nofollow" target="_blank"
-        title="Web Designer (BCIP)">
-        <span class="p-description">Web Designer (BCIP)</span>
-      </a><br />
+        title="Web Designer (BCIP)"><span class="p-description">Web Designer (BCIP)</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external nofollow" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for creating Web sites using HTML and Web design software.&nbsp; In addition to designing a Web site that's attractive, interesting,
@@ -654,9 +632,7 @@ title: "Curriculum Vitae"
     <p>
       <a
         href="https://www.brainbench.com/xml/bb/skillscenter/consumer/jobroleresults.xml?jobRoleId=14" rel="external nofollow" target="_blank"
-        title="Web Developer (BCIP)">
-        <span class="p-description">Web Developer (BCIP)</span>
-      </a><br />
+        title="Web Developer (BCIP)"><span class="p-description">Web Developer (BCIP)</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external nofollow" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for using programming, scripting, and database integration tools to develop professional, effective, and well-organized client-side and

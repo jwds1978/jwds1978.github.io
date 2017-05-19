@@ -178,13 +178,10 @@ title: "The Best Pistol for Canada"
 </p>
 <p>
   Last year, Army procurement officers briefed industry representatives about their quest for a new pistol.&nbsp; Industry officials were told that between
-  15,000 and 25,000 handguns are needed and that the military estimated the project would cost around $50,000,000 CAD &#8212; according to
-  <a
+  15,000 and 25,000 handguns are needed and that the military estimated the project would cost around $50,000,000 CAD &#8212; according to <a
     href="{{ site.url }}{{ page.url }}#cite-canadian-forces-looking-to-replace-second-world-war-era-pistols-but-it-could-take-another-10-years" rel="me"
-    title="Canadian Forces looking to replace Second World War-era pistols but it could take another 10 years">
-    documents recently obtained
-  </a>
-  by the Ottawa Citizen.
+    title="Canadian Forces looking to replace Second World War-era pistols but it could take another 10 years">documents recently obtained</a> by the Ottawa
+  Citizen.
 </p>
 <p>
   At some point in 2019 or 2020, the requirements for a new gun will be defined, and then by 2022, the military will seek approval from the federal government
@@ -199,8 +196,8 @@ title: "The Best Pistol for Canada"
 <p>
   There's a clear way ahead for this procurement program.&nbsp; Using the example of the government's recent purchase of F-18 Super Hornets, a suitable number
   of firearms should be purchased as an &quot;interim&quot; measure to deal with the newly discovered capability gap.&nbsp; One, no doubt, caused by a previous
-  Conservative government's mismanagement of the
-  <a href="{{ site.url }}{{ page.url }}#cite-small-arms-modernization" rel="me" title="Small Arms Modernization">Small Arms Modernization</a> project.
+  Conservative government's mismanagement of the <a
+    href="{{ site.url }}{{ page.url }}#cite-small-arms-modernization" rel="me" title="Small Arms Modernization">Small Arms Modernization</a> project.
 </p>
 <p>
   At the same time, it's vital that a competition for all aspects of the Small Arms Modernization project should be held, later in the government's
@@ -208,8 +205,8 @@ title: "The Best Pistol for Canada"
   ordnance-limited service &#8212; P&hellip;I&hellip;S&hellip;T&hellip;O&hellip;L&hellip;S&hellip; &#8212; in all future discussions.
 </p>
 <p>
-  A quick browse of the Internet, suggests that Browning makes a
-  <a href="{{ site.url }}{{ page.url }}#cite-browning-hi-power-mark-iii-pistol" rel="me" title="Browning Hi-Power Mark III Pistol">comparable weapon</a>, which
+  A quick browse of the Internet, suggests that Browning makes a <a
+    href="{{ site.url }}{{ page.url }}#cite-browning-hi-power-mark-iii-pistol" rel="me" title="Browning Hi-Power Mark III Pistol">comparable weapon</a>, which
   sells in Canada for about $1,200 CAD.&nbsp; Which means, that 15,000 of them would cost taxpayers $18,000,000.&nbsp; An even better deal can be found for a
   Canadian made weapon &#8212; the O'Dell Engineering Canuck Hi-Power &#8212; a Canadian made clone of the Browning weapon.&nbsp; With their connection to Colt
   Canada, and with a cost of about $700 CAD per unit, they could more than likely make 15,000 of them for about $10,500,000 CAD &#8212; including a spare
@@ -220,8 +217,8 @@ title: "The Best Pistol for Canada"
   find a permanent replacement for the Inglis made weapons.&nbsp; As well as achieving the goal of delivering the right equipment to the CAF in a timely manner,
   this procurement must also leverage the purchases to create jobs and economic growth in Canada, and at the same time, be seen to be streamlining the defence
   procurement process.&nbsp; As has been pointed out, this would entail briefing industry officials and getting feedback, defining requirements, getting
-  government approval, and then moving ahead with the acquisition.&nbsp; Needless to say, these steps will only be the beginning of
-  <a href="{{ site.url }}{{ page.url }}#cite-defence-procurement-strategy" rel="me" title="Defence procurement strategy">the process</a>.
+  government approval, and then moving ahead with the acquisition.&nbsp; Needless to say, these steps will only be the beginning of <a
+    href="{{ site.url }}{{ page.url }}#cite-defence-procurement-strategy" rel="me" title="Defence procurement strategy">the process</a>.
 </p>
 <p>
   All of this must be run through the Defence Procurement Secretariat (DPS), which in-turn reports to a Deputy Ministers Governance Committee (DMGC), chaired by
@@ -235,8 +232,8 @@ title: "The Best Pistol for Canada"
 <p>
   The Forces will have to provide a Statement of Requirements (SOR) to start the process.&nbsp; This will be the opportunity to exhaustively explore issues
   such as the need for a Picatinny-style rail, suitability for suppressor attachment, and magazine capacity.&nbsp; This in-turn leads to a discussion of
-  caliber&hellip;&nbsp; And, surely, no discussion of handgun caliber could be complete without a mention of the
-  <a href="{{ site.url }}{{ page.url }}#cite-sirius-dog-sled-patrol" rel="me" title="Sirius Dog Sled Patrol">Sirius Dog Sled Patrol</a> and the need to fend-off
+  caliber&hellip;&nbsp; And, surely, no discussion of handgun caliber could be complete without a mention of the <a
+    href="{{ site.url }}{{ page.url }}#cite-sirius-dog-sled-patrol" rel="me" title="Sirius Dog Sled Patrol">Sirius Dog Sled Patrol</a> and the need to fend-off
   polar bears.&nbsp; This will, undoubtedly, raise the question in some quarters as to why the government is endangering already endangered species with its
   decisions.
 </p>
@@ -272,15 +269,12 @@ title: "The Best Pistol for Canada"
   a small price to pay for ensuring that our troops get only the best and that high-quality Canadian jobs are protected.
 </p>
 <p>
-  Once
-  <a href="{{ site.url }}{{ page.url }}#cite-industrial-and-regional-benefits-policy" rel="me" title="Industrial and Regional Benefits Policy">
-    Industrial and Regional Benefits (IRB)
-  </a>
-  as well as international trade regulations (ITAR) have been factored in, it will be up to the Forces to conclude that the best option is to contract for a
-  uniquely Canadian weapon &#8212; one under-development and not currently in the service of any other nation &#8212; to be built by a company with no
-  experience of firearms.&nbsp; Even though, when this approach has been used in the past, it's invariably lead to a final result that combines decreased
-  capability with late delivery at higher than anticipated costs, there's no reason that anyone in the system can possibly be blamed for not foreseeing this
-  outcome.
+  Once <a href="{{ site.url }}{{ page.url }}#cite-industrial-and-regional-benefits-policy" rel="me" title="Industrial and Regional Benefits Policy">Industrial
+  and Regional Benefits (IRB)</a> as well as international trade regulations (ITAR) have been factored in, it will be up to the Forces to conclude that the best
+  option is to contract for a uniquely Canadian weapon &#8212; one under-development and not currently in the service of any other nation &#8212; to be built by
+  a company with no experience of firearms.&nbsp; Even though, when this approach has been used in the past, it's invariably lead to a final result that
+  combines decreased capability with late delivery at higher than anticipated costs, there's no reason that anyone in the system can possibly be blamed for not
+  foreseeing this outcome.
 </p>
 <p>
   This inability to blame any participant in the process for the outcome, is a result of the fact that no one's really responsible for the outcome.&nbsp; It's

@@ -7,21 +7,11 @@ title: Contact
 <p id="top" style="text-align: center;">
   Jump to:&nbsp; <select class="quickJumpMenu">
     <option value="{{ site.url }}{{ page.url }}"></option>
-    <option value="{{ site.url }}{{ page.url }}#e-mail">
-      E-mail
-    </option>
-    <option value="{{ site.url }}{{ page.url }}#encryption">
-      Encryption
-    </option>
-    <option value="{{ site.url }}{{ page.url }}#instant-messengers">
-      Instant Messengers
-    </option>
-    <option value="{{ site.url }}{{ page.url }}#phone">
-      Phone
-    </option>
-    <option value="{{ site.url }}{{ page.url }}#mail">
-      Snail Mail
-    </option>
+    <option value="{{ site.url }}{{ page.url }}#e-mail">E-mail</option>
+    <option value="{{ site.url }}{{ page.url }}#encryption">Encryption</option>
+    <option value="{{ site.url }}{{ page.url }}#instant-messengers">Instant Messengers</option>
+    <option value="{{ site.url }}{{ page.url }}#phone">Phone</option>
+    <option value="{{ site.url }}{{ page.url }}#mail">Snail Mail</option>
   </select><br />
   &nbsp;
 </p>
@@ -29,9 +19,7 @@ title: Contact
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="phone">
-  <i aria-hidden="true" class="fa fa-phone"></i>&nbsp;
-  Call and/or Text James, Maybe&nbsp;
-  <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
+  <i aria-hidden="true" class="fa fa-phone"></i>&nbsp; Call and/or Text James, Maybe&nbsp; <sup>Blocked/Private/Unknown Number &equiv; No Answer</sup>
 </h3>
 <ul>
   <li>
@@ -56,14 +44,11 @@ title: Contact
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="e-mail">
-  <i aria-hidden="true" class="fa fa-envelope"></i>&nbsp;
-  E-mail&nbsp;
-  <sup>Preferrably, PGP-Encrypted</sup>
+  <i aria-hidden="true" class="fa fa-envelope"></i>&nbsp; E-mail&nbsp; <sup>Preferrably, PGP-Encrypted</sup>
 </h3>
 <ul>
   <li>
-    <a href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army</a>&nbsp;
-    <sup>Primary</sup>
+    <a href="mailto:james.stewart@forces.army" rel="me" target="_blank" title="">james.stewart@forces.army</a>&nbsp; <sup>Primary</sup>
   </li>
   <li>
     <a href="mailto:stew721@eml.cc" rel="me" target="_blank" title="">stew721@eml.cc</a>
@@ -103,15 +88,13 @@ title: Contact
           <li>
             <a
               href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me" target="_blank"
-              title="614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D">
-              614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D
-            </a><br />
+              title="614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D">614F FF68 0E92 BAE8 69C8 78E3 61BC A817 AFFA 1F1D</a><br />
             0x61BCA817AFFA1F1D<br />
-            <a href="{{ site.uri.assets }}/innominate/images/qr-codes/PGP_0x61BCA817AFFA1F1D_854x854.jpg" rel="me" target="_blank" title="0x61BCA817AFFA1F1D">
-              <img
+            <a
+              href="{{ site.uri.assets }}/innominate/images/qr-codes/PGP_0x61BCA817AFFA1F1D_854x854.jpg" rel="me" target="_blank"
+              title="0x61BCA817AFFA1F1D"><img
                 alt="0x61BCA817AFFA1F1D" height="83" src="{{ site.uri.assets }}/innominate/images/qr-codes/PGP_0x61BCA817AFFA1F1D_083x083.jpg"
-                style="border: 0px;" width="83" />
-            </a>
+                style="border: 0px;" width="83" /></a>
           </li>
         </ul>
       </li>
@@ -144,9 +127,8 @@ title: Contact
         <ul>
           <li>
             STEW721&nbsp; <sup>Custom for 7455ACFC</sup><br />
-            <a href="{{ site.uri.assets }}/innominate/images/qr-codes/BBM_STEW721_640x640.jpg" rel="me" target="_blank" title="STEW721">
-              <img alt="" height="108" src="{{ site.uri.assets }}/innominate/images/qr-codes/BBM_STEW721_108x108.jpg" style="border: 0px;" width="108" />
-            </a>
+            <a href="{{ site.uri.assets }}/innominate/images/qr-codes/BBM_STEW721_640x640.jpg" rel="me" target="_blank" title="STEW721"><img
+              alt="" height="108" src="{{ site.uri.assets }}/innominate/images/qr-codes/BBM_STEW721_108x108.jpg" style="border: 0px;" width="108" /></a>
           </li>
         </ul>
       </li>
@@ -190,8 +172,7 @@ title: Contact
     </ul>
   </li>
   <li>
-    Jabber / XMPP&nbsp;
-    <sup>Preferred</sup>
+    Jabber / XMPP&nbsp; <sup>Preferred</sup>
     <ul>
       <li>
         <a
@@ -199,11 +180,9 @@ title: Contact
           rel="me" target="_blank" title="james.stewart@forces.army">james.stewart@forces.army</a>&nbsp; <sup>Primary</sup><br />
         <a
           href="{{ site.uri.assets }}/innominate/images/qr-codes/XMPP_james-stewart-forces-army_1024x1024.png" rel="me" target="_blank"
-          title="james.stewart@forces.army">
-          <img
+          title="james.stewart@forces.army"><img
             alt="" height="86" src="{{ site.uri.assets }}/innominate/images/qr-codes/XMPP_james-stewart-forces-army_0086x0086.png" style="border: 0px;"
-            width="86" />
-        </a>
+            width="86" /></a>
       </li>
       <li>
         <span style="text-decoration: line-through;">
@@ -213,11 +192,9 @@ title: Contact
         </span><br />
         <a
           href="{{ site.uri.assets }}/innominate/images/qr-codes/XMPP_stew721-conversations-im_1024x1024.png" rel="me" target="_blank"
-          title="stew721@conversations.im">
-          <img
+          title="stew721@conversations.im"><img
             alt="" height="86" src="{{ site.uri.assets }}/innominate/images/qr-codes/XMPP_stew721-conversations-im_0086x0086.png" style="border: 0px;"
-            width="86" />
-        </a>
+            width="86" /></a>
       </li>
     </ul>
   </li>

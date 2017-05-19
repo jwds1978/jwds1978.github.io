@@ -96,11 +96,9 @@ title: "Decrease the Bounce Rate of Your Web Site"
   </ul>
 </p>
 <p>
-  <a href="{{ site.url }}{{ page.url }}#cite-bounce-rate" rel="me" title="Bounce rate">
-    <img
-      alt="" height="32" src="{{ site.uri.assets }}/blog/2017/05/07/decrease-the-bounce-rate-of-your-web-site/bounce-rate_formula_53x32.png"
-      style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="53" />
-  </a>
+  <a href="{{ site.url }}{{ page.url }}#cite-bounce-rate" rel="me" title="Bounce rate"><img
+    alt="" height="32" src="{{ site.uri.assets }}/blog/2017/05/07/decrease-the-bounce-rate-of-your-web-site/bounce-rate_formula_53x32.png"
+    style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="53" /></a>
   <ul>
     <li>
       R<sub>b</sub>&nbsp; =&nbsp; Bounce Rate
@@ -137,11 +135,11 @@ title: "Decrease the Bounce Rate of Your Web Site"
 </h4>
 <p>
   It's said that the first impression's the lasting impression &#8212; this holds true for Web sites too.&nbsp; When a visitor lands upon your Web page, the
-  first things that they notice are your
-  <a href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">Web site's design</a> and its loading time.&nbsp;
+  first things that they notice are your <a
+    href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">Web site's design</a> and its loading time.&nbsp;
   If you promote your articles on social media, make sure that your landing page doesn't take much time to load.&nbsp; Otherwise, you may lose your new
-  visitor's interest.&nbsp; Design's another aspect of attracting visitors &#8212; it's best to go for a
-  <a href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">professional and smooth theme</a>.
+  visitor's interest.&nbsp; Design's another aspect of attracting visitors &#8212; it's best to go for a <a
+    href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">professional and smooth theme</a>.
 </p>
 <p>
   &nbsp;
@@ -152,11 +150,9 @@ title: "Decrease the Bounce Rate of Your Web Site"
 <p>
   Now that you understand what the term &quot;bounce rate&quot; means, you also understand how important it is for your visitors to stick to your Web
   site.&nbsp; These days, almost all of the popular Web browsers, offer a tabbed Web browsing experience.&nbsp; It's important to take advantage of this, by
-  making all of the links to external Web sites, open within a new tab.&nbsp; A
-  <a href="{{ site.url }}{{ page.url }}#cite-why-external-links-should-open-in-new-tabs" rel="me" title="Why External Links Should Open in New Tabs">
-    case-study by UX Movement
-  </a>,
-  explains the science of opening Web sites within a new tab &#8212; and, why this is important for your Web site.
+  making all of the links to external Web sites, open within a new tab.&nbsp; A <a
+    href="{{ site.url }}{{ page.url }}#cite-why-external-links-should-open-in-new-tabs" rel="me" title="Why External Links Should Open in New Tabs">case-study
+  by UX Movement</a>, explains the science of opening Web sites within a new tab &#8212; and, why this is important for your Web site.
 </p>
 <p>
   In short, when you're linking to any Web site &#8212; Wikipedia, YouTube, etc. &#8212; opt to open it within a new tab.

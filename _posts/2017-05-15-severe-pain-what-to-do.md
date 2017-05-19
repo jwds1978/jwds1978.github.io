@@ -80,8 +80,8 @@ title: "Severe Pain, What to Do"
 </p>
 <p>
   I can't remember the last time that I actually had a regular family doctor &#8212; it's been quite a long time anyhow.&nbsp; The closest that I can get is to
-  visit the same clinic and utilize the same pharmacy.&nbsp; I've been going to
-  <a href="{{ site.url }}{{ page.url }}#cite-northwood-medical-clinics" rel="me" title="Northwood Medical Clinics">Northwood Medical Clinics</a>, on a fairly
+  visit the same clinic and utilize the same pharmacy.&nbsp; I've been going to <a
+    href="{{ site.url }}{{ page.url }}#cite-northwood-medical-clinics" rel="me" title="Northwood Medical Clinics">Northwood Medical Clinics</a>, on a fairly
   regular basis, for several years now.&nbsp; WTF is one to do, when they have no family doctor nor can they readily obtain one, and clinics refuse to refill
   their prescrition(s)?
 </p>

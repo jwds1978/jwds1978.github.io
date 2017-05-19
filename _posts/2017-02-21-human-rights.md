@@ -75,14 +75,11 @@ title: "Human Rights"
 </p>
 <p>
   I left there, frustrated and pissed-off, heading to Tom Davies Centre.&nbsp; My intent, by this point, was to officially file a claim and get the legal
-  process started.&nbsp; While the fine for corporations, under the
-  <a
+  process started.&nbsp; While the fine for corporations, under the <a
     href="{{ site.url }}{{ page.url }}#cite-accessibility-for-ontarians-with-disabilities-act-2005-s-o-2005-c-11" rel="me"
-    title="Accessibility for Ontarians with Disabilities Act, 2005, S.O. 2005, c. 11">
-    Accessibility for Ontarians with Disabilities Act (AODA)
-  </a>,
-  is $100,000 per, I'd given them going on a week to resolve the issue internally.&nbsp; However, no effort was made to follow-up with me nor had any apparent
-  action been taken.
+    title="Accessibility for Ontarians with Disabilities Act, 2005, S.O. 2005, c. 11">Accessibility for Ontarians with Disabilities Act (AODA)</a>, is $100,000
+  per, I'd given them going on a week to resolve the issue internally.&nbsp; However, no effort was made to follow-up with me nor had any apparent action been
+  taken.
 </p>
 <p>
   The service desk at Tom Davies referred me to by-law enforcement.&nbsp; While uncertain what authority they had regarding this, I did as directed and went to
@@ -91,11 +88,9 @@ title: "Human Rights"
 </p>
 <p>
   The GSPS officer at the information desk was quite helpful.&nbsp; He asked me to have a seat while he did some research into the relevant laws and acts.&nbsp;
-  He came back, after a short time, with a phone number for the
-  <a href="{{ site.url }}{{ page.url }}#cite-human-rights-legal-support-centre" rel="me" title="Human Rights Legal Support Centre">
-    Human Rights Legal Support Centre
-  </a>.&nbsp;
-  He proceeded to offer the use of a phone there.&nbsp; However, as I've got a cell phone, I simply thanked him and went on my way.
+  He came back, after a short time, with a phone number for the <a
+    href="{{ site.url }}{{ page.url }}#cite-human-rights-legal-support-centre" rel="me" title="Human Rights Legal Support Centre">Human Rights Legal Support
+  Centre</a>.&nbsp; He proceeded to offer the use of a phone there.&nbsp; However, as I've got a cell phone, I simply thanked him and went on my way.
 </p>
 <p>
   From there, I made my way to the library.&nbsp; Upon arrival, I called the HRLSC and described what had happened to me.&nbsp; They advised me that it was

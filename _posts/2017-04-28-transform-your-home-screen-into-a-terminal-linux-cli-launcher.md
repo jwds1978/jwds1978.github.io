@@ -71,39 +71,31 @@ title: "Transform Your Home Screen Into a Terminal :: Linux CLI Launcher"
 <p>
   <a
     href="{{ site.uri.assets }}/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/screen-capture_1_0675x1200.png" rel="me"
-    target="_blank" title="">
-    <img
+    target="_blank" title=""><img
       alt="" height="857"
       src="{{ site.uri.assets }}/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/screen-capture_1_0482x0857.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a><br />
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
   &nbsp;<br />
   <a
     href="{{ site.uri.assets }}/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/screen-capture_2_0675x1200.png" rel="me"
-    target="_blank" title="">
-    <img
+    target="_blank" title=""><img
       alt="" height="857"
       src="{{ site.uri.assets }}/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/screen-capture_2_0482x0857.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a><br />
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
   &nbsp;<br />
   <a
     href="{{ site.uri.assets }}/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/screen-capture_3_0675x1200.png" rel="me"
-    target="_blank" title="">
-    <img
+    target="_blank" title=""><img
       alt="" height="857"
       src="{{ site.uri.assets }}/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/screen-capture_3_0482x0857.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a><br />
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a><br />
   &nbsp;<br />
   <a
     href="{{ site.uri.assets }}/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/screen-capture_4_0675x1200.png" rel="me"
-    target="_blank" title="">
-    <img
+    target="_blank" title=""><img
       alt="" height="857"
       src="{{ site.uri.assets }}/blog/2017/04/28/transform-your-home-screen-into-a-terminal-linux-cli-launcher/screen-capture_4_0482x0857.png"
-      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-  </a>
+      style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
 </p>
 <p>
   To control the device you can use the following commands:
