@@ -46,8 +46,9 @@ title: "Open Invitation for Guest Bloggers"
   </li>
 </ul>
 <p>
-    &nbsp;
+  &nbsp;
 </p>
+<!-- excerptBreak -->
 <h3 id="getting-started">
   Getting Started
 </h3>
@@ -79,7 +80,7 @@ title: "Open Invitation for Guest Bloggers"
   publication.
 </p>
 <p>
-`&nbsp;
+  &nbsp;
 </p>
 <h3 id="category-suggestions">
   Category Suggestions
@@ -317,38 +318,38 @@ title: "Open Invitation for Guest Bloggers"
   Some things to keep in mind while you're writing:
   <ul>
     <li>
-      <span style="font-weight: bolder;">Attribution(s):<span>&nbsp; All citations/facts/quotes/references/sources/etc., where applicable, must be properly
+      <span style="font-weight: bolder;">Attribution(s):</span>&nbsp; All citations/facts/quotes/references/sources/etc., where applicable, must be properly
       cited.
     </li>
     <li>
-      <span style="font-weight: bolder;">Call to Action:<span>&nbsp; Don't forget this!&bsp; At the end of your postng, invite readers to comment, like, and/or
+      <span style="font-weight: bolder;">Call to Action:</span>&nbsp; Don't forget this!&bsp; At the end of your postng, invite readers to comment, like, and/or
       share it.
     </li>
     <li>
-      <span style="font-weight: bolder;">Copyright:<span>&nbsp; You must be the original author, or an agent of its author with their full authority to assign
+      <span style="font-weight: bolder;">Copyright:</span>&nbsp; You must be the original author, or an agent of its author with their full authority to assign
       any rights.&nbsp; You agree that all submissions, uon their submission, become the sole property of James Stewart.
     </li>
     <li>
-      <span style="font-weight: bolder;">Editing:<span>&nbsp; Any submission (i.e. copy, media, title, etc.) may be modified, as desired and/or needed and/or
+      <span style="font-weight: bolder;">Editing:</span>&nbsp; Any submission (i.e. copy, media, title, etc.) may be modified, as desired and/or needed and/or
       required, at my sole discretion.
     </li>
     <li>
-      <span style="font-weight: bolder;">Hyperlinks:<span>&nbsp; No affiliate and/or referral links.&nbsp; No illegal and/or restricted &#8212; including, but
+      <span style="font-weight: bolder;">Hyperlinks:</span>&nbsp; No affiliate and/or referral links.&nbsp; No illegal and/or restricted &#8212; including, but
       not limited to, beastiality, child pornography, illicit drugs, incest, rape, etc. &#8212; content.&nbsp; No self-promotion.&nbsp; Don't overload your
       posting with hyperlinks.
     </li>
     <li>
-      <span style="font-weight: bolder;">Language:<span>&nbsp; English.&nbsp; All submissions must be in English only &#8212; other languages will be rejected.
+      <span style="font-weight: bolder;">Language:</span>&nbsp; English.&nbsp; All submissions must be in English only &#8212; other languages will be rejected.
     </li>
     <li>
-      <span style="font-weight: bolder;">SEO:<span>&nbsp; If you work for a content farm and/or are a freelancer, who writes with the sole intent of linking
+      <span style="font-weight: bolder;">SEO:</span>&nbsp; If you work for a content farm and/or are a freelancer, who writes with the sole intent of linking
       keywords in an effort to boost SEO, don't bother.&nbsp; Don't bother wasting your time nor mine.
     </li>
     <li>
-      <span style="font-weight: bolder;">Tone:<span>&nbsp; Accessible, inclusive, and overall positive.
+      <span style="font-weight: bolder;">Tone:</span>&nbsp; Accessible, inclusive, and overall positive.
     </li>
     <li>
-      <span style="font-weight: bolder;">Word Count:<span>&nbsp; Ideally, you'd want to hover around 1,000 or so words.&nbsp; However, it is what it is.&nbsp;
+      <span style="font-weight: bolder;">Word Count:</span>&nbsp; Ideally, you'd want to hover around 1,000 or so words.&nbsp; However, it is what it is.&nbsp;
       While your focus should be on quality rather than quantity, and there's no official minimum count, all submissions should be no less than 250 words
       anyhow.
     </li>
