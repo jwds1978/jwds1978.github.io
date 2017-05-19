@@ -7,7 +7,7 @@ twitterWidget: true
 {% include adsense_large-skyscraper_300x600.htm %}
 <ul>
   <li>
-    Activate&nbsp; <sup>by Bloglovin</sup>
+    Activate&nbsp; <sup>by Bloglovin'</sup>
     <ul>
       <li>
         <a href="https://activate.bloglovin.com/profile/25569657" rel="me" target="_blank" title="James Stewart">James Stewart</a>
