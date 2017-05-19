@@ -106,12 +106,10 @@ title: "Drug-Induced Nosebleeds"
   Cocaine Abuse
 </h3>
 <p>
-  Psychiatrist, Esther Gwinnell (M.D.) in her 2008 book
-  &quot;<a href="{{ site.url }}{{ page.url }}#cite-the-encyclopedia-of-drug-abuse" rel="me" title="The Encyclopedia of Drug Abuse">
-    The Encyclopedia of Drug Abuse
-  </a>&quot;,
-  the chronic intranasal abuse of drugs (i.e. cocaine) can lead to nosebleeds.&nbsp; She also notes that cocaine abuse can lead to the loss of the sense of
-  smell.
+  Psychiatrist, Esther Gwinnell (M.D.) in her 2008 book &quot;<a
+    href="{{ site.url }}{{ page.url }}#cite-the-encyclopedia-of-drug-abuse" rel="me" title="The Encyclopedia of Drug Abuse">The Encyclopedia of Drug
+    Abuse</a>&quot;, the chronic intranasal abuse of drugs (i.e. cocaine) can lead to nosebleeds.&nbsp; She also notes that cocaine abuse can lead to the loss
+  of the sense of smell.
 </p>
 <p>
   &nbsp;
