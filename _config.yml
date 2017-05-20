@@ -36,7 +36,8 @@ copyright:
     html: |
       <a href="http://creativecommons.org/licenses/by-nc-sa/4.0" rel="external license" target="_blank"
         title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"><img alt="Creative Commons Licence :: BY-NC-SA" height="31"
-        src="https://assets.forces.army/naked/images/Creative-Commons_by-nc-sa_88x31.png" style="border: 0px; vertical-align: middle;" width="88" /></a><br />
+        src="https://assets.forces.army/naked/images/Creative-Commons_by-nc-sa_88x31.png"
+        style="border: 0px; float: left; margin-bottom: 10px; margin-right: 10px;" width="88" /></a>
       <span property="dct:title" xmlns:dct="http://purl.org/dc/terms">James W.D. Stewart</span> by <a href="https://forces.army" property="cc:attributionName"
         rel="cc:attributionURL me" title="James W.D. Stewart" xmlns:cc="http://creativecommons.org/ns#">James Stewart</a> is licensed under a <a
         href="http://creativecommons.org/licenses/by-nc-sa/4.0" rel="external license" target="_blank" title="Creative Commons Licence :: BY-NC-SA">Creative
