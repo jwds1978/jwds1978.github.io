@@ -48,6 +48,19 @@ image:
 last_modified_at: "2017-05-20 14:54:37 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154316825677084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/DQWHbJpiPwB"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650243084"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/866024931578007555"
+    text: Twitter
+    title: Twitter
 tags:
   - Sponsored
 title: "Snapchat Advertising: The Cost of Targeting Millennials"
@@ -68,7 +81,7 @@ title: "Snapchat Advertising: The Cost of Targeting Millennials"
   me&hellip;<br />
   &nbsp;<br />
   <img alt="" height="360" src="{{ site.uri.assets }}/blog/2017/05/20/snapchat-advertising-the-cost-of-targeting-millennials/innominate_2_480x360.gif"
-    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="480" /></a>
+    style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="480" />
 </p>
 <p>
   People use Snapchat for the promotion of their businesses.&nbsp; I've been using the app for a long time ow, but have never looked at it from that angle
