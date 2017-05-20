@@ -84,8 +84,7 @@
     <!--/sse-->
     {% endif %}
     <link href="{{ site.url }}/sitemap.xml" rel="sitemap" />
-    <link as="style" href="{{ site.url }}/resources/css/style_2017-03-31_14-55.css" onload="this.rel='stylesheet'" rel="preload" />
-    <noscript><link href="{{ site.url }}/resources/css/style_2017-03-31_14-55.css" rel="stylesheet" type="text/css" /></noscript>
+    <link href="{{ site.url }}/resources/css/style_2017-03-31_14-55.css" rel="stylesheet" type="text/css" />
     {% if page.url == "/contact/" %}
     <script async src="{{ site.url }}/resources/js/jquery_2017-04-09_14-34_min.js" type="text/javascript"></script>
     {% else %}
@@ -93,19 +92,14 @@
     {% endif %}
     {% if page.adSense != false and page.adsDisplay != false %}
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-5610609758033195",
-        enable_page_level_ads: !0
-      });
-    </script>
+    <script defer src="{{ site.url }}/resources/js/AdSense_adsbygoogle_defined_2017-05-19_23-11.js"></script>
     {% endif %}
     <link as="style" href="{{ site.url }}/resources/css/font-awesome_2017-04-07_14-05.css" onload="this.rel='stylesheet'" rel="preload" />
     <noscript><link href="{{ site.url }}/resources/css/font-awesome_2017-04-07_14-05.css" rel="stylesheet" type="text/css" /></noscript>
     {% if page.liMarquee %}
     <link as="style" href="{{ site.url }}/resources/css/liMarquee_2017-04-09_14-40.css" onload="this.rel='stylesheet'" rel="preload" />
     <noscript><link href="{{ site.url }}/resources/css/liMarquee_2017-04-09_14-40.css" rel="stylesheet" type="text/css" /></noscript>
-    <script async src="{{ site.url }}/resources/js/liMarquee_2017-04-09_15-08_min.js" type="text/javascript"></script>
+    <script async defer src="{{ site.url }}/resources/js/liMarquee_2017-04-09_15-08_min.js" type="text/javascript"></script>
     <script>
       $(window).on("load", function () {
         $(".liMarquee").liMarquee({
