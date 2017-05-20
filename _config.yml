@@ -34,14 +34,14 @@ copyright:
         -->
   full:
     html: |
-      <a href="http://creativecommons.org/licenses/by-nc-sa/4.0" rel="external license" target="_blank" title=""><img alt="Creative Commons Licence" height="31"
-        src="https://assets.forces.army/naked/images/Creative-Commons_by-nc-sa_88x31.png"
-        style="border: 0px; vertical-align: middle;" width="88" /></a><br />
+      <a href="http://creativecommons.org/licenses/by-nc-sa/4.0" rel="external license" target="_blank"
+        title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"><img alt="Creative Commons Licence :: BY-NC-SA" height="31"
+        src="https://assets.forces.army/naked/images/Creative-Commons_by-nc-sa_88x31.png" style="border: 0px; vertical-align: middle;" width="88" /></a><br />
       <span property="dct:title" xmlns:dct="http://purl.org/dc/terms">James W.D. Stewart</span> by <a href="https://forces.army" property="cc:attributionName"
         rel="cc:attributionURL me" title="James W.D. Stewart" xmlns:cc="http://creativecommons.org/ns#">James Stewart</a> is licensed under a <a
-        href="http://creativecommons.org/licenses/by-nc-sa/4.0" rel="external license" target="_blank" title="">Creative Commons
-      Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />
-      Based on a work at <a href="https://github.com/jwds1978/jwds1978.github.io" rel="dct:source me" target="_blank" title=""
+        href="http://creativecommons.org/licenses/by-nc-sa/4.0" rel="external license" target="_blank" title="Creative Commons Licence :: BY-NC-SA">Creative
+      Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.&nbsp; Based on a work at <a
+        href="https://github.com/jwds1978/jwds1978.github.io" rel="dct:source me" target="_blank" title="jwds1978/jwds1978.github.io :: Embrace 'The Suck'"
         xmlns:dct="http://purl.org/dc/terms">https://github.com/jwds1978/jwds1978.github.io</a>.
   singleLine:
     text: "Copyright (c) 2017 James W.D. Stewart.  All rights reserved."
