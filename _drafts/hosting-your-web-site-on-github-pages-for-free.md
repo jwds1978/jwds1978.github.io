@@ -96,6 +96,10 @@ tags:
 title: "Hosting Your Web Site on GitHub Pages for Free"
 ---
 
+<!--
+  ~ http://docs.pinegrow.com/misc/host-html-website-github-pages-free
+  -->
+
 <p>
   GitHub's a great place for hosting your semi-static Web site.&nbsp; It's free and you can even use your own custom domain name.
 </p>
