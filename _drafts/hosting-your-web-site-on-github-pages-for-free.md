@@ -119,3 +119,13 @@ title: "Hosting Your Web Site on GitHub Pages for Free"
   Extend your GitHub workflow beyond your browser with the <a href="{{ site.url }}{{ page.url }}#cite-github-desktop" rel="me" title="GitHub Desktop">Desktop
   Beta</a>, completely redesigned with Electron.&nbsp; Get a unified cross-platform experience that's completely open source and ready to customize.
 </p>
+<p>
+  &nbsp;
+</p>
+<h3 id="create-a-repository">
+  Create a Repository
+</h3>
+<p>
+  Open the GitHub Desktop app and click on &quot;Create new repository&quot;.&nbsp; Select the folder where your Web site's located and click on the
+  &quot;Create repository&quot; button.
+</p>
