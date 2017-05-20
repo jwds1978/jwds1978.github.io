@@ -61,6 +61,7 @@ title: "Snapchat Advertising: The Cost of Targeting Millennials"
   launched Snapchat, and suddenly my mouth started watering&hellip;&nbsp; My neighbour had posted a picture of himself &#8212; eating a huge, yummy
   burger.&nbsp; The ridiculous tradition to take pics of food, and boast of them publicly, appears to have migrated from Instagram to Snapchat.
 </p>
+<!-- excerptBreak -->
 <p>
   Next, what I saw was a 10-second video, advertising a local snack bar, with a home delivery service.&nbsp; The hunger and no energy to cook did their
   part.&nbsp; A click on the ad brought me to the snack bar Web site where I ordered my favourite pasta with mussels and calamari.&nbsp; And, then it hit
