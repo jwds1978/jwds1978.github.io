@@ -1,3 +1,8 @@
+---
+sitemap: false
+---
+
+{{ site.copyright.comment.java }}
 /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
 (function(w){
 	"use strict";
