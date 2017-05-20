@@ -63,7 +63,7 @@ date: "0000-00-00 00:00:00 America/Toronto"
 disqusIdentifier: 2KKFN7QJ5XPPJ2VG597C99XM43K2H7TCRZZVEBQGN9FBT9USX8FDJYGC3DKY7M7BXHT72PHBR28RBN9SJ3NKS58DX9Z6NXV2GQGM
 image:
   height: 
-  path: "https://assets.forces.army/blog/"
+  path: "https://assets.forces.army/blog/2017/05/20/hosting-your-web-site-on-github-pages-for-free/hotlink-ok/"
   width: 
 last_modified_at: "0000-00-00 00:00:00 America/Toronto"
 layout: post
@@ -112,8 +112,8 @@ title: "Hosting Your Web Site on GitHub Pages for Free"
 <p>
   &nbsp;
 </p>
-<h3 id="download-github-dekstop">
-  Download GitHub Dekstop
+<h3 id="download-github-desktop">
+  Download GitHub Desktop
 </h3>
 <p>
   Extend your GitHub workflow beyond your browser with the <a href="{{ site.url }}{{ page.url }}#cite-github-desktop" rel="me" title="GitHub Desktop">Desktop

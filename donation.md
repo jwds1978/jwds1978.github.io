@@ -5,9 +5,7 @@ title: Donate
 
 {% include adsense_large-skyscraper_300x600.htm %}
 <h3 id="bitcoin">
-  <i aria-hidden="true" class="fa fa-btc"></i>&nbsp;
-  Bitcoin&nbsp;
-  <sup>Preferred</sup>
+  <i aria-hidden="true" class="fa fa-btc"></i>&nbsp; Bitcoin&nbsp; <sup>Preferred</sup>
 </h3>
 <ul>
   <li>
@@ -32,7 +30,7 @@ title: Donate
   &nbsp;
 </p>
 <h3 id="fiat">
-  Fiat
+  <i aria-hidden="true" class="fa fa-money"></i>&nbsp; Fiat
 </h3>
 <ul>
   <li>

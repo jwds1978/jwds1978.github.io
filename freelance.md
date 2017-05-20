@@ -404,13 +404,13 @@ title: "Freelance"
 </h3>
 <ul>
   <li>
-    Bitcoin&nbsp; <sup>Preferred</sup>
+    <i aria-hidden="true" class="fa fa-btc"></i>&nbsp; Bitcoin&nbsp; <sup>Preferred</sup>
   </li>
   <li>
-    Fiat
+    <i aria-hidden="true" class="fa fa-money"></i>&nbsp; Fiat
     <ul>
       <li>
-        Cash
+        <i aria-hidden="true" class="fa fa-usd"></i>&nbsp; Cash
         <ul>
           <li>
             This payment method is available for in-person payments only.
@@ -418,10 +418,10 @@ title: "Freelance"
         </ul>
       </li>
       <li>
-        Credit Card
+        <i aria-hidden="true" class="fa fa-credit-card"></i>&nbsp; Credit Card
       </li>
       <li>
-        PayPal
+        <i aria-hidden="true" class="fa fa-paypal"></i>&nbsp; PayPal
       </li>
     </ul>
   </li>
