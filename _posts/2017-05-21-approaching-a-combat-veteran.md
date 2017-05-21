@@ -39,6 +39,7 @@ title: "Approaching a Combat Veteran"
   stupid, as I have a zero-tolerance for ignorance and stupidity &#8212; it's where I get some of my greatest inspirations.&nbsp; However, at times, my
   condition may not permit me to interact on a desired level and/or in an expected way.
 </p>
+<!-- excerptBreak -->
 <p>
   The PTSD mind sees all of the interactions and people as a possible threat &#8212; even loved ones and friends that we've known for our entire lives.&nbsp;
   In-between events and workshops, I was concentrating heavily on trying to talk to people and maintain my anxiety level, which gets in the way of
