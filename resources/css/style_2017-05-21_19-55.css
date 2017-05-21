@@ -499,7 +499,7 @@ a small {
 }
 
 ul {
-  list-style-image: url("../../assets/images/bullet.png");
+  list-style-image: url("../images/bullet_10x08.png");
 }
 
 strong {
@@ -575,7 +575,7 @@ hr {
   border: 0;
   outline: none;
   height: 3px;
-  background: transparent url("../../assets/images/hr.gif") center center repeat-x;
+  background: transparent url("../images/hr_5x3.png") center center repeat-x;
   margin: 0 0 20px;
 }
 
@@ -586,7 +586,7 @@ dt {
 }
 
 #header {
-  background: url(../../assets/images/nav-bg.gif) #353535;
+  background: url("../images/nav_bg_52x52.png") #353535;
   border-bottom: 4px solid #434343;
   box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
   left: 0;
