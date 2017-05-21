@@ -19,6 +19,19 @@ image:
 last_modified_at: "2017-05-21 14:42:43 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_elm_40"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154319367957084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/R1R1CGwyLdf"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650255497"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/866366529990008832"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
   - MyCAF
