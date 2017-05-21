@@ -22,6 +22,12 @@ canada_ontario_sudbury_barrydowne_465:
     latitude: 46.5063465
     longitude: -80.9448486
   text: "Tim Hortons, 465 Barrydowne Rd., Sudbury, Ontario, P3A 3T4, Canada"
+canada_ontario_sudbury_barrydowne_1400:
+  altitude: 280
+  dd:
+    latitude: 46.5291617
+    longitude: -80.94055430000003
+  text: "Cambrian College of Applied Arts and Technology, 1400 Barrydowne Rd., Sudbury, Ontario, P3A 3V8, Canada"
 canada_ontario_sudbury_bruce_720:
   altitude: 265
   dd:
