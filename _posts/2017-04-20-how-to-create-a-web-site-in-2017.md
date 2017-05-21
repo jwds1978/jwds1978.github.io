@@ -13,7 +13,7 @@ citations:
   - author: "Bluehost"
     date:
       accessed: "2017-04-18 16:08:58 America/Toronto"
-    href: "https://go.forces.army/Bluehost"
+    href: "https://www.bluehost.com"
     name: "Bluehost"
     slug: "bluehost"
   - author: "Dries Buytaert"

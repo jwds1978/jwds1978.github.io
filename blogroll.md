@@ -6,8 +6,7 @@ image:
 title: Blogroll
 ---
 
-<img
-  alt="" height="133" src="{{ site.uri.assets }}/naked/images/blogroll-of-awesome_482x133.png"
+<img alt="" height="133" src="{{ site.uri.assets }}/naked/images/blogroll-of-awesome_482x133.png"
   style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
 <p>
   &nbsp;
@@ -57,8 +56,8 @@ title: Blogroll
 </h3>
 <ul>
   <li>
-    <a href="{{ site.uri.shortURL }}/10KHits" rel="external" target="_blank" title="10KHits"><img
-      alt="" height="60" src="{{ site.uri.assets }}/naked/images/10KHits_468x060.png" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
+    <a href="{{ site.uri.shortURL }}/10KHits" rel="external" target="_blank" title="10KHits"><img alt="" height="60"
+      src="{{ site.uri.assets }}/naked/images/10KHits_468x060.png" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
     <a href="{{ site.uri.shortURL }}/10KHits" rel="external" target="_blank" title="10KHits">10KHits</a>
     <ul>
       <li>
@@ -67,9 +66,8 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/Anonymous-Ads" rel="external" target="_blank" title="Anonymous Ads"><img
-      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right; margin-left: 10px;"
-      width="117" /></a>
+    <a href="{{ site.uri.shortURL }}/Anonymous-Ads" rel="external" target="_blank" title="Anonymous Ads"><img alt="" height="40"
+      src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right; margin-left: 10px;" width="117" /></a>
     <a href="{{ site.uri.shortURL }}/Anonymous-Ads" rel="external" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
     <ul>
       <li>
@@ -101,8 +99,8 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/Cryptopay" rel="external" target="_blank" title="Cryptopay"><img
-      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Cryptopay_328x040.png" style="border: 0px; float: right; margin-left: 10px;" width="328" /></a>
+    <a href="{{ site.uri.shortURL }}/Cryptopay" rel="external" target="_blank" title="Cryptopay"><img alt="" height="40"
+      src="{{ site.uri.assets }}/naked/images/Cryptopay_328x040.png" style="border: 0px; float: right; margin-left: 10px;" width="328" /></a>
     <a href="{{ site.uri.shortURL }}/Cryptopay" rel="external" target="_blank" title="Cryptopay">Cryptopay</a>
     <ul>
       <li>
@@ -111,8 +109,8 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/FastMail" rel="external" target="_blank" title="FastMail"><img
-      alt="" height="40" src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right; margin-left: 10px;" width="286" /></a>
+    <a href="{{ site.uri.shortURL }}/FastMail" rel="external" target="_blank" title="FastMail"><img alt="" height="40"
+      src="{{ site.uri.assets }}/naked/images/FastMail_286x040.png" style="border: 0px; float: right; margin-left: 10px;" width="286" /></a>
     <a href="{{ site.uri.shortURL }}/FastMail" rel="external" target="_blank" title="FastMail">FastMail</a>
     <ul>
       <li>
@@ -121,13 +119,11 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/Fiverr" rel="external" target="_blank" title="Fiverr">Fiverr</a> <img
-      alt="" height="1" src="https://tracking.fiverr.com/aff_i?aff_id=24221&offer_id=1712"
-      style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
+    <a href="http://fiverr.com" rel="external" target="_blank" title="Fiverr">Fiverr</a>
     <div style="text-align: center;">
-      <a href="{{ site.uri.shortURL }}/Fiverr" rel="external" target="_blank" title="Fiverr"><img
-        alt="" height="244" src="{{ site.uri.assets }}/naked/images/Fiverr_work-less_482x244.png"
-        style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" /></a>
+      <a href="http://fiverr.com" rel="external" target="_blank" title="Fiverr"><img alt="" height="244"
+        src="{{ site.uri.assets }}/naked/images/Fiverr_work-less_482x244.png" style="border: 0px; display: block; margin-left: auto; margin-right: auto;"
+        width="482" /></a>
     </div>
     &nbsp;
   </li>
@@ -140,8 +136,8 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/LastPass" rel="external" target="_blank" title="LastPass"><img
-      alt="" height="40" src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right; margin-left: 10px;" width="271" /></a>
+    <a href="{{ site.uri.shortURL }}/LastPass" rel="external" target="_blank" title="LastPass"><img alt="" height="40"
+      src="{{ site.uri.assets }}/naked/images/LastPass_271x040.png" style="border: 0px; float: right; margin-left: 10px;" width="271" /></a>
     <a href="{{ site.uri.shortURL }}/LastPass" rel="external" target="_blank" title="LastPass">LastPass</a>
     <ul>
       <li>
@@ -150,9 +146,8 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="https://medicalert.ca/speak4me" rel="external" target="_blank" title="MedicAlert"><img
-      alt="" height="227" src="{{ site.uri.assets }}/naked/images/MedicAlert-Foundation_376x227.png" style="border: 0px; float: right; margin-left: 10px;"
-      width="376" /></a>
+    <a href="https://medicalert.ca/speak4me" rel="external" target="_blank" title="MedicAlert"><img alt="" height="227"
+      src="{{ site.uri.assets }}/naked/images/MedicAlert-Foundation_376x227.png" style="border: 0px; float: right; margin-left: 10px;" width="376" /></a>
     <a href="https://medicalert.ca/speak4me" rel="external" target="_blank" title="MedicAlert">MedicAlert</a>&nbsp; <sup>Referral Code: JS17-1979</sup>
     <ul>
       <li>
@@ -191,9 +186,8 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/Mr-Rebates" rel="external" target="_blank" title="Mr. Rebates"><img
-      alt="" height="60" src="{{ site.uri.assets }}/naked/images/Mr-Rebates_120x060.gif" style="border: 0px; float: right; margin-left: 10px;"
-      width="120" /></a>
+    <a href="{{ site.uri.shortURL }}/Mr-Rebates" rel="external" target="_blank" title="Mr. Rebates"><img alt="" height="60"
+      src="{{ site.uri.assets }}/naked/images/Mr-Rebates_120x060.gif" style="border: 0px; float: right; margin-left: 10px;" width="120" /></a>
     <a href="{{ site.uri.shortURL }}/Mr-Rebates" rel="external" target="_blank" title="Mr. Rebates">Mr. Rebates</a>
     <ul>
       <li>
@@ -208,12 +202,11 @@ title: Blogroll
   </li>
   <li>
     <div style="float: right; margin-left: 10px;">
-      <a href="{{ site.uri.shortURL }}/PIA" rel="external" target="_blank" title="Private Internet Access"><img
-        alt="" height="438" src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_320x438.png" style="border: 0px; float: right;"
-        width="320" /></a><br />
+      <a href="{{ site.uri.shortURL }}/PIA" rel="external" target="_blank" title="Private Internet Access"><img alt="" height="438"
+        src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_320x438.png" style="border: 0px; float: right;" width="320" /></a><br />
       &nbsp;<br />
-      <a href="{{ site.uri.shortURL }}/DNS-Leak-Test" rel="external" target="_blank" title="DNS Leak Test"><img
-        alt="" height="62" src="{{ site.uri.assets }}/naked/images/dns-leak-test_320x062.png" style="border: 0px; float: right;" width="320" /></a>
+      <a href="{{ site.uri.shortURL }}/DNS-Leak-Test" rel="external" target="_blank" title="DNS Leak Test"><img alt="" height="62"
+        src="{{ site.uri.assets }}/naked/images/dns-leak-test_320x062.png" style="border: 0px; float: right;" width="320" /></a>
     </div>
     <a href="{{ site.uri.shortURL }}/PIA" rel="external" target="_blank" title="Private Internet Access">Private Internet Access</a>
     <ul>
@@ -287,9 +280,8 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster"><img
-      alt="" height="248" src="{{ site.uri.assets }}/naked/images/Template-Monster_249x248.png" style="border: 0px; float: right; margin-left: 10px;"
-      width="249" /></a>
+    <a href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster"><img alt="" height="248"
+      src="{{ site.uri.assets }}/naked/images/Template-Monster_249x248.png" style="border: 0px; float: right; margin-left: 10px;" width="249" /></a>
     <a href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">Template Monster</a>
     <ul>
       <li>
@@ -353,12 +345,10 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" rel="external" target="_blank" title="TunnelBear"><img
-      alt="" height="40" src="{{ site.uri.assets }}/naked/images/TunnelBear_312x040.png" style="border: 0px; float: right; margin-left: 10px;"
-      width="312" /></a>
+    <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" rel="external" target="_blank" title="TunnelBear"><img alt="" height="40"
+      src="{{ site.uri.assets }}/naked/images/TunnelBear_312x040.png" style="border: 0px; float: right; margin-left: 10px;" width="312" /></a>
     <a href="{{ site.uri.shortURL }}/TunnelBear/&file_id=6&offer_id=2" rel="external" target="_blank" title="TunnelBear">TunnelBear</a>
-    <img
-      alt="" height="1" src="https://click.tunnelbear.com/aff_i?aff_id=2760&file_id=6&offer_id=2"
+    <img alt="" height="1" src="https://click.tunnelbear.com/aff_i?aff_id=2760&file_id=6&offer_id=2"
       style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
     <ul>
       <li>
@@ -368,8 +358,8 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS"><img
-      alt="" height="60" src="{{ site.uri.assets }}/naked/images/WHMCS_468x060.gif" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
+    <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS"><img alt="" height="60"
+      src="{{ site.uri.assets }}/naked/images/WHMCS_468x060.gif" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
     <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS">WHMCS</a>
     <ul>
       <li>
