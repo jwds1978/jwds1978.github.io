@@ -45,9 +45,10 @@ image:
   height: 483
   path: "https://assets.forces.army/blog/2017/05/20/snapchat-advertising-the-cost-of-targeting-millennials/hotlink-ok/innominate_1_900x483.png"
   width: 900
-last_modified_at: "2017-05-20 14:54:37 America/Toronto"
+last_modified_at: "2017-05-20 23:13:34 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+modifiedReason: Spelling
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154316825677084"
     text: Facebook
@@ -84,9 +85,9 @@ title: "Snapchat Advertising: The Cost of Targeting Millennials"
     style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="480" />
 </p>
 <p>
-  People use Snapchat for the promotion of their businesses.&nbsp; I've been using the app for a long time ow, but have never looked at it from that angle
+  People use Snapchat for the promotion of their businesses.&nbsp; I've been using the app for a long time now, but have never looked at it from that angle
   before.&nbsp; Giants such as Facebook, Instagram, and Twitter turned out to be not the only stars in the advertising galaxy.&nbsp; To pass the time before
-  getting my pasta, I decided to learn more about Snapchat advertising.&nbp; I was curious as to whether the app would do for promoting my own stuff.&nbsp;
+  getting my pasta, I decided to learn more about Snapchat advertising.&nbsp; I was curious as to whether the app would do for promoting my own stuff.&nbsp;
   Here's what I'd found:
   <ul>
     <li>
