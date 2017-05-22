@@ -493,7 +493,7 @@ title: "Curriculum Vitae"
     <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
   </span>
   <h3 id="education">
-    Education
+    <i aria-hidden="true" class="fa fa-university"></i>&nbsp; Education
   </h3>
   <div class="h-card h-event p-education">
     <p>

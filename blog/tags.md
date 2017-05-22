@@ -46,7 +46,7 @@ title: "Blog (Tags)"
   &nbsp;
 </p>
 <p style="text-align: center;">
-  Filter the Things by:&nbsp;
+  <i aria-hidden="true" class="fa fa-filter"></i> Filter the Things by:&nbsp;
   <a href="{{ site.url }}/blog" rel="me" title="">All</a>&nbsp;
   &bull;&nbsp; <a href="{{ site.url }}/blog/categories" rel="me" title="">Category</a>&nbsp;
   &bull;&nbsp; <span style="color: rgb(143, 200, 71);">Tag</span>
