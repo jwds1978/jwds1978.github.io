@@ -57,7 +57,7 @@ date: "0000-00-00 00:00:00 America/Toronto"
 disqusIdentifier: 
 image:
   height: 
-  path: "https://assets.forces.army/blog/"
+  path: "https://assets.forces.army/hotlink-ok/"
   width: 
 last_modified_at: "0000-00-00 00:00:00 America/Toronto"
 layout: post
