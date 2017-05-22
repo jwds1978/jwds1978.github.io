@@ -17,9 +17,10 @@ image:
   height: 400
   path: "https://assets.forces.army/blog/2017/05/22/darkness-and-depression/hotlink-ok/innominate_2_600x400.png"
   width: 600
-last_modified_at: "2017-05-22 06:31:15 America/Toronto"
+last_modified_at: "2017-05-22 14:31:41 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_martindale_1373"
+modifiedReason: Grammar
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154320978702084"
     text: Facebook
@@ -83,7 +84,7 @@ title: "Darkness and Depression"
   &quot;a poor self-image&quot;.
 </p>
 <p>
-  Fast forward a few months&hellip;
+  Fast-forward several years&hellip;
 </p>
 <p>
   Not many people talk about suicidal ideation.&nbsp; It seems that they're either embarrassed, worried about alarming their loved ones, and/or afraid of being
@@ -92,18 +93,19 @@ title: "Darkness and Depression"
 </p>
 <p>
   The other night, I was lying on a makeshift bed of cardboard in a back alley &#8212; completely, in the dark &#8212; waiting to fall asleep.&nbsp; The
-  self-effacing negativity, and spitting of curses at myself, ran rampant as it had for a while.&nbsp; It was something that I'd grown accustomed to.&nbsp;
+  self-effacing negativity, and spitting of curses at myself, ran rampant as it had for some time.&nbsp; It was something that I'd grown accustomed to.&nbsp;
   The dark thoughts are easier to push away when I'm alert.&nbsp; When I'm tired though, about to fall asleep, it's often a very different story.
 </p>
 <p>
   For me, as a man who had experienced a suicide in his immediate family, it will never be an option.&nbsp; I realize, on both an emotional and intellectual
-  level, that it only hurts the ones whom you love.&nbsp; But, that doesn't stop the theatre of the macabre from acting itself out my head anyway.&nbsp;
+  level, that it only hurts the ones whom you love.&nbsp; But, that doesn't stop the theatre of the macabre from acting itself out in my head anyway.&nbsp;
   Thoughts and images of hurting myself, flash before my eyes, faster than I can stop them.&nbsp; I know that I'll never act on them.&nbsp; I know that I'm,
   physically, in control.&nbsp; Still &#8212; and, I doubt that I'm alone on this &#8212; simply having the thoughts, can be discouraging.
 </p>
 <p>
-  I find that flashes of self-harm occur rather vividly and alongside waves of self-deprecation and doubt.&nbsp; The slightest slip-up or failure can trigger
-  them.&nbsp; Those who know me well, have learned that I vent this negativity, through creativity and jokes.
+  I find that flashes of self-harm occur rather vividly and alongside waves of self-deprecation and doubt.&nbsp; The slightest slip-up and/or failure can
+  trigger them.&nbsp; Those who know me well, have learned that I vent this negativity, through creativity and jokes.&nbsp; As with most all veterans, I've got
+  a somewhat twisted and warped sense of humour.
 </p>
 <p>
   I've been grappling with this issue, both intellectually and spiritually, for quite awhile now.&nbsp; My goal has been to, symbolically, represent the causes
@@ -116,7 +118,7 @@ title: "Darkness and Depression"
   both, the protagonist and the antagonist &#8212; literally, your own worst enemy.&nbsp; The voice that you hear, the one screaming that you're
   &quot;pathetic&quot; and/or &quot;weak&quot; and/or &quot;disgusting&quot;, it's your own voice.&nbsp; And, after a while, you become convinced that you're
   the one doing the talking.&nbsp; Why wouldn't you?&nbsp; It's your voice&hellip;&nbsp; Your brain&hellip;&nbsp; You're the one, conjuring up these thoughts,
-  because you're &quot;sick&quot right?
+  because you're &quot;sick&quot; right?
 </p>
 <p>
   I'm no longer convinced.
@@ -172,7 +174,7 @@ title: "Darkness and Depression"
 <p>
   What ensued was astounding&hellip;&nbsp; My head and face tingled.&nbsp; I felt a, distinct crunching feeling within the tip-top of my brain &#8212; as if,
   the folds of my cerebral cortex, where tightening and strengthening themselves.&nbsp; I'm used to getting headaches, but a new and different one presented
-  itself at my forehead.&nbsp; I welcomed it&hellip;nbsp; I knew something big was happening.&nbsp; That some new &#8212; or, old and forgotten &#8212; pathway
+  itself at my forehead.&nbsp; I welcomed it&hellip;&nbsp; I knew something big was happening.&nbsp; That some new &#8212; or, old and forgotten &#8212; pathway
   was being opened-up and I was (re)learning how to make use of it.
 </p>
 <p>
