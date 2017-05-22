@@ -20,6 +20,19 @@ image:
 last_modified_at: "2017-05-22 06:31:15 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_martindale_1373"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154320978702084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/RQr5Cz1TsQH"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650264094"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/866603565086908416"
+    text: Twitter
+    title: Twitter
 tags:
   - MyCAF
   - Opinionated
