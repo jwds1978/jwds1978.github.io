@@ -13,4 +13,3 @@ title: "Search"
     googleSearchIframeName = "cse-search-results",
     googleSearchPath = "/cse";
 </script>
-<script src="http://www.google.com/afsonline/show_afs_search.js" type="text/javascript"></script>
