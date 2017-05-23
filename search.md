@@ -13,4 +13,4 @@ title: "Search"
     googleSearchIframeName = "cse-search-results",
     googleSearchPath = "/cse";
 </script>
-<script async src="{{ site.url }}/assets/js/Google_CSE_2017-05-23_09-29_min.js" type="text/javascript"></script>
+<script async src="{{ site.url }}/resources/js/Google_CSE_2017-05-23_09-29_min.js" type="text/javascript"></script>
