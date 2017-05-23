@@ -192,14 +192,14 @@ title: "Darkness and Depression"
   and now that I've learned to put a muzzle on the liar, it's one that makes me burn with a healthy anger &#8212; rooted in self-respect.
 </p>
 <p>
-  I'm sure the Puppet-Master reinforced that lie.&nbsp; He still likes to catch me unaware and slip in self-hate and violence when he gets the chance.&nbsp;
+  I'm sure the Puppet Master reinforced that lie.&nbsp; He still likes to catch me unaware and slip in self-hate and violence when he gets the chance.&nbsp;
   But, I'm onto his game now though.&nbsp; When I catch him, I get angry.&nbsp; I step out of the circle, locate him, and drag his wretched ass to a nice box
   that I constructed in the corner of my mind.&nbsp; I borrowed the box metaphor from my fellow veterans.&nbsp; Now, I know what to put in there.
 </p>
 <p>
   What should you make of all of this?&nbsp; I don't really know.&nbsp; You may think that I've lost my mind and/or that I've used too many psychedelic
   drugs.&nbsp; To me, it seems like a lot of veterans &#8212; and, people struggling with mental illness, in general &#8212; believe lies about
-  themselves.&nbsp; What I've done, in my best estimation, is find a way in which to represent the source of the lies &#8212; a Puppet-Master &#8212; and, a way
+  themselves.&nbsp; What I've done, in my best estimation, is find a way in which to represent the source of the lies &#8212; a Puppet Master &#8212; and, a way
   to control it.&nbsp; Some people achieve this through medication and therapy, others through exercise, and still others through religion and service.&nbsp; My
   journey has been a combination of all of these things and it's far from over.&nbsp; Howevere, I've just won a major battle.
 </p>
