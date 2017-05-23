@@ -7,7 +7,7 @@ citations:
     date:
       accessed: "2017-04-03 14:47:38 America/Toronto"
       published: "2014-11-17 America/Toronto"
-    href: "http://forces.army/store/#detail/B00PJIDO9C"
+    href: "https://forces.army/store/#detail/B00PJIDO9C"
     name: "Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer"
     slug: "stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer"
 date: "2017-04-03 16:20:39 America/Toronto"

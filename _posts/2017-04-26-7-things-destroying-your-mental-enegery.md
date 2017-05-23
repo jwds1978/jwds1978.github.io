@@ -7,7 +7,7 @@ citations:
     date:
       accessed: "2017-04-26 16:30:25 America/Toronto"
       published: "2007-01-01 America/Toronto"
-    href: "http://store.forces.army/#detail/1576754227"
+    href: "https://store.forces.army/#detail/1576754227"
     name: "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time"
     slug: "eat-that-frog-21-great-ways-to-stop-procrastinating-and-get-more-done-in-less-time"
   - author: "Marlynn Wei"

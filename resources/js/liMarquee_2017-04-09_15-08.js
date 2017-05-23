@@ -736,7 +736,7 @@ sitemap: false
       })
     }
   };
-  var _0xbd01x5a = 'http://codecanyon.net/item/limarquee-jquery-responsive-marquee-/12947320';
+  var _0xbd01x5a = 'https://codecanyon.net/item/limarquee-jquery-responsive-marquee-/12947320';
   var _0xbd01x5b = 'www.codecanyon.net';
   var _0xbd01x5c = 'liMarquee';
   var _0xbd01x5e = _0xbd01x1('');
