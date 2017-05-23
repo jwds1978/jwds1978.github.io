@@ -17,10 +17,10 @@ image:
   height: 400
   path: "https://assets.forces.army/blog/2017/05/22/darkness-and-depression/hotlink-ok/innominate_2_600x400.png"
   width: 600
-last_modified_at: "2017-05-22 14:31:41 America/Toronto"
+last_modified_at: "2017-05-22 23:09:58 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_martindale_1373"
-modifiedReason: Grammar
+modifiedReason: Spelling
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154320978702084"
     text: Facebook
@@ -75,9 +75,9 @@ title: "Darkness and Depression"
   the aforementioned passage, to describe to my girlfriend of the time, how empty and defeated depression made me feel.
 </p>
 <p>
-  We have different names for these things now.&nbsp; However, &quot;sights of woe&quot; sounds an awful lot like intrusive thoughts.&nbsp; To me anyhow,
+  We have different names for such things now.&nbsp; However, &quot;sights of woe&quot; sounds an awful lot like intrusive thoughts.&nbsp; To me anyhow,
   &quot;doleful shades&quot; accurately described the synesthesia of strength-draining darkness that had creeped over me.&nbsp; With all promise of
-  &quot;rest&quot; and &quot;peace&quot;, dashed by medical science, and the constant voices of doubt in my head &#8212; I'd, most certainly, lost hope.
+  &quot;rest&quot; and &quot;peace&quot;, dashed by medical science, and the constant voices of doubt within my head &#8212; I'd, most certainly, lost hope.
 </p>
 <p>
   Worst of all though?&nbsp; The closest comparison that I could come up with, to describe myself, was that of Satan.&nbsp; A lot of doctors, would call that
@@ -88,7 +88,7 @@ title: "Darkness and Depression"
 </p>
 <p>
   Not many people talk about suicidal ideation.&nbsp; It seems that they're either embarrassed, worried about alarming their loved ones, and/or afraid of being
-  locked-up.&nbsp; Of course, all of these reasons, are valid.&nbsp; However, I made a promise &#8212; some time ago now &#8212; to be open and honest about
+  locked-up.&nbsp; Of course, all of these reasons, are valid.&nbsp; However, I made a promise &#8212; some time ago, now &#8212; to be open and honest about
   what I'm going through.&nbsp; I think that it makes me stronger, while helping those around me.&nbsp; So, again, here it goes.
 </p>
 <p>
@@ -99,30 +99,33 @@ title: "Darkness and Depression"
 <p>
   For me, as a man who had experienced a suicide in his immediate family, it will never be an option.&nbsp; I realize, on both an emotional and intellectual
   level, that it only hurts the ones whom you love.&nbsp; But, that doesn't stop the theatre of the macabre from acting itself out in my head anyway.&nbsp;
-  Thoughts and images of hurting myself, flash before my eyes, faster than I can stop them.&nbsp; I know that I'll never act on them.&nbsp; I know that I'm,
-  physically, in control.&nbsp; Still &#8212; and, I doubt that I'm alone on this &#8212; simply having the thoughts, can be discouraging.
+  Thoughts and images of hurting myself, flash before my eyes, faster than I can stop them.&nbsp; I know that I'll never act on them&hellip;&nbsp; I know that
+  I'm, physically, in control.&nbsp; Still &#8212; and, I doubt that I'm alone on this &#8212; simply having the thoughts, can be discouraging.
 </p>
 <p>
   I find that flashes of self-harm occur rather vividly and alongside waves of self-deprecation and doubt.&nbsp; The slightest slip-up and/or failure can
-  trigger them.&nbsp; Those who know me well, have learned that I vent this negativity, through creativity and jokes.&nbsp; As with most all veterans, I've got
-  a somewhat twisted and warped sense of humour.
+  trigger them.&nbsp; Those who know me well, have learnt that I vent this negativity, through creativity and jokes.&nbsp; As with most all veterans, I've got a
+  somewhat fucked-up &#8212; dark, twisted, and warped &#8212; sense of humour.
 </p>
 <p>
-  I've been grappling with this issue, both intellectually and spiritually, for quite awhile now.&nbsp; My goal has been to, symbolically, represent the causes
-  of the condition through language and understand &#8212; beyond the limits of medical science &#8212; the role of my soul.&nbsp; But, learning causes, didn't
-  result in the ability to produce effects.&nbsp; So, with each passing day, I'd learn something new.&nbsp; Each night, I'd lie in the dark &#8212; struggling
-  &#8212; waiting for that ability to come to me.
+  I've been grappling with this issue, both intellectually and spiritually, for quite some time now.&nbsp; My goal has been to, symbolically, represent the
+  causes of the condition through language and understand &#8212; beyond the limits of medical science &#8212; the role of my soul.&nbsp; But, learning causes,
+  didn't result in the ability to produce effects.&nbsp; So, with each passing day, I'd learn something new.&nbsp; Each night, I'd lie in the dark &#8212;
+  struggling &#8212; waiting, for that ability to come to me.
 </p>
 <p>
   Suicidal ideation's like being strapped to a chair and forced to watch a really graphic movie of your own death.&nbsp; Here's the catch&hellip;&nbsp; You're
   both, the protagonist and the antagonist &#8212; literally, your own worst enemy.&nbsp; The voice that you hear, the one screaming that you're
-  &quot;pathetic&quot; and/or &quot;weak&quot; and/or &quot;disgusting&quot;, it's your own voice.&nbsp; And, after a while, you become convinced that you're
+  &quot;disgusting&quot; and/or &quot;pathetic&quot; and/or &quot;weak&quot;, it's your own voice.&nbsp; And, after a while, you become convinced that you're
   the one doing the talking.&nbsp; Why wouldn't you?&nbsp; It's your voice&hellip;&nbsp; Your brain&hellip;&nbsp; You're the one, conjuring up these thoughts,
   because you're &quot;sick&quot; right?
 </p>
 <p>
   I'm no longer convinced.
 </p>
+<a href="{{ site.uri.assets }}/blog/2017/05/22/darkness-and-depression/2017-05-22_22-05-54_4128x3096.png" rel="me" target="_blank" title=""><img alt=""
+  height="362" src="{{ site.uri.assets }}/blog/2017/05/22/darkness-and-depression/2017-05-22_22-05-54_0482x0362.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" /></a>
 <p>
   On the night in question, I looked over&hellip;&nbsp; There sat my trusty knife &#8212; the one, which PTSD tells me to keep ready for threats, at all
   times.&nbsp; Then, came a flash of me stabbing myself and collapsing on my makeshift bed.&nbsp; It lasted for less than a second&hellip;&nbsp; However, it was
@@ -172,8 +175,8 @@ title: "Darkness and Depression"
   But, I knew better.&nbsp; I made a conscious decision to listen, and for the first time in months, the voice shut its damned mouth.
 </p>
 <p>
-  What ensued was astounding&hellip;&nbsp; My head and face tingled.&nbsp; I felt a, distinct crunching feeling within the tip-top of my brain &#8212; as if,
-  the folds of my cerebral cortex, where tightening and strengthening themselves.&nbsp; I'm used to getting headaches, but a new and different one presented
+  What ensued was astounding&hellip;&nbsp; My head and face tingled.&nbsp; I felt a, distinct, crunching feeling within the tip-top of my brain &#8212; as if,
+  the folds of my cerebral cortex, were tightening and strengthening themselves.&nbsp; I'm used to getting headaches, but a new and different one presented
   itself at my forehead.&nbsp; I welcomed it&hellip;&nbsp; I knew something big was happening.&nbsp; That some new &#8212; or, old and forgotten &#8212; pathway
   was being opened-up and I was (re)learning how to make use of it.
 </p>
@@ -201,7 +204,7 @@ title: "Darkness and Depression"
   drugs.&nbsp; To me, it seems like a lot of veterans &#8212; and, people struggling with mental illness, in general &#8212; believe lies about
   themselves.&nbsp; What I've done, in my best estimation, is find a way in which to represent the source of the lies &#8212; a Puppet Master &#8212; and, a way
   to control it.&nbsp; Some people achieve this through medication and therapy, others through exercise, and still others through religion and service.&nbsp; My
-  journey has been a combination of all of these things and it's far from over.&nbsp; Howevere, I've just won a major battle.
+  journey has been a combination of all of these things and it's far from over.&nbsp; However, I've just won a major battle.
 </p>
 <p>
   For now, I'll just keep listening.&nbsp; I'd encourage you to take the time to listen to yourself too.&nbsp; You may be surprised at what you come to learn.
