@@ -93,7 +93,8 @@ title: "Military Bloggers"
   editors, broadcasts, and/or publications.&nbsp; Some of these, such as Matt Gallagher's blog, later grew into larger, book-length works:
   <ul>
     <li>
-      <a href="{{ site.uri.aStore }}/#detail/0306819678" rel="me" title="">Kaboom: Embracing the Suck in a Savage Little War</a> by Matt Gallagher
+      <a href="{{ site.uri.aStore }}/detail/0306819678" rel="me" target="_blank" title="">Kaboom: Embracing the Suck in a Savage Little War</a> by Matt
+      Gallagher
     </li>
   </ul>
 </p>
@@ -101,12 +102,12 @@ title: "Military Bloggers"
   There are also published collections of mil-blogs.&nbsp; Such as:
   <ul>
     <li>
-      <a href="{{ site.uri.aStore }}/#detail/0740769456" rel="me" title="">Doonesbury.com's The Sandbox: Dispatches from Troops in Iraq and Afghanistan</a> by
-      G. B. Trudeau
+      <a href="{{ site.uri.aStore }}/detail/0740769456" rel="me" target="_blank" title="">Doonesbury.com's The Sandbox: Dispatches from Troops in Iraq and
+      Afghanistan</a> by G. B. Trudeau
     </li>
     <li>
-      <a href="{{ site.uri.aStore }}/#detail/0743294181" rel="me" title="">The Blog of War: Front-Line Dispatches from Soldiers in Iraq and Afghanistan</a> by
-      Matthew Currier Burden
+      <a href="{{ site.uri.aStore }}/detail/0743294181" rel="me" target="_blank" title="">The Blog of War: Front-Line Dispatches from Soldiers in Iraq and
+      Afghanistan</a> by Matthew Currier Burden
     </li>
   </ul>
 </p>

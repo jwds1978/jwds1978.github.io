@@ -273,11 +273,5 @@
         {% include footer.htm %}
       </section>
     </div>
-    {% if page.url == "/store/" %}
-    <script type="text/javascript">
-      var theLocation = window.location.hash;
-      theLocation = "#aStore#"+theLocation, theLocation = theLocation.replace(/#aStore##/, "#"), theLocation = theLocation.replace(/#aStore#/, "#"), theLocation = theLocation.replace(/#/, "https://astore.amazon.ca/forces-army-20/"), document.getElementById("aStore").src = theLocation;
-    </script>
-    {% endif %}
   </body>
 </html>
