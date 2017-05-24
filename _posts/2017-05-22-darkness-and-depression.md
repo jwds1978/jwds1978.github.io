@@ -8,7 +8,7 @@ citations:
     date:
       accessed: "2017-05-22 04:34:51 America/Toronto"
       published: "2003-04-29 America/Toronto"
-    href: "https://forces.army/store/#detail/0140424393"
+    href: "https://store.forces.army/detail/0140424393"
     name: "Paradise Lost"
     slug: "paradise-lost"
 date: "2017-05-22 06:31:15 America/Toronto"
