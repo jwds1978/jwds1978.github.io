@@ -50,6 +50,7 @@ title: "Your Blog, Going Nowhere"
   That's not the only reason why people fail.&nbsp; Some people are just lazy, thinking that it's going to happen, without doing any work.&nbsp; Other people,
   never learn how to promote their posts.&nbsp; Others still, are totally anonymous &#8212; needing to improve their connections, before they can succeed.
 </p>
+<!-- excerptBreak -->
 <p>
   However, there are also bloggers who do all of that right, and they're still stuck.&nbsp; They're working their asses off, doing everything imaginable to
   promote their blogs, and they're even networking masters who know everybody &#8212; but, they're still failing.&nbsp; And, it's because they suck at writing.
