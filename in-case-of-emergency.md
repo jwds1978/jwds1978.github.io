@@ -11,18 +11,15 @@ title: "In Case of Emergency"
 <p>
   &nbsp;
 </p>
-<img
-  alt="" height="409" src="{{ site.uri.assets }}/naked/images/Icey_442x409.png" style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;"
+<img alt="" height="409" src="{{ site.uri.assets }}/naked/images/Icey_442x409.png" style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;"
   width="442" />
 <h3 id="medicalert">
   MedicAlert&nbsp; <sup>ID #13193255C</sup>
 </h3>
 <p>
-  <a
-    href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-14_12-18_684x773.png" rel="me" target="_blank"
-    title="MedicAlert :: Wallet Card :: 2017-05-14T12:18-04:00"><img
-      alt="MedicAlert :: Wallet Card :: 2017-05-14T12:18-04:00" height="428" src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-14_12-18_379x428.png"
-      style="border: 0px;" width="379" /></a>
+  <a href="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-24_13-28_684x771.png" rel="me" target="_blank"
+    title="MedicAlert :: Wallet Card :: 2017-05-24T13:28-04:00"><img alt="MedicAlert :: Wallet Card :: 2017-05-24T13:28-04:00" height="427"
+    src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-24_13-28_379x427.png" style="border: 0px;" width="379" /></a>
 </p>
 <p>
   &nbsp;
