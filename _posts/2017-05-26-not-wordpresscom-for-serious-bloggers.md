@@ -192,6 +192,19 @@ image:
 last_modified_at: "2017-05-26 06:33:23 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_martindale_1373"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154331485682084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/QdhpKyb6b4u"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650318355"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/868099549352660992"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
   - Opinionated
