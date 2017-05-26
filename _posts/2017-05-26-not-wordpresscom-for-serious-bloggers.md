@@ -187,7 +187,7 @@ date: "2017-05-26 06:33:23 America/Toronto"
 disqusIdentifier: MTUHMM6XHHVRJZ2G5AWP66ZBBZNE9M8UB8CARMUUS6Q3SVP45TRJUS98Q2HWUJAYYW6SETK4HHRJJRPXHXFKWAH8TWQ4G3SBX4F2
 image:
   height: 327
-  path: "https://assets.forces.army/blog/blog/2017/05/26/not-wordpresscom-for-serious-bloggers/hotlink-ok/innominate_1_509x327.png"
+  path: "https://assets.forces.army/blog/2017/05/26/not-wordpresscom-for-serious-bloggers/hotlink-ok/innominate_1_509x327.png"
   width: 509
 last_modified_at: "2017-05-26 06:33:23 America/Toronto"
 layout: post
