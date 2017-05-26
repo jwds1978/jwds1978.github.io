@@ -223,6 +223,7 @@ title: "Not WordPress.com for Serious Bloggers"
     href="{{ site.url }}{{ page.url }}#cite-blog-tool-publishing-platform-and-cms-wordpress" rel="me"
     title="Blog Tool, Publishing Platform, and CMS :: WordPress">WordPress</a>.
 </p>
+<!-- excerptBreak -->
 <p>
   In fact, the more that you read, the more that it seems like you'd be a total idiot if you went with anything else.&nbsp; There are hundreds of <a
     href="{{ site.uri.shortURL }}/Template-Monster_WordPress" rel="external" target="_blank" title="">professional themes</a> to make your blog look absolutely
