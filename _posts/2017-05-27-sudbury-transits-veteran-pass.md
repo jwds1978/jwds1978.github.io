@@ -17,6 +17,19 @@ image:
 last_modified_at: "2017-05-27 11:01:17 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154334243242084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/8gSKgQpQiRA"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650331881"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/868484662682898432"
+    text: Twitter
+    title: Twitter
 tags:
   - MyCAF
   - Self
