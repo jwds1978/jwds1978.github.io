@@ -26,10 +26,10 @@ title: "Windows 10 :: Addition of a Guest Account"
   You can no longer enable the built-in Guest account within Windows 10, but you can workaround this by manually adding a guest account though.&nbsp; This
   article will show you how to add a guest account to your Windows 10 device.&nbsp; You must be signed-in as an administrator to be able to add a guest account.
 </p>
+<!-- excerptBreak -->
 <p>
   <span style="font-weight: bolder;">Note:</span>&nbsp; A guest account can't be a member of a homegroup.
 </p>
-<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>
