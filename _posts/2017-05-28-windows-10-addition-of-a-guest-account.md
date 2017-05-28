@@ -10,6 +10,19 @@ image:
 last_modified_at: "2017-05-28 10:08:24 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154336765207084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/hRSS7nKihhV"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650344647"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/868834869090164739"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
 title: "Windows 10 :: Addition of a Guest Account"
