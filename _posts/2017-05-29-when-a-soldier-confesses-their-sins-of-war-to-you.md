@@ -36,6 +36,7 @@ title: "When a Soldier Confesses Their Sins of War to You"
   as you.&nbsp; In combat, we have to compartmentalize all of the horrors of war, due to our inability to process it &#8212; to do otherwise, would get us
   killed.
 </p>
+<!-- excerptBreak -->
 <p>
   By listening and giving them comfort, they can begin to regain that part of the mind that's been ravaged by war.&nbsp; They aren't necessarily proud of some
   of the things which they'll share with you.&nbsp; Don't tell them that you're proud of them, in these moments, for this is a judgment.&nbsp; Deep down, they
