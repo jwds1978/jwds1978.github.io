@@ -17,7 +17,7 @@ comments: true
     19781107
   </p>
   <p class="h-adr p-adr">
-    <span class="p-label">Home</span>:<br />
+    <i aria-hidden="true" class="fa fa-home"></i> <span class="p-label">Home</span>:<br />
     <span class="p-street-address">2 - 557 Kathleen St.</span><br />
     <span class="p-locality">Sudbury</span>, <abbr class="p-region" title="Ontario">ON</abbr>&nbsp; <span class="p-postal-code">P3C 2N1</span><br />
     <abbr class="p-country-name" title="Canada">CA</abbr>

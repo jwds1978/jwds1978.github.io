@@ -83,7 +83,7 @@ title: Contact
     PGP
     <ul>
       <li>
-        Public Keys
+        <i aria-hidden="true" class="fa fa-key"></i>&nbsp; Public Keys
         <ul>
           <li>
             <a href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me" target="_blank"
@@ -201,7 +201,7 @@ title: Contact
 </h3>
 <ul>
   <li>
-    Home
+    <i aria-hidden="true" class="fa fa-home"></i>&nbsp; Home
     <ul>
       <li>
         2 &#8212; 557 Kathleen St.<br />
