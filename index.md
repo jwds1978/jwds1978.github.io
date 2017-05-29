@@ -6,26 +6,25 @@ comments: true
 <!--email_off-->
 <div class="h-card" style="display: none;">
   <a class="u-email" href="mailto:james.stewart@forces.army" rel="me" target="_blank">james.stewart@forces.army</a>
-  <a
-    class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551" rel="me"
+  <a class="u-impp" href="xmpp:james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551" rel="me"
     target="_blank>james.stewart@forces.army</a>
-  <a
-    class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me"
+  <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me"
     target="_blank">614FFF680E92BAE869C878E361BCA817AFFA1F1D</a>
   <a class="u-url" href="{{ site.url }}" rel="me">{{ site.url }}</a>
-  <img alt="James Stewart" class="u-logo u-photo" height="960" src="{{ site.uri.assets }}/naked/images/JWDS_960x960.jpg" style="border: 0px;" width="960" />
+  <img alt="James Stewart" class="u-logo u-photo" height="960" src="{{ site.uri.assets }}/naked/images/hotlink-ok/JWDS_960x960.jpg" style="border: 0px;"
+    width="960" />
   <p class="dt-bday">
     19781107
   </p>
   <p class="h-adr p-adr">
-    PO Box <span class="p-post-office-box">51042</span><br />
-    <span class="p-extended-address">Elm PO</span><br />
-    <span class="p-locality">Sudbury</span>, <abbr class="p-region" title="Ontario">ON</abbr>&nbsp; <span class="p-postal-code">P3C 1T0</span><br />
+    <span class="p-label">Home</span>:<br />
+    <span class="p-street-address">2 - 557 Kathleen St.</span><br />
+    <span class="p-locality">Sudbury</span>, <abbr class="p-region" title="Ontario">ON</abbr>&nbsp; <span class="p-postal-code">P3C 2N1</span><br />
     <abbr class="p-country-name" title="Canada">CA</abbr>
   </p>
   <p class="h-geo p-geo">
-    <data class="p-longitude" value="46.49">46&deg; 29' 24&quot; N</data>, <data class="p-latitude" value="-81.01">81&deg; 0' 36&quot; W</data>
-    (<data class="p-altitude" value="347.5">1,140.1 ft.</data>)
+    <data class="p-longitude" value="-81.004458">81&deg; 0' 16.048&quot; W</data>, <data class="p-latitude" value="46.5001578">46&deg; 30' 0.568&quot; N</data>
+    (<data class="p-altitude" value="277">908.793 ft.</data>)
   </p>
   <p class="p-additional-name">
     William Dean
