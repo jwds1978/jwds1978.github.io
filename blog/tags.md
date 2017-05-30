@@ -35,9 +35,8 @@ title: "Blog (Tags)"
   }
 </style>
 <p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
-  This is my view, from my foxhole.&nbsp; &quot;Everybody has their own war&quot;&hellip;&nbsp; Take what you need; leaving the rest.&nbsp; And, most
-  importantly, I reserve the right to change and evolve my opinions over time&hellip;&nbsp; That's what good conversations do &#8212; and blogs, are
-  inherently, conversations.
+  This is my view, from my foxhole.&nbsp; Everybody has their own war&hellip;&nbsp; Take what you need &#8212; leave the rest.&nbsp; And, most importantly, I
+  reserve the right to change and evolve my opinions over time&hellip;&nbsp; That's what good conversations do &#8212; blogs, inherently, are conversations.
 </p>
 <img
   alt="" height="73" src="{{ site.uri.assets }}/naked/images/suck-my-words_482x073.png"

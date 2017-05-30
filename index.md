@@ -1,5 +1,6 @@
 ---
 comments: true
+liMarquee: true
 ---
 
 <!--sse-->
@@ -53,6 +54,13 @@ comments: true
 </div>
 <!--/email_off-->
 <!--/sse-->
+<p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
+  <span style="font-weight: bolder;"><i aria-hidden="true" class="fa fa-exclamation-triangle"></i> Warning:</span>&nbsp; This Web site contains
+  emotionally charged and/or graphic accounts of combat PTSD&hellip;&nbsp; Be forewarned &#8212; triggers may be found within.
+</p>
+<p>
+  &nbsp;
+</p>
 <img
   alt="" height="133" src="{{ site.uri.assets }}/naked/images/punisher_097x133.png" style="border: 0px; float: left; margin-bottom: 10px; margin-right: 20px;"
   width="97" />
