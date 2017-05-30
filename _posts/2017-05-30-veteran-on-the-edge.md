@@ -76,6 +76,10 @@ title: "Veteran on the Edge"
   and/or television lies about damn near every-fucking-thing.
 </p>
 <p>
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/1Lg_PdGpywc?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+</p>
+<p>
   I'm not fine&hellip;&nbsp; Why the fuck would you expect me to be?&nbsp; Because my war was a little war and doesn't matter?&nbsp; I hear this, all too
   fucking often, recently&hellip;&nbsp; Even, from other &#8212; older &#8212; veterans.
 </p>
@@ -113,9 +117,17 @@ title: "Veteran on the Edge"
   shit.&nbsp; Which, seriously exacerbate PTSD &#8212; infusing the flashbacks and hallucinations with sound, while I'm going deaf.
 </p>
 <p>
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/BsfbO9oz0GI?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+</p>
+<p>
   Don't ever forget, I beared witnessed to a massacre &#8212; a genocide, an ethnic cleansing &#8212; and, have killed a fair number of people myself.&nbsp;
   While I can vividly remember, each and every person that I've killed, I'll likely never reveal to anybody just how many there are.&nbsp; Regardless, I'll be
   seeing their faces until the day that I die &#8212; and, perhaps, beyond even.
+</p>
+<p>
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/TvQtcgfgBM4?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
   Don't misunderstand, I don't regret anything that I'd had to do during war.&nbsp; But, at the same time, I'm not a fucking sociopath.&nbsp; I've done, and
