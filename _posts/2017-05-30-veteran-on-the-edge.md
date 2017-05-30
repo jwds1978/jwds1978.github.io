@@ -19,9 +19,10 @@ image:
   height: 720
   path: "https://assets.forces.army/blog/2017/05/30/veteran-on-the-edge/hotlink-ok/innominate_1_1280x0720.png"
   width: 1280
-last_modified_at: "2017-05-30 11:53:44 America/Toronto"
+last_modified_at: "2017-05-30 12:26:36 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+modifiedReason: "Added Videos"
 tags:
   - Good
   - "Higher Power"
@@ -74,6 +75,10 @@ title: "Veteran on the Edge"
   though, the safest people in the world, are those that are standing next to a veteran with PTSD.
 </p>
 <p>
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/vr1zMBN0g0w?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
+</p>
+<p>
   After returning home, unchecked PTSD led me to beat a fucktard within an inch of his life&hellip;&nbsp; He needed several reconstructive surgeries and still
   looks disfigured and fucked-up.&nbsp; He'll live out the remainder of his days in a wheelchair and being tube-fed.&nbsp; After being hospitalized in a
   psych-ward, I was transferred to a federal facility, and did a few years of hard-time.
@@ -85,6 +90,10 @@ title: "Veteran on the Edge"
   throat.&nbsp; Needless to say, I didn't take too kindly to this.&nbsp; I didn't want him dead, I wanted him to live&hellip;&nbsp; To be beat within an inch of
   his life, to be allowed to live &#8212; if you can even call it that &#8212; and, have to think of me every damn time that a nursemaid changed his diaper
   and/or fed him.
+</p>
+<p>
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/Y7N_6JvktMo?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
   Fast-forward, past the bouts of hospitalizations for suicidal ideation and homelessness, I was finally diagnosed with hearing loss and tinnitus, amongst other
@@ -108,6 +117,10 @@ title: "Veteran on the Edge"
   stresses as everybody faces.&nbsp; That's a base for a veteran with combat-related PTSD, MST, and/or TBI &#8212; welcome, to our good day.&nbsp; Now, heap on
   hypervigilence and crippling anxiety, that literally, makes your skin crawl&hellip;&nbsp; Welcome, to our good day.&nbsp; For a great day, heap on
   cannabis.&nbsp; I don't make enough money to have that throughout an entire month though.
+</p>
+<p>
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/oqSBHh3sbh0?rel=0"
+    style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
   Why the fuck wouldn't I shoot bullet-eyes when you ask me, &quot;are you OK&quot;?&nbsp; No, I'm not &#8212; I'm on the fucking edge.&nbsp; Are you ready to
