@@ -23,6 +23,19 @@ last_modified_at: "2017-05-30 12:26:36 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
 modifiedReason: "Added Videos"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154342438077084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/b1yrd5aPzpU"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650374036"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/869592950690525185"
+    text: Twitter
+    title: Twitter
 tags:
   - Good
   - "Higher Power"
