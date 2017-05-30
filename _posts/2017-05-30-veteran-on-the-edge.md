@@ -54,6 +54,7 @@ title: "Veteran on the Edge"
     Think about these questions and see if you are actually fine or not.
   </blockquote>
 </p>
+<!-- excerptBreak -->
 <p>
   I'd doubt you were in the military and/or a veteran, if you couldn't recite two or more times that a curious and/or insensitive clod trampled through your
   trauma, to relive their boyhood romanticized thriller of the military life.&nbsp; For the insensitive thinking, that leads a stranger to ask intimate
