@@ -12,7 +12,7 @@ liMarquee: true
   <a class="u-key" href="https://keybase.io/stew721/pgp_keys.asc?fingerprint=614fff680e92bae869c878e361bca817affa1f1d" rel="me"
     target="_blank">614FFF680E92BAE869C878E361BCA817AFFA1F1D</a>
   <a class="u-url" href="{{ site.url }}" rel="me">{{ site.url }}</a>
-  <img alt="James Stewart" class="u-logo u-photo" height="960" src="{{ site.uri.assets }}/naked/images/hotlink-ok/JWDS_960x960.jpg" style="border: 0px;"
+  <img alt="James Stewart" class="u-logo u-photo" height="960" src="{{ site.uri.assets }}/naked/images/hotlink-ok/JWDS_960x960.png" style="border: 0px;"
     width="960" />
   <p class="dt-bday">
     19781107
