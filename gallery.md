@@ -2,7 +2,7 @@
 title: Gallery
 ---
 
-{% assign sortedArtsy = site.data.gallery[artsy] | sort: 'date' %}
+{% assign sortedArtsy = site.data.gallery['artsy'] | sort: 'date' %}
 
 <h3 id="artsy">
   <i aria-hidden="true" class="fa fa-paint-brush"></i>&nbsp; Artsy
