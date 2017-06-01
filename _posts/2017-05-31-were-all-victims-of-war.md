@@ -36,6 +36,7 @@ title: "We're All Victims of War"
   see that you're the only ones making a difference in someone else's life.&nbsp; That's the hook that keeps aid volunteers and military forces continually in
   harm's way&hellip;&nbsp; They see how much their care matters.
 </p>
+<!-- excerptBreak -->
 <p>
   Whether we're aware of it or not, we're all victims of war &#8212; whether abroad or here, whether economical or political &#8212; while greed races, to
   accumulate more power.&nbsp; Right now, dreams of peace and hope grow ever-dimmer for a great portion of humanity, as we circle our wagons to protect our
