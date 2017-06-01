@@ -87,6 +87,3 @@ title: "Embrace 'The Suck'"
   &nbsp;
 </p>
 {% include adsense_responsive.htm %}
-<p>
-  &nbsp;
-</p>

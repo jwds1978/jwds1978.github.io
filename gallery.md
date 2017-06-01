@@ -1,9 +1,17 @@
 ---
+image:
+  height: 386
+  path: "https://assets.forces.army/naked/images/hotlink-ok/art-gallery_393x386.png"
+  width: 393
 title: Gallery
 ---
 
-{% assign sortedArtsy = site.data.gallery['artsy'] | sort: 'date' %}
+{% assign sortedArtsy = site.data.gallery['artsy'] | sort: 'name' | sort: 'date' %}
 
+{% include adsense_responsive.htm %}
+<p>
+  &nbsp;
+</p>
 <h3 id="artsy">
   <i aria-hidden="true" class="fa fa-paint-brush"></i>&nbsp; Artsy
 </h3>
@@ -11,6 +19,10 @@ title: Gallery
   {% for artsyObject in sortedArtsy %}
   <a href="{{ site.uri.assets }}/gallery/artsy/{{ artsyObject.image.full.file }}" rel="me" target="_blank" title="{{ artsyObject.name }}"><img
     alt="{{ artsyObject.name }}" height="{{ artsyObject.image.thumb.height }}" src="{{ site.uri.assets }}/gallery/artsy/{{ artsyObject.image.thumb.file }}"
-    style="border: 0px; vertical-align: middle;" width="{{ artsyObject.image.thumb.width }}" /></a>{% unless forloop.last %}&nbsp;{% endunless %}
+    style="border: 0px; margin-bottom: 10px; vertical-align: middle;" width="{{ artsyObject.image.thumb.width }}" /></a>{% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </p>
+<p>
+  &nbsp;
+</p>
+{% include adsense_responsive.htm %}

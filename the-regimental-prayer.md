@@ -6,6 +6,10 @@ image:
 title: "The Regimental Prayer"
 ---
 
+{% include adsense_responsive.htm %}
+<p>
+  &nbsp;
+</p>
 <p>
   <img
     alt="" height="125" src="{{ site.uri.assets }}/naked/images/RCR_VRI_cypher_116x125.png"
@@ -22,6 +26,3 @@ title: "The Regimental Prayer"
   &nbsp;
 </p>
 {% include adsense_responsive.htm %}
-<p>
-  &nbsp;
-</p>
