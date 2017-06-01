@@ -11,6 +11,19 @@ image:
 last_modified_at: "2017-05-31 22:27:10 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154346190097084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/MqtbXKyoph7"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650393841"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/870108752619458562"
+    text: Twitter
+    title: Twitter
 tags:
   - Opinionated
   - "The Suck"
