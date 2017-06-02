@@ -6,7 +6,7 @@ image:
 title: Gallery
 ---
 
-{% assign sortedArtsy = site.data.gallery['artsy'] | sort: 'name' | sort: 'date' %}
+{% assign sortedArtsy = site.data.gallery['artsy'] | sort: 'name', 'first' | sort: 'date', 'first' | reverse %}
 
 {% include adsense_responsive.htm %}
 <p>
