@@ -10,6 +10,19 @@ image:
 last_modified_at: "2017-06-02 11:42:57 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154349938502084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/LrALQstGQ5f"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650411553"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/870672094668967936"
+    text: Twitter
+    title: Twitter
 tags:
   - MyCAF
   - Relationship
