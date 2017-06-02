@@ -145,8 +145,8 @@ twitterWidget: true
     <ul>
       <li>
         <a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title="">James Stewart</a><br />
-        <a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title=""><img
-          alt="" height="58" src="http://stackexchange.com/users/flair/10230218.png" style="border: 0px;" width="208" /></a>
+        <a href="https://stackexchange.com/users/10230218/james-stewart" rel="me" target="_blank" title=""><img alt="" height="58"
+          src="http://stackexchange.com/users/flair/10230218.png" style="border: 0px;" width="208" /></a>
       </li>
     </ul>
   </li>
@@ -179,8 +179,7 @@ twitterWidget: true
     <ul>
       <li>
         <a href="https://blog-tumblr.forces.army" rel="me" target="_blank" title="forces-army">Forces.ARMY</a><br />
-        <iframe
-          allowtransparency="true" class="btn" height="20" scrolling="no"
+        <iframe allowtransparency="true" class="btn" height="20" scrolling="no"
           src="https://platform.tumblr.com/v2/follow_button.html?color=black&tumblelog=forces-army&type=follow"
           style="border: none; overflow: hidden; padding: 0;" width="65"></iframe>
       </li>
@@ -191,8 +190,7 @@ twitterWidget: true
     <ul>
       <li>
         <a href="https://twitter.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br />
-        <a
-          class="twitter-follow-button" data-show-count="false" data-size="large" href="https://twitter.com/jwds1978" rel="me" target="_blank"
+        <a class="twitter-follow-button" data-show-count="false" data-size="large" href="https://twitter.com/jwds1978" rel="me" target="_blank"
           title="jwds1978">Follow @jwds1978</a>
       </li>
     </ul>

@@ -189,6 +189,25 @@ title: Contact
       </li>
     </ul>
   </li>
+  <li>
+    <i aria-hidden="true" class="fa fa-skype"></i>&nbsp; Skype
+    <ul>
+      <li>
+        stew721ca<br />
+        <div id="SkypeButton_Call_stew721ca_1">
+          <script type="text/javascript">
+            Skype.ui({
+              element: "SkypeButton_Call_stew721ca_1",
+              imageColor: "white",
+              imageSize: 24,
+              name: "dropdown",
+              participants: ["stew721ca"]
+            });
+          </script>
+        </div>
+      </li>
+    </ul>
+  </li>
 </ul>
 <p>
   &nbsp;
