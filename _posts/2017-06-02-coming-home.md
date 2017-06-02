@@ -32,6 +32,7 @@ title: "Coming Home"
   to adventure &#8212; anything was possible.&nbsp; That's the image wich has been locked inside of your mind since he left.&nbsp; Your response now, to this
   vet, is to that image.
 </p>
+<!-- excerptBreak -->
 <p>
   However, that's not the image before you now though.&nbsp; His eyes tell you how much that he's changed.&nbsp; Their twinkle is gone &#8212; his gaze is
   unwavering.&nbsp; But, deep beneath its open appraisal, dwells confusion, hurt, and pain &#8212; a longing for returned innocence.
