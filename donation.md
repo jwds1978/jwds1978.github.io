@@ -80,13 +80,13 @@ title: Donate
     <span style="font-size: smaller;">
       &nbsp;<br />
       <!--sse-->
-      James Stewart @ +1 (705) 562-1887<br />
-      c/o David Solomon<br />
-      1607 - 720 Bruce Ave.<br />
-      Sudbury, Ontario&nbsp; P3C 5C4<br />
+      James Stewart<br />
+      &nbsp;<br />
+      2 &#8212; 557 Kathleen St.<br />
+      Sudbury, Ontario&nbsp; P3C 2N1<br />
       Canada<br />
       &nbsp;<br />
-      +1 (705) 524-7859<br />
+      +1 (705) 562-1887<br />
       <!--/sse-->
       &nbsp;
     </span>
@@ -170,6 +170,7 @@ title: Donate
       &nbsp;<br />
       <!--sse-->
       James Stewart @ +1 (705) 562-1887<br />
+      &nbsp;<br />
       c/o BestBuy 901<br />
       1099 Marcus Dr.<br />
       Sudbury, Ontario&nbsp; P3B 4K6<br />
