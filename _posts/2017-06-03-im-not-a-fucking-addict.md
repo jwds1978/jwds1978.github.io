@@ -94,7 +94,7 @@ title: "I'm Not a Fucking Addict"
       </ul>
     </li>
     <li>
-      Tramacet&nbsp; <sup>Acetaminophen (325 MG), Tramadol Hydrochloride (37&fac12; MG)</sup>
+      Tramacet&nbsp; <sup>Acetaminophen (325 MG), Tramadol Hydrochloride (37&frac12; MG)</sup>
       <ul>
         <li>
           Daily
