@@ -51,9 +51,10 @@ image:
   height: 1306
   path: "https://assets.forces.army/blog/2017/06/03/im-not-a-fucking-addict/hotlink-ok/Help_2003-12-04_1960x1306.png"
   width: 1960
-last_modified_at: "2017-06-03 16:14:03 America/Toronto"
+last_modified_at: "2017-06-03 23:21:16 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+modifiedReason: Spelling
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154353055347084"
     text: Facebook
@@ -87,11 +88,11 @@ title: "I'm Not a Fucking Addict"
   Up until a few years ago, I was self-medicating, with 15+ grams of over-the-counter Tylenol and a few joints, on a daily basis.&nbsp; Initially, I'd
   encountered resistance due to not having a family physician&hellip;&nbsp; Forcinf me to self-medicate for the pain.&nbsp; However, the pain got to the point
   where even that wasn't helping any longer&hellip;&nbsp; Forcing me to aggressively pursue medical relief.&nbsp; Over the last few years, I've been prescribed
-  Kadian (morphone sulfate), Tramacet (acetaminophen, tramadol hydrochloride), and Tylenol with Codeine <sup>#</sup>3 (acetaminophen, caffeine, codeine).&nbsp;
+  Kadian (morphine sulfate), Tramacet (acetaminophen, tramadol hydrochloride), and Tylenol with Codeine <sup>#</sup>3 (acetaminophen, caffeine, codeine).&nbsp;
   Below, are the last dosage that I was on of each of the aforementioned medications:
   <ul>
     <li>
-      Kadian&nbsp; <sup>Morphone Sulfate (20 MG)</sup>
+      Kadian&nbsp; <sup>Morphine Sulfate (20 MG)</sup>
       <ul>
         <li>
           Daily
