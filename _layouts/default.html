@@ -251,6 +251,7 @@
     {% endif %}
     <div class="wrapper">
       <section>
+        {% unless page.url contains "/error-pages/" %}
         <div id="title">
           <img alt="{{ site.title }}" height="75" src="{{ site.uri.assets }}/naked/images/JWDS_075x075.png"
             style="border: 0px; float: left; vertical-align: middle;" width="75" />
@@ -266,6 +267,7 @@
           {% assign vsnwscxxmumhwvawURL = page.url %}
           {% include navigation.htm %}
         </div>
+        {% endunless %}
         {% if page.cloudflareSSE %}
         <!--sse-->
         {% endif %}
@@ -273,7 +275,7 @@
         {% if page.cloudflareSSE %}
         <!--/sse-->
         {% endif %}
-        {% include footer.htm %}
+        {% unless page.url contains "/error-pages/" %}{% include footer.htm %}{% endunless %}
       </section>
     </div>
   </body>
