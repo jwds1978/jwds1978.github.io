@@ -1,7 +1,7 @@
 ---
 image:
   height: 398
-  path: "https://assets.forces.army/errors/hotlink-ok/stop_482x398.png"
+  path: "https://assets.forces.army/errors/hotlink-ok/stop_482x398_min.png"
   width: 482
 robotsIndex: false
 sitemap: false
@@ -12,7 +12,7 @@ title: "Attention Required"
   Sorry, but you've been blocked.&nbsp; As such, you're unable to access the Web site.
 </p>
 <p style="text-align: center;">
-  <img alt="Access Denied" height="306" src="{{ site.uri.assets }}/errors/access-denied_482x306.png"
+  <img alt="Access Denied" height="306" src="{{ site.uri.assets }}/errors/access-denied_482x306_min.png"
     style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
 </p>
 <p>
