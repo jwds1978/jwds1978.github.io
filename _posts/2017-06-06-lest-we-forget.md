@@ -22,7 +22,7 @@ title: "Lest We Forget"
 
 <img alt="" height="482" src="{{ site.uri.assets }}/blog/2017/06/06/lest-we-forget/never-forget_281x482.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="281" />
-<p style="font-weight: bolder;">
+<p style="font-weight: bolder; text-align: justify;">
   Remember all of those who've sacrificed &#8212; in body, mind, and spirit &#8212; for our freedom.<br />
   &nbsp;<br />
   And, for the humanitarian protection of all those around the world!<br />
@@ -49,6 +49,7 @@ title: "Lest We Forget"
   &nbsp;<br />
   It's the veteran &#8212; who serves under the flag.
 </p>
+<!-- excerptBreak -->
 <p>
   &nbsp;
 </p>
