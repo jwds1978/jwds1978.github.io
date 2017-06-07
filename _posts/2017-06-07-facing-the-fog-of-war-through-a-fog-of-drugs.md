@@ -59,7 +59,6 @@ title: "Facing the Fog of War Through a Fog of Drugs"
 <p>
   &nbsp;
 </p>
-<!-- excerptBreak -->
 <p>
   US veteran activist, Aaron Hughes, told Democracy Now:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-what-have-we-been-doing-decorated-veteran-aaron-hughes-to-return-war-medals-at-anti-nato-protest">
@@ -72,6 +71,7 @@ title: "Facing the Fog of War Through a Fog of Drugs"
     Afghanistan and what's happened in Iraq with the daily lives of everyone here in the United States is just too vast to overcome.
   </blockquote>
 </p>
+<!-- excerptBreak -->
 <p>
   Conducting military operations &#8212; on Seroquel?&nbsp; There must be some mistake, I thought.&nbsp; But, a little research confirmed Aaron's accounting
   &#8212; the US armed forces are increasingly marching on pharmaceuticals.&nbsp; 20% of active-duty troops are on psychotropic medications, including 17% of
