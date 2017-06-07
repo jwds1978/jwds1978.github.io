@@ -57,6 +57,10 @@ title: "Facing the Fog of War Through a Fog of Drugs"
   &quot;right to heal&quot;.&nbsp; Chief among the problems on their minds, were post-traumatic stress disorder, suicide, and psychotropic drugs.
 </p>
 <p>
+  &nbsp;
+</p>
+<!-- excerptBreak -->
+<p>
   US veteran activist, Aaron Hughes, told Democracy Now:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-what-have-we-been-doing-decorated-veteran-aaron-hughes-to-return-war-medals-at-anti-nato-protest">
     We currently have been working on a campaign called Operation Recovery, a campaign fighting for servicemembers' and veterans' right to heal and a campaign
