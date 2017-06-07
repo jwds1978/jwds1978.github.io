@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 
 <p id="top" style="text-align: center;">
   <i aria-hidden="true" class="fa fa-floppy-o"></i> Save as:&nbsp;
-  <a href="{{ site.uri.assets }}/naked/JWDS_Resume_2017-06-02_23-35.pdf" rel="alternate me" target="_blank" title="Save {{ page.title }} as PDF"><i
+  <a href="{{ site.uri.assets }}/naked/JWDS_Resume_2017-06-07_13-01.pdf" rel="alternate me" target="_blank" title="Save {{ page.title }} as PDF"><i
     aria-hidden="true" class="fa fa-file-pdf-o"></i> PDF</a>
   &nbsp;&bull;&nbsp; <a href="javascript:window.print()" rel="alternate" target="_blank" title="Print {{ page.title }}"><i aria-hidden="true"
     class="fa fa-print"></i> Print</a><br />
