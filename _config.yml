@@ -132,7 +132,7 @@ uri:
   assets: "https://assets.forces.army"
   blog: "https://blog.forces.army"
   disqus: "https://disqus.com/home/forums/jwds"
-  googleMaps: "https://www.google.ca/maps/place"
+  googleMaps: "https://www.google.com/maps/search/?api=1&query="
   shortURL: "https://go.forces.army"
 url: "https://forces.army"
 username: jwds1978
