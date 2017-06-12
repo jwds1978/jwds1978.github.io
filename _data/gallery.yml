@@ -340,3 +340,26 @@ artsy:
         height: 241
         width: 161
     name: "Wolf"
+me:
+  - date: "2017-06-12"
+    image:
+      full:
+        file: "2017-06-12_13-36-42_1080x1440.png"
+        height: 1440
+        width: 1080
+      thumb:
+        file: "2017-06-12_13-36-42_0161x0215.png"
+        height: 215
+        width: 161
+    name: "Innominate #0000001"
+  - date: "2017-06-12"
+    image:
+      full:
+        file: "2017-06-12_13-40-41_1080x1440.png"
+        height: 1440
+        width: 1080
+      thumb:
+        file: "2017-06-12_13-40-41_0161x0215.png"
+        height: 215
+        width: 161
+    name: "Innominate #0000002"
