@@ -63,8 +63,8 @@ liMarquee: true
 </p>
 <img alt="" height="133" src="{{ site.uri.assets }}/naked/images/punisher_097x133.png"
   style="border: 0px; float: left; margin-bottom: 10px; margin-right: 20px;" width="97" />
-<img alt="" height="432" src="{{ site.uri.assets }}/naked/images/innominate_1_482x432.png"
-  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 20px;" width="482" />
+<img alt="" height="133" src="{{ site.uri.assets }}/naked/images/innominate_1_148x133.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 20px;" width="148" />
 <p>
   Hai!&nbsp; And, welcome to James Stewart's Web site.&nbsp; While there may be others like it, this one is his&hellip;&nbsp; He made this thing &#8212; a thing
   of wonder.
