@@ -12,8 +12,7 @@ title: Donate
     <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>&nbsp; <sup>Primary</sup>
     <div align="center">
       <script src="https://gateway.gear.mycelium.com/gear-widget-host.js" type="text/javascript"></script>
-      <iframe
-        id="gear-widget" scrolling="no" src="https://gateway.gear.mycelium.com/widgets/125114cf1a0c96953d267f11f1ef586268c29f9af483fd699d922e985ae0962e"
+      <iframe id="gear-widget" scrolling="no" src="https://gateway.gear.mycelium.com/widgets/125114cf1a0c96953d267f11f1ef586268c29f9af483fd699d922e985ae0962e"
         style="border: none; display: inline-block; height: 130px; max-width: 350px; min-width: 250px;"></iframe>
     </div>
   </li>
@@ -38,8 +37,8 @@ title: Donate
     <ul>
       <li>
         <a href="https://flattr.com/profile/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br />
-        <a href="https://flattr.com/submit/auto?fid=0yx0qk&url=https%3A%2F%2Fforces.army" target="_blank" title=""><img
-          alt="Flattr this" height="20" src="{{ site.uri.assets }}/naked/images/Flattr_93x20.png" style="border: 0px;" width="93" /></a>
+        <a href="https://flattr.com/submit/auto?fid=0yx0qk&url=https%3A%2F%2Fforces.army" target="_blank" title=""><img alt="Flattr this" height="20"
+          src="{{ site.uri.assets }}/naked/images/Flattr_93x20.png" style="border: 0px;" width="93" /></a>
       </li>
     </ul>
   </li>
@@ -53,11 +52,9 @@ title: Donate
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
             <input name="cmd" type="hidden" value="_s-xclick" />
             <input name="hosted_button_id" type="hidden" value="DY5LFFUVUNHTQ" />
-            <input
-              alt="PayPal - The safer, easier way to pay online!" height="47" name="submit" src="{{ site.uri.assets }}/naked/images/PayPal_donate_147x047.gif"
-              type="image" width="147" />
-            <img
-              alt="" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+            <input alt="PayPal - The safer, easier way to pay online!" height="47" name="submit"
+              src="{{ site.uri.assets }}/naked/images/PayPal_donate_147x047.gif" type="image" width="147" />
+            <img alt="" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
               style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
           </form>
         </div>
@@ -73,8 +70,7 @@ title: Donate
 </h3>
 <ul>
   <li>
-    <img
-      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Amazon_wish-list_99x40.png"
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Amazon_wish-list_99x40.png"
       style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="99" />
     <i aria-hidden="true" class="fa fa-amazon"></i>&nbsp; Amazon<br />
     <span style="font-size: smaller;">
@@ -161,8 +157,7 @@ title: Donate
     </ul>
   </li>
   <li>
-    <img
-      alt="" height="40" src="{{ site.uri.assets }}/naked/images/Best-Buy_58x40.png"
+    <img alt="" height="40" src="{{ site.uri.assets }}/naked/images/Best-Buy_58x40.png"
       style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="58" />
     Best Buy<br />
     <span style="font-size: smaller;">
