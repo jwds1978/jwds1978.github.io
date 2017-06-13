@@ -4,10 +4,11 @@ sitemap: false
 
 {{ site.copyright.comment.java }}
 $(function () {
-  var a = $('.readingContent');
-  a.readingTime({
-    error: function (b) {
-      console.log('Reading Count/Time :: Error'), console.log(b)
+  var a = $('article'),
+    b = $('.readingContent');
+  b.readingTime({
+    error: function (c) {
+      console.log('Reading Count/Time :: Error'), console.log(c)
     },
     lang: 'en',
     lessThanAMinuteString: 'Less Than a Minute',
