@@ -141,6 +141,12 @@
     {% if page.twitterWidget %}
     <script async charset="utf-8" defer src="https://platform.twitter.com/widgets.js"></script>
     {% endif %}
+    {% if page.url contains "/blog/" %}
+    <script async defer src="{{ site.url }}/resources/js/reading-time_2017-06-13_14-54_min.js" type="text/javascript"></script>
+    {% if page.url != "/blog/" and page.url != "/blog/categories/" and page.url != "/blog/tags/" %}
+    <script async defer src="{{ site.url }}/resources/js/reading-time_post_2017-06-13_15-29_min.js" type="text/javascript"></script>
+    {% endif %}
+    {% endif %}
     {% if page.url == "/contact/" %}
     <script async src="{{ site.url }}/resources/js/mask-phone-numbers_2017-03-04_14-10_min.js" type="text/javascript"></script>
     <script async defer src="https://secure.skypeassets.com/i/scom/js/skype-uri.js" type="text/javascript"></script>

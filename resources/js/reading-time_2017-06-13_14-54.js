@@ -3,7 +3,6 @@ sitemap: false
 ---
 
 {{ site.copyright.comment.java }}
-
 /*!
 Name: Reading Time
 Dependencies: jQuery
@@ -23,8 +22,9 @@ Licensed under the MIT license
     //define default parameters
     var defaults = {
         readingTimeTarget: '.eta',
+        readingTimeAsNumber: false,
         wordCountTarget: null,
-        wordsPerMinute: 300,
+        wordsPerMinute: 270,
         round: true,
         lang: 'en',
         lessThanAMinuteString: '',
@@ -154,12 +154,17 @@ Licensed under the MIT license
       var lessThanAMinute = s.lessThanAMinuteString || "Mindre än en minut";
       var minShortForm = 'min';
 
+      //if s.lang is set to Turkish
+    } else if (s.lang == 'tr') {
+      var lessThanAMinute = s.lessThanAMinuteString || "Bir dakikadan az";
+      var minShortForm = 'dk';
+
       //default s.lang is english
     } else {
 
-      var lessThanAMinute = s.lessThanAMinuteString || 'Less than a Minute';
+      var lessThanAMinute = s.lessThanAMinuteString || 'Less than a minute';
 
-      var minShortForm = 'Minute';
+      var minShortForm = 'min';
 
     }
 
@@ -199,16 +204,12 @@ Licensed under the MIT license
           if (readingTimeMinutes > 0) {
 
             //set reading time by the minute
-            if (readingTimeMinutes > 1) {
-              $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ' ' + minShortForm + 's');
-            } else {
-              $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ' ' + minShortForm);
-            }
+            $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ((!s.readingTimeAsNumber) ? ' ' + minShortForm : ''));
 
           } else {
 
             //set reading time as less than a minute
-            $(s.readingTimeTarget).text(s.prependTimeString + lessThanAMinute);
+            $(s.readingTimeTarget).text((!s.readingTimeAsNumber) ? s.prependTimeString + lessThanAMinute : readingTimeMinutes);
 
           }
 
