@@ -60,7 +60,7 @@ sitemap: false
     else if ('tr' == g.lang) var h = g.lessThanAMinuteString || 'Bir dakikadan az',
       i = 'dk';
     else var h = g.lessThanAMinuteString || 'Less than a minute',
-      i = 'min';
+      i = 'Minutes';
     var j = function (k) {
       if ('' !== k) {
         var l = k.trim().split(/\s+/g).length,

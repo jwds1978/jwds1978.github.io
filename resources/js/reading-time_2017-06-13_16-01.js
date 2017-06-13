@@ -164,7 +164,8 @@ Licensed under the MIT license
 
       var lessThanAMinute = s.lessThanAMinuteString || 'Less than a minute';
 
-      var minShortForm = 'min';
+      // var minShortForm = 'min';
+      var minShortForm = 'Minutes';
 
     }
 
