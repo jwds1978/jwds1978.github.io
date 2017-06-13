@@ -7,6 +7,7 @@ $(function () {
   var $article = $('article');
   $article.readingTime({
     error: function (message) {
+      console.log('Reading Count/Time :: Error');
       console.log(message);
     },
     lang: 'en',
@@ -19,7 +20,7 @@ $(function () {
     remoteTarget: null,
     round: true,
     success: function () {
-      console.log('Reading Time :: Success');
+      console.log('Reading Count/Time :: Success');
     },
     wordCountTarget: $article.find('.readingCount'),
     wordsPerMinute: 270
