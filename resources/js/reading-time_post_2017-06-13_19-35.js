@@ -4,7 +4,7 @@ sitemap: false
 
 {{ site.copyright.comment.java }}
 $(function () {
-  var $article = $('article');
+  var $article = $('.readingContent');
   $article.readingTime({
     error: function (message) {
       console.log('Reading Count/Time :: Error');
