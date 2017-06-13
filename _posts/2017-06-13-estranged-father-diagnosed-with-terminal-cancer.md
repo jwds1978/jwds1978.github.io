@@ -30,9 +30,10 @@ image:
   height: 495
   path: "https://assets.forces.army/blog/2017/06/13/estranged-father-diagnosed-with-terminal-cancer/hotlink-ok/innominate_1_950x495.png"
   width: 950
-last_modified_at: "2017-06-13 00:42:01 America/Toronto"
+last_modified_at: "2017-06-13 13:31:29 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+modifiedReason: Grammar
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154379716752084"
     text: Facebook
@@ -134,7 +135,7 @@ title: "Estranged Father Diagnosed with Terminal Cancer"
   it fuels me to be as good of a person as I can be.
 </p>
 <p>
-  For this, I'm thankful.&nbsp; By no means am I perfect, and I may not always get it right, but I get up every morning and I do my the best that I can with a
+  For this, I'm thankful.&nbsp; By no means am I perfect, and I may not always get it right, but I get up every morning and I do the best that I can with a
   moral compass.
 </p>
 <p>
