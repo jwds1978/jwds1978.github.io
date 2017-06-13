@@ -204,6 +204,19 @@ twitterWidget: true
     </ul>
   </li>
   <li>
+    <i aria-hidden="true" class="fa fa-windows"></i>&nbsp; Windows
+    <ul>
+      <li>
+        Developer Feedback
+        <ul>
+          <li>
+            <a href="https://wpdev.uservoice.com/users/394599550-james-stewart" rel="me" target="_blank" title="James Stewart">James Stewart</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
     XDA Developers
     <ul>
       <li>
