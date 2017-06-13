@@ -33,6 +33,19 @@ image:
 last_modified_at: "2017-06-13 00:42:01 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154379716752084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/W6brANG2Qqs"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650553214"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://twitter.com/jwds1978/status/874491164828872704"
+    text: Twitter
+    title: Twitter
 tags:
   - Family
   - Opinionated
