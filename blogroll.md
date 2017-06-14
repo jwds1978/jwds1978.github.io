@@ -82,8 +82,8 @@ title: Blogroll
         For Publishers
         <ul>
           <li>
-            Ads are safe and lightweight, no scripts or cookies, just plain HTML+CSS!&nbsp; Automatic withdrawals to your Bitcoin address.&nbsp; Any Web site
-            will do.
+            Ads are safe and lightweight, no scripts or cookies, just plain <abbr title="Hypertext Markup Language">HTML</abbr>+<abbr
+              title="Cascading Style Sheets">CSS</abbr>!&nbsp; Automatic withdrawals to your Bitcoin address.&nbsp; Any Web site will do.
           </li>
         </ul>
       </li>
@@ -170,7 +170,8 @@ title: Blogroll
         Speaks for You
         <ul>
           <li>
-            When you're helpless and/or hurt, your MedicAlert ID and membership give paramedics the information that they need in order to save your life.
+            When you're helpless and/or hurt, your MedicAlert <abbr title="Identification">ID</abbr> and membership give paramedics the information that they
+            need in order to save your life.
           </li>
         </ul>
       </li>
@@ -191,8 +192,8 @@ title: Blogroll
     <a href="{{ site.uri.shortURL }}/Mr-Rebates" rel="external" target="_blank" title="Mr. Rebates">Mr. Rebates</a>
     <ul>
       <li>
-        What is Mr. Rebates?&nbsp; It's an online shopping mall, where you get cash-back rebates plus money-saving coupons, on any purchase that you make
-        through their partner stores.
+        What is <abbr title="Mister">Mr.</abbr> Rebates?&nbsp; It's an online shopping mall, where you get cash-back rebates plus money-saving coupons, on any
+        purchase that you make through their partner stores.
       </li>
       <li>
         You can shop online, at hundreds of stores &#8212; Best Buy, Dell, Macy's, Office Depot, Old Navy, etc.&nbsp; You can get up to 30% cash-back!&nbsp; Why
@@ -211,7 +212,7 @@ title: Blogroll
     <a href="{{ site.uri.shortURL }}/PIA" rel="external" target="_blank" title="Private Internet Access">Private Internet Access</a>
     <ul>
       <li>
-        Award winning <abbr title="Virtual Private Network">VPN</abbr> service provider.&nbsp; Fast, secure, no logs.&nbsp; 24/7 customer support.&nbsp;
+        Award-winning <abbr title="Virtual Private Network">VPN</abbr> service provider.&nbsp; Fast, secure, no logs.&nbsp; 24/7 customer support.&nbsp;
         Paranoid encryption.&nbsp; Privacy is their policy.&nbsp; Unlimited bandwidth.
       </li>
       <li>
@@ -276,7 +277,7 @@ title: Blogroll
         You care about your privacy&hellip;&nbsp; So does <abbr title="Private Internet Access">PIA</abbr>.
       </li>
       <li>
-        Your <abbr title="Internet Service Provider">ISP</abbr> address can spy on you.
+        Your <abbr title="Internet Service Provider">ISP</abbr> can spy on you.
       </li>
     </ul>
   </li>

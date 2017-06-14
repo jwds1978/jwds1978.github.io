@@ -121,19 +121,20 @@ title: "4 Types of Drunk"
   alt="" height="321" src="{{ site.uri.assets }}/blog/2017/05/12/4-types-of-drunk/the-mr-hyde_482x321.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <h3 id="the-mr-hyde">
-  The Mr. Hyde
+  The <abbr title="Mister">Mr.</abbr> Hyde
 </h3>
 <p>
-  Mr. Hyde types have a dark side.
+  <abbr title="Mister">Mr.</abbr> Hyde types have a dark side.
 </p>
 <p>
-  Everybody knows a &quot;Mr. Hyde&quot; type.&nbsp; They're, generally, the person that you want to watch out for when they're boozed.&nbsp; Dr. Jekyll's famed
-  for having an evil alter ego, called Mr. Hyde &#8212; and, this drinker has a dark side when they hit the bottle.
+  Everybody knows a &quot;<abbr title="Mister">Mr.</abbr> Hyde&quot; type.&nbsp; They're, generally, the person that you want to watch out for when they're
+  boozed.&nbsp; <abbr title="Doctor">Dr.</abbr> Jekyll's famed for having an evil alter ego, called <abbr title="Mister">Mr.</abbr> Hyde &#8212; and, this
+  drinker has a dark side when they hit the bottle.
 </p>
 <p>
-  A Mr. Hyde drunk acts &quot;particularly less responsible, less intellectual, and more hostile, when under the influence of alcohol&quot;.&nbsp; Combined with
-  the fact that their levels of conscientiousness, intellect, and agreeableness sharply drop, you may want to keep your distance from any drunken Mr. Hyde
-  pals&hellip;
+  A <abbr title="Mister">Mr.</abbr> Hyde drunk acts &quot;particularly less responsible, less intellectual, and more hostile, when under the influence of
+  alcohol&quot;.&nbsp; Combined with the fact that their levels of conscientiousness, intellect, and agreeableness sharply drop, you may want to keep your
+  distance from any drunken <abbr title="Mister">Mr.</abbr> Hyde pals&hellip;
 </p>
 <p>
   &nbsp;

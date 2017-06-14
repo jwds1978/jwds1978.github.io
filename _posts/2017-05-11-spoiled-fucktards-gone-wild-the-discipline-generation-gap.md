@@ -131,13 +131,13 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   levels of violence &#8212; at home, at school, and in the street.
 </p>
 <p>
-  Dr. Sigman, a fellow of the <a href="{{ site.url }}{{ page.url }}#cite-the-royal-society-of-medicine" rel="me" title="The Royal Society of Medicine">Royal
-  Society of Medicine</a>, said that nursery-age children are becoming increasingly violent and disrespectful towards their teachers &#8212; &quot;parent
-  battering&quot; is on the rise &#8212; and the number of policemen attacked by children is soaring.
+  <abbr title="Doctor">Dr.</abbr> Sigman, a fellow of the <a href="{{ site.url }}{{ page.url }}#cite-the-royal-society-of-medicine" rel="me"
+    title="The Royal Society of Medicine">Royal Society of Medicine</a>, said that nursery-age children are becoming increasingly violent and disrespectful
+  towards their teachers &#8212; &quot;parent battering&quot; is on the rise &#8212; and the number of policemen attacked by children is soaring.
 </p>
 <!-- excerptBreak -->
 <p>
-  Dr. Sigman, said:
+  <abbr title="Doctor">Dr.</abbr> Sigman, said:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-the-spoilt-generation">
     Authority is a basic health requirement in children's lives.<br />
     &nbsp;<br />
@@ -164,9 +164,10 @@ title: "Spoiled Fucktards Gone Wild: The Discipline/Generation Gap"
   alt="" height="340" src="{{ site.uri.assets }}/blog/2017/05/11/spoiled-fucktards-gone-wild-the-discipline-generation-gap/innominate_2_468x340.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="468" />
 <p>
-  Dr. Sigman says that youngsters' inflated sense of their own importance is fuelling the obesity epidemic.&nbsp; Children feel that they have the right to
-  demand foods which would once have been given as an occasional treat.&nbsp; He suggests, that some children thought to have attention deficit hyperactivity
-  disorder, might simply have never learned how to behave.&nbsp; Calling for &quot;commonsense policies&quot; to put children in their place, Dr. Sigman said:
+  <abbr title="Doctor">Dr.</abbr> Sigman says that youngsters' inflated sense of their own importance is fuelling the obesity epidemic.&nbsp; Children feel that
+  they have the right to demand foods which would once have been given as an occasional treat.&nbsp; He suggests, that some children thought to have attention
+  deficit hyperactivity disorder, might simply have never learned how to behave.&nbsp; Calling for &quot;commonsense policies&quot; to put children in their
+  place, <abbr title="Doctor">Dr.</abbr> Sigman said:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-the-spoilt-generation">
     There should be an absolute presumption both in law and in policy that adults &quot;know better&quot; and are in the right unless there are exceptional
     reasons.&nbsp; Teachers' authority has been vastly weakened legally, professionally and culturally.<br />

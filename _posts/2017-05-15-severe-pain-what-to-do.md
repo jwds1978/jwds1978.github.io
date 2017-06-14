@@ -86,10 +86,11 @@ title: "Severe Pain, What to Do"
 </p>
 <p>
   I try to go to the same clinic, so that they have a medical history/record for me, and I need not have to re-explain my entire fucking life's story to each
-  new doctor with each visit each month.&nbsp; With that said, there's a single doctor at this clinic &#8212; whom we'll call Dr. Armani Sarabia &#8212; that's
-  ignorant, degrades his patients, disrespects his patients, and makes you feel as though you're a drug addict for simply wanting a refill on your already
-  existing/prescribed long-term medication(s) for clear and visible injuries&hellip;&nbsp; Fuck, I had to fight with him last year, after stripping down in the
-  office for him see my legs along with their visible wounds and my custom designed/manufactured orthosis &#8212; for a simple refill of my Arthrotec, FFS!
+  new doctor with each visit each month.&nbsp; With that said, there's a single doctor at this clinic &#8212; whom we'll call <abbr title="Doctor">Dr.</abbr>
+  Armani Sarabia &#8212; that's ignorant, degrades his patients, disrespects his patients, and makes you feel as though you're a drug addict for simply wanting
+  a refill on your already existing/prescribed long-term medication(s) for clear and visible injuries&hellip;&nbsp; Fuck, I had to fight with him last year,
+  after stripping down in the office for him see my legs along with their visible wounds and my custom designed/manufactured orthosis &#8212; for a simple
+  refill of my Arthrotec, FFS!
 </p>
 <p>
   &nbsp;

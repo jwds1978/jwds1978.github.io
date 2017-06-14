@@ -117,8 +117,8 @@ title: "Drug-Induced Nosebleeds"
   Herbal Remedies
 </h3>
 <p>
-  Dr. Schlosser says that the use of some alternative remedies may lead to nosebleeds.&nbsp; He noted that ginseng, ginkgo biloba, and garlic sometimes caused
-  coagulation delays &#8212; which, may lead to epistaxis.
+  <abbr title="Doctor">Dr.</abbr> Schlosser says that the use of some alternative remedies may lead to nosebleeds.&nbsp; He noted that ginseng, ginkgo biloba,
+  and garlic sometimes caused coagulation delays &#8212; which, may lead to epistaxis.
 </p>
 <p>
   &nbsp;

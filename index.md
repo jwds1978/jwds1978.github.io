@@ -40,7 +40,7 @@ liMarquee: true
     James
   </p>
   <p class="p-honorific-prefix">
-    Mr.
+    <abbr title="Mister">Mr.</abbr>
   </p>
   <p class="p-name">
     James Stewart

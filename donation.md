@@ -78,7 +78,7 @@ title: Donate
       <!--sse-->
       James Stewart<br />
       &nbsp;<br />
-      2 &#8212; 557 Kathleen St.<br />
+      2 &#8212; 557 Kathleen <abbr title="Street">St.</abbr><br />
       Sudbury, Ontario&nbsp; P3C 2N1<br />
       Canada<br />
       &nbsp;<br />
@@ -165,8 +165,8 @@ title: Donate
       <!--sse-->
       James Stewart @ +1 (705) 562-1887<br />
       &nbsp;<br />
-      c/o BestBuy 901<br />
-      1099 Marcus Dr.<br />
+      <abbr title="care of">c/o</abbr> BestBuy 901<br />
+      1099 Marcus <abbr title="Drive">Dr.</abbr><br />
       Sudbury, Ontario&nbsp; P3B 4K6<br />
       Canada<br />
       &nbsp;<br />
