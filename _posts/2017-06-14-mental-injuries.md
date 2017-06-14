@@ -22,6 +22,22 @@ image:
 last_modified_at: "2017-06-14 15:05:45 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154383647167084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/7BtSwQpLai7"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650572721"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/161823165841/mental-injuries"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/875071927764885504"
+    text: Twitter
+    title: Twitter
 tags:
   - MyCAF
   - Opinionated
