@@ -44,6 +44,9 @@ syndications:
   - href: "https://www.pinterest.com/pin/554013191650553214"
     text: Pinterest
     title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/161799194021/estranged-father-diagnosed-with-terminal-cancer"
+    text: Tumblr
+    title: Tumblr
   - href: "https://twitter.com/jwds1978/status/874491164828872704"
     text: Twitter
     title: Twitter
