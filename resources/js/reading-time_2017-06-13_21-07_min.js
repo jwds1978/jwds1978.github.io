@@ -60,25 +60,26 @@ sitemap: false
     else if ('tr' == g.lang) var h = g.lessThanAMinuteString || 'Bir dakikadan az',
       i = 'dk';
     else var h = g.lessThanAMinuteString || 'Less than a minute',
-      i = 'Minutes';
-    var j = function (k) {
-      if ('' !== k) {
-        var l = k.trim().split(/\s+/g).length,
-          m = g.wordsPerMinute / 60;
-        if (b = l / m, !0 === g.round) var n = Math.round(b / 60);
-        else var n = Math.floor(b / 60);
-        var o = Math.round(b - 60 * n);
-        if (!0 === g.round) 0 < n ? a(g.readingTimeTarget).text(g.prependTimeString + n + (g.readingTimeAsNumber ? '' : ' ' + i)) : a(g.readingTimeTarget).text(g.readingTimeAsNumber ? n : g.prependTimeString + h);
+      i = 'Minute',
+      j = 'Minutes';
+    var k = function (l) {
+      if ('' !== l) {
+        var m = l.trim().split(/\s+/g).length,
+          n = g.wordsPerMinute / 60;
+        if (b = m / n, !0 === g.round) var o = Math.round(b / 60);
+        else var o = Math.floor(b / 60);
+        var p = Math.round(b - 60 * o);
+        if (!0 === g.round) 0 < o ? 1 < o ? a(g.readingTimeTarget).text(g.prependTimeString + o + (g.readingTimeAsNumber ? '' : ' ' + j)) : a(g.readingTimeTarget).text(g.prependTimeString + o + (g.readingTimeAsNumber ? '' : ' ' + i)) : a(g.readingTimeTarget).text(g.readingTimeAsNumber ? o : g.prependTimeString + h);
         else {
-          a(g.readingTimeTarget).text(g.prependTimeString + (n + ':' + o))
+          a(g.readingTimeTarget).text(g.prependTimeString + (o + ':' + p))
         }
-        '' !== g.wordCountTarget && void 0 !== g.wordCountTarget && a(g.wordCountTarget).text(g.prependWordString + l), g.success.call(this)
+        '' !== g.wordCountTarget && void 0 !== g.wordCountTarget && a(g.wordCountTarget).text(g.prependWordString + m), g.success.call(this)
       } else g.error.call(this, 'The element is empty.')
     };
     return f.each(function () {
-      null != g.remotePath && null != g.remoteTarget ? a.get(g.remotePath, function (k) {
-        j(a('<div>').html(k).find(g.remoteTarget).text())
-      }) : j(f.text())
+      null != g.remotePath && null != g.remoteTarget ? a.get(g.remotePath, function (l) {
+        k(a('<div>').html(l).find(g.remoteTarget).text())
+      }) : k(f.text())
     }), b
   }
 })(jQuery);

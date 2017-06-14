@@ -165,7 +165,8 @@ Licensed under the MIT license
       var lessThanAMinute = s.lessThanAMinuteString || 'Less than a minute';
 
       // var minShortForm = 'min';
-      var minShortForm = 'Minutes';
+      var minShortForm = 'Minute';
+      var minsShortForm = 'Minutes';
 
     }
 
@@ -205,7 +206,11 @@ Licensed under the MIT license
           if (readingTimeMinutes > 0) {
 
             //set reading time by the minute
-            $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ((!s.readingTimeAsNumber) ? ' ' + minShortForm : ''));
+            if (readingTimeMinutes > 1) {
+              $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ((!s.readingTimeAsNumber) ? ' ' + minsShortForm : ''));
+            } else {
+              $(s.readingTimeTarget).text(s.prependTimeString + readingTimeMinutes + ((!s.readingTimeAsNumber) ? ' ' + minShortForm : ''));
+            }
 
           } else {
 
