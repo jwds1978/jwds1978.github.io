@@ -268,10 +268,11 @@ title: "Finding Your Purpose Post-Military"
   you.&nbsp; Hate and me-centeredness doesn't.
 </p>
 <p>
-  Am I being flippant, by making this seem simple?&nbsp; No.&nbsp; I know that we have PTSD, TBIs, physical wounds, losses, that we're grieving &#8212; Hell, I
-  know this all too fucking well.&nbsp; I know that you get moody and you don't necessarily mean to flip-out on people.&nbsp; And yes, there's a place for
-  medication and/or counseling and/or various types of therapy.&nbsp; But, in all of the biggest changes and/or transformations in life, whether or not you
-  end-up with a life that feels good comes down to this&hellip;&nbsp; The perspective that you choose to have &#8212; the energy that you choose to live from.
+  Am I being flippant, by making this seem simple?&nbsp; No.&nbsp; I know that we have <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, <abbr
+    title="Traumatic Brain Injury">TBI</abbr>s, physical wounds, losses, that we're grieving &#8212; Hell, I know this all too fucking well.&nbsp; I know that
+  you get moody and you don't necessarily mean to flip-out on people.&nbsp; And yes, there's a place for medication and/or counseling and/or various types of
+  therapy.&nbsp; But, in all of the biggest changes and/or transformations in life, whether or not you end-up with a life that feels good comes down to
+  this&hellip;&nbsp; The perspective that you choose to have &#8212; the energy that you choose to live from.
 </p>
 <p>
   You can be wounded and not be an asshole.&nbsp; You can be wounded and be happy.&nbsp; You can live from a place of gratitude and positive energy.&nbsp; You

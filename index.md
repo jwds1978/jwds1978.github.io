@@ -56,7 +56,8 @@ liMarquee: true
 <!--/sse-->
 <p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
   <span style="font-weight: bolder;"><i aria-hidden="true" class="fa fa-exclamation-triangle"></i>&nbsp; Warning:</span>&nbsp; This Web site contains
-  emotionally charged and/or graphic accounts of combat PTSD&hellip;&nbsp; Be forewarned &#8212; triggers may be found within.
+  emotionally charged and/or graphic accounts of combat <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>&hellip;&nbsp; Be forewarned &#8212; triggers
+  may be found within.
 </p>
 <p>
   &nbsp;

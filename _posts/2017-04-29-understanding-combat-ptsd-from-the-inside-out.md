@@ -40,12 +40,12 @@ tags:
 title: "Understanding Combat PTSD, from the Inside, Out"
 ---
 
-<img
-  alt="" height="177" src="{{ site.uri.assets }}/blog/2017/04/29/understanding-combat-ptsd-from-the-inside-out/combat-ptsd_187x177.png"
+<img alt="" height="177" src="{{ site.uri.assets }}/blog/2017/04/29/understanding-combat-ptsd-from-the-inside-out/combat-ptsd_187x177.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="187" />
 <p>
-  People from all walks of life can face dealing with PTSD&hellip;&nbsp; Someone who's in a car crash, a policeman, someone who's assaulted, etc.&nbsp; People
-  who struggle with PTSD all have similar problems and/or issues.&nbsp; However, Combat PTSD, is the outcome of many weeks, months, or years of experiencing
+  People from all walks of life can face dealing with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>&hellip;&nbsp; Someone who's in a car crash, a
+  policeman, someone who's assaulted, etc.&nbsp; People who struggle with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> all have similar problems
+  and/or issues.&nbsp; However, Combat <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, is the outcome of many weeks, months, or years of experiencing
   life threatening.
 </p>
 <p>
@@ -53,9 +53,10 @@ title: "Understanding Combat PTSD, from the Inside, Out"
 </p>
 <!-- excerptBreak -->
 <p>
-  Below, is a poem about Combat PTSD.&nbsp; I've tried several different ways of verifying its origins, find out more about the writer, etc.&nbsp; However, the
-  only information that I was able to find is that it's thought to have been written by a Vietnam veteran &#8212; who was also a member of the Nez Perce tribe
-  &#8212; who went through the North Chicago VA Combat Trauma Program in 1991, and that since then, his writing's given out to all of the vets who want a copy.
+  Below, is a poem about Combat <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; I've tried several different ways of verifying its origins, find
+  out more about the writer, etc.&nbsp; However, the only information that I was able to find is that it's thought to have been written by a Vietnam veteran
+  &#8212; who was also a member of the Nez Perce tribe &#8212; who went through the North Chicago VA Combat Trauma Program in 1991, and that since then, his
+  writing's given out to all of the vets who want a copy.
   <blockquote>
     They said I would be changed in my body.&nbsp; I would move through the physical world in a different manner.&nbsp; I would have pain where there was no
     blood.&nbsp; I would react to sights, sounds, movement and touch in a crazy way, as though I were back in war.<br />
@@ -81,16 +82,16 @@ title: "Understanding Combat PTSD, from the Inside, Out"
 </p>
 <p>
   Regardless of its origins, this poem says a lot about the challenges and difficulties that we &#8212; as warriors &#8212; face.&nbsp; We must have, the
-  support and understanding, as we struggle with &quot;the beast&quot; known as Combat PTSD.
+  support and understanding, as we struggle with &quot;the beast&quot; known as Combat <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>.
 </p>
 <p>
   &nbsp;
 </p>
 <p>
-  Combat-Related Post-Traumatic Stress Disorder &#8212; Combat PTSD &#8212; isn't just something that happens to a soldier when they have to kill
-  someone&hellip;&nbsp; Although, that can play a part.&nbsp; It's about what happens, physically and psychologically, inside of a soldier's brain when they're
-  faced with weeks, months, or years of constant adrenaline, danger, death, and/or fear.&nbsp; This enormous and prolonged stress, quite literally, changes the
-  way that our brain looks and functions.
+  Combat-Related Post-Traumatic Stress Disorder &#8212; Combat <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> &#8212; isn't just something that
+  happens to a soldier when they have to kill someone&hellip;&nbsp; Although, that can play a part.&nbsp; It's about what happens, physically and
+  psychologically, inside of a soldier's brain when they're faced with weeks, months, or years of constant adrenaline, danger, death, and/or fear.&nbsp; This
+  enormous and prolonged stress, quite literally, changes the way that our brain looks and functions.
 </p>
 <p>
   &nbsp;
@@ -103,24 +104,26 @@ title: "Understanding Combat PTSD, from the Inside, Out"
     <span style="font-weight: bolder;">Adrenaline Response:</span>&nbsp; When we're in danger, our brain flips into &quot;fight or flight&quot; mode, a place
     where it's primed to decide whether or not we should run or engage a threat.&nbsp; Our bodies make two handy hormones that cause this response &#8212;
     noradrenaline which handles fight, and adrenaline which is responsible for flight.&nbsp; In &quot;normal&quot; brains, these hormones are released by a
-    current threat (i.e. when someone's standing face-to-face with a bear.&nbsp; But, in a brain affected with PTSD, these hormones are triggered not by actual
-    threats, but by reminders of threats that occurred months or even years before.
+    current threat (i.e. when someone's standing face-to-face with a bear.&nbsp; But, in a brain affected with <abbr
+      title="Post-Traumatic Stress Disorder">PTSD</abbr>, these hormones are triggered not by actual threats, but by reminders of threats that occurred months
+    or even years before.
   </li>
   <li>
     <span style="font-weight: bolder;">Grey Matter:</span>&nbsp; The grey matter area of our brain's responsible for processing information from our body (i.e.
     sensory neurons) and sending information to our body (i.e. motor neurons).&nbsp; Veterans have 5&#8211;10% less grey matter after having developed
-    PTSD.&nbsp; This means that their neurons &#8212; their communication signals &#8212; have been damaged.
+    <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; This means that their neurons &#8212; their communication signals &#8212; have been damaged.
   </li>
   <li>
     <span style="font-weight: bolder;">Hippocampus:</span>&nbsp; The hippocampus is a section of our brain which plays an important part in short-term memory
     and the regulation of our emotions.&nbsp; Researchers, using Magnetic Resonance Imaging, have been able to determine that the hippocampus of veterans
-    with PTSD had actually suffered damage.&nbsp; They believe that this damage may be under stress.
+    with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> had actually suffered damage.&nbsp; They believe that this damage may be under stress.
   </li>
   <li>
     <span style="font-weight: bolder;">Prefrontal Cortex:</span>&nbsp; Our prefrontal cortex helps us to decide how we experience and/or react to an emotion
-    and/or resolve conflicts.&nbsp; It also tells our brain once a threat's passed.&nbsp; People with PTSD have altered blood flow to this area of their brain
-    &#8212; the more change in flow, the more severe the symptoms of PTSD tend to be.&nbsp; This decrease in function, causes their brain to sort of be stuck,
-    in a permanent fear mode &#8212; it doesn't relay the &quot;all clear&quot; message.
+    and/or resolve conflicts.&nbsp; It also tells our brain once a threat's passed.&nbsp; People with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>
+    have altered blood flow to this area of their brain &#8212; the more change in flow, the more severe the symptoms of <abbr
+      title="Post-Traumatic Stress Disorder">PTSD</abbr> tend to be.&nbsp; This decrease in function, causes their brain to sort of be stuck, in a permanent
+    fear mode &#8212; it doesn't relay the &quot;all clear&quot; message.
   </li>
 </ul>
 <p>
@@ -131,17 +134,19 @@ title: "Understanding Combat PTSD, from the Inside, Out"
 </h3>
 <ul>
   <li>
-    <span style="font-weight: bolder;">Aggression and/or Hostility:</span>&nbsp; Veterans with PTSD exhibit, significantly higher, levels of aggression and/or
-    hostility than the general public or even than other soldiers who have experienced combat.&nbsp; Since they have lived for a long period of time where they
-    needed to aggressively react at a moment's notice, in order to stay alive, this way of acting has become an ingrained habit within them.&nbsp; Spouses often
-    joke that it's not safe to wake a sleeping veteran from anywhere close by.&nbsp; This is because, when startled awake, the vet can react with an
-    unbelievably strong amount of aggression &#8212; he may believe that he's responding to an unknown threat.&nbsp; On a wider scale, it's quite common for
-    individuals with PTSD to get into fights, drive aggressively, become angry at insignificant things, and/or drastically over-react to any sort of challenge.
+    <span style="font-weight: bolder;">Aggression and/or Hostility:</span>&nbsp; Veterans with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> exhibit,
+    significantly higher, levels of aggression and/or hostility than the general public or even than other soldiers who have experienced combat.&nbsp; Since
+    they have lived for a long period of time where they needed to aggressively react at a moment's notice, in order to stay alive, this way of acting has
+    become an ingrained habit within them.&nbsp; Spouses often joke that it's not safe to wake a sleeping veteran from anywhere close by.&nbsp; This is because,
+    when startled awake, the vet can react with an unbelievably strong amount of aggression &#8212; he may believe that he's responding to an unknown
+    threat.&nbsp; On a wider scale, it's quite common for individuals with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> to get into fights, drive
+    aggressively, become angry at insignificant things, and/or drastically over-react to any sort of challenge.
   </li>
   <li>
     <span style="font-weight: bolder;">Depression and/or Suicide:</span>&nbsp; People with post-traumatic stress disorder are seven times more likely to be
-    depressed than someone else within the general population.&nbsp; It's one of the largest complaints associated with PTSD.&nbsp; And, unfortunately, this
-    depression goes hand-in-hand with high rates of suicide amongst our nation's returning heroes.&nbsp; It's estimated that 22 commit suicide each day.
+    depressed than someone else within the general population.&nbsp; It's one of the largest complaints associated with <abbr
+      title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; And, unfortunately, this depression goes hand-in-hand with high rates of suicide amongst our
+    nation's returning heroes.&nbsp; It's estimated that 22 commit suicide each day.
   </li>
   <li>
     <span style="font-weight: bolder;">Guilt:</span>&nbsp; The guilt associated with post-traumatic stress disorder is often called <a
@@ -151,37 +156,39 @@ title: "Understanding Combat PTSD, from the Inside, Out"
     still in harm's way.
   </li>
   <li>
-    <span style="font-weight: bolder;">Lack of Trust:</span>&nbsp; This change, in a veteran with PTSD, is also caused by his time in combat.&nbsp; While in
-    combat, he had to assume that everyone he met &#8212; even those who were called allies &#8212; were possible enemies.&nbsp; The only people that he knew he
-    could rely on, in order to stay alive, were himself and those within his immediate group &#8212; people who'd proven themselves to each other in
-    combat.&nbsp; After that same veteran returns home, he feels alone, and without the protection of his battle-tested counterparts.&nbsp; He doesn't trust
-    anybody else &#8212; not even people that he's known for his entire life &#8212; to be able to watch-out for him.&nbsp; He feels that he, alone, is the only
-    one whom he can count on and/or trust.
+    <span style="font-weight: bolder;">Lack of Trust:</span>&nbsp; This change, in a veteran with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, is
+    also caused by his time in combat.&nbsp; While in combat, he had to assume that everyone he met &#8212; even those who were called allies &#8212; were
+    possible enemies.&nbsp; The only people that he knew he could rely on, in order to stay alive, were himself and those within his immediate group &#8212;
+    people who'd proven themselves to each other in combat.&nbsp; After that same veteran returns home, he feels alone, and without the protection of his
+    battle-tested counterparts.&nbsp; He doesn't trust anybody else &#8212; not even people that he's known for his entire life &#8212; to be able to watch-out
+    for him.&nbsp; He feels that he, alone, is the only one whom he can count on and/or trust.
   </li>
   <li>
     <span style="font-weight: bolder;">Paranoia:</span>&nbsp; In war, a paranoid soldier's a soldier who stays alive.&nbsp; Every item in his environment, from
-    a pothole to a child carrying a backpack, must be regarded as a potential threat.&nbsp; When that same soldier, whose mind has been changed by PTSD returns
-    home, he's often unable to shut-off his vigilant behaviour.&nbsp; Veterans will often and almost constantly, &quot;patrol&quot; their homes to check for
-    intruders, insist that they sit with their backs to a wall and facing the door so that they can analyze every person who enters a room, and/or even drive
-    off the road in order to avoid discarded trash &#8212; because this, often, indicates an Improvised Explosive Device during combat.
+    a pothole to a child carrying a backpack, must be regarded as a potential threat.&nbsp; When that same soldier, whose mind has been changed by <abbr
+      title="Post-Traumatic Stress Disorder">PTSD</abbr> returns home, he's often unable to shut-off his vigilant behaviour.&nbsp; Veterans will often and
+    almost constantly, &quot;patrol&quot; their homes to check for intruders, insist that they sit with their backs to a wall and facing the door so that they
+    can analyze every person who enters a room, and/or even drive off the road in order to avoid discarded trash &#8212; because this, often, indicates an
+    Improvised Explosive Device during combat.
   </li>
   <li>
-    <span style="font-weight: bolder;">Poor Coping Skills:</span>&nbsp; Due to the physical and mental changes that a veteran with PTSD has, they're often
-    unable to cope in what most people would consider &quot;normal&quot; circumstances.&nbsp; They're easily overwhelmed by too much noise, too many people, too
-    many changes, and/or too much stimuli of any sort.&nbsp; Dealing with post-traumatic stress disorder, and all of its symptoms, takes most of their energy
-    and concentration.&nbsp; Anything else, especially something that's unexpected, can cause a violent reaction and/or simply cause the veteran to shut-down.
+    <span style="font-weight: bolder;">Poor Coping Skills:</span>&nbsp; Due to the physical and mental changes that a veteran with <abbr
+      title="Post-Traumatic Stress Disorder">PTSD</abbr> has, they're often unable to cope in what most people would consider &quot;normal&quot;
+    circumstances.&nbsp; They're easily overwhelmed by too much noise, too many people, too many changes, and/or too much stimuli of any sort.&nbsp; Dealing
+    with post-traumatic stress disorder, and all of its symptoms, takes most of their energy and concentration.&nbsp; Anything else, especially something that's
+    unexpected, can cause a violent reaction and/or simply cause the veteran to shut-down.
   </li>
 </ul>
 <p>
   &nbsp;
 </p>
 <p>
-  <iframe
-    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/ZWVgFxr4zC8?rel=0"
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/ZWVgFxr4zC8?rel=0"
     style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
   &nbsp;<br />
   Understanding these changes helps many people understand, for the first time, just how &quot;real&quot; post-traumatic stress disorder is.&nbsp;
-  Unfortunately, hidden wounds, such as PTSD), are often hard for people to grasp and/or empathize with.&nbsp; Hopefully, after learning more about the
-  &quot;mechanics&quot; behind PTSD, you'll be better able to talk about PTSD and the real impact that it can have on the life of a veteran and/or those who
+  Unfortunately, hidden wounds, such as <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>), are often hard for people to grasp and/or empathize
+  with.&nbsp; Hopefully, after learning more about the &quot;mechanics&quot; behind <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, you'll be better
+  able to talk about <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> and the real impact that it can have on the life of a veteran and/or those who
   love and/or care for him/her.
 </p>

@@ -43,10 +43,11 @@ title: "Combat PTSD and the Relevance of Hypervigilance"
   intensity of behaviours, whose purpose is to detect threats.&nbsp; Although it may feel like paranoia, they're not the same thing.
 </p>
 <p>
-  Discarding the military for a moment, and thinking of PTSD in general, a symptom of PTSD is hypervigilance.&nbsp; This means, what society classifies as
-  normal &#8212; being a person who lacks significant deviation from society and/or conforms to the ideals of society &#8212; typically, has little to no
-  requirement for being hypervigilant.&nbsp; Without fear, there's no requirement to be looking for something.&nbsp; The most a civilian's, partially
-  hypervigilant, is within daily acts of driving a motor vehicle and crossing the road.&nbsp; That's the, typical, extent of a civilian's hypervigilance.
+  Discarding the military for a moment, and thinking of <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> in general, a symptom of <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr> is hypervigilance.&nbsp; This means, what society classifies as normal &#8212; being a person who lacks
+  significant deviation from society and/or conforms to the ideals of society &#8212; typically, has little to no requirement for being hypervigilant.&nbsp;
+  Without fear, there's no requirement to be looking for something.&nbsp; The most a civilian's, partially hypervigilant, is within daily acts of driving a
+  motor vehicle and crossing the road.&nbsp; That's the, typical, extent of a civilian's hypervigilance.
 </p>
 <!-- excerptBreak -->
 <p>
@@ -61,11 +62,12 @@ title: "Combat PTSD and the Relevance of Hypervigilance"
 <p>
   The military trains every recruit to a heightened level of hypervigilant status.&nbsp; This occurs from learning drill, to patrolling and tactics, to weapons,
   and so forth.&nbsp; You're trained to identify threats, before the threats identify you.&nbsp; What's a threat?&nbsp; Something which your brain distinguishes
-  as a fear.&nbsp; Without any exposure to an actual real-life trauma, every soldier's now been trained to a heightened symptom of PTSD, through behavioural
-  modification.&nbsp; The fear that's used for behavioural modification's imposed by a reward and punishment type of system.&nbsp; If you do good, you don't get
-  punished.&nbsp; If you do bad, you get punished.&nbsp; Hell, even if you do good, you may still get punished at times.&nbsp; This mentally challenges you to
-  strive for perfection &#8212; not just meeting a standard, but to perform to a high-level and work as a team.&nbsp; Creating a team environment aids in the
-  process &#8212; if you fail, you're punished by your peers.&nbsp; Fear, in all of its forms, is an exceptional motivator.
+  as a fear.&nbsp; Without any exposure to an actual real-life trauma, every soldier's now been trained to a heightened symptom of <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr>, through behavioural modification.&nbsp; The fear that's used for behavioural modification's imposed by a
+  reward and punishment type of system.&nbsp; If you do good, you don't get punished.&nbsp; If you do bad, you get punished.&nbsp; Hell, even if you do good,
+  you may still get punished at times.&nbsp; This mentally challenges you to strive for perfection &#8212; not just meeting a standard, but to perform to a
+  high-level and work as a team.&nbsp; Creating a team environment aids in the process &#8212; if you fail, you're punished by your peers.&nbsp; Fear, in all of
+  its forms, is an exceptional motivator.
 </p>
 <p>
   Depending upon your role within any force, depends upon how far your hypervigilant state will be trained.&nbsp; Infantry, for example, are trained to be
@@ -74,12 +76,14 @@ title: "Combat PTSD and the Relevance of Hypervigilance"
   look quite right.&nbsp; IEDs, often, fit right-in with their surroundings.&nbsp; So, even looking right's a threat.
 </p>
 <p>
-  Now, the simplest of all issues combined&hellip;&nbsp; A person who's been trained to be hypervigilant prior to their developing PTSD.&nbsp; What have we
-  learnt thus far?&nbsp; The military trained you to be hypervigilant, yet when PTSD develops, the brain also (by itself) creates a hypervigilant state &#8212;
-  1 + 1 = 2.
+  Now, the simplest of all issues combined&hellip;&nbsp; A person who's been trained to be hypervigilant prior to their developing <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; What have we learnt thus far?&nbsp; The military trained you to be hypervigilant, yet when <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr> develops, the brain also (by itself) creates a hypervigilant state &#8212; 1 + 1 = 2.
 </p>
 <p>
-  Why do military, with PTSD, have a much worse state of hypervigilance and/or alertness?&nbsp; Simply put, not only have you been trained with a symptom of
-  PTSD, but upon developing PTSD, the symptom's now exacerbated in severity due to its pre-existence.&nbsp; One doesn't cancel the other out.&nbsp; Rather, 1 +
-  1 = 2 &#8212; PTSD Hypervigilance + Military Training Hypervigilance = Double the Symptom Severity.
+  Why do military, with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, have a much worse state of hypervigilance and/or alertness?&nbsp; Simply put,
+  not only have you been trained with a symptom of <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, but upon developing <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr>, the symptom's now exacerbated in severity due to its pre-existence.&nbsp; One doesn't cancel the other
+  out.&nbsp; Rather, 1 + 1 = 2 &#8212; <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> Hypervigilance + Military Training Hypervigilance = Double the
+  Symptom Severity.
 </p>

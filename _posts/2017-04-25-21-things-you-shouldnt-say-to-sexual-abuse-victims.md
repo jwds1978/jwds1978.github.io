@@ -220,7 +220,8 @@ title: "21 Things You Shouldn't Say to Sexual Abuse Victims"
     Just stop thinking about it.
     <ul style="list-style-type: none;">
       <li>
-        Flashbacks and triggers happen when a person may least expect it.&nbsp; Many victims suffer from PTSD and can't control the sudden thoughts that invade.
+        Flashbacks and triggers happen when a person may least expect it.&nbsp; Many victims suffer from <abbr
+          title="Post-Traumatic Stress Disorder">PTSD</abbr> and can't control the sudden thoughts that invade.
       </li>
     </ul>
   </li>

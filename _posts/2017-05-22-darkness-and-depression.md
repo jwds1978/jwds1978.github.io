@@ -127,9 +127,10 @@ title: "Darkness and Depression"
   height="362" src="{{ site.uri.assets }}/blog/2017/05/22/darkness-and-depression/2017-05-22_22-05-54_0482x0362.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" /></a>
 <p>
-  On the night in question, I looked over&hellip;&nbsp; There sat my trusty knife &#8212; the one, which PTSD tells me to keep ready for threats, at all
-  times.&nbsp; Then, came a flash of me stabbing myself and collapsing on my makeshift bed.&nbsp; It lasted for less than a second&hellip;&nbsp; However, it was
-  so disturbing and graphic, that it wounded me.&nbsp; It was like being punched in the gut.
+  On the night in question, I looked over&hellip;&nbsp; There sat my trusty knife &#8212; the one, which <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr> tells me to keep ready for threats, at all times.&nbsp; Then, came a flash of me stabbing myself and
+  collapsing on my makeshift bed.&nbsp; It lasted for less than a second&hellip;&nbsp; However, it was so disturbing and graphic, that it wounded me.&nbsp; It
+  was like being punched in the gut.
 </p>
 <p>
   In its shocking repetition, suicidal ideation, makes you feel very much like a victim of abuse.&nbsp; But, you're the abuser.&nbsp; What the fuck gives,

@@ -65,19 +65,20 @@ title: "The Modern Combat Veteran"
   Dissociation and Other Considerations
 </h3>
 <p>
-  PTSD's a life-long endeavor &#8212; there's no cure for it.&nbsp; The triggering traumatic event changes the landscape of the mind &#8212; it no longer works
-  in the same fashion that it did before.&nbsp; The mind's been rewired &#8212; the neuropathways have been altered into a continuous loop.&nbsp; The
-  PTSD-triggering incident converts the fight or flight response within the primitive portion of our brain.&nbsp; Imagine, having that scared feeling you get
-  without the fear, while keeping the bodily reactions &#8212; the tenseness, the adrenalin rush, the mind racing, heightened senses, and the hyper-response
-  reflex &#8212; to react without thinking.
+  <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>'s a life-long endeavor &#8212; there's no cure for it.&nbsp; The triggering traumatic event changes
+  the landscape of the mind &#8212; it no longer works in the same fashion that it did before.&nbsp; The mind's been rewired &#8212; the neuropathways have been
+  altered into a continuous loop.&nbsp; The <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>-triggering incident converts the fight or flight response
+  within the primitive portion of our brain.&nbsp; Imagine, having that scared feeling you get without the fear, while keeping the bodily reactions &#8212; the
+  tenseness, the adrenalin rush, the mind racing, heightened senses, and the hyper-response reflex &#8212; to react without thinking.
 </p>
 <!-- excerptBreak -->
 <p>
-  The incident that solidifies the mental wound of PTSD, results in a mind-numbing and/or psychic shift.&nbsp; In response to the trauma of combat, the person
-  needs to make a mental detachment to do &quot;what needs to be done&quot;.&nbsp; The survival mode of operation forgoes the higher levels of functioning and
-  depends upon the primitive reactionary portion of the brain.&nbsp; When this unconscious detachment's been activated too frequently and/or for extended
-  periods of time, it becomes part of conscious processing and interferes with everyday interactions.&nbsp; <a
-    href="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind" rel="me" title="The Dissociative Mind">According to Howell</a>, dissociation refers to:
+  The incident that solidifies the mental wound of <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, results in a mind-numbing and/or psychic
+  shift.&nbsp; In response to the trauma of combat, the person needs to make a mental detachment to do &quot;what needs to be done&quot;.&nbsp; The survival
+  mode of operation forgoes the higher levels of functioning and depends upon the primitive reactionary portion of the brain.&nbsp; When this unconscious
+  detachment's been activated too frequently and/or for extended periods of time, it becomes part of conscious processing and interferes with everyday
+  interactions.&nbsp; <a href="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind" rel="me" title="The Dissociative Mind">According to Howell</a>,
+  dissociation refers to:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind">
     the separation of mental and experiential contents that would normally be connected.&nbsp; The word dissociation is laden with multiple meanings and refers
     to many kinds of phenomena, processes, and conditions.&nbsp; Dissociation is both adaptive and maladaptive, both verb and noun, both cause and
@@ -93,7 +94,8 @@ title: "The Modern Combat Veteran"
   when a particular skill set needs asserting pertaining to situational interactions.&nbsp; Here, trauma based disorders may lead the symptomology to further
   entrenchment and compartmentalization that may lead to personality disorders.
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind">
-    A war veteran with PTSD might have more significant structural dissociation, involving the sequestration of more and larger portions of experience.
+    A war veteran with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> might have more significant structural dissociation, involving the sequestration
+    of more and larger portions of experience.
   </blockquote>
 </p>
 <p>
@@ -106,8 +108,9 @@ title: "The Modern Combat Veteran"
   killed.
 </p>
 <p>
-  The warrior with PTSD's grown accustomed to the value and belief systems of war, and feels threatened when they become faced with having to let go of this
-  security, in an attempt to reintegrate back into society.&nbsp; Howell describes animal defensive and post-traumatic biological states:
+  The warrior with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>'s grown accustomed to the value and belief systems of war, and feels threatened when
+  they become faced with having to let go of this security, in an attempt to reintegrate back into society.&nbsp; Howell describes animal defensive and
+  post-traumatic biological states:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind">
     The human animal may have a repertoire of discrete behavioral states that are adaptive to conditions of predation&hellip;&nbsp; These animal defense states
     may underlie different dissociative parts of the personality&hellip;&nbsp; This begins a neurophysiological alarm reaction&hellip; and&hellip; a tendency to
@@ -231,11 +234,11 @@ title: "The Modern Combat Veteran"
 </p>
 <p>
   With our modern soldiers averaging 2&#8211;3 tours of combat, we'll begin to see an increasing epidemic of incarcerated veterans.&nbsp; Within the next
-  10&#8211;15 years, the public will see a sharp rise in veterans suffering from PTSD &#8212;to the point of epidemic proportions.&nbsp; You see, never before
-  in war, have our troops been subjected to such prolonged exposure to combat and life-threatening situations.&nbsp; In World War II, our troops were fighting a
-  defined enemy while engaging real objectives &#8212; with sufficient downtime between engagements.&nbsp; Most of the troops to see combat were infantry
-  soldiers, fighting on a distinct front, not the ones &quot;in the rear with the gear&quot;.&nbsp; With a real threat to the sovereignty and way of life,
-  soldiers of this era were less affected by the trauma of war.
+  10&#8211;15 years, the public will see a sharp rise in veterans suffering from <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> &#8212;to the point of
+  epidemic proportions.&nbsp; You see, never before in war, have our troops been subjected to such prolonged exposure to combat and life-threatening
+  situations.&nbsp; In World War II, our troops were fighting a defined enemy while engaging real objectives &#8212; with sufficient downtime between
+  engagements.&nbsp; Most of the troops to see combat were infantry soldiers, fighting on a distinct front, not the ones &quot;in the rear with the
+  gear&quot;.&nbsp; With a real threat to the sovereignty and way of life, soldiers of this era were less affected by the trauma of war.
 </p>
 <p>
   The significant political interference of the Vietnam War, generated little to no tangible objectives for our soldiers, solidifying and branding their levels
@@ -248,12 +251,13 @@ title: "The Modern Combat Veteran"
   While in Iraq, there are no friendly countries nor areas in which to spend leave time, in order to relieve stress while residing on constant alert.&nbsp;
   Most, even non-combat soldiers, see combat and/or threats on a daily basis.&nbsp; Now, combine this with the most intensive warfare possible &#8212; guerrilla
   warfare &#8212; in an urban environment.&nbsp; We get troops that are over-extended and/or over-exposed to life-threatening situations within unprecedented
-  levels of combat.&nbsp; Troops in Iraq have no respite from danger, further entrenching the effects of PTSD through the hyper levels of neurotransmitters.
+  levels of combat.&nbsp; Troops in Iraq have no respite from danger, further entrenching the effects of <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr> through the hyper levels of neurotransmitters.
 </p>
 <p>
   Dissociated attachments reenact combat trauma somatically, and between interstates within the RCV, resulting in a &wuot;civil war&quot; amongst oneself.&nbsp;
-  A seemingly supra-intelligent guidance of the unconscious, this device of PTSD that engages in the survival defensive mechanisms that have sustained the
-  combat veteran's life on a persistent basis.&nbsp; Thus, becoming the protector&hellip;
+  A seemingly supra-intelligent guidance of the unconscious, this device of <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> that engages in the
+  survival defensive mechanisms that have sustained the combat veteran's life on a persistent basis.&nbsp; Thus, becoming the protector&hellip;
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-the-dissociative-mind">
     A conceptualization of hostile self-states in &quot;personified narcissistic and sociopathic defenses&quot; that defend against dependency, vulnerability,
     and guilt&hellip; and&hellip; applies just as well to pathological narcissism.
@@ -271,17 +275,18 @@ title: "The Modern Combat Veteran"
   &quot;combat saturation&quot;.
 </p>
 <p>
-  Today, 15% of soldiers and veterans have been diagnosed with PTSD.&nbsp; This appears as though it may be a smaller number as compared to other wars.&nbsp;
-  30% PTSD rates in Vietnam, 15% estimated in WWII, and 15&#8211;20% of Gulf War vets reported to have PTSD.&nbsp; It took Vietnam veterans up to 10&#8211;20
+  Today, 15% of soldiers and veterans have been diagnosed with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; This appears as though it may be
+  a smaller number as compared to other wars.&nbsp; 30% <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> rates in Vietnam, 15% estimated in WWII, and
+  15&#8211;20% of Gulf War vets reported to have <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; It took Vietnam veterans up to 10&#8211;20
   years before their symptoms reached the point of becoming debilitating.&nbsp; The implications for our modern veterans will have monumental and deleterious
-  effects within the next 10 years.&nbsp; It's been projected, that PTSD rates in today's wars, will reach 50&#8211;60%.&nbsp; We'll be inundated with mentally
-  ill veterans who have few options and nowhere to turn &#8212; they'll run afoul with the law.
+  effects within the next 10 years.&nbsp; It's been projected, that <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> rates in today's wars, will reach
+  50&#8211;60%.&nbsp; We'll be inundated with mentally ill veterans who have few options and nowhere to turn &#8212; they'll run afoul with the law.
 </p>
 <p>
   Today, we've become faced with a growing trend of soldiers and veterans becoming enmeshed within the court systems.&nbsp; In direct conflict with the
   perception in the media, I propose the theory that our veterans and soldiers face insufficient mental health care &#8212; having a major impact to their
-  lives, families, and communities.&nbsp; The problem isn't individualistic, but systemic, requiring major changes in how we view and treat PTSD.&nbsp; The care
-  of our soldiers and veterans isn't being met and we've just begun to see the aftereffects of the mind-shattering results of combat trauma.&nbsp; Untreated
-  PTSD can destroy the lives of many &#8212; not only the soldier and/or veteran.&nbsp; We send our soldiers to war and then lock them up when they're broken
-  and are no longer of use.
+  lives, families, and communities.&nbsp; The problem isn't individualistic, but systemic, requiring major changes in how we view and treat <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; The care of our soldiers and veterans isn't being met and we've just begun to see the aftereffects
+  of the mind-shattering results of combat trauma.&nbsp; Untreated <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> can destroy the lives of many
+  &#8212; not only the soldier and/or veteran.&nbsp; We send our soldiers to war and then lock them up when they're broken and are no longer of use.
 </p>

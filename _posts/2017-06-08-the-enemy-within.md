@@ -80,9 +80,9 @@ title: "The Enemy Within"
 <p>
   In recent months, there has been a great deal of information and reports in the media, about the increase in suicide for soldiers and veterans.&nbsp; Military
   sources have also confirmed dramatic increases in post-traumatic stress disorder (PTSD) among returning veterans.&nbsp; Most experts contend that these rates
-  of depression, PTSD, and suicide will continue to rise in the coming years &#8212; the government lacks the capacity to, adequately, meet the needs of
-  returning military and veterans.&nbsp; This means that these individuals will look beyond the government and increasingly turn to both public and private
-  providers for their mental health care.
+  of depression, <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, and suicide will continue to rise in the coming years &#8212; the government lacks
+  the capacity to, adequately, meet the needs of returning military and veterans.&nbsp; This means that these individuals will look beyond the government and
+  increasingly turn to both public and private providers for their mental health care.
 </p>
 <p>
   &nbsp;
@@ -144,24 +144,27 @@ title: "The Enemy Within"
 <p>
   <a href="{{ site.url }}{{ page.url }}#cite-heartmath-clinical-programs-for-health-professionals" rel="me"
     title="HeartMath: Clinical Programs for Health Professionals">Training and technologies</a> to develop self-regulation skills, improve cognitive functions,
-  lower health care costs, and reduce PTSD and operational stress symptoms.&nbsp; Backed by extensive experience, research, and science, HeartMath offers the
-  health professional effective technologies and methodologies to use with military personnel and veterans.
+  lower health care costs, and reduce <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> and operational stress symptoms.&nbsp; Backed by extensive
+  experience, research, and science, HeartMath offers the health professional effective technologies and methodologies to use with military personnel and
+  veterans.
 </p>
 <p>
   &nbsp;
 </p>
 <h3 id="ptsd-fact-sheet">
-  PTSD Fact Sheet
+  <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> Fact Sheet
 </h3>
 <p>
-  Today, there are good treatments available for PTSD.&nbsp; When you have PTSD, dealing with the past can be hard.&nbsp; Instead of telling others how you
-  feel, you may keep your feelings bottled-up.&nbsp; But, talking with a therapist can help you get better.
+  Today, there are good treatments available for <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; When you have <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr>, dealing with the past can be hard.&nbsp; Instead of telling others how you feel, you may keep your
+  feelings bottled-up.&nbsp; But, talking with a therapist can help you get better.
 </p>
 <p>
-  Cognitive-behavioural therapy (CBT) is one type of counseling.&nbsp; It appears to be the most effective type of counseling for PTSD.&nbsp; There are
-  different types of cognitive behavioural therapies &#8212; such as, cognitive therapy and exposure therapy.&nbsp; There's also a similar kind of therapy,
-  called eye movement desensitization and reprocessing (EMDR), that's used for PTSD.&nbsp; Medications have also been shown to be effective.&nbsp; A type of
-  drug known as a selective serotonin reuptake inhibitor (SSRI), which is also used for depression, is effective for PTSD.
+  Cognitive-behavioural therapy (CBT) is one type of counseling.&nbsp; It appears to be the most effective type of counseling for <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; There are different types of cognitive behavioural therapies &#8212; such as, cognitive therapy
+  and exposure therapy.&nbsp; There's also a similar kind of therapy, called eye movement desensitization and reprocessing (EMDR), that's used for <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr>.&nbsp; Medications have also been shown to be effective.&nbsp; A type of drug known as a selective
+  serotonin reuptake inhibitor (SSRI), which is also used for depression, is effective for <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>.
 </p>
 <p>
   &nbsp;

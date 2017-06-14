@@ -48,29 +48,29 @@ title: "Approaching a Combat Veteran"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="187" />
 <p>
   I was talking to one of my recently new friends and she'd expressed a discomfort in approaching me during an event.&nbsp; She wanted to respect my space, but
-  didn't know a comfortable way in which to approach me with respect to my PTSD symptoms within a group setting.&nbsp; It made me start to think about the
-  intense air that I must emote for her to question when and how to approach me.&nbsp; I like talking to people &#8212; that is, except for the ignorant and/or
-  stupid, as I have a zero-tolerance for ignorance and stupidity &#8212; it's where I get some of my greatest inspirations.&nbsp; However, at times, my
-  condition may not permit me to interact on a desired level and/or in an expected way.
+  didn't know a comfortable way in which to approach me with respect to my <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> symptoms within a group
+  setting.&nbsp; It made me start to think about the intense air that I must emote for her to question when and how to approach me.&nbsp; I like talking to
+  people &#8212; that is, except for the ignorant and/or stupid, as I have a zero-tolerance for ignorance and stupidity &#8212; it's where I get some of my
+  greatest inspirations.&nbsp; However, at times, my condition may not permit me to interact on a desired level and/or in an expected way.
 </p>
 <!-- excerptBreak -->
 <p>
-  The PTSD mind sees all of the interactions and people as a possible threat &#8212; even loved ones and friends that we've known for our entire lives.&nbsp;
-  In-between events and workshops, I was concentrating heavily on trying to talk to people and maintain my anxiety level &#8212; which, gets in the way of
-  communicating.&nbsp; Internally, we may be caught-up in our inner-world and if we're wrapped-up in states of high emotion, we may be displaying body postures
-  and facial expressions that say, &quot;I'm not at home right now &#8212; please, don't leave a message&quot;.&nbsp; Our body language may be misconstrued as
-  offensive&hellip;&nbsp; Therefore, subject to misinformation &#8212; personal biases, stereotyping, and/or stigma.&nbsp; To the uninitiated in trauma, we may
-  appear as someone to wary and/or fear.
+  The <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> mind sees all of the interactions and people as a possible threat &#8212; even loved ones and
+  friends that we've known for our entire lives.&nbsp; In-between events and workshops, I was concentrating heavily on trying to talk to people and maintain my
+  anxiety level &#8212; which, gets in the way of communicating.&nbsp; Internally, we may be caught-up in our inner-world and if we're wrapped-up in states of
+  high emotion, we may be displaying body postures and facial expressions that say, &quot;I'm not at home right now &#8212; please, don't leave a
+  message&quot;.&nbsp; Our body language may be misconstrued as offensive&hellip;&nbsp; Therefore, subject to misinformation &#8212; personal biases,
+  stereotyping, and/or stigma.&nbsp; To the uninitiated in trauma, we may appear as someone to wary and/or fear.
 </p>
 <p>
   A common aspect of our mental wound, is the defensive state of mind.&nbsp; When understood, within this context, it may help to facilitate
   communication.&nbsp; If I'm not completely zoned-out, my hyper-vigilance is zapping my energy on purely defensive matters.&nbsp; Whether from fighting my
   delusions, rendering reality obsolete, to dodging my many triggers so that I may not hallucinate.&nbsp; Our triggers are many, and some of us, hallucinate
   regularly.&nbsp; Please, consider this and be respectful.&nbsp; Balance this with knowing that we don't want to be feared and/or treated as though we're
-  broken.&nbsp; This inner-battle that we wage is against ourselves, not you.&nbsp; You'd be safer, standing next to a combat veteran with PTSD, than most
-  people.&nbsp; When our symptoms manifest, try not to take it personally, and see it as a learning opportunity.&nbsp; It's easier to accept the pain and
-  discomfort of a veteran that's been wounded from a bullet or a bomb, and much more difficult to see our mental wound and difficulties in interacting, as our
-  scars.
+  broken.&nbsp; This inner-battle that we wage is against ourselves, not you.&nbsp; You'd be safer, standing next to a combat veteran with <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr>, than most people.&nbsp; When our symptoms manifest, try not to take it personally, and see it as a
+  learning opportunity.&nbsp; It's easier to accept the pain and discomfort of a veteran that's been wounded from a bullet or a bomb, and much more difficult to
+  see our mental wound and difficulties in interacting, as our scars.
 </p>
 <p>
   I've met some other combat veterans with somewhat intense stares &#8212; some, fairly recently.&nbsp; But the funny thing, one of the most intense looking

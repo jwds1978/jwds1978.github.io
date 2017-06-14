@@ -435,7 +435,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <span class="p-job-title">Technical Support Manager</span> &#8212; Verizon DSL<br />
+      <span class="p-job-title">Technical Support Manager</span> &#8212; Verizon <abbr title="Digital Subscriber Line">DSL</abbr><br />
       <span class="p-name p-org">RMH Teleservices</span><br />
       <time class="dt-start" datetime="2001-06">June 2001</time> &#8211; <time class="dt-end" datetime="2005-05">May 2005</time>&nbsp; <sup><time
         class="dt-duration" datetime="P4Y">4 Years</time></sup><br />

@@ -789,21 +789,22 @@ title: "Some Thoughts About Abuse, Anger, and Victimization"
 <p>
   Though it's an over-simplified and perhaps even over-reaching suggestion to make, it maybe easiest to think of the cluster of problems that are typically
   observed in the wake of abuse as all various forms of a sort of post-trauma condition &#8212; where the trauma experienced is abuse.&nbsp; Post-trauma
-  conditions such as PTSD occur in the aftermath of a significant trauma &#8212; where trauma is defined as exposure to some event that involves the threat
-  and/or reality of death, either one's own or another's.&nbsp; Not all abuse situations get this scary, but many are disturbing enough in one fashion or
-  another to make a lasting impact on a person's mind.&nbsp; When post-trauma illnesses occur, they're characterized by the presence of three classes of
-  symptoms.&nbsp; Firstly, the post-trauma victims typically experience vivid, unwanted, and highly-intrusive memories of their traumatic events.&nbsp;
-  Intrusive recollections may occur during waking hours and/or during sleep &#8212; often, in the form of vivid and/or repetitive nightmares re-enacting the
-  trauma.&nbsp; Secondly, post-trauma victims make efforts to avoid exposing themselves to anything that might remind them of their trauma.&nbsp; Thirdly,
-  post-trauma victims become very anxious and jumpy after their trauma.&nbsp; As should be clear from thoughtful contemplation of these symptoms, PTSD can be a
-  very debilitating condition.
+  conditions such as <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> occur in the aftermath of a significant trauma &#8212; where trauma is defined as
+  exposure to some event that involves the threat and/or reality of death, either one's own or another's.&nbsp; Not all abuse situations get this scary, but
+  many are disturbing enough in one fashion or another to make a lasting impact on a person's mind.&nbsp; When post-trauma illnesses occur, they're
+  characterized by the presence of three classes of symptoms.&nbsp; Firstly, the post-trauma victims typically experience vivid, unwanted, and highly-intrusive
+  memories of their traumatic events.&nbsp; Intrusive recollections may occur during waking hours and/or during sleep &#8212; often, in the form of vivid and/or
+  repetitive nightmares re-enacting the trauma.&nbsp; Secondly, post-trauma victims make efforts to avoid exposing themselves to anything that might remind them
+  of their trauma.&nbsp; Thirdly, post-trauma victims become very anxious and jumpy after their trauma.&nbsp; As should be clear from thoughtful contemplation
+  of these symptoms, <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> can be a very debilitating condition.
 </p>
 <p>
-  Post-trauma victim's attempts at avoidance of trauma-related things can push them towards impulsive actions that less frantic people would avoid.&nbsp; PTSD
-  victims commonly abuse drugs, for instance, and this drug use is thought to begin as a means of coping with trauma.&nbsp; Similarly, depression and sexual
-  acting out can be thought of as attempts to cope&hellip;&nbsp; However, dysfunctionally.&nbsp; Depression functions to blunt emotional responding, and
-  promiscuity to give into it wholly &#8212; &quot;if I'm damaged goods, I might as well act like it&quot;.&nbsp; Similarly, multiple personality disorder and
-  the other abuse-related personality disorders represent wide-scale alterations of victim's personalities that help them shield themselves from emotional pain.
+  Post-trauma victim's attempts at avoidance of trauma-related things can push them towards impulsive actions that less frantic people would avoid.&nbsp; <abbr
+    title="Post-Traumatic Stress Disorder">PTSD</abbr> victims commonly abuse drugs, for instance, and this drug use is thought to begin as a means of coping
+  with trauma.&nbsp; Similarly, depression and sexual acting out can be thought of as attempts to cope&hellip;&nbsp; However, dysfunctionally.&nbsp; Depression
+  functions to blunt emotional responding, and promiscuity to give into it wholly &#8212; &quot;if I'm damaged goods, I might as well act like it&quot;.&nbsp;
+  Similarly, multiple personality disorder and the other abuse-related personality disorders represent wide-scale alterations of victim's personalities that
+  help them shield themselves from emotional pain.
 </p>
 <p>
   &nbsp;

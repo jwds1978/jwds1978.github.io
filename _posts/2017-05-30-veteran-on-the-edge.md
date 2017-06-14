@@ -89,16 +89,16 @@ title: "Veteran on the Edge"
   the death camps&hellip;&nbsp; It was, abso-fucking-lutely, a damned genocide.&nbsp; I've hunted and killed people &#8212; up-close and personal&hellip;&nbsp;
   I didn't have the luxuy of being somewhat detached, as a seaman may be, for exmple.&nbsp; I've had my hand inside of my buddies fucking guts.&nbsp; When I
   returned home, the stupid idiot box repeaters called me a liar &#8212; further, altering people's perceptions of me, as being unstable.&nbsp; Caregivers know
-  though, the safest people in the world, are those that are standing next to a veteran with PTSD.
+  though, the safest people in the world, are those that are standing next to a veteran with <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>.
 </p>
 <p>
   <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/vr1zMBN0g0w?rel=0"
     style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
-  After returning home, unchecked PTSD led me to beat a fucktard within an inch of his life&hellip;&nbsp; He needed several reconstructive surgeries and still
-  looks disfigured and fucked-up.&nbsp; He'll live out the remainder of his days in a wheelchair and being tube-fed.&nbsp; After being hospitalized in a
-  psych-ward, I was transferred to a federal facility, and did a few years of hard-time.
+  After returning home, unchecked <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> led me to beat a fucktard within an inch of his life&hellip;&nbsp; He
+  needed several reconstructive surgeries and still looks disfigured and fucked-up.&nbsp; He'll live out the remainder of his days in a wheelchair and being
+  tube-fed.&nbsp; After being hospitalized in a psych-ward, I was transferred to a federal facility, and did a few years of hard-time.
 </p>
 <p>
   Looking back, I don't necessarily regret harming the PoS, but if I were to find myself in that situation again, I may not be as &quot;violent&quot; with
@@ -114,7 +114,8 @@ title: "Veteran on the Edge"
 </p>
 <p>
   Fast-forward, past the bouts of hospitalizations for suicidal ideation and homelessness, I was finally diagnosed with hearing loss and tinnitus, amongst other
-  shit.&nbsp; Which, seriously exacerbate PTSD &#8212; infusing the flashbacks and hallucinations with sound, while I'm going deaf.
+  shit.&nbsp; Which, seriously exacerbate <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr> &#8212; infusing the flashbacks and hallucinations with
+  sound, while I'm going deaf.
 </p>
 <p>
   <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/BsfbO9oz0GI?rel=0"
@@ -139,7 +140,8 @@ title: "Veteran on the Edge"
 </p>
 <p>
   Today, even if I happen to make perfect financial decisions every month, I can barely get by.&nbsp; I'm only human and am prone to the same mistakes and/or
-  stresses as everybody faces.&nbsp; That's a base for a veteran with combat-related PTSD, MST, and/or TBI &#8212; welcome, to our good day.&nbsp; Now, heap on
+  stresses as everybody faces.&nbsp; That's a base for a veteran with combat-related <abbr title="Post-Traumatic Stress Disorder">PTSD</abbr>, <abbr
+    title="Military Sexual Trauma">MST</abbr>, and/or <abbr title="Traumatic Brain Injury">TBI</abbr> &#8212; welcome, to our good day.&nbsp; Now, heap on
   hypervigilence and crippling anxiety, that literally, makes your skin crawl&hellip;&nbsp; Welcome, to our good day.&nbsp; For a great day, heap on
   cannabis.&nbsp; I don't make enough money to have that throughout an entire month though.
 </p>
