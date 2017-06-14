@@ -44,7 +44,7 @@ title: Contact
   <a href="{{ site.url }}{{ page.url }}#top" rel="me" title="{{ page.title }} :: Back to Top">&uArr;&nbsp; Top</a>
 </span>
 <h3 id="e-mail">
-  <i aria-hidden="true" class="fa fa-envelope"></i>&nbsp; E-mail&nbsp; <sup>Preferrably, PGP-Encrypted</sup>
+  <i aria-hidden="true" class="fa fa-envelope"></i>&nbsp; E-mail&nbsp; <sup>Preferrably, <abbr title="Pretty Good Privacy">PGP</abbr>-Encrypted</sup>
 </h3>
 <ul>
   <li>
@@ -80,7 +80,7 @@ title: Contact
 </h3>
 <ul>
   <li>
-    PGP
+    <abbr title="Pretty Good Privacy">PGP</abbr>
     <ul>
       <li>
         <i aria-hidden="true" class="fa fa-key"></i>&nbsp; Public Keys
@@ -109,7 +109,7 @@ title: Contact
 </h3>
 <ul>
   <li>
-    AOL Instant Messenger
+    <abbr title="America Online">AOL</abbr> Instant Messenger
     <ul>
       <li>
         <a href="aim:goim?screenname=james%40stew721.ca" rel="me" target="_blank" title="">james@stew721.ca</a>
@@ -169,7 +169,7 @@ title: Contact
     </ul>
   </li>
   <li>
-    Jabber / XMPP&nbsp; <sup>Preferred</sup>
+    Jabber / <abbr title="Extensible Messaging and Presence Protocol">XMPP</abbr>&nbsp; <sup>Preferred</sup>
     <ul>
       <li>
         <a href="https://conversations.im/i/james.stewart@forces.army?omemo-sid-319927269=1c7a66ee6b31782aeeda16d3cb1928fb9fa08413475d2dead3e7eec47c6cd551"

@@ -32,8 +32,8 @@ title: "Freelance"
   <img
     alt="" height="80" src="{{ site.uri.assets }}/naked/images/over-the-shoulder_132x80.png"
     style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="132" />
-  <span style="font-weight: bolder;">Note:</span>&nbsp; James has absolutely no desire to make use of any 'productivity' applications such as Time Doctor,
-  Upwork, etc.&nbsp; Seriously, don't even ask&hellip;&nbsp; You'll be met with vehement opposition and fierce resistance.
+  <span style="font-weight: bolder;">Note:</span>&nbsp; James has absolutely no desire to make use of any &quot;productivity&quot; applications such as Time
+  Doctor, Upwork, etc.&nbsp; Seriously, don't even ask&hellip;&nbsp; You'll be met with vehement opposition and fierce resistance.
 </p>
 <p>
   &nbsp;
@@ -146,9 +146,9 @@ title: "Freelance"
     </ul>
   </li>
   <li>
-    <span style="font-weight: bolder;">PC Maintenance Technician:</span>&nbsp; Maintains, analyzes, troubleshoots, and repairs computer systems, hardware and
-    computer peripherals.&nbsp; Documents, maintains, upgrades or replaces hardware and software systems.&nbsp; Supports and maintains user account information
-    including rights, security and systems groups.
+    <span style="font-weight: bolder;"><abbr title="Personal Computer">PC</abbr> Maintenance Technician:</span>&nbsp; Maintains, analyzes, troubleshoots, and
+    repairs computer systems, hardware and computer peripherals.&nbsp; Documents, maintains, upgrades or replaces hardware and software systems.&nbsp; Supports
+    and maintains user account information including rights, security and systems groups.
     <ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
       <li>
         Hourly:&nbsp; &#8793; $23 CAD
@@ -342,8 +342,8 @@ title: "Freelance"
     </ul>
   </li>
   <li>
-    <span style="font-weight: bolder;">PC Build-out:</span>&nbsp; If you've already got a design that you'd like for your PC, and/or James has designed one for
-    you, he can build it.
+    <span style="font-weight: bolder;"><abbr title="Personal Computer">PC</abbr> Build-out:</span>&nbsp; If you've already got a design that you'd like for your
+    <abbr title="Personal Computer">PC</abbr>, and/or James has designed one for you, he can build it.
     <ul>
       <li>
         $50 CAD
@@ -356,8 +356,9 @@ title: "Freelance"
     </ul>
   </li>
   <li>
-    <span style="font-weight: bolder;">PC Design:</span>&nbsp; Require a PC for business and/or personal use, but don't have the skill required to build it
-    yourself?&nbsp; James can save you the time and hassle of research and compatibility testing; designing a functional PC, based on what you need and/or want.
+    <span style="font-weight: bolder;"><abbr title="Personal Computer">PC</abbr> Design:</span>&nbsp; Require a <abbr title="Personal Computer">PC</abbr> for
+    business and/or personal use, but don't have the skill required to build it yourself?&nbsp; James can save you the time and hassle of research and
+    compatibility testing; designing a functional <abbr title="Personal Computer">PC</abbr>, based on what you need and/or want.
     <ul>
       <li>
         $37 CAD
@@ -487,9 +488,9 @@ title: "Freelance"
 </p>
 <p>
   James only wants to work with clients who treat him with the professionalism and respect he deserves.&nbsp; If you see him in the same light as your kid
-  nephew who 'builds Web sites', then you're setting him up to be screwed over.&nbsp; Trust me &#8212; the only bad clients he's ever worked with were bad from
-  the start.&nbsp; There was always something unsettling about how their engagement was drafted, and not trusting his gut always led to a nightmare situation at
-  the 11<sup>th</sup> hour.
+  nephew who &quot;builds Web sites&quot;, then you're setting him up to be screwed over.&nbsp; Trust me &#8212; the only bad clients he's ever worked with were
+  bad from the start.&nbsp; There was always something unsettling about how their engagement was drafted, and not trusting his gut always led to a nightmare
+  situation at the 11<sup>th</sup> hour.
 </p>
 <p>
   James' bandwidth is limited &#8212; he can only work on so many projects at any given time.&nbsp; And, while fear often irrationally leads us to accepting

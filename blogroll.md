@@ -211,20 +211,20 @@ title: Blogroll
     <a href="{{ site.uri.shortURL }}/PIA" rel="external" target="_blank" title="Private Internet Access">Private Internet Access</a>
     <ul>
       <li>
-        Award winning VPN service provider.&nbsp; Fast, secure, no logs.&nbsp; 24/7 customer support.&nbsp; Paranoid encryption.&nbsp; Privacy is their
-        policy.&nbsp; Unlimited bandwidth.
+        Award winning <abbr title="Virtual Private Network">VPN</abbr> service provider.&nbsp; Fast, secure, no logs.&nbsp; 24/7 customer support.&nbsp;
+        Paranoid encryption.&nbsp; Privacy is their policy.&nbsp; Unlimited bandwidth.
       </li>
       <li>
         Big brother is watching.&nbsp; Get your privacy back.
       </li>
       <li>
-        Camouflaged&hellip;&nbsp; Anonymous VPN.
+        Camouflaged&hellip;&nbsp; Anonymous <abbr title="Virtual Private Network">VPN</abbr>.
       </li>
       <li>
         Don't go raw.&nbsp; Always use protection.
       </li>
       <li>
-        Encrypt your connection with an anonymous IP to protect your privacy.
+        Encrypt your connection with an anonymous <abbr title="Internet Protocol">IP</abbr> address to protect your privacy.
       </li>
       <li>
         Encrypt your Internet usage.&nbsp; It's your right.
@@ -236,22 +236,23 @@ title: Blogroll
         Fast&hellip;&nbsp; Secure&hellip;&nbsp; Affordable.
       </li>
       <li>
-        Enjoy your privacy!&nbsp; PIA has got your back!
+        Enjoy your privacy!&nbsp; <abbr title="Private Internet Access">PIA</abbr> has got your back!
       </li>
       <li>
         For safe browsing, always use protection.
       </li>
       <li>
-        Mask your IP.
+        Mask your <abbr title="Internet Protocol">IP</abbr> address.
       </li>
       <li>
-        Never trust a VPN provider that doesn't accept bitcoin.
+        Never trust a <abbr title="Virtual Private Network">VPN</abbr> provider that doesn't accept bitcoin.
       </li>
       <li>
         Pay with bitcoin to browse the Web completely anonymous.
       </li>
       <li>
-        Protect the ones you love with a PIA VPN service for safe and secure Web browsing.
+        Protect the ones you love with a <abbr title="Private Internet Access">PIA</abbr> <abbr title="Virtual Private Network">VPN</abbr> service for safe and
+        secure Web browsing.
       </li>
       <li>
         Protect your privacy.
@@ -260,22 +261,22 @@ title: Blogroll
         Shh!&nbsp; Always use protection.
       </li>
       <li>
-        Stay private on the Web.&nbsp; Get a VPN plan today!
+        Stay private on the Web.&nbsp; Get a <abbr title="Virtual Private Network">VPN</abbr> plan today!
       </li>
       <li>
         The Internet is wiretapped.&nbsp; Encrypt your connection.
       </li>
       <li>
-        The world's most reliable VPN service.
+        The world's most reliable <abbr title="Virtual Private Network">VPN</abbr> service.
       </li>
       <li>
-        VPN&hellip;&nbsp; No logs&hellip;&nbsp; Privacy done right.
+        <abbr title="Virtual Private Network">VPN</abbr>&hellip;&nbsp; No logs&hellip;&nbsp; Privacy done right.
       </li>
       <li>
-        You care about your privacy&hellip;&nbsp; So does PIA.
+        You care about your privacy&hellip;&nbsp; So does <abbr title="Private Internet Access">PIA</abbr>.
       </li>
       <li>
-        Your ISP can spy on you.
+        Your <abbr title="Internet Service Provider">ISP</abbr> address can spy on you.
       </li>
     </ul>
   </li>
@@ -305,16 +306,16 @@ title: Blogroll
         Drupal themes.
       </li>
       <li>
-        Flash CMS templates&hellip;&nbsp; Ultimate functionality of beautiful Flash!
+        Flash <abbr title="Content Management System">CMS</abbr> templates&hellip;&nbsp; Ultimate functionality of beautiful Flash!
         <ul>
           <li>
             No skills required!
           </li>
           <li>
-            SEO-friendly Flash!
+            <abbr title="Search Engine Optimization">SEO</abbr>-friendly Flash!
           </li>
           <li>
-            WYSIWYG editor!
+            <abbr title="What You See Is What You Get">WYSIWYG</abbr> editor!
           </li>
         </ul>
       </li>
@@ -352,8 +353,8 @@ title: Blogroll
       style="border: 0px !important; margin: 0px !important; vertical-align: middle;" width="1" />
     <ul>
       <li>
-        Really simple VPN to browse the Web privately &amp; securely.&nbsp; Unblock Web sites around the world with applications for Android, Chrome, iOS, Mac,
-        &amp; PC.
+        Really simple <abbr title="Virtual Private Network">VPN</abbr> to browse the Web privately &amp; securely.&nbsp; Unblock Web sites around the world with
+        applications for Android, Chrome, iOS, Mac, &amp; <abbr title="Personal Computer">PC</abbr>.
       </li>
     </ul>
   </li>

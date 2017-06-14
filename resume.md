@@ -61,10 +61,10 @@ title: "Curriculum Vitae"
           Batchfile
         </li>
         <li>
-          CSS
+          <abbr title="Cascading Style Sheets">CSS</abbr>
         </li>
         <li>
-          CSV
+          <abbr title="Comma-Separated Values">CSV</abbr>
         </li>
         <li>
           desktop
@@ -73,19 +73,19 @@ title: "Curriculum Vitae"
           Diff
         </li>
         <li>
-          DNS Zone
+          <abbr title="Domain Name System">DNS</abbr> Zone
         </li>
         <li>
           ECLiPSe
         </li>
         <li>
-          HTML
+          <abbr title="Hypertext Markup Language">HTML</abbr>
         </li>
         <li>
-          HTML+PHP
+          <abbr title="Hypertext Markup Language">HTML</abbr>+<abbr title="Hypertext Preprocessor">PHP</abbr>
         </li>
         <li>
-          HTTP
+          <abbr title="Hypertext Transfer Protocol">HTTP</abbr>
         </li>
         <li>
           Java
@@ -94,7 +94,7 @@ title: "Curriculum Vitae"
           JavaScript
         </li>
         <li>
-          JSON
+          <abbr title="JavaScript Object Notation">JSON</abbr>
         </li>
         <li>
           Liquid
@@ -106,7 +106,7 @@ title: "Curriculum Vitae"
           Perl
         </li>
         <li>
-          PHP
+          <abbr title="Hypertext Preprocessor">PHP</abbr>
         </li>
         <li>
           Python
@@ -127,7 +127,7 @@ title: "Curriculum Vitae"
           Smarty
         </li>
         <li>
-          SQL
+          <abbr title="Structured Query Language">SQL</abbr>
         </li>
         <li>
           Text
@@ -136,10 +136,10 @@ title: "Curriculum Vitae"
           Vim Script
         </li>
         <li>
-          XML
+          <abbr title="Extensible Markup Language">XML</abbr>
         </li>
         <li>
-          YAML
+          <abbr title="YAML Ain't Markup Language">YAML</abbr>
         </li>
       </ul>
     </li>
@@ -211,20 +211,22 @@ title: "Curriculum Vitae"
     <a href="{{ site.uri.assets }}/naked/images/project_forces-army_1080x1080.png" rel="me" target="_blank" title=""><img alt="" height="40"
       src="{{ site.uri.assets }}/naked/images/project_forces-army_0040x0040.png" style="border: 0px; float: right;" width="40" /></a>
     <a href="https://forces.army" rel="me" title="{{ site.title }}">forces.army</a>&nbsp; <sup>Web</sup><br />
-    Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, JavaScript, JSON, Liquid, Markdown, Regular Expression, Ruby, Text, XML, YAML</sup><br />
+    Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Domain Name System">DNS</abbr> Zone, <abbr
+      title="Hypertext Markup Language">HTML</abbr>, JavaScript, <abbr title="JavaScript Object Notation">JSON</abbr>, Liquid, Markdown, Regular Expression,
+    Ruby, Text, <abbr title="Extensible Markup Language">XML</abbr>, <abbr title="YAML Ain't Markup Language">YAML</abbr></sup><br />
     January 2017 &#8211; Present&nbsp; <sup>6 Months</sup><br />
     <object data="https://travis-ci.org/jwds1978/jwds1978.github.io.svg?branch=source" style="border: 0px; float: left; vertical-align: middle;"
       type="image/svg+xml"></object>&nbsp; Embrace &quot;The Suck&quot;
   </p>
   <p>
     Root Availability Check&nbsp; <sup>Android</sup><br />
-    Lead Developer&nbsp; <sup>Java, SQL</sup><br />
+    Lead Developer&nbsp; <sup>Java, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     March 2015 &#8211; 2016&nbsp; <sup>1 Year</sup><br />
     Check for the availability of root functions.
   </p>
   <p>
     SELinux Enforcer&nbsp; <sup>Android</sup><br />
-    Lead Developer&nbsp; <sup>Java, SQL</sup><br />
+    Lead Developer&nbsp; <sup>Java, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     March 2015 &#8211; 2016&nbsp; <sup>1 Year</sup><br />
     Control the state of SELinux.
   </p>
@@ -236,14 +238,18 @@ title: "Curriculum Vitae"
   </p>
   <p>
     Kur-Uhn-See&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
-    Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
+    Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
+      title="Hypertext Preprocessor">PHP</abbr>, Smarty, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     April 2013 &#8211; 2016&nbsp; <sup>3 Years</sup><br />
     Correct transaction fees; reflecting the transaction exchange rate.
   </p>
   <p>
     StripeXS&nbsp; <sup>Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon, <a href="{{ site.uri.shortURL }}/WHMCS" rel="external"
       target="_blank" title="">WHMCS</a> Addon</sup><br />
-    Lead Developer&nbsp; <sup>CSS, DNS Zone, HTML, Java, JavaScript, JSON, PHP, Regular Expression, Smali, Smarty, SQL, XML</sup><br />
+    Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Domain Name System">DNS</abbr> Zone, <abbr
+      title="Hypertext Markup Language">HTML</abbr>, Java, JavaScript, <abbr title="JavaScript Object Notation">JSON</abbr>, <abbr
+      title="Hypertext Preprocessor">PHP</abbr>, Regular Expression, Smali, Smarty, <abbr title="Structured Query Language">SQL</abbr>, <abbr
+      title="Extensible Markup Language">XML</abbr></sup><br />
     November 2012 &#8211; 2016&nbsp; <sup>4 Years</sup>
     <ul>
       <li>
@@ -271,25 +277,32 @@ title: "Curriculum Vitae"
   </p>
   <p>
     NXS&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
-    Lead Developer&nbsp; <sup>CSS, HTML, PHP, Regular Expression, Smarty, SQL</sup><br />
+    Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
+      title="Hypertext Preprocessor">PHP</abbr>, Regular Expression, Smarty, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     November 2011 &#8211; 2016&nbsp; <sup>5 Years</sup><br />
     Automagically purge the log tables in order to reduce the overall size of the database.
   </p>
   <p>
     WHMCS Order Status&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
-    Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
+    Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
+      title="Hypertext Preprocessor">PHP</abbr>, Smarty, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     December 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
     Automagically cancel pending orders which remain unpaid for X number of days past their due date.
   </p>
   <p>
-    HostAudit&nbsp; <sup>cPanel/WHM &amp; <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
-    Lead Developer&nbsp; <sup>CSS, HTML, JavaScript, Perl, PHP, Regular Expression, Shell, Smarty, SQL, XML</sup><br />
+    HostAudit&nbsp; <sup>cPanel/<abbr title="WebHost Manager">WHM</abbr> &amp; <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank"
+      title="">WHMCS</a> Addon</sup><br />
+    Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, JavaScript, Perl, <abbr
+      title="Hypertext Preprocessor">PHP</abbr>, Regular Expression, Shell, Smarty, <abbr title="Structured Query Language">SQL</abbr>, <abbr
+      title="Extensible Markup Language">XML</abbr></sup><br />
     September 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
-    Automagically detect abusive clients on your cPanel/WHM servers.&nbsp; Warn them, and optionally, suspend them if the abuse continues.
+    Automagically detect abusive clients on your cPanel/<abbr title="WebHost Manager">WHM</abbr> servers.&nbsp; Warn them, and optionally, suspend them if the
+    abuse continues.
   </p>
   <p>
     Nshare&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
-    Lead Developer&nbsp; <sup>CSS, HTML, PHP, Smarty, SQL</sup><br />
+    Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
+      title="Hypertext Preprocessor">PHP</abbr>, Smarty, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     December 2012 &#8211; October 2013&nbsp; <sup>11 Months</sup><br />
     Automagically activate/delete the affiliate status of clients when their account is created and/or closed.
   </p>
@@ -337,7 +350,7 @@ title: "Curriculum Vitae"
   </h3>
   <div class="h-card h-event p-experience">
     <p>
-      <span class="p-job-title">CEO / Founder / President</span><br />
+      <span class="p-job-title"><abbr title="Chief Executive Officer">CEO</abbr> / Founder / President</span><br />
       <span class="p-name p-org">TekStorm Inc.</span><br />
       <time class="dt-start" datetime="2013-10">October 2013</time> &#8211; <time class="dt-end" datetime="2016">2016</time>&nbsp; <sup><time
         class="dt-duration" datetime="P3Y">3 Years</time></sup><br />
@@ -357,7 +370,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <span class="p-job-title">Software Architect, Sr. / Sole Proprietor</span><br />
+      <span class="p-job-title">Software Architect, <abbr title="Senior">Sr.</abbr> / Sole Proprietor</span><br />
       <span class="p-name p-org">James Stewart</span><br />
       <time class="dt-start" datetime="2011-11">November 2011</time> &#8211; <time class="dt-end" datetime="2013-10">October 2013</time>&nbsp; <sup><time
         class="dt-duration" datetime="P2Y">2 Years</time></sup>
@@ -375,7 +388,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      (Contingent) <span class="p-job-title">Senior IT Consultant</span><br />
+      (Contingent) <span class="p-job-title">Senior <abbr title="Information Technology">IT</abbr> Consultant</span><br />
       <span class="p-name p-org">Near North Data Solutions</span><br />
       <time class="dt-start" datetime="2011-03">March 2011</time> &#8211; <time class="dt-end" datetime="2012-01">January 2012</time>&nbsp; <sup><time
         class="dt-duration" datetime="P11M">11 Months</time></sup>
@@ -413,7 +426,7 @@ title: "Curriculum Vitae"
   </div>
   <div class="h-card h-event p-experience">
     <p>
-      <span class="p-job-title">Technical Relationship Manager</span> &#8212; Verizon DSL<br />
+      <span class="p-job-title">Technical Relationship Manager</span> &#8212; Verizon <abbr title="Digital Subscriber Line">DSL</abbr><br />
       <span class="p-name p-org">Multi-Channel Communications, Inc.</span><br />
       <time class="dt-start" datetime="2005-05">May 2005</time> &#8211; <time class="dt-end" datetime="2006-03">March 2006</time>&nbsp; <sup><time
         class="dt-duration" datetime="P11M">11 Months</time></sup><br />
@@ -551,10 +564,11 @@ title: "Curriculum Vitae"
         title="Network Support Specialist"><span class="p-description">Network Support Specialist</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external nofollow" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
-        Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a LAN
-        and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in this position also addresses,
-        diagnoses, and troubleshoots LAN-related user issues&hellip; covering such topics as connectivity, e-mail, and Internet security.&nbsp; A network
-        support specialist might also be called upon to train users in LAN usage.
+        Responsible for providing support to users of a local area network (LAN).&nbsp; A network support specialist sets up, configures, and maintains a <abbr
+          title="Local Area Network">LAN</abbr> and establishes network printing, access rights, firewalls, directory hierarchy, and so forth.&nbsp; A person in
+        this position also addresses, diagnoses, and troubleshoots <abbr title="Local Area Network">LAN</abbr>-related user issues&hellip; covering such topics
+        as connectivity, e-mail, and Internet security.&nbsp; A network support specialist might also be called upon to train users in <abbr
+          title="Local Area Network">LAN</abbr> usage.
       </span>
     </p>
   </div>
@@ -578,7 +592,7 @@ title: "Curriculum Vitae"
           Microsoft Windows 2000
         </li>
         <li>
-          Microsoft Windows NT
+          Microsoft Windows <abbr title="New Technology">NT</abbr>
         </li>
         <li>
           Novell Netware
@@ -595,8 +609,9 @@ title: "Curriculum Vitae"
         title="Web Designer (BCIP)"><span class="p-description">Web Designer (BCIP)</span></a><br />
       <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external nofollow" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
-        Responsible for creating Web sites using HTML and Web design software.&nbsp; In addition to designing a Web site that's attractive, interesting,
-        functional, and useful, a Web designer must also ensure that the Web site is easily navigable and accessible to all who may want to use it.
+        Responsible for creating Web sites using <abbr title="Hypertext Markup Language">HTML</abbr> and Web design software.&nbsp; In addition to designing a
+        Web site that's attractive, interesting, functional, and useful, a Web designer must also ensure that the Web site is easily navigable and accessible to
+        all who may want to use it.
       </span>
       <ul style="-moz-columns: 3; -webkit-columns: 3; columns: 3; list-style-position: inside;">
         <li>
@@ -618,8 +633,9 @@ title: "Curriculum Vitae"
       <a class="p-name p-org u-url" href="https://www.brainbench.com" rel="external nofollow" target="_blank" title="Brainbench">Brainbench</a><br />
       <span class="p-summary" style="display: none;">
         Responsible for using programming, scripting, and database integration tools to develop professional, effective, and well-organized client-side and
-        server-side Web sites.&nbsp; Web developers must know HTML, XML, and object-oriented design and should be able to use a variety of programming languages
-        and Web development tools.
+        server-side Web sites.&nbsp; Web developers must know <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
+          title="Extensible Markup Language">XML</abbr>, and object-oriented design and should be able to use a variety of programming languages and Web
+        development tools.
       </span>
       <ul style="-moz-columns: 3; -webkit-columns: 3; columns: 3; list-style-position: inside;">
         <li>
@@ -650,7 +666,7 @@ title: "Curriculum Vitae"
     2004
   </p>
   <p>
-    Standard First Aid / CPR Level C<br />
+    Standard First Aid / <abbr title="Cardiopulmonary Resuscitation">CPR</abbr> Level C<br />
     <a href="http://www.redcross.ca" rel="external nofollow" target="_blank" title="Canadian Red Cross">Canadian Red Cross</a><br />
     June 2001 &#8211; 2004
   </p>

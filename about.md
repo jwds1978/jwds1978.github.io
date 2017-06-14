@@ -25,7 +25,7 @@ title: About
 <p>
   James has been professionally developing software since circa 2000.&nbsp; You may recognize him from cPanel and/or <a href="{{ site.uri.shortURL }}/WHMCS"
     rel="external" target="_blank" title="">WHMCS</a>.&nbsp; Although he's versed in <a href="{{ site.url }}/resume#languages" rel="me" title="">several
-  programming languages</a>, he has focused primarily on PHP.
+  programming languages</a>, he has focused primarily on <abbr title="Hypertext Preprocessor">PHP</abbr>.
 </p>
 <p>
   &nbsp;
@@ -37,7 +37,7 @@ title: About
   Thanks to the variety of available content management systems, you can build and manage your business' Web site effortlessly.&nbsp; Each day, more and more
   addons, plugins, and themes see the light of day.&nbsp; Yet, in many circumstances and usage scenarios, they simply don't prove to be functional enough for
   those who aren't satisfied with mediocrity.&nbsp; James can change that state of affairs for you.&nbsp; Entrust him with your system and he will show you the
-  real magic of automation and customization &#8212; right inside of your favourite CMS.
+  real magic of automation and customization &#8212; right inside of your favourite <abbr title="Content Management System">CMS</abbr>.
 </p>
 <p>
   &nbsp;
@@ -58,7 +58,8 @@ title: About
   Web Development
 </h3>
 <p>
-  James writes CSS, HTML, JavaScript, and PHP to make a Web site come alive.&nbsp; From individual business Web sites, to blogs, or even Web apps.
+  James writes <abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, JavaScript, and <abbr
+    title="Hypertext Preprocessor">PHP</abbr> to make a Web site come alive.&nbsp; From individual business Web sites, to blogs, or even Web apps.
 </p>
 <p>
   &nbsp;
