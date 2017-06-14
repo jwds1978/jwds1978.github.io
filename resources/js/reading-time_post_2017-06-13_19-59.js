@@ -5,7 +5,7 @@ sitemap: false
 {{ site.copyright.comment.java }}
 $(function () {
   var $article = $('article');
-  var $articleContent = $('.readingContent');
+  var $articleContent = $article.find('.readingContent');
   $articleContent.readingTime({
     error: function (message) {
       console.log('Reading Count/Time :: Error');
