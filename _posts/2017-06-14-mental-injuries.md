@@ -50,6 +50,7 @@ title: "Mental Injuries"
   shocking 22 veterans commit suicide every day.&nbsp; It sickens me, to think that a soldier doing his job will feel the need to commit suicide, due to hazing
   from an egotistical and testosterone-driven system.
 </p>
+<!-- excerptBreak -->
 <p>
   The government uses Sertaline &#8212; namely, Zoloft &#8212; to treat <abbr title="Post-Traumatic Stress">PTS</abbr>, commonly.&nbsp; However, a double-blind
   study done on wounded veterans, showed that only 41% of veterans displayed reduced symptoms and that 33% had reduced symptoms using the placebo.&nbsp; It can
