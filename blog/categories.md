@@ -85,12 +85,11 @@ title: "Blog (Categories)"
       {% capture postAuthors %}{{ post.author | default: site.author }}{% endcapture %}
       {% capture postDatePublished %}{{ post.date | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
       {% capture postDateModified %}{{ post.last_modified_at | replace: '-0400', 'America/Toronto' | replace: '-0500', 'America/Toronto' }}{% endcapture %}
-      {% capture postWords %}{{ post.content | number_of_words }}{% endcapture %}
       {% assign postAuthor = site.data.authors[postAuthors] %}
       {% assign postLocation = site.data.gps[post.location] %}
       {% if post.tags contains "Sponsored" %}{% assign postSponsored = true %}{% else %}{% assign postSponsored = false %}{% endif %}
       <li>
-        <article class="h-entry">
+        <article class="h-entry" data-readingTarget=".readingContent" data-readingURI="{{ site.url }}{{ post.url }}">
           <div style="display: none;">
             <p class="p-name">
               {{ post.title | escape }}
@@ -105,7 +104,7 @@ title: "Blog (Categories)"
           </span>
           <h6>
             <span style="float: right;">
-              {{ postWords }} Word{% if postWords != 1 %}s{% endif %}<br />
+              <span class="readingCount">Count</span> Words &#8212; <span class="readingTime">Reading Time</span><br />
               by {% if postAuthor.hyperlink.uri %}<a {% if postAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}{% if postAuthor.hyperlink.hcard %}rel="author external nofollow" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}<span {% if postAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ postAuthor.name | escape }}</span>{% if postAuthor.hyperlink.uri %}</a>{% endif %}{% if post.comments %}<br />
               <a data-disqus-identifier="{{ post.disqusIdentifier }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
             </span>
