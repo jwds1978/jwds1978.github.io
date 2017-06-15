@@ -223,7 +223,7 @@ title: Contact
     <i aria-hidden="true" class="fa fa-home"></i>&nbsp; Home
     <ul>
       <li>
-        2 &#8212; 557 Kathleen St.<br />
+        2 &#8212; 557 Kathleen <abbr title="Street">St.</abbr><br />
         Sudbury, Ontario&nbsp; P3C 2N1<br />
         Canada
       </li>
