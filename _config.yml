@@ -133,6 +133,7 @@ uri:
   aStore: "https://store.forces.army"
   assets: "https://assets.forces.army"
   blog: "https://blog.forces.army"
+  close: "https://forces.army/closure"
   disqus: "https://disqus.com/home/forums/jwds"
   googleMaps: "https://www.google.com/maps/search/?api=1&query="
   shortURL: "https://go.forces.army"
