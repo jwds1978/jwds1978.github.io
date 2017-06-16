@@ -110,8 +110,8 @@ title: "Hosting Your Web Site on GitHub Pages for Free"
   Sign-Up for GitHub
 </h3>
 <p>
-  <a href="https://github.com/join?source=header-home" rel="external nofollow" target="_blank" title="">Join GitHub</a>&hellip;&nbsp; The best way to build,
-  design, and ship software.
+  <a href="https://github.com/join" rel="external nofollow" target="_blank" title="">Join GitHub</a>&hellip;&nbsp; The best way to build, design, and ship
+  software.
 </p>
 <p>
   &nbsp;
@@ -120,8 +120,8 @@ title: "Hosting Your Web Site on GitHub Pages for Free"
   Download GitHub Desktop
 </h3>
 <p>
-  Extend your GitHub workflow beyond your browser with the <a href="{{ site.url }}{{ page.url }}#cite-github-desktop" rel="me" title="GitHub Desktop">Desktop
-  Beta</a>, completely redesigned with Electron.&nbsp; Get a unified cross-platform experience that's completely open source and ready to customize.
+  Extend your GitHub workflow beyond your browser with <a href="{{ site.url }}{{ page.url }}#cite-github-desktop" rel="me" title="GitHub Desktop">GitHub
+  Desktop</a>, completely redesigned with Electron.&nbsp; Get a unified cross-platform experience that's completely open source and ready to customize.
 </p>
 <p>
   &nbsp;
