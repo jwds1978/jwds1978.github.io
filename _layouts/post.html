@@ -72,10 +72,11 @@ layout: default
     <i aria-hidden="true" class="fa fa-map-marker"></i> Location:&nbsp; {% if page.location and page.location != blank%}<span class="h-geo p-location"><data class="p-altitude" value="{{ pageLocation.altitude }}"></data><data class="p-latitude" value="{{ pageLocation.dd.latitude }}"></data><data class="p-longitude" value="{{ pageLocation.dd.longitude }}"></data><a href="{{ site.uri.googleMaps }}{{ pageLocation.dd.latitude }},{{ pageLocation.dd.longitude }}" rel="external" target="_blank" title="Altitude: {{ pageLocation.altitude }} Meter{% if pageLocation.altitude != 1 %}s{% endif %}, Latitude: {{ pageLocation.dd.latitude }}, Longitude: {{ pageLocation.dd.longitude }}">{{ pageLocation.text | escape }}</a></span>{% else %}N/A{% endif %}
   </h6>
   {% if page.facebook %}
-  <p style="text-align: center;">
+  <div style="text-align: center;">
+    &nbsp;<br />
     <div class="fb-like" data-action="like" data-href="{{ site.url }}{{ page.url }}" data-layout="standard" data-share="false" data-show-faces="true"
       data-size="large"></div>
-  </p>
+  </div>
   {% endif %}
   <p style="font-size: smaller;">
     &nbsp;
