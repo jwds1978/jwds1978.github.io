@@ -261,8 +261,8 @@ title: "Don't Get Hit by the 10KHits Traffic Exchange"
 </p>
 <p>
   Rather than spending your time and money trying to get non-targeted people to your Web site, why not join an online business-oriented community where you
-  could learn some SEO techniques that would bring you free targeted traffic?&nbsp; Personally, I've not really had to seek-out traffic surces&hellip;&nbsp;
-  Generally speaking, traffic organically finds its way to me.
+  could learn some <abbr title="Search Engine Optimization">SEO</abbr> techniques that would bring you free targeted traffic?&nbsp; Personally, I've not really
+  had to seek-out traffic surces&hellip;&nbsp; Generally speaking, traffic organically finds its way to me.
 </p>
 <p>
   Case-in-point&hellip;&nbsp; How did you arrive here, upon my Web site, reading this posting?
