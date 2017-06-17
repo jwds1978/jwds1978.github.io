@@ -40,6 +40,22 @@ last_modified_at: "2017-06-17 02:39:44 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
 modifiedReason: Images
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154390535452084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/RkoVk81rLVm"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650602815"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/161919894571/dont-get-hit-by-the-10khits-traffic-exchange"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/875968730882297856"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
 title: "Don't Get Hit by the 10KHits Traffic Exchange"
