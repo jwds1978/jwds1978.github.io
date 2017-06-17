@@ -1,5 +1,6 @@
 ---
 cloudflareSSE: true
+facebook: true
 title: Social
 twitterWidget: true
 ---
@@ -50,7 +51,7 @@ twitterWidget: true
     <i aria-hidden="true" class="fa fa-facebook-official"></i>&nbsp; Facebook
     <ul>
       <li>
-        <a href="https://www.facebook.com/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a>
+        <div class="fb-follow" data-href="https://www.facebook.com/jwds1978" data-layout="standard" data-show-faces="true" data-size="large"></div>
       </li>
     </ul>
   </li>
