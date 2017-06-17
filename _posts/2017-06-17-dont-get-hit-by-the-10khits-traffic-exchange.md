@@ -36,9 +36,10 @@ image:
   height: 420
   path: "https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/hotlink-ok/10k-Hits_720x420.png"
   width: 720
-last_modified_at: "2017-06-17 02:08:23 America/Toronto"
+last_modified_at: "2017-06-17 02:27:58 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
+modifiedReason: Images
 tags:
   - "How to"
 title: "Don't Get Hit by the 10KHits Traffic Exchange"
@@ -157,8 +158,8 @@ title: "Don't Get Hit by the 10KHits Traffic Exchange"
 <p>
   &nbsp;
 </p>
-<img alt="" height="335" src="{{ site.uri.assets }}/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/thumb-up_335x335.png"
-  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="335" />
+<img alt="" height="75" src="{{ site.uri.assets }}/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/thumb-up_75x75.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="75" />
 <h3 id="the-pro">
   The Pro
 </h3>
@@ -171,8 +172,8 @@ title: "Don't Get Hit by the 10KHits Traffic Exchange"
 <p>
   &nbsp;
 </p>
-<img alt="" height="336" src="{{ site.uri.assets }}/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/thumb-down_335x336.png"
-  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="335" />
+<img alt="" height="125" src="{{ site.uri.assets }}/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/thumb-down_125x125.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="125" />
 <h3 id="the-cons">
   The Cons
 </h3>
