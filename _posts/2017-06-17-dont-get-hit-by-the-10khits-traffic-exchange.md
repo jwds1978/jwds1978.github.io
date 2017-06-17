@@ -36,7 +36,7 @@ image:
   height: 420
   path: "https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/hotlink-ok/10k-Hits_720x420.png"
   width: 720
-last_modified_at: "2017-06-17 02:27:58 America/Toronto"
+last_modified_at: "2017-06-17 02:39:44 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_kathleen_557"
 modifiedReason: Images
@@ -79,8 +79,9 @@ title: "Don't Get Hit by the 10KHits Traffic Exchange"
       title="10KHits Traffic Exchange: Free Website Traffic to Your Site">10KHits</a>, users can receive hundreds of thousands of hits to their websites, get
     more conversions, boost their website's Alexa rank and increase their website's value.&nbsp; Signing up is easy and does not require a credit card.&nbsp;
     There's no catch to it either, it's 100% free to use!&nbsp; We do offer affordable account upgrades starting at $10/month which unlocks the white-label
-    traffic and geo-targeting features + more.&nbsp; We also offer booster packs starting at $7/month for 50,000 extra points and $4/month for 10 extra URL
-    slots.&nbsp; <a href="{{ site.url }}{{ page.url }}#cite-10khits-traffic-exchange-free-website-traffic-to-your-site" rel="me"
+    traffic and geo-targeting features + more.&nbsp; We also offer booster packs starting at $7/month for 50,000 extra points and $4/month for 10 extra <abbr
+    title="Uniform Resource Locator">URL</abbr> slots.&nbsp; <a
+      href="{{ site.url }}{{ page.url }}#cite-10khits-traffic-exchange-free-website-traffic-to-your-site" rel="me"
       title="10KHits Traffic Exchange: Free Website Traffic to Your Site">10KHits</a> is the de facto standard traffic exchange for webmasters, small business
     owners and traffic resellers who want scalable and on-demand results for their websites and clients.&nbsp; <a
       href="{{ site.url }}{{ page.url }}#cite-10khits-traffic-exchange-free-website-traffic-to-your-site" rel="me"
@@ -123,7 +124,7 @@ title: "Don't Get Hit by the 10KHits Traffic Exchange"
   <ul>
     <li>
       <span style="font-weight: bolder;">Boost Your Alexa Rank:</span>&nbsp; I've, yet to understand, people's obsession with Alexa rankings.&nbsp; Their claim
-      that &quot;Alexa rank is a site's traffic rank compared to all other sites on the Web&quot; is unequivocally flawed &#8212 wrong, even!&nbsp; Alexa
+      that &quot;Alexa rank is a site's traffic rank compared to all other sites on the Web&quot; is unequivocally flawed &#8212; wrong, even!&nbsp; Alexa
       rankings are calculated based upon the number of people that have the Alexa toolbar installed &#8212; and, active &#8212; within their Web browser.&nbsp;
       Granted, more visitors will improve your Alexa rank&hellip;&nbsp; But, how does an improved Alexa rank without sales, help you and/or your business?
     </li>
@@ -211,8 +212,8 @@ title: "Don't Get Hit by the 10KHits Traffic Exchange"
 <p>
   &nbsp;
 </p>
-<img alt="" height="414" src="{{ site.uri.assets }}/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/member_482x414.png"
-  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
+<img alt="" height="150" src="{{ site.uri.assets }}/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/member_175x150.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="175" />
 <h3 id="membership">
   Membership
 </h3>
