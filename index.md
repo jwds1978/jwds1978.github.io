@@ -1,5 +1,6 @@
 ---
 comments: true
+facebook: true
 liMarquee: true
 ---
 

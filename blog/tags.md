@@ -1,5 +1,6 @@
 ---
 comments: true
+facebook: true
 image:
   height: 73
   path: "https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png"
@@ -112,6 +113,12 @@ title: "Blog (Tags)"
             <i aria-hidden="true" class="fa fa-pencil"></i> Updated:&nbsp; {% if postDatePublished != postDateModified %}<time class="dt-updated" datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%d %B %Y @ %T %Z" }}</time>{% if post.modifiedReason and post.modifiedReason != blank %}&nbsp; <sup>{{ post.modifiedReason | escape }}</sup>{% endif %}{% else %}N/A{% endif %}<br />
             <i aria-hidden="true" class="fa fa-map-marker"></i> Location:&nbsp; {% if post.location and post.location != blank%}<span class="h-geo p-location"><data class="p-altitude" value="{{ postLocation.altitude }}"></data><data class="p-latitude" value="{{ postLocation.dd.latitude }}"></data><data class="p-longitude" value="{{ postLocation.dd.longitude }}"></data><a href="{{ site.uri.googleMaps }}{{ postLocation.dd.latitude }},{{ postLocation.dd.longitude }}" rel="external" target="_blank" title="Altitude: {{ postLocation.altitude }} Meter{% if postLocation.altitude != 1 %}s{% endif %}, Latitude: {{ postLocation.dd.latitude }}, Longitude: {{ postLocation.dd.longitude }}">{{ postLocation.text | escape }}</a></span>{% else %}N/A{% endif %}
           </h6>
+          {% if post.facebook %}
+          <div style="text-align: center;">
+            <div class="fb-like" data-action="recommend" data-href="{{ site.url }}{{ post.url }}" data-layout="button_count" data-share="false"
+              data-show-faces="true" data-size="small"></div>
+          </div>
+          {% endif %}
           <blockquote cite="{{ site.url }}{{ post.url }}" class="p-summary">
             {{ post.excerpt }}
           </blockquote>
