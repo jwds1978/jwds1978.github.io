@@ -9,7 +9,7 @@ image:
   width: 1024
 last_modified_at: "2017-06-02 11:42:57 America/Toronto"
 layout: post
-location: "canada_ontario_sudbury_kathleen_557"
+location: "canada_ontario_sudbury_the-donovan"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154349938502084"
     text: Facebook

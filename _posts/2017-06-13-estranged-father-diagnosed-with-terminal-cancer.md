@@ -32,7 +32,7 @@ image:
   width: 950
 last_modified_at: "2017-06-13 13:31:29 America/Toronto"
 layout: post
-location: "canada_ontario_sudbury_kathleen_557"
+location: "canada_ontario_sudbury_the-donovan"
 modifiedReason: Grammar
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154379716752084"
