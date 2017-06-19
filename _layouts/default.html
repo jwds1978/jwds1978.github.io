@@ -18,7 +18,9 @@
     <meta content="{{ page.url }}" property="webmention:redirected_from" />
     {% seo title=false %}
     <title>{% if page.title %}{{ page.title }} {% if page.url contains "/blog/" and page.url != "/blog/" and page.url != "/blog/categories/" and page.url != "/blog/tags/" %}:: Blog {% endif %}:: {% endif %}{{ site.title | default: site.github.repository_name }}</title>
-    <link href="{{ site.url }}/feed.xml" rel="alternate" title="{{ site.title }}" type="application/rss+xml" />
+    {% if page.url contains "/blog/" %}
+    <link href="{{ site.url }}/feed.xml" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
+    {% endif %}
     <link href="{{ site.url }}/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
     <link href="{{ site.url }}/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60" />
     <link href="{{ site.url }}/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />

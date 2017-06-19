@@ -106,7 +106,7 @@ title: "Blog (Categories)"
           <h6>
             <span style="float: right;">
               <span class="readingCount">Count</span> Words &#8212; <span class="readingTime">Reading Time</span><br />
-              by {% if postAuthor.hyperlink.uri %}<a {% if postAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}{% if postAuthor.hyperlink.hcard %}rel="author external nofollow" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}<span {% if postAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ postAuthor.name | escape }}</span>{% if postAuthor.hyperlink.uri %}</a>{% endif %}{% if post.comments %}<br />
+              by {% if postAuthor.hyperlink.uri %}<a {% if postAuthor.hyperlink.hcard %}class="h-card p-author" {% endif %}href="{{ postAuthor.hyperlink.uri }}" {% if postAuthors != "jwds" %}{% if postAuthor.hyperlink.hcard %}rel="author external" {% endif %}target="_blank"{% else %}rel="author me"{% endif %} title="{{ postAuthor.hyperlink.title | escape }}">{% endif %}<span {% if postAuthor.hyperlink.hcard != true %}class="p-author" {% endif %}style="font-size: larger;">{{ postAuthor.name | escape }}</span>{% if postAuthor.hyperlink.uri %}</a>{% endif %}{% if post.comments %}<br />
               <a data-disqus-identifier="{{ post.disqusIdentifier }}" href="{{ site.url }}{{ post.url }}#disqus_thread" rel="me" title=""></a>{% endif %}
             </span>
             <i aria-hidden="true" class="fa fa-plus"></i> Published:&nbsp; <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y @ %T %Z" }}</time><br />
@@ -142,5 +142,5 @@ title: "Blog (Categories)"
   &nbsp;
 </p>
 <p class="rss-subscribe">
-  Subscribe <a href="{{ site.url }}/feed.xml" rel="me" title="">via RSS</a>.
+  Subscribe <a href="{{ site.url }}/feed.xml" rel="alternate me" title="">via RSS</a>.
 </p>
