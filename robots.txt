@@ -2,7 +2,7 @@
 sitemap: false
 ---
 
-Sitemap: {{ site.url }}/sitemap.xml
+user-agent: ia_archiver
+disallow: /
 
-User-agent: ia_archiver
-Disallow: /
+sitemap: {{ site.url }}/sitemap.xml
