@@ -46,12 +46,10 @@ syndications:
     title: Twitter
 tags:
   - "How to"
-  - Sponsored
 title: "Decrease the Bounce Rate of Your Web Site"
 ---
 
-<img
-  alt="" height="312" src="{{ site.uri.assets }}/blog/2017/05/07/decrease-the-bounce-rate-of-your-web-site/innominate_1_482x312.png"
+<img alt="" height="312" src="{{ site.uri.assets }}/blog/2017/05/07/decrease-the-bounce-rate-of-your-web-site/innominate_1_482x312.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   Web masters tend to concentrate on increasing traffic to their Web site, but two important factors which which often fail to be considered, are user behaviour
@@ -95,8 +93,8 @@ title: "Decrease the Bounce Rate of Your Web Site"
   </ul>
 </p>
 <p>
-  <a href="{{ site.url }}{{ page.url }}#cite-bounce-rate" rel="me" title="Bounce rate"><img
-    alt="" height="32" src="{{ site.uri.assets }}/blog/2017/05/07/decrease-the-bounce-rate-of-your-web-site/bounce-rate_formula_53x32.png"
+  <a href="{{ site.url }}{{ page.url }}#cite-bounce-rate" rel="me" title="Bounce rate"><img alt="" height="32"
+    src="{{ site.uri.assets }}/blog/2017/05/07/decrease-the-bounce-rate-of-your-web-site/bounce-rate_formula_53x32.png"
     style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="53" /></a>
   <ul>
     <li>
@@ -134,11 +132,10 @@ title: "Decrease the Bounce Rate of Your Web Site"
 </h4>
 <p>
   It's said that the first impression's the lasting impression &#8212; this holds true for Web sites too.&nbsp; When a visitor lands upon your Web page, the
-  first things that they notice are your <a
-    href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">Web site's design</a> and its loading time.&nbsp;
-  If you promote your articles on social media, make sure that your landing page doesn't take much time to load.&nbsp; Otherwise, you may lose your new
-  visitor's interest.&nbsp; Design's another aspect of attracting visitors &#8212; it's best to go for a <a
-    href="{{ site.uri.shortURL }}/Template-Monster" rel="external" target="_blank" title="Template Monster">professional and smooth theme</a>.
+  first things that they notice are your <a href="https://www.templatemonster.com" rel="external nofollow" target="_blank" title="Template Monster">Web site's
+    design</a> and its loading time.&nbsp; If you promote your articles on social media, make sure that your landing page doesn't take much time to load.&nbsp;
+  Otherwise, you may lose your new visitor's interest.&nbsp; Design's another aspect of attracting visitors &#8212; it's best to go for a <a
+    href="https://www.templatemonster.com" rel="external nofollow" target="_blank" title="Template Monster">professional and smooth theme</a>.
 </p>
 <p>
   &nbsp;

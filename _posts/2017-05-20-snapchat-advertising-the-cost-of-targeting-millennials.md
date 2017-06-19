@@ -63,17 +63,17 @@ syndications:
     text: Twitter
     title: Twitter
 tags:
-  - Sponsored
+  - Innominate
 title: "Snapchat Advertising: The Cost of Targeting Millennials"
 ---
 
 <img alt="" height="259" src="{{ site.uri.assets }}/blog/2017/05/20/snapchat-advertising-the-cost-of-targeting-millennials/innominate_1_482x259.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
-  It was a late Friday night, when I'd finished a long round-up of <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress" rel="external" target="_blank"
-  title="Template Monster :: WordPress Themes">WordPress themes</a>, and had completely forgotten that my fridge was empty.&nbsp; I collapsed onto the sofa,
-  launched Snapchat, and suddenly my mouth started watering&hellip;&nbsp; My neighbour had posted a picture of himself &#8212; eating a huge, yummy
-  burger.&nbsp; The ridiculous tradition to take pics of food, and boast of them publicly, appears to have migrated from Instagram to Snapchat.
+  It was a late Friday night, when I'd finished a long round-up of <a href="https://www.templatemonster.com/wordpress-themes.php" rel="external nofollow"
+    target="_blank" title="Template Monster :: WordPress Themes">WordPress themes</a>, and had completely forgotten that my fridge was empty.&nbsp; I collapsed
+  onto the sofa, launched Snapchat, and suddenly my mouth started watering&hellip;&nbsp; My neighbour had posted a picture of himself &#8212; eating a huge,
+  yummy burger.&nbsp; The ridiculous tradition to take pics of food, and boast of them publicly, appears to have migrated from Instagram to Snapchat.
 </p>
 <!-- excerptBreak -->
 <p>

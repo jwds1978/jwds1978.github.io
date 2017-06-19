@@ -239,9 +239,10 @@ title: "Not WordPress.com for Serious Bloggers"
 <!-- excerptBreak -->
 <p>
   In fact, the more that you read, the more that it seems like you'd be a total idiot if you went with anything else.&nbsp; There are hundreds of <a
-    href="{{ site.uri.shortURL }}/Template-Monster_WordPress" rel="external" target="_blank" title="">professional themes</a> to make your blog look absolutely
-  stunning.&nbsp; Thousands of clever plugins to add a myriad of different features.&nbsp; And, countless <a href="{{ site.url }}/freelance/#services" rel="me"
-    title="Freelance :: James W.D. Stewart">experienced WordPress professional</a>s who can help should you find yourself out of your depth.
+    href="https://www.templatemonster.com/wordpress-themes.php" rel="external nofollow" target="_blank" title="">professional themes</a> to make your blog look
+  absolutely stunning.&nbsp; Thousands of clever plugins to add a myriad of different features.&nbsp; And, countless <a
+    href="{{ site.url }}/freelance/#services" rel="me" title="Freelance :: James W.D. Stewart">experienced WordPress professional</a>s who can help should you
+  find yourself out of your depth.
 </p>
 <p>
   So, you're certain that it's a <a href="{{ site.url }}{{ page.url }}#cite-blog-tool-publishing-platform-and-cms-wordpress" rel="me"
@@ -303,8 +304,8 @@ title: "Not WordPress.com for Serious Bloggers"
       <ul style="list-style-type: none;">
         <li>
           If you've already been thinking about the design of your blog, you've probably been salivating at the huge selection of <a
-            href="{{ site.uri.shortURL }}/Template-Monster_WordPress" rel="external" target="_blank" title="">professionally designed WordPress themes</a>
-          available to you.<br />
+            href="https://www.templatemonster.com/wordpress-themes.php" rel="external nofollow" target="_blank" title="">professionally designed WordPress
+          themes</a> available to you.<br />
           &nbsp;<br />
           If you had your heart set on one of these, too bad, so sad.&nbsp; You're out of luck.<br />
           &nbsp;<br />

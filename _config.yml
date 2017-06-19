@@ -51,6 +51,7 @@ defaults:
   - scope:
       path: ""
     values:
+      adsDisplay: true
       comments: false
       facebook: false
       image:

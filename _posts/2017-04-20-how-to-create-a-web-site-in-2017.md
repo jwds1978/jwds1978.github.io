@@ -47,12 +47,10 @@ syndications:
     title: Twitter
 tags:
   - "How to"
-  - Sponsored
 title: "How to Create a Web Site in 2017"
 ---
 
-<img
-  alt="" height="107" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/how-to-create-web-sites_482x107.png"
+<img alt="" height="107" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/how-to-create-web-sites_482x107.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   Creating your own Web site may seem hard and complex at first sight.&nbsp; Since the Internet is full of different guides and manuals dedicated to this
@@ -82,8 +80,7 @@ title: "How to Create a Web Site in 2017"
   Basically, that's the reason why I'd decided to work on this article for you.&nbsp; It's time to cut the crap and get it done.&nbsp; This Internet needs a
   hero.&nbsp; Brace yourself, I've prepared an ultimate guide on how to create a Web site for you!
 </p>
-<img
-  alt="" height="183" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/Seinfeld_482x183.png"
+<img alt="" height="183" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/Seinfeld_482x183.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   Turn off the TV show or movie that you're watching.&nbsp; You're going to finish your Seinfeld episode later.&nbsp; It's time to start creating!
@@ -120,8 +117,7 @@ title: "How to Create a Web Site in 2017"
     </li>
   </ol>
 </p>
-<img
-  alt="" height="271" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/cms-distribution_482x271.png"
+<img alt="" height="271" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/cms-distribution_482x271.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   I've gathered the needed information about the aforementioned CMSs for you.
@@ -148,8 +144,7 @@ title: "How to Create a Web Site in 2017"
   You can use WordPress to start a blog, eCommerce store, landing page, magazine, portfolio, and more&hellip;&nbsp; You can do, literally, most nything.&nbsp;
   This CMS is flexible enough to start a project of any size and complexity.
 </p>
-<img
-  alt="" height="141" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/WordPress_web-sites_482x141.png"
+<img alt="" height="141" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/WordPress_web-sites_482x141.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   A lot of large projects are built with WordPress.&nbsp; For example:
@@ -168,8 +163,7 @@ title: "How to Create a Web Site in 2017"
     </li>
   </ul>
 </p>
-<img
-  alt="" height="142" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/NASA_482x142.png"
+<img alt="" height="142" src="{{ site.uri.assets }}/blog/2017/04/20/how-to-create-a-web-site-in-2017/NASA_482x142.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="482" />
 <p>
   The credit given by these big brands can be easily explained by the multi-functionality and simplicity of WordPress.&nbsp; It doesn't matter whether you're
@@ -197,9 +191,9 @@ title: "How to Create a Web Site in 2017"
       <ul>
         <li>
           Once you install WordPress and kick it off with your newly created Web site, you'll not have to worry about how your Web site looks on mobile
-          devices.&nbsp; The major part of <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress" rel="external" target="_blank" title="">WordPress
-          themes</a> nowadays, is built with all of the latest standards, giving you a possibility to convey your content to your audience through mobile
-          devices in the most efficient way.<br />
+          devices.&nbsp; The major part of <a href="https://www.templatemonster.com/wordpress-themes.php" rel="external nofollow" target="_blank"
+            title="">WordPress themes</a> nowadays, is built with all of the latest standards, giving you a possibility to convey your content to your audience
+          through mobile devices in the most efficient way.<br />
           &nbsp;<br />
           Just take a look at the best sellers demos and check-out how they look on smart phones and/or tablets.&nbsp; They're specifically designed to meet
           your cross-platform expectations.
@@ -211,8 +205,8 @@ title: "How to Create a Web Site in 2017"
       <ul>
         <li>
           This is pretty simple&hellip;&nbsp; It really is beautiful.&nbsp; If you don't believe me, feel free to check-out the catalog of the <a
-            href="{{ site.uri.shortURL }}/Template-Monster_WordPress" rel="external" target="_blank" title="">premium WordPress themes</a> and you'll see what
-          I'm talking about.
+            href="https://www.templatemonster.com/wordpress-themes.php" rel="external nofollow" target="_blank" title="">premium WordPress themes</a> and you'll
+          see what I'm talking about.
         </li>
       </ul>
     </li>
@@ -335,10 +329,10 @@ title: "How to Create a Web Site in 2017"
   Web site.
 </p>
 <p>
-  You may enter any domain name you want.&nbsp; If it's already been registered by someone else, <a
-    href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a> will let you know; and, even offer some alternative names to work
-  with.&nbsp; As an example, I decided to go with &quot;mywebsite.com&quot;.&nbsp; Of course, I knew that such a domain name had already been taken, but the Web
-  hosting provider offered me alternatives to consider though.
+  You may enter any domain name you want.&nbsp; If it's already been registered by someone else, <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me"
+    title="Bluehost">Bluehost</a> will let you know; and, even offer some alternative names to work with.&nbsp; As an example, I decided to go with
+  &quot;mywebsite.com&quot;.&nbsp; Of course, I knew that such a domain name had already been taken, but the Web hosting provider offered me alternatives to
+  consider though.
 </p>
 <p>
   I decided upon &quot;mywebsitedirectory.com&quot;.&nbsp; That doesn't sound very attractive, but it's just an example.&nbsp; I've already explained to you
@@ -351,8 +345,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   I shouldn't need to explain how to enter your credit card information, eh?<br />
   &nbsp;<br />
-  <iframe
-    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/X99GoXdwyRw?rel=0"
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/X99GoXdwyRw?rel=0"
     style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
@@ -378,31 +371,28 @@ title: "How to Create a Web Site in 2017"
   </ul>
 </p>
 <p>
-  You should use the credentials that you have chose while installing WordPress through the <a
-    href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a> admin panel.
+  You should use the credentials that you have chose while installing WordPress through the <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me"
+    title="Bluehost">Bluehost</a> admin panel.
 </p>
 <p>
   Within the WordPress admin panel (i.e. the &quot;Dashboard&quot;), you'll see all of the sections on the left.&nbsp; The window on the right will display all
   of the settings which you can work with.
 </p>
 <p>
-  First of all, we need to change the theme.&nbsp; There are lots of <a
-    href="{{ site.uri.shortURL }}/Template-Monster_WordPress" rel="external" target="_blank" title="">great-looking WordPress themes</a>.&nbsp; Feel free to
-  choose one that will suit your individual needs.&nbsp; For this article, I decided to use the <a
-    href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> theme.&nbsp; The reason is
-  simple&hellip;&nbsp; <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> is a
-  multi-purpose theme.&nbsp; So, it usually works for varying Web site topics.<br />
+  First of all, we need to change the theme.&nbsp; There are lots of <a href="https://www.templatemonster.com/wordpress-themes.php" rel="external nofollow"
+    target="_blank" title="">great-looking WordPress themes</a>.&nbsp; Feel free to choose one that will suit your individual needs.&nbsp; For this article, I
+  decided to use the <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html" rel="external nofollow" target="_blank" title="">Monstroid 2</a>
+  theme.&nbsp; The reason is simple&hellip;&nbsp; <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html" rel="external nofollow"
+    target="_blank" title="">Monstroid 2</a> is a multi-purpose theme.&nbsp; So, it usually works for varying Web site topics.<br />
   &nbsp;<br />
-  <iframe
-    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/8NYJFSWZlmI?rel=0"
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/8NYJFSWZlmI?rel=0"
     style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
-  I'm going to create a Web site using the <a
-    href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> default skin as it's my
-  favourite one.&nbsp; But, here's where it gets better&hellip;&nbsp; You may choose from more than 10+ skins.&nbsp; That's why <a
-    href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> is suitable for a lot of
-  different types of Web sites.
+  I'm going to create a Web site using the <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html" rel="external nofollow" target="_blank"
+    title="">Monstroid 2</a> default skin as it's my favourite one.&nbsp; But, here's where it gets better&hellip;&nbsp; You may choose from more than 10+
+  skins.&nbsp; That's why <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html" rel="external nofollow" target="_blank" title="">Monstroid
+  2</a> is suitable for a lot of different types of Web sites.
 </p>
 <p>
   In order to change the WordPress theme, you should go to &quot;Appearance&quot; and click on the &quot;Themes&quot; menu option.
@@ -413,8 +403,8 @@ title: "How to Create a Web Site in 2017"
 </p>
 <p>
   In order to install a new theme, you should click on the &quot;Add New Theme&quot; button and upload the template that you want to use.&nbsp; As I've already
-  mentioned, I'll upload the <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a>
-  template.
+  mentioned, I'll upload the <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html" rel="external nofollow" target="_blank"
+    title="">Monstroid 2</a> template.
 </p>
 <p>
   After the installation process, you should click on the &quot;Activate&quot; button to apply the changes and set the new theme as a default one for your Web
@@ -474,12 +464,10 @@ title: "How to Create a Web Site in 2017"
 </p>
 <p>
   You'll be redirected to the Web page with the power builder.&nbsp; That's my favourite tool which helps you to customize your Web site by simply moving around
-  the block of content from within the builder itself.&nbsp; I'm happy that <a
-    href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> includes the power
-  builder.<br />
+  the block of content from within the builder itself.&nbsp; I'm happy that <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html"
+    rel="external nofollow" target="_blank" title="">Monstroid 2</a> includes the power builder.<br />
   &nbsp;<br />
-  <iframe
-    allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/XgfsP79dkzA?rel=0"
+  <iframe allowfullscreen height="271" src="https://www.youtube-nocookie.com/embed/XgfsP79dkzA?rel=0"
     style="border: none; display: block; margin-left: auto; margin-right: auto;" width="482"></iframe>
 </p>
 <p>
@@ -495,7 +483,7 @@ title: "How to Create a Web Site in 2017"
 </p>
 <p>
   Just click on the &quot;General Site Settings&quot; &raquo; &quot;Logo &amp; Favicon&quot;, and upload the logo that you want to use, rather than the generic
-  <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> logo.
+  <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html" rel="external nofollow" target="_blank" title="">Monstroid 2</a> logo.
 </p>
 <p>
   While scrolling the newly created Web site, containing demo data, I realized that I'll not need the &quot;GPL3 License Advantages&quot; block.&nbsp; So, I
@@ -550,9 +538,8 @@ title: "How to Create a Web Site in 2017"
   company.
 </p>
 <p>
-  There's a block within the default skin of <a
-    href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a> where the main pros of the
-  template are listed.&nbsp; We'll use this block to advertise the 3 primary services:
+  There's a block within the default skin of <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html" rel="external nofollow" target="_blank"
+    title="">Monstroid 2</a> where the main pros of the template are listed.&nbsp; We'll use this block to advertise the 3 primary services:
   <ul>
     <li>
       Content Marketing
@@ -612,9 +599,8 @@ title: "How to Create a Web Site in 2017"
   button.
 </p>
 <p>
-  I believe that it looks great and I'd not say that iif it were hard to work with <a
-    href="{{ site.uri.shortURL }}/Template-Monster_WordPress_Monstroid-2" rel="external" target="_blank" title="">Monstroid 2</a>.&nbsp; You can set-up a
-  working and good-looking Web site within a day or so.
+  I believe that it looks great and I'd not say that iif it were hard to work with <a href="https://www.templatemonster.com/wordpress-themes/monstroid2.html"
+    rel="external nofollow" target="_blank" title="">Monstroid 2</a>.&nbsp; You can set-up a working and good-looking Web site within a day or so.
 </p>
 <p>
   &nbsp;
@@ -630,15 +616,14 @@ title: "How to Create a Web Site in 2017"
   But, don't be scared though&hellip;&nbsp; It's not so hard.&nbsp; I'll show you everything and walk you through the installation, step-by-step.
 </p>
 <p>
-  First of all, you'll need to download the <a
-    href="https://downloads.joomla.org/latest" rel="external nofollow" target="_blank" title="Latest :: Joomla! Downloads">latest Joomla! package</a>.&nbsp;
-  You can do it on the <a href="{{ site.url }}{{ page.url }}#cite-joomla-downloads" rel="me" title="Joomla! Downloads">Joomla! official Web site</a> since
-  Joomla! is a free and open-source project.
+  First of all, you'll need to download the <a href="https://downloads.joomla.org/latest" rel="external nofollow" target="_blank"
+    title="Latest :: Joomla! Downloads">latest Joomla! package</a>.&nbsp; You can do it on the <a href="{{ site.url }}{{ page.url }}#cite-joomla-downloads"
+    rel="me" title="Joomla! Downloads">Joomla! official Web site</a> since Joomla! is a free and open-source project.
 </p>
 <p>
   Once you've downloaded the <a href="https://downloads.joomla.org/latest" rel="external nofollow" target="_blank" title="Latest :: Joomla! Downloads">latest
-  Joomla! package</a>, you should unpack it and move the files to your <a
-    href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a> FTP.
+  Joomla! package</a>, you should unpack it and move the files to your <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me"
+    title="Bluehost">Bluehost</a> FTP.
 </p>
 <p>
   Just click on the &quot;File Manager&quot; button from within your <a href="{{ site.url }}{{ page.url }}#cite-bluehost" rel="me" title="Bluehost">Bluehost</a>
@@ -650,8 +635,8 @@ title: "How to Create a Web Site in 2017"
 </p>
 <p>
   Now, we can start working on the Web site.&nbsp; Prior to that I'd suggest for you to check-out the <a
-    href="{{ site.uri.shortURL }}/Template-Monster_Joomla" rel="external" target="_blank" title="">premium Joomla! templates</a> and pick one for your future
-  Web site.
+    href="https://www.templatemonster.com/joomla-templates.php" rel="external nofollow" target="_blank" title="">premium Joomla! templates</a> and pick one for
+  your future Web site.
 </p>
 <p>
   One of the pros of such and approach is that the template comes with a so-called &quot;quick-start package&quot;&hellip;&nbsp; And, that's an amazing feature.
@@ -662,8 +647,8 @@ title: "How to Create a Web Site in 2017"
 </p>
 <p>
   I've decided to show you how to work with Joomla! using the best template, <a
-    href="{{ site.uri.shortURL }}/Template-Monster_Joomla_Jumerix" rel="external" target="_blank" title="">Jumerix</a>.&nbsp; It's a multi-purpose template
-  that has a few homepage layouts and a lot of pre-designed solutions.
+    href="https://www.templatemonster.com/jumerix-multipurpose-joomla-template-60060.html" rel="external nofollow" target="_blank" title="">Jumerix</a>.&nbsp;
+  It's a multi-purpose template that has a few homepage layouts and a lot of pre-designed solutions.
 </p>
 <p>
   Let’s begin our work!&nbsp; I'll create a Web site for a digital agency here as well.&nbsp; I believe that creating the Web sites on the same topic, but with
@@ -687,8 +672,8 @@ title: "How to Create a Web Site in 2017"
   and the CMS will do it for you.
 </p>
 <p>
-  <a href="{{ site.uri.shortURL }}/Template-Monster_Joomla_Jumerix" rel="external" target="_blank" title="">This template</a> also has a few more homepage
-  layouts.
+  <a href="https://www.templatemonster.com/jumerix-multipurpose-joomla-template-60060.html" rel="external nofollow" target="_blank" title="">This template</a>
+  also has a few more homepage layouts.
 </p>
 <p>
   Essentially, all of the changes are performed from within the administrator panel of the Joomla! CMS.&nbsp; You can sign-in at following URI&hellip;
@@ -728,7 +713,7 @@ title: "How to Create a Web Site in 2017"
 <p>
   You may be wondering, &quot;where can we get the icon codes?&quot;&nbsp; These are the codes of the <a
     href="{{ site.url }}{{ page.url }}#cite-icons-font-awesome" rel="me" title="Icons :: Font Awesome">Font Awesome icons</a>.&nbsp; You can review the huge <a
-      href="{{ site.url }}{{ page.url }}#cite-icons-font-awesome" rel="me" title="Icons :: Font Awesome">library of their icons</a> on the official Font Awesome
+    href="{{ site.url }}{{ page.url }}#cite-icons-font-awesome" rel="me" title="Icons :: Font Awesome">library of their icons</a> on the official Font Awesome
   Web site.&nbsp; Choose the one which you like and that fits the topic of your Web site.&nbsp; Once you click on the icon, you'll be able to get the icon
   code.
 </p>
@@ -765,8 +750,8 @@ title: "How to Create a Web Site in 2017"
 <p>
   As you may have noticed, the top menu panel and the footer have a background image, and as of right now, it doesn't really fit the style.&nbsp; I decided that
   the top panel should be black and the footer should be dark grey.&nbsp; We can change these settings within the template.css file of the <a
-    href="{{ site.uri.shortURL }}/Template-Monster_Joomla_Jumerix" rel="external" target="_blank" title="">Jumerix</a> template.&nbsp; Go to the folder with the
-  template via FTP and open the &quot;template.css&quot; file within the CSS folder.
+    href="https://www.templatemonster.com/jumerix-multipurpose-joomla-template-60060.html" rel="external nofollow" target="_blank" title="">Jumerix</a>
+  template.&nbsp; Go to the folder with the template via FTP and open the &quot;template.css&quot; file within the CSS folder.
 </p>
 <p>
   Look for the &quot;#top&quot; ID and comment or remove the background image.&nbsp; Then, add the following line:
@@ -803,14 +788,14 @@ title: "How to Create a Web Site in 2017"
 </p>
 <p>
   Once you've given Drupal all of the information, the installation process is over.&nbsp; You'll be redirected to the homepage of your newly created Web
-  site.&nbsp; It will have a generic Drupal theme.&nbsp; So, we're not done yet.&nbsp; Let's take <a
-    href="{{ site.uri.shortURL }}/Template-Monster_Drupal" rel="external" target="_blank" title="">a beautiful theme</a> and install it properly&hellip;&nbsp;
-  It's very easy!
+  site.&nbsp; It will have a generic Drupal theme.&nbsp; So, we're not done yet.&nbsp; Let's take <a href="https://www.templatemonster.com/drupal-themes.php"
+    rel="external nofollow" target="_blank" title="">a beautiful theme</a> and install it properly&hellip;&nbsp; It's very easy!
 </p>
 <p>
   In order to install a new theme, you should go to &quot;Appearance&quot;.&nbsp; You'll be redirected to a Web page with the list of available themes.&nbsp;
   Click on &quot;Install New Theme&quot; and choose the ZIP archive of <a
-    href="{{ site.uri.shortURL }}/Template-Monster_Drupal_Tax-Advisor" rel="external" target="_blank" title="">the theme</a>.
+    href="https://www.templatemonster.com/drupal-themes/tax-advisor-corporate-business-drupal-template-63401.html" rel="external nofollow" target="_blank"
+    title="">the theme</a>.
 </p>
 <p>
   Once you've set the new theme as a default one, you'll see that your homepage now looks different.&nbsp; It has a new logo now and the colour scheme is
@@ -922,17 +907,18 @@ title: "How to Create a Web Site in 2017"
   learn how to work with it.
 </p>
 <p>
-  There are plenty of <a href="{{ site.uri.shortURL }}/Template-Monster_WordPress" rel="external" target="_blank" title="">premium WordPress themes</a> around
-  the Internet.&nbsp; So, you'll not have to worry about how you can make your Web site stand out.
+  There are plenty of <a href="https://www.templatemonster.com/wordpress-themes.php" rel="external nofollow" target="_blank" title="">premium WordPress
+  themes</a> around the Internet.&nbsp; So, you'll not have to worry about how you can make your Web site stand out.
 </p>
 <p>
   Working with Drupal and Joomla, probably, won't make you that happy.&nbsp; But, they certainly have their pros though.&nbsp; Joomla is a little bit more
   complex.&nbsp; Drupal is as complex as Hell.&nbsp; So, keep it in mind, while choosing the right CMS for your Web site.
 </p>
 <p>
-  The pool of <a href="{{ site.uri.shortURL }}/Template-Monster_Drupal" rel="external" target="_blank" title="">Drupal themes</a> and <a
-    href="{{ site.uri.shortURL }}/Template-Monster_Joomla" rel="external" target="_blank" title="">Joomla premium templates</a> is a little bit smaller due to
-  the fact that a smaller percentage of users prefer these platforms.&nbsp; However, you can always find some ready-made solutions for those anyhow.
+  The pool of <a href="https://www.templatemonster.com/drupal-themes.php" rel="external nofollow" target="_blank" title="">Drupal themes</a> and <a
+    href="https://www.templatemonster.com/joomla-templates.php" rel="external nofollow" target="_blank" title="">Joomla premium templates</a> is a little bit
+  smaller due to the fact that a smaller percentage of users prefer these platforms.&nbsp; However, you can always find some ready-made solutions for those
+  anyhow.
 </p>
 <p>
   I've created this extensive article for you and hope that it will help you to create your first Web site without any issues&hellip;&nbsp; Just keep calm and

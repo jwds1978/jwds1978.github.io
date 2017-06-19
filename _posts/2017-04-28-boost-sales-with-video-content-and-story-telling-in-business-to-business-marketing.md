@@ -28,7 +28,7 @@ citations:
   - author: "Template Monster"
     date:
       accessed: "2017-04-28 20:02:42 America/Toronto"
-    href: "https://go.forces.army/Template-Monster"
+    href: "https://www.templatemonster.com"
     name: "Template Monster"
     slug: "template-monster"
   - author: "Boeing"
@@ -48,7 +48,7 @@ citations:
   - author: "Template Monster"
     date:
       accessed: "2017-04-28 13:41:18 America/Toronto"
-    href: "https://go.forces.army/Template-Monster_Business"
+    href: "https://www.templatemonster.com/category/business"
     name: "Themes for Business and Corporate Websites"
     slug: "themes-for-business-and-corporate-websites"
 date: "2017-04-28 20:11:18 America/Toronto"

@@ -18,7 +18,7 @@ citations:
     date:
       accessed: "2017-05-10 12:14:39 America/Toronto"
       published: "2005-10-26 America/Toronto"
-    href: "https://store.forces.army/#detail/0881634085"
+    href: "https://www.amazon.ca/dp/0881634085"
     name: "The Dissociative Mind"
     slug: "the-dissociative-mind"
   - author: "L.J. Kirmayer, M. Lashley, C. Rousseau"

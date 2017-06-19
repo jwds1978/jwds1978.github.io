@@ -74,7 +74,7 @@ citations:
     date:
       accessed: "2017-05-10 19:37:10 America/Toronto"
       published: "2009-10-01 America/Toronto"
-    href: "http://store.forces.army/#detail/0749941480"
+    href: "https://www.amazon.ca/dp/0749941480"
     name: "The Spoilt Generation"
     slug: "the-spoilt-generation"
   - author: "Cesare Aloisi, Robert Coe, Steve Higgins, Lee Elliot Major"

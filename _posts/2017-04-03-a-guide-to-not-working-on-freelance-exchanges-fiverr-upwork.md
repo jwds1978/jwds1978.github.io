@@ -7,7 +7,7 @@ citations:
     date:
       accessed: "2017-04-03 14:47:38 America/Toronto"
       published: "2014-11-17 America/Toronto"
-    href: "https://store.forces.army/detail/B00PJIDO9C"
+    href: "https://www.amazon.ca/dp/B00PJIDO9C"
     name: "Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer"
     slug: "stop-thinking-like-a-freelancer-the-evolution-of-a-1m-web-designer"
 date: "2017-04-03 16:20:39 America/Toronto"
@@ -30,7 +30,6 @@ syndications:
 tags:
   - "How to"
   - Opinionated
-  - Sponsored
   - "The Suck"
 title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 ---
@@ -186,7 +185,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
     </li>
     <li>
       <span style="font-weight: bolder;">Some Great Client Opportunities:</span>&nbsp; I use Upwork.&nbsp; A lot of my peers in the entrepreneurship space use
-      Upwork.&nbsp; I even use <a href="http://fiverr.com" rel="external" target="_blank" title="Fiverr">Fiverr</a> at times.&nbsp; And, if someone
+      Upwork.&nbsp; I even use <a href="http://fiverr.com" rel="external nofollow" target="_blank" title="Fiverr">Fiverr</a> at times.&nbsp; And, if someone
       does a great job for me, then there's the opportunity for that to continue outside of the confines of the particular freelancer exchange.
     </li>
   </ul>
@@ -278,7 +277,7 @@ title: "A Guide to Not Working on Freelance Exchanges (i.e. Fiverr, Upwork)"
 </h3>
 <p>
   It's vital to their future revenue opportunities that platforms like <a
-    href="http://fiverr.com" rel="external" target="_blank" title="Fiverr">Fiverr</a> and Upwork keep all dialogue inside of channels which they
+    href="http://fiverr.com" rel="external nofollow" target="_blank" title="Fiverr">Fiverr</a> and Upwork keep all dialogue inside of channels which they
   can monitor.&nbsp; This means that relationships cannot be taken outside of the system; for fear of losing the project commission.
 </p>
 <p>

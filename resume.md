@@ -237,14 +237,14 @@ title: "Curriculum Vitae"
     (Re)scan for deleted and/or new media.
   </p>
   <p>
-    Kur-Uhn-See&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    Kur-Uhn-See&nbsp; <sup><a href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
       title="Hypertext Preprocessor">PHP</abbr>, Smarty, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     April 2013 &#8211; 2016&nbsp; <sup>3 Years</sup><br />
     Correct transaction fees; reflecting the transaction exchange rate.
   </p>
   <p>
-    StripeXS&nbsp; <sup>Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon, <a href="{{ site.uri.shortURL }}/WHMCS" rel="external"
+    StripeXS&nbsp; <sup>Merchant Solution Provider, Payment Gateway&hellip;&nbsp; Android, Blesta Addon, <a href="https://www.whmcs.com" rel="external nofollow"
       target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Domain Name System">DNS</abbr> Zone, <abbr
       title="Hypertext Markup Language">HTML</abbr>, Java, JavaScript, <abbr title="JavaScript Object Notation">JSON</abbr>, <abbr
@@ -260,37 +260,37 @@ title: "Curriculum Vitae"
         (mail/telephone)-order payments quickly and easily with a Stripe account.<br />
         &nbsp;<br />
         <span style="font-weight: bolder;">Addons:</span>&nbsp; Payment gateway for Pivotal Payments (GlobalOne) and Stripe.&nbsp; The onliest gateway for <a
-          href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> to provide complete/full tokenization functionality/integration
-        (including, but not limited to, within the cart/checkout and the administrative area) and payment dispute automation/management (Stripe-specific) from
-        within <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a>.<br />
+          href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="">WHMCS</a> to provide complete/full tokenization
+        functionality/integration (including, but not limited to, within the cart/checkout and the administrative area) and payment dispute
+        automation/management (Stripe-specific) from within <a href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="">WHMCS</a>.<br />
         &nbsp;
       </li>
       <li>
         November 2012 &#8211; October 2013:<br />
         &nbsp;<br />
-        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank"
+        Payment gateway for Stripe.&nbsp; The onliest Stripe gateway for <a href="https://www.whmcs.com" rel="external nofollow" target="_blank"
           title="">WHMCS</a> to provide complete/full tokenization functionality/integration (including, but not limited to, within the cart/checkout and the
-        administrative area) and payment dispute automation/management from within <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank"
+        administrative area) and payment dispute automation/management from within <a href="https://www.whmcs.com" rel="external nofollow" target="_blank"
           title="">WHMCS</a>.
       </li>
     </ul>
   </p>
   <p>
-    NXS&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    NXS&nbsp; <sup><a href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
       title="Hypertext Preprocessor">PHP</abbr>, Regular Expression, Smarty, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     November 2011 &#8211; 2016&nbsp; <sup>5 Years</sup><br />
     Automagically purge the log tables in order to reduce the overall size of the database.
   </p>
   <p>
-    WHMCS Order Status&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    WHMCS Order Status&nbsp; <sup><a href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
       title="Hypertext Preprocessor">PHP</abbr>, Smarty, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     December 2010 &#8211; 2016&nbsp; <sup>6 Years</sup><br />
     Automagically cancel pending orders which remain unpaid for X number of days past their due date.
   </p>
   <p>
-    HostAudit&nbsp; <sup>cPanel/<abbr title="WebHost Manager">WHM</abbr> &amp; <a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank"
+    HostAudit&nbsp; <sup>cPanel/<abbr title="WebHost Manager">WHM</abbr> &amp; <a href="https://www.whmcs.com" rel="external nofollow" target="_blank"
       title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, JavaScript, Perl, <abbr
       title="Hypertext Preprocessor">PHP</abbr>, Regular Expression, Shell, Smarty, <abbr title="Structured Query Language">SQL</abbr>, <abbr
@@ -300,7 +300,7 @@ title: "Curriculum Vitae"
     abuse continues.
   </p>
   <p>
-    Nshare&nbsp; <sup><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="">WHMCS</a> Addon</sup><br />
+    Nshare&nbsp; <sup><a href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="">WHMCS</a> Addon</sup><br />
     Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr
       title="Hypertext Preprocessor">PHP</abbr>, Smarty, <abbr title="Structured Query Language">SQL</abbr></sup><br />
     December 2012 &#8211; October 2013&nbsp; <sup>11 Months</sup><br />
@@ -361,8 +361,7 @@ title: "Curriculum Vitae"
     <p>
       <img alt="" class="u-logo" height="40" src="{{ site.uri.assets }}/naked/images/WHMCS_178x040.png" style="border: 0px; float: right;" width="178" />
       <span class="p-job-title">Technical Analyst</span><br />
-      <span style="display: none;"><a class="p-name p-org u-url" href="https://www.whmcs.com" rel="external nofollow" target="_blank"
-        title="WHMCS">WHMCS</a></span><a href="{{ site.uri.shortURL }}/WHMCS" rel="external" target="_blank" title="WHMCS">WHMCS</a><br />
+      <a class="p-name p-org u-url" href="https://www.whmcs.com" rel="external nofollow" target="_blank" title="WHMCS">WHMCS</a><br />
       <time class="dt-start" datetime="2013-02">February 2013</time> &#8211; <time class="dt-end" datetime="2014-02">February 2014</time>&nbsp; <sup><time
         class="dt-duration" datetime="P1Y1M">1 Year, 1 Month</time></sup><br />
       $2,234 USD per Month&nbsp; <sup>~$2,984 CAD per Month</sup>

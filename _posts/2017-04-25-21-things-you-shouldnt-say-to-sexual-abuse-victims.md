@@ -27,14 +27,14 @@ citations:
     date:
       accessed: "2017-04-25 12:19:12 America/Toronto"
       published: "2014 America/Toronto"
-    href: "https://store.forces.army/#detail/0983436770"
+    href: "https://www.amazon.ca/dp/0983436770"
     name: "Not Marked: Finding Hope and Healing after Sexual Abuse"
     slug: "not-marked-finding-hope-and-healing-after-sexual-abuse"
   - author: "Dan Allender"
     date:
       accessed: "2017-04-25 11:37:21 America/Toronto"
       published: "2008-08-27 America/Toronto"
-    href: "https://store.forces.army/#detail/1600063071"
+    href: "https://www.amazon.ca/dp/1600063071"
     name: "The Wounded Heart: Hope for Adult Victims of Childhood Sexual Abuse"
     slug: "the-wounded-heart-hope-for-adult-victims-of-childhood-sexual-abuse"
 date: "2017-04-25 12:35:07 America/Toronto"

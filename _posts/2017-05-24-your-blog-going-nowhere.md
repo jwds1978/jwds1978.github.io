@@ -18,7 +18,7 @@ citations:
     date:
       accessed: "2017-05-24 01:14:03 America/Toronto"
       published: "2000-10-03 America/Toronto"
-    href: "https://store.forces.army/detail/B000FC0SIM"
+    href: "https://www.amazon.ca/dp/B000FC0SIM"
     name: "On Writing: A Memoir Of The Craft"
     slug: "on-writing-a-memoir-of-the-craft"
 date: "2017-05-24 04:32:34 America/Toronto"

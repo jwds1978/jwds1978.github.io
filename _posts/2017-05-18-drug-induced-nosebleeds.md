@@ -7,7 +7,7 @@ citations:
     date:
       accessed: "2017-05-18 16:38:21 America/Toronto"
       published: "2008-05-09 America/Toronto"
-    href: "https://store.forces.army/#detail/0816063303"
+    href: "https://www.amazon.ca/dp/0816063303"
     name: "The Encyclopedia of Drug Abuse"
     slug: "the-encyclopedia-of-drug-abuse"
 date: "2017-05-18 16:44:55 America/Toronto"
