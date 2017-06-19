@@ -3,6 +3,7 @@ image:
   height: 398
   path: "https://assets.forces.army/errors/hotlink-ok/stop_482x398_min.png"
   width: 482
+robotsCache: false
 robotsIndex: false
 sitemap: false
 title: "Attention Required"

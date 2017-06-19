@@ -5,11 +5,12 @@
     <meta charset="utf-8" />
     <meta content="chrome=1" http-equiv="X-UA-Compatible" />
     <meta content="8IhwjdCFEPf3MDA6fi8uCL25P91r_0ZY3liS6UKT8d8" name="google-site-verification" />
+    <meta content="noarchive, nofollow, noimageindex, noindex, none, noodp, nosnippet, notranslate" name="ia_archiver" />
     <meta content="#000000" name="msapplication-TileColor" />
     <meta content="{{ site.url }}/ms-icon-144x144.png" name="msapplication-TileImage" />
     <meta content="c66b40e444774724997e132495e62242" name="p:domain_verify" />
-    {% if page.robotsIndex == false %}
-    <meta content="noindex" name="robots" />
+    {% if page.robotsCache == false or page.robotsIndex == false %}
+    <meta content="{% if page.robotsCache == false %}noarchive{% endif %}{% if page.robotsCache == false and page.robotsIndex == false %}, {% endif %}{% if page.robotsIndex == false %}noindex{% endif %}" name="robots" />
     {% endif %}
     <meta content="#000000" name="theme-color" />
     <meta content="initial-scale=1, user-scalable=no, width=device-width" name="viewport" />
