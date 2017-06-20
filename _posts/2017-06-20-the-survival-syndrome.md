@@ -14,6 +14,22 @@ image:
 last_modified_at: "2017-06-20 16:03:03 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154400204557084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/5NzwFvKHon1"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650647615"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/162056256356/the-survival-syndrome"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/877257055593275392"
+    text: Twitter
+    title: Twitter
 tags:
   - MyCAF
   - Opinionated
