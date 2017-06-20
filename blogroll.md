@@ -128,6 +128,16 @@ title: Blogroll
     &nbsp;
   </li>
   <li>
+    <a href="http://www.freedownloadmanager.org" rel="external nofollow" target="_blank" title="Free Download Manager"><img alt="" height="31"
+      src="{{ site.uri.assets }}/naked/images/Free-Download-Manager_88x31.gif" style="border: 0px; float: right; margin-left: 10px;" width="88" /></a>
+    <a href="http://www.freedownloadmanager.org" rel="external nofollow" target="_blank" title="Free Download Manager">Free Download Manager</a>
+    <ul>
+      <li>
+        It's a modern and powerful, download accelerator and organizer, for Mac and Windows.
+      </li>
+    </ul>
+  </li>
+  <li>
     <a href="https://www.iconfinder.com" rel="external nofollow" target="_blank" title="Iconfinder">Iconfinder</a>
     <ul>
       <li>
