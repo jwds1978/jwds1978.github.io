@@ -52,6 +52,7 @@ defaults:
       path: ""
     values:
       adsDisplay: true
+      adSense: true
       comments: false
       facebook: false
       image:
