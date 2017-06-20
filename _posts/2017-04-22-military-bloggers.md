@@ -58,8 +58,7 @@ tags:
 title: "Military Bloggers"
 ---
 
-<img
-  alt="" height="185" src="{{ site.uri.assets }}/blog/2017/04/22/military-bloggers/Military-Writers-Guild_257x185.png"
+<img alt="" height="185" src="{{ site.uri.assets }}/blog/2017/04/22/military-bloggers/Military-Writers-Guild_257x185.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="257" />
 <p>
   Offhand, I don't know when blogging really became well-known throughout the Internet, but I do know that I started to blog once I created my <a
@@ -93,8 +92,8 @@ title: "Military Bloggers"
   editors, broadcasts, and/or publications.&nbsp; Some of these, such as Matt Gallagher's blog, later grew into larger, book-length works:
   <ul>
     <li>
-      <a href="{{ site.uri.aStore }}/detail/0306819678" rel="me" target="_blank" title="">Kaboom: Embracing the Suck in a Savage Little War</a> by Matt
-      Gallagher
+      <a href="https://www.amazon.ca/dp/0306819678" rel="external nofollow" target="_blank" title="">Kaboom: Embracing the Suck in a Savage Little War</a> by
+      Matt Gallagher
     </li>
   </ul>
 </p>
@@ -102,12 +101,12 @@ title: "Military Bloggers"
   There are also published collections of mil-blogs.&nbsp; Such as:
   <ul>
     <li>
-      <a href="{{ site.uri.aStore }}/detail/0740769456" rel="me" target="_blank" title="">Doonesbury.com's The Sandbox: Dispatches from Troops in Iraq and
-      Afghanistan</a> by G. B. Trudeau
+      <a href="https://www.amazon.ca/dp/0740769456" rel="external nofollow" target="_blank" title="">Doonesbury.com's The Sandbox: Dispatches from Troops in
+      Iraq and Afghanistan</a> by G. B. Trudeau
     </li>
     <li>
-      <a href="{{ site.uri.aStore }}/detail/0743294181" rel="me" target="_blank" title="">The Blog of War: Front-Line Dispatches from Soldiers in Iraq and
-      Afghanistan</a> by Matthew Currier Burden
+      <a href="https://www.amazon.ca/dp/0743294181" rel="external nofollow" target="_blank" title="">The Blog of War: Front-Line Dispatches from Soldiers in
+      Iraq and Afghanistan</a> by Matthew Currier Burden
     </li>
   </ul>
 </p>
@@ -123,9 +122,8 @@ title: "Military Bloggers"
     &nbsp;<br />
     If anything, the blogs hearken back, really, to an earlier time in the growth of the Republic.<br />
     &nbsp;<br />
-    We're the
-    &quot;<a href="https://en.wikipedia.org/wiki/Broadside_(printing)" rel="external nofollow" target="_blank" title="Broadside (printing)">broadsides</a>&quot;
-    of this era.
+    We're the &quot;<a href="https://en.wikipedia.org/wiki/Broadside_(printing)" rel="external nofollow" target="_blank"
+      title="Broadside (printing)">broadsides</a>&quot; of this era.
   </blockquote>
 </p>
 <p>
