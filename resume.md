@@ -1,4 +1,5 @@
 ---
+adSense: false
 cloudflareSSE: true
 quickJump: true
 title: "Curriculum Vitae"

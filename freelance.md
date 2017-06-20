@@ -1,4 +1,5 @@
 ---
+adSense: false
 liMarquee: true
 quickJump: true
 title: "Freelance"
