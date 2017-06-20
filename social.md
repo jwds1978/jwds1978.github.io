@@ -205,6 +205,14 @@ twitterWidget: true
     </ul>
   </li>
   <li>
+    Webmaster World
+    <ul>
+      <li>
+        <a href="https://www.webmasterworld.com/profile/jwds/" rel="me" target="_blank" title="jwds">jwds</a>
+      </li>
+    </ul>
+  </li>
+  <li>
     <i aria-hidden="true" class="fa fa-windows"></i>&nbsp; Windows
     <ul>
       <li>
