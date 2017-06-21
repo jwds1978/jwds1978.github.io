@@ -32,6 +32,22 @@ image:
 last_modified_at: "2017-06-20 23:20:44 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154401120667084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/115164780760274259502/posts/UcSwDWvuib5"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650652520"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/162070481116/belgian-troops-shot-a-terrorist-during-a-failed"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/877368345158238214"
+    text: Twitter
+    title: Twitter
 tags:
   - News
   - "The Suck"
