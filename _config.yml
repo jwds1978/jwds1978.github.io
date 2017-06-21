@@ -82,6 +82,8 @@ exclude:
   - Rakefile
   - README.md
   - vendor
+facebook:
+  pixelID: "461246004236086"
 gems:
   - jekyll-feed
   - jekyll-paginate

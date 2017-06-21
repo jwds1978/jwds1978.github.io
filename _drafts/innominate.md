@@ -95,3 +95,9 @@ tags:
 title: ""
 ---
 
+<!--
+  ~ <img alt="" height="" src="{{ site.uri.assets }}/blog/" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="" />
+  ~
+  ~ <img alt="" height="" src="{{ site.uri.assets }}/blog/" style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="" />
+  -->
+
