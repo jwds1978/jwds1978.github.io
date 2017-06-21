@@ -64,6 +64,10 @@ title: "Reportedly, Marian Hossa to Miss Season and May Retire, Due to Equipment
   take it.&nbsp; This concern, may lead him into retirement.
 </p>
 <p>
+  &nbsp;
+</p>
+<!-- excerptBreak -->
+<p>
   Statement from, Chicago Blackhawks forward, Marian Hossa:
   <blockquote cite="{{ site.url }}{{ page.url }}#cite-medical-update-on-marian-hossa">
     Over the course of the last few years, under the supervision of the Blackhawks medical staff, I have been privately undergoing treatment for a progressive
@@ -80,6 +84,9 @@ title: "Reportedly, Marian Hossa to Miss Season and May Retire, Due to Equipment
     his decision not to play during the 2017&#8211;18 season.&nbsp; We feel in the most certain terms this is the appropriate approach for Marian in order to
     keep him functional and healthy in the short term and throughout his life.
   </blockquote>
+</p>
+<p>
+  &nbsp;
 </p>
 <p>
   Hossa, at 38 years old, has played 19 NHL seasons and he's coming off a 2016&#8211;17 campaign that saw him register 26 goals and 19 assists for 45 points.
