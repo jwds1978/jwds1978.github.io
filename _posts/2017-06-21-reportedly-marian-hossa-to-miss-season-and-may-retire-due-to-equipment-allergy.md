@@ -47,6 +47,22 @@ image:
 last_modified_at: "2017-06-21 16:30:54 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154403032942084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/u/0/115164780760274259502/posts/Mieg8Vqnp7j"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650661157"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/162096950261/reportedly-marian-hossa-to-miss-season-and-may"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/877629210000465921"
+    text: Twitter
+    title: Twitter
 tags:
   - News
   - "Other Sports"
@@ -99,5 +115,6 @@ title: "Reportedly, Marian Hossa to Miss Season and May Retire, Due to Equipment
   On his career, Hossa has put up numbers, worthy of the Hall of Fame, with 525 goals and 609 assists for 1,134 points.
 </p>
 <p>
-  As well, Hossa has 149 points in 205 career playoff games.&nbsp; He's won 3 Stanley Cups and has played in 5 NHL All-Star Games.
+  As well, Hossa has 149 points in 205 career playoff games.&nbsp; He's won 3 Stanley Cups and has played in 5 <abbr title="National Hockey League">NHL</abbr>
+  All-Star Games.
 </p>
