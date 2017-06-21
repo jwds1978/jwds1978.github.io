@@ -67,8 +67,8 @@ title: "Belgian Troops Shot a Terrorist During a Failed Attack on a Brussels Tra
   station, he added.
 </p>
 <p>
-  He declined to comment on witness accounts that the man had shouted Islamist slogans, including &quot;Allahu Akbar&quot; &#8212; God is greater, in Arabic &#8212;
-  before detonating a device on a luggage trolley, inside of an underground concourse, at the rail station.
+  He declined to comment on witness accounts that the man had shouted Islamist slogans, including &quot;Allahu Akbar&quot; &#8212; God is greater, in Arabic
+  &#8212; before detonating a device on a luggage trolley, inside of an underground concourse, at the rail station.
 </p>
 <!-- excerptBreak -->
 <p>
@@ -76,9 +76,10 @@ title: "Belgian Troops Shot a Terrorist During a Failed Attack on a Brussels Tra
   and locals enjoying a hot evening, they were soon rather deserted and calm.&nbsp; Rail traffic was, for the most part, suspended.
 </p>
 <p>
-  A station employee, Nicolas Van Herrewegen, told public broadcaster RTBF that he saw a man shouting within a lower-level of the 1930s station that serves
-  lines running under the city center.&nbsp; He then appeared to yell &quot;Allahu Akbar&quot; in Arabic and detonated something upon a luggage trolley.&nbsp;
-  Herrewegen indicated that people, standing within 3 meters of the aforementioned trolley, were unhurt.
+  A station employee, Nicolas Van Herrewegen, told public broadcaster <abbr title="Radio T&eacute;l&eacute;vision Belge de la Communaut&eacute;">RTBF</abbr>
+  that he saw a man shouting within a lower-level of the 1930s station that serves lines running under the city center.&nbsp; He then appeared to yell
+  &quot;Allahu Akbar&quot; in Arabic and detonated something upon a luggage trolley.&nbsp; Herrewegen indicated that people, standing within 3 meters of the
+  aforementioned trolley, were unhurt.
 </p>
 <p>
   The national alert-level was maintained, at its 2<sup>nd</sup>-highest level, as the Prime Minister &#8212; Charles Michel &#8212; consulted with his security
@@ -99,7 +100,7 @@ title: "Belgian Troops Shot a Terrorist During a Failed Attack on a Brussels Tra
   neighbouring France and Germany over the past year &#8212; as well as, recent bloodshed, in London and Manchester &#8212; have added to the anxiety.
 </p>
 <p>
-  Jean-Michel Michel, the station-master, was quoted by DH newspaper as having said:
+  Jean-Michel Michel, the station-master, was quoted by <abbr title="La Derni&egrave;re Heure">DH</abbr> newspaper as having said:
   <blockquote>
     We heard the explosion.&nbsp; My colleague thought it was a bomb.&nbsp; The explosion was on the mezzanine level.&nbsp; The man went down to platforms 3 and
     4.&nbsp; He said &quot;Allahu Akbar&quot;<br />
@@ -112,7 +113,7 @@ title: "Belgian Troops Shot a Terrorist During a Failed Attack on a Brussels Tra
 <p>
   Prosecutor, Van Der Sypt, said:
   <blockquote>
-    At about 08:30 PM there was an explosion in the Central Station, relatively small in size.<br />
+    At about 08:30 <abbr title="Post Meridiem">PM</abbr> there was an explosion in the Central Station, relatively small in size.<br />
     &nbsp;<br />
     The suspected perpetrator was neutralized by the soldiers present.&nbsp; We cannot confirm if the man is still alive or dead.&nbsp; There were no further
     victims.&nbsp; We consider this a terrorist attack.
