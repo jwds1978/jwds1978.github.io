@@ -1,6 +1,8 @@
 ---
 adSense: false
+blockAdblock: false
 liMarquee: true
+propellerAds: false
 quickJump: true
 title: "Freelance"
 ---

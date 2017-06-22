@@ -1,6 +1,8 @@
 ---
 adSense: false
+blockAdblock: false
 cloudflareSSE: true
+propellerAds: false
 quickJump: true
 title: "Curriculum Vitae"
 ---
