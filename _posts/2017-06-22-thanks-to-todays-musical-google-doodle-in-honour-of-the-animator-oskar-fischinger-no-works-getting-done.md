@@ -41,6 +41,22 @@ image:
 last_modified_at: "2017-06-22 16:57:12 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_mackenzie_74"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154405683792084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/u/0/115164780760274259502/posts/f41FruT1MRj"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650674441"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/162136419541/thanks-to-todays-musical-google-doodle-in-honour"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/877995795697422340"
+    text: Twitter
+    title: Twitter
 tags:
   - Art
 title: "Thanks to Today's Musical Google Doodle, In Honour of the Animator Oskar Fischinger, No Work's Getting Done"
