@@ -60,7 +60,7 @@ defaults:
         height: 301
         path: "https://assets.forces.army/naked/images/hotlink-ok/keep-calm_301x301.png"
         width: 301
-      propellerAds: true
+      propellerAds: false
       robotsCache: true
       robotsIndex: true
       vigLink: true
