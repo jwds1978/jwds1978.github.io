@@ -30,6 +30,22 @@ image:
 last_modified_at: "2017-06-23 04:00:18 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154407743717084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/u/0/115164780760274259502/posts/Nuzg6DwpLRY"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650682472"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/162165554411/consider-removing-your-ad-blocker"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/878279120399998976"
+    text: Twitter
+    title: Twitter
 tags:
   - Opinionated
   - Self
