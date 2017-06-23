@@ -27,9 +27,10 @@ image:
   height: 304
   path: "https://assets.forces.army/blog/2017/06/23/consider-removing-your-ad-blocker/hotlink-ok/innominate_1_483x304.png"
   width: 483
-last_modified_at: "2017-06-23 04:00:18 America/Toronto"
+last_modified_at: "2017-06-23 12:18:19 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+modifiedReason: Grammar
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154407743717084"
     text: Facebook
@@ -95,8 +96,8 @@ title: "Consider Removing Your Ad-Blocker"
   chunks of the content you want to read.
 </p>
 <p>
-  Having done all the abovementioned, at no time, did you ever stop the delivery of the ads.&nbsp; Rather, you simply made a point to ignore them and/or remove
-  them after they'd been delivered to you.&nbsp; Similarly, you can also buy the paper and ignore all of the contents except for the racing form and/or
+  Having done all of the abovementioned, at no time, did you ever stop the delivery of the ads.&nbsp; Rather, you simply made a point to ignore them and/or
+  remove them after they'd been delivered to you.&nbsp; Similarly, you can also buy the paper and ignore all of the contents except for the racing form and/or
   classifieds and/or opinion section and/or the Sunday funnies&hellip;&nbsp; That's absolutely your call.&nbsp; But, at no time, did you stop the presses nor
   remove anything before it had been delivered to you.
 </p>
@@ -109,7 +110,7 @@ title: "Consider Removing Your Ad-Blocker"
   You have every right to decide how your Web browser renders content &#8212; it's your browser, after all.&nbsp; And, should you decide to use an ad blocker, I
   don't really see much of a difference between that and skipping over the television ads within <abbr title="Digital Video Recorder">DVR</abbr> content.&nbsp;
   By the same token, publishers have that same right to tell you that if you want access to their content, you must accept their terms of service.&nbsp; If you
-  don't like their terms, or whatever else, simply move along to another Web site&nbsp; As with any other business you may not like for whatever reason.
+  don't like their terms, or whatever else, simply move along to another Web site.&nbsp; As with any other business you may not like for whatever reason.
 </p>
 <p>
   &nbsp;
