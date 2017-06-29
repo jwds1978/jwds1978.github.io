@@ -90,6 +90,7 @@ title: "Getting Tom Clancy's Splinter Cell: Conviction to Run on Windows 10"
 <p>
   &nbsp;
 </p>
+<!-- excerptBreak -->
 <p>
   You'll, more than likely, get an alert about an incompatible operating system.&nbsp; You can safely ignore the warning and continue on to the game.&nbsp;
   However, should you prefer to not be annoyed by the warning, you can set the game's executable to run in compatibility mode for another <abbr
