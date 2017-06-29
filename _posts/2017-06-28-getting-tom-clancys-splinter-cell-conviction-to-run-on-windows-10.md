@@ -37,6 +37,22 @@ image:
 last_modified_at: "2017-06-28 22:36:04 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154424400847084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/u/0/115164780760274259502/posts/FuK2ixNTjRM"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650748307"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/162381099636/getting-tom-clancys-splinter-cell-conviction-to"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/880260489846153217"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
   - "The Suck"

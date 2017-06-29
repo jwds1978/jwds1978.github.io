@@ -65,8 +65,20 @@ location: ""
 modifiedReason: 
 syndications:
   - href: ""
-    text: 
-    title: 
+    text: Facebook
+    title: Facebook
+  - href: ""
+    text: Google+
+    title: Google+
+  - href: ""
+    text: Pinterest
+    title: Pinterest
+  - href: ""
+    text: Tumblr
+    title: Tumblr
+  - href: ""
+    text: Twitter
+    title: Twitter
 tags:
   - Art
   - Automotive
