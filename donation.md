@@ -10,11 +10,17 @@ title: Donate
 <ul>
   <li>
     <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>&nbsp; <sup>Primary</sup>
-    <div align="center">
-      <script src="https://gateway.gear.mycelium.com/gear-widget-host.js" type="text/javascript"></script>
-      <iframe id="gear-widget" scrolling="no" src="https://gateway.gear.mycelium.com/widgets/125114cf1a0c96953d267f11f1ef586268c29f9af483fd699d922e985ae0962e"
-        style="border: none; display: inline-block; height: 130px; max-width: 350px; min-width: 250px;"></iframe>
-    </div>
+    <ul>
+      <li>
+        <a href="https://quickbt.com/?btcto={{ page.fnrsfyyzkkwbxmrc }}&redir=https://forces.army/donated" target="_blank" title=""><img alt="" height="211"
+          src="{{ site.uri.assets }}/naked/images/QuickBT_donate_350x211.png" style="border: 0px;" width="350" /></a>
+      </li>
+      <li>
+        <script async src="https://gateway.gear.mycelium.com/gear-widget-host.js" type="text/javascript"></script>
+        <iframe id="gear-widget" scrolling="no" src="https://gateway.gear.mycelium.com/widgets/125114cf1a0c96953d267f11f1ef586268c29f9af483fd699d922e985ae0962e"
+          style="border: none; display: inline-block; height: 130px; max-width: 350px; min-width: 250px;"></iframe>
+      </li>
+    </ul>
   </li>
   <li>
     Coinbase
