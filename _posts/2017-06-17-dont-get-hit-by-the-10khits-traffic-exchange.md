@@ -9,7 +9,7 @@ citations:
   - author: "10KHits LLC"
     date:
       accessed: "2017-06-16 22:50:31 America/Toronto"
-    href: "https://www.10khits.com"
+    href: "https://go.forces.army/10KHits"
     name: "10KHits Traffic Exchange: Free Website Traffic to Your Site"
     slug: "10khits-traffic-exchange-free-website-traffic-to-your-site"
   - author: "Yahoo Holdings, Inc."
@@ -36,10 +36,10 @@ image:
   height: 420
   path: "https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/hotlink-ok/10k-Hits_720x420.png"
   width: 720
-last_modified_at: "2017-06-17 02:39:44 America/Toronto"
+last_modified_at: "2017-07-01 03:40:13 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
-modifiedReason: Images
+modifiedReason: Citations
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154390535452084"
     text: Facebook
