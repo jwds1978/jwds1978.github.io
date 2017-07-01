@@ -64,6 +64,16 @@ title: Donate
       </li>
     </ul>
   </li>
+  <li>
+    <a href="{{ site.uri.shortURL }}/Payza" rel="external nofollow" target="_blank" title="">Payza</a>
+    <ul>
+      <li>
+        james.stewart@forces.army<br />
+        <a href="{{ site.uri.assets }}/innominate/images/qr-codes/Payza_495x495.png" rel="me" target="_blank" title=""><img alt="" height="75"
+          src="{{ site.uri.assets }}/innominate/images/qr-codes/Payza_075x075.png" style="border: 0px;" width="75" /></a>
+      </li>
+    </ul>
+  </li>
 </ul>
 <p>
   &nbsp;

@@ -212,6 +212,25 @@ title: Blogroll
     </ul>
   </li>
   <li>
+    <a href="{{ site.uri.shortURL }}/Payza" rel="external nofollow" target="_blank" title="Payza"><img alt="" height="60"
+      src="{{ site.uri.assets }}/naked/images/Payza_468x060.png" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
+    <a href="{{ site.uri.shortURL }}/Payza" rel="external nofollow" target="_blank" title="Payza">Payza</a>
+    <ul>
+      <li>
+        Earn money with Payza.
+      </li>
+      <li>
+        Get your free account with Payza.
+      </li>
+      <li>
+        Send and receive money online with Payza.
+      </li>
+      <li>
+        Sign-up with Payza today.
+      </li>
+    </ul>
+  </li>
+  <li>
     <div style="float: right; margin-left: 10px;">
       <a href="https://www.privateinternetaccess.com" rel="external nofollow" target="_blank" title="Private Internet Access"><img alt="" height="438"
         src="{{ site.uri.assets }}/naked/images/Private-Internet-Access_320x438.png" style="border: 0px; float: right;" width="320" /></a><br />
