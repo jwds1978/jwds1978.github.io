@@ -80,7 +80,9 @@ liMarquee: true
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
@@ -92,4 +94,6 @@ liMarquee: true
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}

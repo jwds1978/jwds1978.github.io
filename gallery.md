@@ -9,7 +9,9 @@ title: Gallery
 {% assign sortedArtsy = site.data.gallery['artsy'] | sort: 'name', 'first' | sort: 'date', 'first' | reverse %}
 {% assign sortedMe = site.data.gallery['me'] | sort: 'name', 'first' | sort: 'date', 'first' | reverse %}
 
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
@@ -39,4 +41,6 @@ title: Gallery
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}

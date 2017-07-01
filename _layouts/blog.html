@@ -45,7 +45,9 @@ layout: default
   <p>
     &nbsp;
   </p>
+  {% if page.adSense != false %}
   {% include adsense_responsive.htm %}
+  {% endif %}
   <p>
     &nbsp;
   </p>
@@ -103,7 +105,9 @@ layout: default
   <p>
     &nbsp;
   </p>
+  {% if page.adSense != false %}
   {% include adsense_responsive.htm %}
+  {% endif %}
   {% if paginator.total_pages > 1 %}
   <p>
     &nbsp;

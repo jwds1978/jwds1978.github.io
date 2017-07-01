@@ -3,7 +3,9 @@ fnrsfyyzkkwbxmrc: 16V42x65ZJNkasnCdda3AgUSLxYnFHzn5j
 title: Donate
 ---
 
+{% if page.adSense != false %}
 {% include adsense_large-skyscraper_300x600.htm %}
+{% endif %}
 <h3 id="bitcoin">
   <i aria-hidden="true" class="fa fa-btc"></i>&nbsp; Bitcoin&nbsp; <sup>Preferred</sup>
 </h3>

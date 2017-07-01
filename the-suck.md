@@ -13,12 +13,13 @@ title: "Embrace 'The Suck'"
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
-<img
-  alt="" height="196" src="{{ site.uri.assets }}/naked/images/embrace-the-suck_336x196.png"
+<img alt="" height="196" src="{{ site.uri.assets }}/naked/images/embrace-the-suck_336x196.png"
   style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="336" />
 <p>
   Embrace &quot;the suck&quot;&hellip;&nbsp; It's a very Buddhist concept.
@@ -86,4 +87,6 @@ title: "Embrace 'The Suck'"
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}

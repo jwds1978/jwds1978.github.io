@@ -11,7 +11,9 @@ title: Blogroll
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
@@ -47,7 +49,9 @@ title: Blogroll
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
@@ -69,9 +73,9 @@ title: Blogroll
     </ul>
   </li>
   <li>
-    <a href="https://a-ads.com" rel="external nofollow" target="_blank" title="Anonymous Ads"><img alt="" height="40"
+    <a href="{{ site.uri.shortURL }}/Anonymous-Ads" rel="external nofollow" target="_blank" title="Anonymous Ads"><img alt="" height="40"
       src="{{ site.uri.assets }}/naked/images/Anonymous-Ads_117x040.png" style="border: 0px; float: right; margin-left: 10px;" width="117" /></a>
-    <a href="https://a-ads.com" rel="external nofollow" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
+    <a href="{{ site.uri.shortURL }}/Anonymous-Ads" rel="external nofollow" target="_blank" title="Anonymous Ads">Anonymous Ads</a>
     <ul>
       <li>
         For Advertisers
@@ -314,6 +318,47 @@ title: Blogroll
     </ul>
   </li>
   <li>
+    <a href="{{ site.uri.shortURL }}/Propeller-Ads" rel="external nofollow" target="_blank" title="Propeller Ads"><img alt="" height="250"
+      src="{{ site.uri.assets }}/naked/images/Propeller-Ads_300x250.gif" style="border: 0px; float: right; margin-left: 10px;" width="300" /></a>
+    <a href="{{ site.uri.shortURL }}/Propeller-Ads" rel="external nofollow" target="_blank" title="Propeller Ads">Propeller Ads</a>
+    <ul>
+      <li>
+        Advertisers
+        <ul>
+          <li>
+            100% traffic monetization.
+          </li>
+          <li>
+            Best offers from around the world.
+          </li>
+          <li>
+            Easy start, quick approve.
+          </li>
+          <li>
+            Reach and convert your audiences across desktop and mobile around the globe.
+          </li>
+        </ul>
+      </li>
+      <li>
+        Publishers
+        <ul>
+          <li>
+            Advanced optimization and targeting.
+          </li>
+          <li>
+            Earn more with their multi-channel monetization solutions and exclusive offers.
+          </li>
+          <li>
+            Experts in performance marketing.
+          </li>
+          <li>
+            International publisher network.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
     <a href="https://www.templatemonster.com" rel="external nofollow" target="_blank" title="Template Monster"><img alt="" height="248"
       src="{{ site.uri.assets }}/naked/images/Template-Monster_249x248.png" style="border: 0px; float: right; margin-left: 10px;" width="249" /></a>
     <a href="https://www.templatemonster.com" rel="external nofollow" target="_blank" title="Template Monster">Template Monster</a>
@@ -426,4 +471,6 @@ title: Blogroll
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}

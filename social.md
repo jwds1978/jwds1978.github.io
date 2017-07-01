@@ -5,7 +5,9 @@ title: Social
 twitterWidget: true
 ---
 
+{% if page.adSense != false %}
 {% include adsense_large-skyscraper_300x600.htm %}
+{% endif %}
 <ul>
   <li>
     Activate&nbsp; <sup>by Bloglovin'</sup>

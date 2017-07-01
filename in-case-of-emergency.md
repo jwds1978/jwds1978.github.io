@@ -7,7 +7,9 @@ image:
 title: "In Case of Emergency"
 ---
 
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
@@ -24,4 +26,6 @@ title: "In Case of Emergency"
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}

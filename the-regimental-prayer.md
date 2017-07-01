@@ -6,7 +6,9 @@ image:
 title: "The Regimental Prayer"
 ---
 
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
@@ -25,4 +27,6 @@ title: "The Regimental Prayer"
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% endif %}
