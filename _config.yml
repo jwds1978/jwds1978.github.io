@@ -52,7 +52,7 @@ defaults:
       path: ""
     values:
       adsDisplay: true
-      adSense: true
+      adSense: false
       blockAdblock: true
       comments: false
       facebook: false
