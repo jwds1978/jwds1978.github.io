@@ -56,12 +56,15 @@ title: Blogroll
 </h3>
 <ul>
   <li>
-    <a href="{{ site.uri.shortURL }}/10KHits" rel="external nofollow" target="_blank" title="10KHits"><img alt="" height="40"
-      src="{{ site.uri.assets }}/naked/images/10KHits_468x060.png" style="border: 0px; float: right; margin-left: 10px;" width="312" /></a>
+    <a href="{{ site.uri.shortURL }}/10KHits" rel="external nofollow" target="_blank" title="10KHits"><img alt="" height="60"
+      src="{{ site.uri.assets }}/naked/images/10KHits_468x060.png" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
     <a href="{{ site.uri.shortURL }}/10KHits" rel="external nofollow" target="_blank" title="10KHits">10KHits</a>
     <ul>
       <li>
         Get free Web site traffic today!
+      </li>
+      <li>
+        Register for 10KHits free traffic exchange and receive unlimited free Web site visitors!
       </li>
     </ul>
   </li>
