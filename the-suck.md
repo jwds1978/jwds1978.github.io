@@ -10,10 +10,10 @@ title: "Embrace 'The Suck'"
 <p class="liMarquee mWrap" style="font-size: larger; text-align: center;">
   Remember&hellip;&nbsp; Never give up &#8212; and, embrace &quot;the suck&quot;.
 </p>
+{% if page.adSense != false %}
 <p>
   &nbsp;
 </p>
-{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
 {% endif %}
 <p>
@@ -84,9 +84,9 @@ title: "Embrace 'The Suck'"
 <p>
   One has just forgotten because they've gotten used to &quot;the suck&quot;.
 </p>
+{% if page.adSense != false %}
 <p>
   &nbsp;
 </p>
-{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
 {% endif %}

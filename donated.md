@@ -11,12 +11,12 @@ title: Donated
 <p>
   Your donation is very much appreciated&hellip;
 </p>
-<p>
-  &nbsp;
-</p>
 {% if page.adSense != false %}
-{% include adsense_responsive.htm %}
-{% endif %}
 <p>
   &nbsp;
 </p>
+{% include adsense_responsive.htm %}
+<p>
+  &nbsp;
+</p>
+{% endif %}

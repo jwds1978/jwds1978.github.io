@@ -42,10 +42,10 @@ layout: default
     &bull;&nbsp; <a href="{{ site.url }}/blog/categories" rel="me" title="">Category</a>&nbsp;
     &bull;&nbsp; <a href="{{ site.url }}/blog/tags" rel="me" title="">Tag</a>
   </p>
+  {% if page.adSense != false %}
   <p>
     &nbsp;
   </p>
-  {% if page.adSense != false %}
   {% include adsense_responsive.htm %}
   {% endif %}
   <p>
@@ -102,10 +102,10 @@ layout: default
     </li>
     {% endfor %}
   </ul>
+  {% if page.adSense != false %}
   <p>
     &nbsp;
   </p>
-  {% if page.adSense != false %}
   {% include adsense_responsive.htm %}
   {% endif %}
   {% if paginator.total_pages > 1 %}

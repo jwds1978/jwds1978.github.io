@@ -11,10 +11,10 @@ title: Gallery
 
 {% if page.adSense != false %}
 {% include adsense_responsive.htm %}
-{% endif %}
 <p>
   &nbsp;
 </p>
+{% endif %}
 <h3 id="artsy">
   <i aria-hidden="true" class="fa fa-paint-brush"></i>&nbsp; Artsy
 </h3>
@@ -38,9 +38,9 @@ title: Gallery
     style="border: 0px; margin-bottom: 10px; margin-top: 10px; vertical-align: middle;" width="{{ meObject.image.thumb.width }}" /></a>{% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </p>
+{% if page.adSense != false %}
 <p>
   &nbsp;
 </p>
-{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
 {% endif %}

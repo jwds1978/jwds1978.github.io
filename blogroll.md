@@ -8,48 +8,10 @@ title: Blogroll
 
 <img alt="" height="133" src="{{ site.uri.assets }}/naked/images/blogroll-of-awesome_482x133.png"
   style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-<p>
-  &nbsp;
-</p>
 {% if page.adSense != false %}
-{% include adsense_responsive.htm %}
-{% endif %}
 <p>
   &nbsp;
 </p>
-<h3 id="innominate">
-  Innominate
-</h3>
-<ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
-  <li>
-    <a href="http://www.favicon-generator.org" rel="external nofollow" target="_blank" title="Favicon &amp; App Icon Generator">Dan's Tools :: Favicon &amp; App
-    Icon Generator</a>
-  </li>
-  <li>
-    <a href="http://fontawesome.io" rel="external nofollow" target="_blank" title="Font Awesome by Dave Gandy">Font Awesome</a>
-  </li>
-  <li>
-    <a href="https://search.google.com/structured-data/testing-tool" rel="external nofollow" target="_blank" title="Structured Data Testing Tool">Google ::
-    Structured Data Testing Tool</a>
-  </li>
-  <li>
-    <a href="https://indieauth.com" rel="external nofollow" target="_blank" title="IndieAuth - Sign in with your domain name">IndieAuth</a>
-  </li>
-  <li>
-    <a href="https://www.random.org" rel="external nofollow" target="_blank" title="RANDOM.ORG - True Random Number Service">RANDOM.ORG</a>
-  </li>
-  <li>
-    <a href="http://www.sudburycrimestoppers.com" rel="external nofollow" target="_blank" title="Sudbury Rainbow Crime Stoppers">Sudbury Rainbow Crime
-    Stoppers</a>
-  </li>
-  <li>
-    <a href="https://www.w3schools.com" rel="external nofollow" target="_blank" title="W3Schools Online Web Tutorials">W3Schools</a>
-  </li>
-</ul>
-<p>
-  &nbsp;
-</p>
-{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
 {% endif %}
 <p>
@@ -141,6 +103,24 @@ title: Blogroll
     <ul>
       <li>
         It's a modern and powerful, download accelerator and organizer, for Mac and Windows.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="{{ site.uri.shortURL }}/HitLeap" rel="external nofollow" target="_blank" title="HitLeap"><img alt="" height="60"
+      src="{{ site.uri.assets }}/naked/images/HitLeap_468x060.png" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
+    <a href="{{ site.uri.shortURL }}/HitLeap" rel="external nofollow" target="_blank" title="HitLeap">HitLeap</a>
+    <ul>
+      <li>
+        Free Web site traffic in minutes.&nbsp; HitLeap provides a traffic exchange service that helps you to increase visitors, rankings, and more.
+      </li>
+      <li>
+        With HitLeap, everything's simple.&nbsp; You can earn free traffic or buy a traffic package from them.&nbsp; That's all you need to do to increase your
+        Web site traffic.&nbsp; If you should require any assistance, their support team's always happy to help you out.
+      </li>
+      <li>
+        You can fully configure the traffic you'll receive.&nbsp; For example, you can configure the visit duration and traffic source of the visitors.&nbsp;
+        Discover the full power of HitLeap by signing-up now.
       </li>
     </ul>
   </li>
@@ -468,9 +448,47 @@ title: Blogroll
     <a href="https://depot.xda-developers.com" rel="external nofollow" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
   </li>
 </ul>
+{% if page.adSense != false %}
 <p>
   &nbsp;
 </p>
+{% include adsense_responsive.htm %}
+{% endif %}
+<p>
+  &nbsp;
+</p>
+<h3 id="innominate">
+  Innominate
+</h3>
+<ul style="-moz-columns: 2; -webkit-columns: 2; columns: 2; list-style-position: inside;">
+  <li>
+    <a href="http://www.favicon-generator.org" rel="external nofollow" target="_blank" title="Favicon &amp; App Icon Generator">Dan's Tools :: Favicon &amp; App
+    Icon Generator</a>
+  </li>
+  <li>
+    <a href="http://fontawesome.io" rel="external nofollow" target="_blank" title="Font Awesome by Dave Gandy">Font Awesome</a>
+  </li>
+  <li>
+    <a href="https://search.google.com/structured-data/testing-tool" rel="external nofollow" target="_blank" title="Structured Data Testing Tool">Google ::
+    Structured Data Testing Tool</a>
+  </li>
+  <li>
+    <a href="https://indieauth.com" rel="external nofollow" target="_blank" title="IndieAuth - Sign in with your domain name">IndieAuth</a>
+  </li>
+  <li>
+    <a href="https://www.random.org" rel="external nofollow" target="_blank" title="RANDOM.ORG - True Random Number Service">RANDOM.ORG</a>
+  </li>
+  <li>
+    <a href="http://www.sudburycrimestoppers.com" rel="external nofollow" target="_blank" title="Sudbury Rainbow Crime Stoppers">Sudbury Rainbow Crime
+    Stoppers</a>
+  </li>
+  <li>
+    <a href="https://www.w3schools.com" rel="external nofollow" target="_blank" title="W3Schools Online Web Tutorials">W3Schools</a>
+  </li>
+</ul>
 {% if page.adSense != false %}
+<p>
+  &nbsp;
+</p>
 {% include adsense_responsive.htm %}
 {% endif %}

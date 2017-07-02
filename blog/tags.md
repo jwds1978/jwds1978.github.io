@@ -60,10 +60,10 @@ title: "Blog (Tags)"
     <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me" title="">{{ tag[0] }}</a>
     {% endfor %}
   </div>
+  {% if page.adSense != false %}
   <p>
     &nbsp;
   </p>
-  {% if page.adSense != false %}
   {% include adsense_responsive.htm %}
   {% endif %}
   <p>
@@ -136,10 +136,10 @@ title: "Blog (Tags)"
     {% endfor %}
   </div>
 </div>
+{% if page.adSense != false %}
 <p>
   &nbsp;
 </p>
-{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
 {% endif %}
 <p>
