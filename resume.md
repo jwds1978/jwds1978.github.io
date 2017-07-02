@@ -217,7 +217,7 @@ title: "Curriculum Vitae"
     Lead Developer&nbsp; <sup><abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="Domain Name System">DNS</abbr> Zone, <abbr
       title="Hypertext Markup Language">HTML</abbr>, JavaScript, <abbr title="JavaScript Object Notation">JSON</abbr>, Liquid, Markdown, Regular Expression,
     Ruby, Text, <abbr title="Extensible Markup Language">XML</abbr>, <abbr title="YAML Ain't Markup Language">YAML</abbr></sup><br />
-    January 2017 &#8211; Present&nbsp; <sup>6 Months</sup><br />
+    January 2017 &#8211; Present&nbsp; <sup>7 Months</sup><br />
     <object data="https://travis-ci.org/jwds1978/jwds1978.github.io.svg?branch=source" style="border: 0px; float: left; vertical-align: middle;"
       type="image/svg+xml"></object>&nbsp; Embrace &quot;The Suck&quot;
   </p>
