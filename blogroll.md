@@ -199,6 +199,67 @@ title: Blogroll
     </ul>
   </li>
   <li>
+    <a href="{{ site.uri.shortURL }}/Otohits" rel="external nofollow" target="_blank" title="Otohits"><img alt="" height="60"
+      src="{{ site.uri.assets }}/naked/images/Otohits_468x060.gif" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
+    <a href="{{ site.uri.shortURL }}/Otohits" rel="external nofollow" target="_blank" title="Otohits">Otohits</a>
+    <ul>
+      <li>
+        Efficient
+        <ul>
+          <li>
+            A fast (under 24 hours) validation of your Web sites &#8212; even automatic, for certain Web sites.
+          </li>
+          <li>
+            A quick registration.
+          </li>
+          <li>
+            An unique auto-surf engine!
+          </li>
+          <li>
+            More than 15 million visits delivered every day!
+          </li>
+          <li>
+            Otohits has been made to be simple and fast!
+          </li>
+        </ul>
+      </li>
+      <li>
+        Powerful
+        <ul>
+          <li>
+            A lot of advanced options are available!
+          </li>
+          <li>
+            Advanced options &#8212; change the useragent, hide/change the referer, random timer.
+          </li>
+          <li>
+            Dynamic ratio up to 1:1, completely free.
+          </li>
+          <li>
+            Dynamic timer from 10 to 600 seconds.
+          </li>
+          <li>
+            Multi-instance ready &#8212; 1 account, many IP addresses.
+          </li>
+        </ul>
+      </li>
+      <li>
+        Simple
+        <ul>
+          <li>
+            An auto-surf that works without frames &#8212; available for Chrome and Firefox.
+          </li>
+          <li>
+            A reliable and stable application.
+          </li>
+          <li>
+            Surf as you want!&nbsp; And, it's totally free!
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
     <a href="{{ site.uri.shortURL }}/Payza" rel="external nofollow" target="_blank" title="Payza"><img alt="" height="60"
       src="{{ site.uri.assets }}/naked/images/Payza_468x060.png" style="border: 0px; float: right; margin-left: 10px;" width="468" /></a>
     <a href="{{ site.uri.shortURL }}/Payza" rel="external nofollow" target="_blank" title="Payza">Payza</a>
