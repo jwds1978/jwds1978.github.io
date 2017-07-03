@@ -6,11 +6,17 @@ image:
 title: "The Regimental Prayer"
 ---
 
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 {% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
+{% endif %}
 {% endif %}
 <p>
   <img alt="" height="125" src="{{ site.uri.assets }}/naked/images/RCR_VRI_cypher_116x125.png"
@@ -23,9 +29,15 @@ title: "The Regimental Prayer"
 <p>
   Amen
 </p>
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}

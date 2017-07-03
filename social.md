@@ -5,8 +5,14 @@ title: Social
 twitterWidget: true
 ---
 
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 {% if page.adSense != false %}
 {% include adsense_large-skyscraper_300x600.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_300x250.htm %}
+{% endif %}
+{% endif %}
 {% endif %}
 <ul>
   <li>

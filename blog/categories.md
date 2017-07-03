@@ -60,11 +60,17 @@ title: "Blog (Categories)"
     <a class="post-tag" href="{{ site.url }}{{ page.url }}#{{ tag[0] | slugify }}" rel="me" title="">{{ tag[0] }}</a>
     {% endfor %}
   </div>
-  {% if page.adSense != false %}
+  {% if page.adsDisplay != false %}
+  {% if page.adSense != false or page.anonymousAds != false %}
   <p>
     &nbsp;
   </p>
+  {% if page.adSense != false %}
   {% include adsense_responsive.htm %}
+  {% elsif page.anonymousAds != false %}
+  {% include anonymousAds_728x090.htm %}
+  {% endif %}
+  {% endif %}
   {% endif %}
   <p>
     &nbsp;
@@ -136,11 +142,17 @@ title: "Blog (Categories)"
     {% endfor %}
   </div>
 </div>
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}
 <p>
   &nbsp;

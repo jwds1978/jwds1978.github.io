@@ -9,11 +9,17 @@ title: Gallery
 {% assign sortedArtsy = site.data.gallery['artsy'] | sort: 'name', 'first' | sort: 'date', 'first' | reverse %}
 {% assign sortedMe = site.data.gallery['me'] | sort: 'name', 'first' | sort: 'date', 'first' | reverse %}
 
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 {% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
+{% endif %}
 {% endif %}
 <h3 id="artsy">
   <i aria-hidden="true" class="fa fa-paint-brush"></i>&nbsp; Artsy
@@ -38,9 +44,15 @@ title: Gallery
     style="border: 0px; margin-bottom: 10px; margin-top: 10px; vertical-align: middle;" width="{{ meObject.image.thumb.width }}" /></a>{% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </p>
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}

@@ -15,11 +15,17 @@ layout: default
 <p style="font-size: smaller;">
   &nbsp;
 </p>
-{% if page.adsDisplay != false and page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
 <p style="font-size: smaller;">
   &nbsp;
 </p>
+{% endif %}
 {% endif %}
 <p style="font-size: smaller; text-align: center;">
   <span style="white-space: nowrap;"><i aria-hidden="true" class="fa fa-share"></i> Share to:</span>&nbsp;
@@ -160,11 +166,17 @@ layout: default
   &bull;&nbsp; <a href="https://twitter.com/share?text={{ page.title | url_param_escape }}&url={{ pageURI | url_param_escape }}" rel="external"
     style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-twitter"></i> Twitter</a>
 </p>
-{% if page.adsDisplay != false and page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p style="font-size: smaller;">
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}
 {% if page.comments %}
 <!--sse-->
@@ -187,11 +199,17 @@ layout: default
 </noscript>
 <!--/sse-->
 {% endif %}
-{% if page.adsDisplay != false and page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p style="font-size: smaller;">
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}
 <p style="font-size: smaller;">
   &nbsp;

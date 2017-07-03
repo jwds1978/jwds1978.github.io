@@ -8,11 +8,17 @@ title: Blogroll
 
 <img alt="" height="133" src="{{ site.uri.assets }}/naked/images/blogroll-of-awesome_482x133.png"
   style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}
 <p>
   &nbsp;
@@ -509,11 +515,17 @@ title: Blogroll
     <a href="https://depot.xda-developers.com" rel="external nofollow" target="_blank" title="XDA Developers :: Depot">XDA Developers :: Depot</a>
   </li>
 </ul>
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}
 <p>
   &nbsp;
@@ -547,9 +559,15 @@ title: Blogroll
     <a href="https://www.w3schools.com" rel="external nofollow" target="_blank" title="W3Schools Online Web Tutorials">W3Schools</a>
   </li>
 </ul>
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}

@@ -42,11 +42,17 @@ layout: default
     &bull;&nbsp; <a href="{{ site.url }}/blog/categories" rel="me" title="">Category</a>&nbsp;
     &bull;&nbsp; <a href="{{ site.url }}/blog/tags" rel="me" title="">Tag</a>
   </p>
-  {% if page.adSense != false %}
+  {% if page.adsDisplay != false %}
+  {% if page.adSense != false or page.anonymousAds != false %}
   <p>
     &nbsp;
   </p>
+  {% if page.adSense != false %}
   {% include adsense_responsive.htm %}
+  {% elsif page.anonymousAds != false %}
+  {% include anonymousAds_728x090.htm %}
+  {% endif %}
+  {% endif %}
   {% endif %}
   <p>
     &nbsp;
@@ -102,11 +108,17 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-  {% if page.adSense != false %}
+  {% if page.adsDisplay != false %}
+  {% if page.adSense != false or page.anonymousAds != false %}
   <p>
     &nbsp;
   </p>
+  {% if page.adSense != false %}
   {% include adsense_responsive.htm %}
+  {% elsif page.anonymousAds != false %}
+  {% include anonymousAds_728x090.htm %}
+  {% endif %}
+  {% endif %}
   {% endif %}
   {% if paginator.total_pages > 1 %}
   <p>

@@ -77,11 +77,17 @@ liMarquee: true
 <p>
   Learn <a href="{{ site.url }}/about" rel="me" title="">moar things about him</a>, nao.
 </p>
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}
 <p>
   &nbsp;
@@ -91,9 +97,15 @@ liMarquee: true
 </h3>
 {% assign fzfneysekpthfcbx = site.posts.first %}
 {% include blog_last.htm %}
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}

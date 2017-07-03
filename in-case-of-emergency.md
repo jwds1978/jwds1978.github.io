@@ -7,11 +7,17 @@ image:
 title: "In Case of Emergency"
 ---
 
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 {% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
 <p>
   &nbsp;
 </p>
+{% endif %}
 {% endif %}
 <img alt="" height="409" src="{{ site.uri.assets }}/naked/images/Icey_442x409.png" style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;"
   width="442" />
@@ -23,9 +29,15 @@ title: "In Case of Emergency"
     title="MedicAlert :: Wallet Card :: 2017-05-24T13:28-04:00"><img alt="MedicAlert :: Wallet Card :: 2017-05-24T13:28-04:00" height="427"
     src="{{ site.uri.assets }}/naked/images/MedicAlert_2017-05-24_13-28_379x427.png" style="border: 0px;" width="379" /></a>
 </p>
-{% if page.adSense != false %}
+{% if page.adsDisplay != false %}
+{% if page.adSense != false or page.anonymousAds != false %}
 <p>
   &nbsp;
 </p>
+{% if page.adSense != false %}
 {% include adsense_responsive.htm %}
+{% elsif page.anonymousAds != false %}
+{% include anonymousAds_728x090.htm %}
+{% endif %}
+{% endif %}
 {% endif %}

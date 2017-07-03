@@ -53,6 +53,7 @@ defaults:
     values:
       adsDisplay: true
       adSense: false
+      anonymousAds: true
       blockAdblock: true
       comments: false
       facebook: false
