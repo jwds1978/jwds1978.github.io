@@ -100,5 +100,8 @@ title: "Embrace 'The Suck'"
 {% elsif page.anonymousAds != false %}
 {% include anonymousAds_728x090.htm %}
 {% endif %}
+<p>
+  &nbsp;
+</p>
 {% endif %}
 {% endif %}
