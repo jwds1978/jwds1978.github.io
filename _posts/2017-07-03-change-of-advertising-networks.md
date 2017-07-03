@@ -39,6 +39,22 @@ image:
 last_modified_at: "2017-07-03 14:16:32 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154439566697084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/u/0/115164780760274259502/posts/8TXQX9NfhLQ"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650803449"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/162558708826/change-of-advertising-networks"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/881946835245518848"
+    text: Twitter
+    title: Twitter
 tags:
   - Innominate
 title: "Change of Advertising Networks"
