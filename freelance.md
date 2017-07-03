@@ -1,5 +1,6 @@
 ---
 adSense: false
+anonymousAds: false
 blockAdblock: false
 liMarquee: true
 propellerAds: false
