@@ -18,12 +18,12 @@ citations:
     href: "https://go.forces.army/Cryptopay"
     name: "Cryptopay"
     slug: "cryptopay"
-  - author: "Payza"
+  - author: "ePayments Systems Ltd."
     date:
-      accessed: "2017-07-03 13:59:22 America/Toronto"
-    href: "https://go.forces.army/Payza"
-    name: "Payza"
-    slug: "payza"
+      accessed: "2017-07-04 05:18:36 America/Toronto"
+    href: "https://go.forces.army/ePayments"
+    name: "ePayments"
+    slug: "epayments"
   - author: "Propeller Ads Media"
     date:
       accessed: "2017-07-03 13:08:36 America/Toronto"
@@ -36,9 +36,10 @@ image:
   height: 437
   path: "https://assets.forces.army/blog/2017/07/03/change-of-advertising-networks/hotlink-ok/innominate_1_482x437.png"
   width: 482
-last_modified_at: "2017-07-03 14:16:32 America/Toronto"
+last_modified_at: "2017-07-04 05:21:01 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+modifiedReason: "Corrected Payza to ePayments"
 syndications:
   - href: "https://www.facebook.com/jwds1978/posts/10154439566697084"
     text: Facebook
@@ -110,9 +111,9 @@ title: "Change of Advertising Networks"
   What I also like about both networks, is that I can ultimately receive payment via bitcoin.&nbsp; <a href="{{ site.url }}{{ page.url }}#cite-anonymous-ads"
     rel="me" title="Anonymous Ads">A-ADS</a> pays, directly to my wallet of choice, on a daily basis &#8212; <i aria-hidden="true" class="fa fa-btc"></i>0.001
   <abbr title="Bitcoin">XBT</abbr> minimum.&nbsp; <a href="{{ site.url }}{{ page.url }}#cite-propeller-ads" rel="me" title="Propeller Ads">Propeller Ads</a>
-  pays, to may <a href="{{ site.url }}{{ page.url }}#cite-payza" rel="me" title="Payza">Payza</a> account, on a monthly basis &#8212; $100.00 <abbr
-    title="United States Dollar">USD</abbr> minimum.&nbsp; From <a href="{{ site.url }}{{ page.url }}#cite-payza" rel="me" title="Payza">Payza</a>, I'm able to
-  withdraw to my bitcoin wallet of choice.
+  pays, to may <a href="{{ site.url }}{{ page.url }}#cite-epayments" rel="me" title="ePayments">ePayments</a> account, on a monthly basis &#8212; $100.00 <abbr
+    title="United States Dollar">USD</abbr> minimum.&nbsp; From <a href="{{ site.url }}{{ page.url }}#cite-epayments" rel="me" title="ePayments">ePayments</a>,
+  I'm able to withdraw to my bitcoin wallet of choice.
 </p>
 <p>
   Both networks offer other payment methods, with varying thresholds, as well.&nbsp; However, personally, I much prefer to be paid via bitcoin.&nbsp; From my
