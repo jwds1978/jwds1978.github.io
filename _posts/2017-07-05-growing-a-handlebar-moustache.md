@@ -27,6 +27,22 @@ image:
 last_modified_at: "2017-07-05 22:25:31 America/Toronto"
 layout: post
 location: "canada_ontario_sudbury_the-donovan"
+syndications:
+  - href: "https://www.facebook.com/jwds1978/posts/10154446910797084"
+    text: Facebook
+    title: Facebook
+  - href: "https://plus.google.com/u/0/115164780760274259502/posts/jcAbKEfsho4"
+    text: Google+
+    title: Google+
+  - href: "https://www.pinterest.com/pin/554013191650832466"
+    text: Pinterest
+    title: Pinterest
+  - href: "https://blog-tumblr.forces.army/post/162652790006/growing-a-handlebar-moustache"
+    text: Tumblr
+    title: Tumblr
+  - href: "https://twitter.com/jwds1978/status/882793810274783233"
+    text: Twitter
+    title: Twitter
 tags:
   - "How to"
   - Self
