@@ -33,8 +33,8 @@ tags:
 title: "Growing a Handlebar Moustache"
 ---
 
-<img alt="" height="337" src="{{ site.uri.assets }}/blog/2017/07/05/growing-a-handlebar-moustache/i-have-a_therefore-i-am_236x337.png"
-  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="236" />
+<img alt="" height="241" src="{{ site.uri.assets }}/blog/2017/07/05/growing-a-handlebar-moustache/i-have-a_therefore-i-am_169x241.png"
+  style="border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;" width="169" />
 <p>
   I've been growing-in a beard over recent months&hellip;&nbsp; Additionally, I've not shaved my moustache either.&nbsp; My intent's to keep growing my beard
   and 'stache.&nbsp; Ultimately, the pinnacle, will be a rather distinguished &quot;handlebar&quot;.
