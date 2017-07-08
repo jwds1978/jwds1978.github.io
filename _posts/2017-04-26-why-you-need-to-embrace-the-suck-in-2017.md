@@ -6,13 +6,13 @@ citations:
     date:
       accessed: "2017-04-26 16:49:44 America/Toronto"
       published: "2017-04-26 16:43:57 America/Toronto"
-    href: "https://forces.army/blog/2017/04/26/7-things-destroying-your-mental-enegery"
+    href: "https://jwds1978.github.io/blog/2017/04/26/7-things-destroying-your-mental-enegery"
     name: "7 Things Destroying Your Mental Energy :: Blog :: James W.D. Stewart"
     slug: "7-things-destroying-your-mental-enegery-blog-james-w-d-stewart"
   - author: "James Stewart"
     date:
       accessed: "2017-04-26 11:07:52 America/Toronto"
-    href: "https://forces.army/the-suck"
+    href: "https://jwds1978.github.io/the-suck"
     name: "Embrace 'The Suck' :: James W.D. Stewart"
     slug: "embrace-the-suck-james-w-d-stewart"
 date: "2017-04-26 11:28:59 America/Toronto"

@@ -6,7 +6,7 @@ citations:
     date:
       accessed: "2017-03-14 13:39:09 America/Toronto"
       published: "2017-03-11 12:10:39 America/Toronto"
-    href: "https://forces.army/blog/2017/03/11/rigors-of-war"
+    href: "https://jwds1978.github.io/blog/2017/03/11/rigors-of-war"
     name: "Rigors of War"
     slug: "rigors-of-war"
 date: "2017-03-14 14:14:58 America/Toronto"

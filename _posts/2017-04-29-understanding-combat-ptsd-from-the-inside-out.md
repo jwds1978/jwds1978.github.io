@@ -8,7 +8,7 @@ citations:
     date:
       accessed: "2017-04-29 23:10:18 America/Toronto"
       published: "2017-04-27 00:47:23 America/Toronto"
-    href: "https://forces.army/blog/2017/04/27/the-moral-logic-of-survivor-guilt"
+    href: "https://jwds1978.github.io/blog/2017/04/27/the-moral-logic-of-survivor-guilt"
     name: "The Moral Logic of Survivor Guilt"
     slug: "the-moral-logic-of-survivor-guilt"
 date: "2017-04-29 23:55:08 America/Toronto"

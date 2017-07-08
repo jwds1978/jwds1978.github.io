@@ -7,20 +7,20 @@ citations:
     date:
       accessed: "2017-04-30 14:45:22 America/Toronto"
       published: "2017-04-23 15:43:35 America/Toronto"
-    href: "https://forces.army/blog/2017/04/23/camaraderies-one-trait-the-civilian-sectors-lacking"
+    href: "https://jwds1978.github.io/blog/2017/04/23/camaraderies-one-trait-the-civilian-sectors-lacking"
     name: "Camaraderie's One Trait the Civilian Sector's Lacking"
     slug: "camaraderies-one-trait-the-civilian-sectors-lacking"
   - author: "James Stewart"
     date:
       accessed: "2017-04-30 14:47:01 America/Toronto"
-    href: "https://forces.army/the-suck"
+    href: "https://jwds1978.github.io/the-suck"
     name: "Embrace 'The Suck'"
     slug: "embrace-the-suck"
   - author: "James Stewart"
     date:
       accessed: "2017-04-30 14:44:43 America/Toronto"
       published: "2017-02-10 10:35:19 America/Toronto"
-    href: "https://forces.army/blog/2017/02/10/the-infantrymans-arrogance"
+    href: "https://jwds1978.github.io/blog/2017/02/10/the-infantrymans-arrogance"
     name: "The Infantryman's Arrogance"
     slug: "the-infantrymans-arrogance"
 date: "2017-04-30 15:39:52 America/Toronto"

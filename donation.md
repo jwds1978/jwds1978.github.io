@@ -18,7 +18,7 @@ title: Donate
 <ul>
   <li>
     <a href="bitcoin:{{ page.fnrsfyyzkkwbxmrc }}" rel="me" target="_blank" title="Bitcoin Wallet">{{ page.fnrsfyyzkkwbxmrc }}</a>&nbsp; <sup>Primary</sup>
-    <a href="https://quickbt.com/?btcto={{ page.fnrsfyyzkkwbxmrc }}&redir=https://forces.army/donated" target="_blank" title=""><img alt="" height="181"
+    <a href="https://quickbt.com/?btcto={{ page.fnrsfyyzkkwbxmrc }}&redir=https://jwds1978.github.io/donated" target="_blank" title=""><img alt="" height="181"
       src="{{ site.uri.assets }}/naked/images/QuickBT_donate_300x181.png" style="border: 0px; display: block; margin-left: auto; margin-right: auto;"
       width="300" /></a><br />
     <div align="center">
@@ -48,7 +48,7 @@ title: Donate
     <ul>
       <li>
         <a href="https://flattr.com/profile/jwds1978" rel="me" target="_blank" title="jwds1978">jwds1978</a><br />
-        <a href="https://flattr.com/submit/auto?fid=0yx0qk&url=https%3A%2F%2Fforces.army" target="_blank" title=""><img alt="Flattr this" height="20"
+        <a href="https://flattr.com/submit/auto?fid=0yx0qk&url=https%3A%2F%2Fjwds1978.github.io" target="_blank" title=""><img alt="Flattr this" height="20"
           src="{{ site.uri.assets }}/naked/images/Flattr_93x20.png" style="border: 0px;" width="93" /></a>
       </li>
     </ul>

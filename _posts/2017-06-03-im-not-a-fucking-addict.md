@@ -23,7 +23,7 @@ citations:
     date:
       accessed: "2017-06-03 14:41:33 America/Toronto"
       published: "2017-05-24 13:28 America/Toronto"
-    href: "https://forces.army/in-case-of-emergency"
+    href: "https://jwds1978.github.io/in-case-of-emergency"
     name: "In Case of Emergency :: James W.D. Stewart"
     slug: "in-case-of-emergency-james-wd-stewart"
   - author: "OvertheAtlantic"

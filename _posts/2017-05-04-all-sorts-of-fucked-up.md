@@ -7,7 +7,7 @@ citations:
   - author: "James Stewart"
     date:
       accessed: "2017-05-04 14:23:17 America/Toronto"
-    href: "https://forces.army/in-case-of-emergency"
+    href: "https://jwds1978.github.io/in-case-of-emergency"
     name: "In Case of Emergency"
     slug: "in-case-of-emergency"
 date: "2017-05-04 20:02:04 America/Toronto"
