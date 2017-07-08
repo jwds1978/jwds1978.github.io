@@ -77,7 +77,7 @@ defaults:
         width: 482
 # description: "Embrace 'The Suck'"
 destination: _site
-enforce_ssl: "forces.army"
+enforce_ssl: "jwds1978.github.io"
 excerpt_separator: "<!-- excerptBreak -->"
 exclude:
   - .travis.yml
@@ -136,17 +136,17 @@ tag_page_layout: tag_page
 theme: jekyll-theme-midnight
 timezone: America/Toronto
 title: "James W.D. Stewart"
-tld: "forces.army"
+tld: "jwds1978.github.io"
 tldShortURL: "go.forces.army"
 twitter:
   username: jwds1978
 uri:
   aStore: "https://store.forces.army"
   assets: "https://assets.forces.army"
-  blog: "https://blog.forces.army"
-  close: "https://forces.army/closure"
+  blog: "https://jwds1978.github.io/blog"
+  close: "https://jwds1978.github.io/closure"
   disqus: "https://disqus.com/home/forums/jwds"
   googleMaps: "https://www.google.com/maps/search/?api=1&query="
   shortURL: "https://go.forces.army"
-url: "https://forces.army"
+url: "https://jwds1978.github.io"
 username: jwds1978
