@@ -51,26 +51,26 @@ defaults:
   - scope:
       path: ""
     values:
-      adsDisplay: true
+      adsDisplay: false
       adSense: false
-      anonymousAds: true
-      blockAdblock: true
+      anonymousAds: false
+      blockAdblock: false
       comments: false
       facebook: false
       image:
         height: 301
         path: "https://assets.forces.army/naked/images/hotlink-ok/keep-calm_301x301.png"
         width: 301
-      propellerAds: true
-      robotsCache: true
-      robotsIndex: true
-      vigLink: true
+      propellerAds: false
+      robotsCache: false
+      robotsIndex: false
+      vigLink: false
   - scope:
       path: ""
       type: "posts"
     values:
-      comments: true
-      facebook: true
+      comments: false
+      facebook: false
       image:
         height: 73
         path: "https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png"
