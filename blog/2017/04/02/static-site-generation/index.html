@@ -1,0 +1,1242 @@
+<!--
+  ~ Copyright (c) 2017 James W.D. Stewart
+  ~ All rights reserved.
+  -->
+
+<!DOCTYPE html>
+<html style="margin-left: 0 !important;">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="chrome=1" http-equiv="X-UA-Compatible" />
+    <meta content="8IhwjdCFEPf3MDA6fi8uCL25P91r_0ZY3liS6UKT8d8" name="google-site-verification" />
+    <meta content="noarchive, nofollow, noimageindex, noindex, none, noodp, nosnippet, notranslate" name="ia_archiver" />
+    <meta content="#000000" name="msapplication-TileColor" />
+    <meta content="https://jwds1978.github.io/ms-icon-144x144.png" name="msapplication-TileImage" />
+    <meta content="c66b40e444774724997e132495e62242" name="p:domain_verify" />
+    <meta content="196bab738fae5a8642747faae19429e1" name="propeller" />
+    
+    <meta content="noarchive, noindex" name="robots" />
+    
+    <meta content="#000000" name="theme-color" />
+    <meta content="initial-scale=1, user-scalable=no, width=device-width" name="viewport" />
+    <meta content="452354395131000" property="fb:app_id" />
+    <meta content="/blog/2017/04/02/static-site-generation/" property="webmention:redirected_from" />
+    <!-- Begin Jekyll SEO tag v2.1.0 -->
+<meta property="og:title" content="Static Site Generation" />
+<meta name="description" content="What is static site generation?" />
+<meta property="og:description" content="What is static site generation?" />
+<link rel="canonical" href="https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" />
+<meta property="og:url" content="https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" />
+<meta property="og:site_name" content="James W.D. Stewart" />
+<meta property="og:image" content="https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png" />
+<meta property="og:image:height" content="73" />
+<meta property="og:image:width" content="482" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-04-02T01:11:47-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@jwds1978" />
+<meta name="twitter:creator" content="@jwds1978" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "BlogPosting",
+"headline": "Static Site Generation",
+"image": "https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png",
+"datePublished": "2017-04-02T01:11:47-04:00",
+"description": "What is static site generation?",
+"publisher": {"@type": "Organization",
+"logo": {"@type": "ImageObject",
+"url": "https://assets.forces.army/naked/images/hotlink-ok/keep-calm_301x301.png"}},
+"url": "https://jwds1978.github.io/blog/2017/04/02/static-site-generation/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <title>Static Site Generation :: Blog :: James W.D. Stewart</title>
+    
+    <link href="https://jwds1978.github.io/feed.xml" rel="alternate" title="James W.D. Stewart" type="application/atom+xml" />
+    
+    <link href="https://jwds1978.github.io/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
+    <link href="https://jwds1978.github.io/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60" />
+    <link href="https://jwds1978.github.io/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+    <link href="https://jwds1978.github.io/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+    <link href="https://jwds1978.github.io/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+    <link href="https://jwds1978.github.io/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+    <link href="https://jwds1978.github.io/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+    <link href="https://jwds1978.github.io/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+    <link href="https://jwds1978.github.io/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+    <link href="https://jwds1978.github.io/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png" />
+    <link href="https://jwds1978.github.io/android-icon-144x144.png" rel="icon" sizes="144x144" type="image/png" />
+    <link href="https://jwds1978.github.io/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png" />
+    <link href="https://jwds1978.github.io/android-icon-72x72.png" rel="icon" sizes="72x72" type="image/png" />
+    <link href="https://jwds1978.github.io/android-icon-48x48.png" rel="icon" sizes="48x48" type="image/png" />
+    <link href="https://jwds1978.github.io/android-icon-36x36.png" rel="icon" sizes="36x36" type="image/png" />
+    <link href="https://jwds1978.github.io/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png" />
+    <link href="https://jwds1978.github.io/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png" />
+    <link href="https://jwds1978.github.io/manifest.webmanifest" rel="manifest" />
+    
+    <link href="https://jwds1978.github.io/sitemap.xml" rel="sitemap" />
+    <link href="https://jwds1978.github.io/resources/css/style_2017-05-21_19-55.css" rel="stylesheet" type="text/css" />
+    <style>
+      .async-hide {
+        opacity: 0 !important
+      }
+    </style>
+    <script async src="https://jwds1978.github.io/resources/js/Google_anti-flicker_2017-05-25_00-20_min.js" type="text/javascript"></script>
+    <script async src="https://jwds1978.github.io/resources/js/Google_Analytics_2017-05-25_00-09_min.js" type="text/javascript"></script>
+    
+    <script async src="https://jwds1978.github.io/resources/js/jquery_2017-04-09_14-42_min.js" type="text/javascript"></script>
+    
+    
+    <link as="style" href="https://jwds1978.github.io/resources/css/font-awesome_2017-04-07_14-05.css" onload="this.rel='stylesheet'" rel="preload" />
+    <noscript><link href="https://jwds1978.github.io/resources/css/font-awesome_2017-04-07_14-05.css" rel="stylesheet" type="text/css" /></noscript>
+    
+    
+    
+    
+    
+    
+    <script async defer src="https://jwds1978.github.io/resources/js/reading-time_2017-06-13_21-07_min.js" type="text/javascript"></script>
+    
+    <script async defer src="https://jwds1978.github.io/resources/js/reading-time_post_2017-06-13_19-59_min.js" type="text/javascript"></script>
+    
+    
+    
+    
+    <script async defer src="https://www.google.ca/coop/cse/brand?form=cse-search-box&lang=en" type="text/javascript"></script>
+    <!--[if lt IE 9]>
+      <script async src="https://jwds1978.github.io/resources/js/html5shiv_printshiv_2017-04-09_14-31_min.js" type="text/javascript"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+      <link as="style" href="https://jwds1978.github.io/assets/css/ie.css?v=528dce38265d2fec8a419c68996c3f50d6cc21ec" onload="this.rel='stylesheet'" rel="preload" />
+      <noscript><link href="https://jwds1978.github.io/assets/css/ie.css?v=528dce38265d2fec8a419c68996c3f50d6cc21ec" rel="stylesheet" type="text/css" /></noscript>
+    <![endif]-->
+    <script type="text/javascript">
+      function onloadCSS(a, b) {
+        function d() {
+          !c && b && (c = !0, b.call(a))
+        }
+        var c;
+        a.addEventListener && a.addEventListener("load", d), a.attachEvent && a.attachEvent("onload", d), "isApplicationInstalled" in navigator && "onloadcssdefined" in a && a.onloadcssdefined(d)
+      }! function (a) {
+        "use strict";
+        var b = function (b, c, d) {
+          function j(a) {
+            if (e.body) return a();
+            setTimeout(function () {
+              j(a)
+            })
+          }
+
+          function l() {
+            f.addEventListener && f.removeEventListener("load", l), f.media = d || "all"
+          }
+          var g, e = a.document,
+            f = e.createElement("link");
+          if (c) g = c;
+          else {
+            var h = (e.body || e.getElementsByTagName("head")[0]).childNodes;
+            g = h[h.length - 1]
+          }
+          var i = e.styleSheets;
+          f.rel = "stylesheet", f.href = b, f.media = "only x", j(function () {
+            g.parentNode.insertBefore(f, c ? g : g.nextSibling)
+          });
+          var k = function (a) {
+            for (var b = f.href, c = i.length; c--;)
+              if (i[c].href === b) return a();
+            setTimeout(function () {
+              k(a)
+            })
+          };
+          return f.addEventListener && f.addEventListener("load", l), f.onloadcssdefined = k, k(l), f
+        };
+        "undefined" != typeof exports ? exports.loadCSS = b : a.loadCSS = b
+      }("undefined" != typeof global ? global : this),
+      function (a) {
+        if (a.loadCSS) {
+          var b = loadCSS.relpreload = {};
+          if (b.support = function () {
+              try {
+                return a.document.createElement("link").relList.supports("preload")
+              } catch (a) {
+                return !1
+              }
+            }, b.poly = function () {
+              for (var b = a.document.getElementsByTagName("link"), c = 0; c < b.length; c++) {
+                var d = b[c];
+                "preload" === d.rel && "style" === d.getAttribute("as") && (a.loadCSS(d.href, d, d.getAttribute("media")), d.rel = null)
+              }
+            }, !b.support()) {
+            b.poly();
+            var c = a.setInterval(b.poly, 300);
+            a.addEventListener && a.addEventListener("load", function () {
+              b.poly(), a.clearInterval(c)
+            }), a.attachEvent && a.attachEvent("onload", function () {
+              a.clearInterval(c)
+            })
+          }
+        }
+      }(this);
+    </script>
+  </head>
+  <body>
+    
+    <div class="wrapper">
+      <section>
+        
+        <div id="title">
+          <img alt="James W.D. Stewart" height="75" src="https://assets.forces.army/naked/images/JWDS_075x075.png"
+            style="border: 0px; float: left; vertical-align: middle;" width="75" />
+          <img alt="" height="75" src="https://assets.forces.army/naked/images/keep-calm_75x75.png" style="border: 0px; float: right; vertical-align: middle;"
+            width="75" />
+          <h1>
+            James W.D. Stewart
+          </h1>
+          <p>
+            Embrace &quot;The Suck&quot;
+          </p>
+          <hr />
+          
+          
+          
+          
+          
+<style>
+  .vgfrrjjgwxeyajsk {
+    color: rgb(143, 200, 71);
+  }
+  .vgfrrjjgwxeyajsk:hover {
+    color: #ffeb9b;
+  }
+</style>
+
+<span class="credits right">
+  <a href="https://jwds1978.github.io" rel="me" style="white-space: nowrap;" title=""><i aria-hidden="true" class="fa fa-home"></i> Home</a>&nbsp;
+  <!--sse-->
+  &bull;&nbsp; <a href="https://jwds1978.github.io/about" rel="me" style="white-space: nowrap;" title=""><i aria-hidden="true" class="fa fa-id-badge"></i> About</a>&nbsp;
+  <!--/sse-->
+  &bull;&nbsp; <a class="vgfrrjjgwxeyajsk" href="https://jwds1978.github.io/blog" rel="me" style="white-space: nowrap;" title=""><i aria-hidden="true" class="fa fa-book"></i> Blog</a>&nbsp;
+  &bull;&nbsp; <a href="https://jwds1978.github.io/blogroll" rel="me" style="white-space: nowrap;" title=""><i aria-hidden="true" class="fa fa-bookmark"></i> Blogroll</a>&nbsp;
+  <!--sse-->
+  &bull;&nbsp; <a href="https://jwds1978.github.io/contact" rel="me" style="white-space: nowrap;" title=""><i aria-hidden="true" class="fa fa-address-book"></i> Contact</a>&nbsp;
+  <!--/sse-->
+  &bull;&nbsp; <a href="https://jwds1978.github.io/donation" rel="me" style="white-space: nowrap;" title=""><i aria-hidden="true" class="fa fa-gift"></i> Donate</a>&nbsp;
+  &bull;&nbsp; <a href="https://jwds1978.github.io/freelance" rel="me" title="">Freelance</a>&nbsp;
+  &bull;&nbsp; <a href="https://jwds1978.github.io/gallery" rel="me" title=""><i aria-hidden="true" class="fa fa-file-image-o"></i> Gallery</a>&nbsp;
+  <!--sse-->
+  &bull;&nbsp; <a href="https://jwds1978.github.io/in-case-of-emergency" rel="me" style="white-space: nowrap;" title=""><i aria-hidden="true" class="fa fa-life-ring"></i> In Case of Emergency</a>&nbsp;
+  &bull;&nbsp; <a href="https://jwds1978.github.io/resume" rel="me" style="white-space: nowrap;" title=""><i aria-hidden="true" class="fa fa-briefcase"></i> R&eacute;sum&eacute;</a>&nbsp;
+  &bull;&nbsp; <a href="https://jwds1978.github.io/social" rel="me" title="">Social</a>
+  <!--/sse-->
+  <!--
+    ~ &bull;&nbsp; <a href="https://jwds1978.github.io/the-regimental-prayer" rel="me" style="white-space: nowrap;" title="">The Regimental Prayer</a>&nbsp;
+    -->
+</span>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+
+<form action="https://jwds1978.github.io/search" id="cse-search-box">
+  <div>
+    <i aria-hidden="true" class="fa fa-search"></i>&nbsp;
+    <input name="cof" type="hidden" value="FORID:10" />
+    <input name="cx" type="hidden" value="partner-pub-5610609758033195:2749203460" />
+    <input name="ie" type="hidden" value="UTF-8" />
+    <input name="q" size="55" type="text" />&nbsp;
+    <input alt="Search" height="25" name="sa" src="https://assets.forces.army/naked/images/search_47x25.png" style="border: 0px; vertical-align: middle;"
+      type="image" value="Search" width="47" />
+  </div>
+</form>
+
+        </div>
+        
+        
+        
+
+
+
+
+
+
+
+<img alt="" height="73" src="https://assets.forces.army/naked/images/suck-my-words_482x073.png"
+  style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="482" />
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+
+<p style="font-size: smaller; text-align: center;">
+  <span style="white-space: nowrap;"><i aria-hidden="true" class="fa fa-share"></i> Share to:</span>&nbsp;
+  <a href="mailto:?body=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/&subject=Static Site Generation" rel="external" style="white-space: nowrap;"
+    target="_blank" title=""><i aria-hidden="true" class="fa fa-envelope"></i> E-mail</a>&nbsp;
+  &bull;&nbsp; <a
+    href="https://www.facebook.com/dialog/share?app_id=452354395131000&display=page&href=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/&mobile_iframe=false&redirect_uri=https://jwds1978.github.io/closure"
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook</a>&nbsp;
+  &bull;&nbsp; <a href="https://plus.google.com/share?url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" rel="external" style="white-space: nowrap;" target="_blank"
+    title=""><i aria-hidden="true" class="fa fa-google-plus-official"></i> Google+</a>&nbsp;
+  &bull;&nbsp; <a href="https://linkedin.com/shareArticle?mini=true&title=Static Site Generation&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/"
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-linkedin"></i> LinkedIn</a>&nbsp;
+  &bull;&nbsp; <a
+    href="https://pinterest.com/pin/create/button/?description=Static Site Generation&media=https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/"
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-pinterest"></i> Pinterest</a>&nbsp;
+  &bull;&nbsp; <a href="https://reddit.com/submit?title=Static Site Generation&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" rel="external"
+    style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit</a>&nbsp;
+  &bull;&nbsp; <a
+    href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/&content=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/&posttype=link&shareSource=legacy&title=Static Site Generation&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/"
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-tumblr"></i> Tumblr</a>&nbsp;
+  &bull;&nbsp; <a href="https://twitter.com/share?text=Static Site Generation&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" rel="external"
+    style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-twitter"></i> Twitter</a>
+</p>
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+<article class="h-entry">
+  <div style="display: none;">
+    <p class="p-summary">
+      <h3 id="what-is-static-site-generation">
+  What is static site generation?
+</h3>
+
+
+    </p>
+    <p class="u-uid">
+      /blog/2017/04/02/static-site-generation/
+    </p>
+    <a class="u-url" href="https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" rel="me">https://jwds1978.github.io/blog/2017/04/02/static-site-generation/</a>
+  </div>
+  <h1>
+    
+    <span class="p-name">
+      Static Site Generation
+    </span>
+  </h1>
+  <h6>
+    <span style="float: right;">
+      <span class="readingCount">Count</span> Words &#8212; <span class="readingTime">Reading Time</span><br />
+      by <a class="h-card p-author" href="https://forces.army" rel="author me" title="James W.D. Stewart"><span style="font-size: larger;">James Stewart</span></a><br />
+      
+    </span>
+    <i aria-hidden="true" class="fa fa-plus"></i> Published:&nbsp; <time class="dt-published" datetime="2017-04-02T01:11:47-04:00">02 April 2017 @ 01:11:47 EDT</time><br />
+    <i aria-hidden="true" class="fa fa-pencil"></i> Updated:&nbsp; <time class="dt-updated" datetime="2017-04-02T10:45:29-04:00">02 April 2017 @ 10:45:29 EDT</time>&nbsp; <sup>Spelling</sup><br />
+    <i aria-hidden="true" class="fa fa-map-marker"></i> Location:&nbsp; <span class="h-geo p-location"><data class="p-altitude" value="259"></data><data class="p-latitude" value="46.49145069999999"></data><data class="p-longitude" value="-80.9899049"></data><a href="https://www.google.com/maps/search/?api=1&query=46.49145069999999,-80.9899049" rel="external" target="_blank" title="Altitude: 259 Meters, Latitude: 46.49145069999999, Longitude: -80.9899049">200 Larch St., Sudbury, Ontario, P3E 1C5, Canada</a></span>
+  </h6>
+  
+  <p style="font-size: smaller;">
+    &nbsp;
+  </p>
+  <div class="e-content readingContent">
+    <h3 id="what-is-static-site-generation">
+  What is static site generation?
+</h3>
+<!-- excerptBreak -->
+<ul>
+  <li>
+    Use a program to produce HTML pages.
+    <ul>
+      <li>
+        Analogous to compiling computer programs.
+      </li>
+      <li>
+        Source Code&nbsp; &rarr;&nbsp; Machine Code
+      </li>
+    </ul>
+  </li>
+  <li>
+    Development Cycle
+    <ul>
+      <li>
+        Write the Source
+      </li>
+      <li>
+        Compile
+      </li>
+      <li>
+        Inspect and/or Test the Result
+      </li>
+    </ul>
+  </li>
+  <li>
+    Examples
+    <ul>
+      <li>
+        <a href="https://jwds1978.github.io/blog/2017/04/02/static-site-generation/#cite-jekyll" rel="me" title="Jekyll">Jekyll</a>
+        <ul>
+          <li>
+            Transform your plain text into static Web sites and blogs.
+          </li>
+          <li>
+            Used by GitHub Pages.
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="https://jwds1978.github.io/blog/2017/04/02/static-site-generation/#cite-middleman" rel="me" title="Middleman">Middleman</a>
+        <ul>
+          <li>
+            Build static Web sites with an easy-to-use framework.&nbsp; Middleman is a static site generator using all the shortcuts and tools in modern Web
+            development.
+          </li>
+        </ul>
+      </li>
+      <li>
+        More&hellip;
+        <ul>
+          <li>
+            <a href="https://jwds1978.github.io/blog/2017/04/02/static-site-generation/#cite-static-site-generators" rel="me" title="Static Site Generators">Static Site Generators</a>
+            <ul>
+              <li>
+                The definitive listing of static site generators.
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="middleman-a-ruby-gem">
+  Middleman:&nbsp; A Ruby Gem
+</h3>
+<ul>
+  <li>
+    Project is a directory (i.e. &quot;myproj&quot;)
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ middleman init myproj
+<span class="err">    </span></code></pre></figure>
+
+    <ul>
+      <li>
+        Configuration files, README, Gemfile, etc.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Create source files in &quot;myproj/source&quot;.
+    <ul>
+      <li>
+        Sub-directries for CSS. images, etc.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Compile all of the source files.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ bundle exec middleman build
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+  <li>
+    Result is placed in &quot;myproj/build&quot;.
+  </li>
+  <li>
+    Copy the site to some visible location.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ rsync -avz --del myproj/build ~/WWW
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+  <li>
+    Or, preview locally (i.e. live reload, no build).
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ bundle exec middleman server
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="why-bother">
+  Why bother?
+</h3>
+<ol>
+  <li>
+    Code reuse and single-point-of-control over change.
+  </li>
+  <li>
+    Authoring of content in a language that's more human-friendly.
+  </li>
+  <li>
+    Parameterized generation of markup and content.
+  </li>
+</ol>
+<p>
+  Let's look at each of these benefits in turn&hellip;
+</p>
+<p>
+  &nbsp;
+</p>
+<h3 id="motivation-1-visual-identity">
+  Motivation <sup>#</sup>1:&nbsp; Visual Identity
+</h3>
+<ul>
+  <li>
+    Common headers &amp; footers.
+  </li>
+  <li>
+    Duplication of code is EVIL.
+    <ul>
+      <li>
+        Corollary:&nbsp; Cut-and-paste is EVIL.
+      </li>
+      <li>
+        Destroys single-point-of-control over change.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Solution:
+    <ul>
+      <li>
+        Put common HTML in one file (a &quot;partial&quot;).
+      </li>
+      <li>
+        Every document includes that file.
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="erb-embedded-ruby">
+  ERb:&nbsp; Embedded Ruby
+</h3>
+<ul>
+  <li>
+    General templating mechanism.
+    <ul>
+      <li>
+        A string (usually contents of a file, &quot;template&quot;).
+        <ul>
+          <li>
+            Escaped bits of ruby.
+            <ul>
+              <li>
+                Execute ruby code (i.e. &quot;scriplet&quot;).
+                
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">                &lt;% code %&gt;
+                </code></pre></figure>
+
+              </li>
+              <li>
+                Replace with result of expr.
+                
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">                &lt;%= expr %&gt;
+                </code></pre></figure>
+
+              </li>
+              <li>
+                Ignore (i.e. a comment).
+                
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">                &lt;%# text %&gt;
+                </code></pre></figure>
+
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    Example:&nbsp; A text file.
+    
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">    This is some text.
+    &lt;% 5.times do %&gt;
+    Current Time is &lt;%= Time.now %&gt;!
+    &lt;% end %&gt;
+    </code></pre></figure>
+
+  </li>
+  <li>
+    Process using erbtool to generate result.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ erb example.txt.erb &gt; example.txt
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+  <li>
+    Naming Convention:&nbsp; filename.outputlang.erb
+    <ul>
+      <li>
+        Example:&nbsp; index.html.erb
+      </li>
+    </ul>
+  </li>
+  <li>
+    Many alternatives (i.e. HAML).
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="generation-of-site">
+  Generation of Site
+</h3>
+<ul>
+  <li>
+    Source files in &quot;myproj/source&quot;.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ ls source
+    index.html.erb    syll.html.erb
+    meet.html.erb
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+  <li>
+    Compile.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ bundle exec middleman build
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+  <li>
+    Result after building.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ ls build
+    index.html    meet.html    syll.html
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="partials">
+  Partials
+</h3>
+<ul>
+  <li>
+    A document fragment included in other documents.
+  </li>
+  <li>
+    Include in ERb using the <mark>partial</mark> function.
+    
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">    &lt;body&gt;
+      &lt;%= partial "navigation" %&gt;
+      ...
+    &lt;/body&gt;
+    </code></pre></figure>
+
+  </li>
+  <li>
+    Partial's filename begins with &quot;_&quot;.
+    <ul>
+      <li>
+        i.e. _navigation.erb
+        
+<figure class="highlight"><pre><code class="language-html" data-lang="html">        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"navbar"</span><span class="nt">&gt;</span>
+          <span class="nt">&lt;ul</span> <span class="na">id=</span><span class="s">"site-nav"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;li&gt;</span>...<span class="nt">&lt;/li&gt;</span>
+          <span class="nt">&lt;/ul&gt;</span>
+        <span class="nt">&lt;/div&gt;</span>
+        </code></pre></figure>
+
+        <ul>
+          <li>
+            Note:&nbsp; &quot;_&quot; omitted in argument to function.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="generation-of-site-with-partials">
+  Generation of Site with Partials
+</h3>
+<ul>
+  <li>
+    Source files in myproj/source.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ ls source
+    _footer.erb        meet.html.erb
+    _navigation.erb    syll.html.erb
+    index.html.erb 
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+  <li>
+    Compile.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ bundle exec middleman build
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+  <li>
+    Result after building.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ ls build
+    index.html    meet.html    syll.html
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="tricks-with-partials">
+  Tricks with Partials
+</h3>
+<ul>
+  <li>
+    Content of partial can be customized by passing arguments in call.
+  </li>
+  <li>
+    In Calling ERb:&nbsp; Pass a hash.
+    
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">    &lt;%= partial "banner", :locals =&gt; { :name =&gt; "Syllabus", :amount =&gt; 34 } %&gt;
+    </code></pre></figure>
+
+  </li>
+  <li>
+    In Partial:&nbsp; Access variables.
+    
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">    &lt;h3&gt;&lt;%= :name %&gt;&lt;/h3&gt;
+    &lt;p&gt;Costs &lt;%= "$#{:amount}.00" %&gt;&lt;/p&gt;
+    </code></pre></figure>
+
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="problem">
+  Problem
+</h3>
+<ul>
+  <li>
+    How to guarantee every page includes partial(s).
+    <ul>
+      <li>
+        Partials don't ensure one page structure across the site.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Every page should look like:
+    
+<figure class="highlight"><pre><code class="language-html" data-lang="html">    <span class="cp">&lt;!DOCTYPE html&gt;</span>
+    <span class="nt">&lt;html&gt;</span>
+      <span class="nt">&lt;head&gt;</span>
+        <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;title&gt;</span>Meetings<span class="nt">&lt;/title&gt;</span>
+        <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"osu_style.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="nt">/&gt;</span>
+      <span class="nt">&lt;/head&gt;</span>
+      <span class="nt">&lt;body&gt;</span>
+        <span class="err">&lt;</span>%= partial "navigation" %&gt;
+        ...  <span class="c">&lt;!--different on each page--&gt;</span>
+      <span class="nt">&lt;/body&gt;</span>
+    <span class="nt">&lt;/html&gt;</span>
+    </code></pre></figure>
+
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="solution-layout">
+  Solution:&nbsp; Layout
+</h3>
+<ul>
+  <li>
+    HTML formed from:&nbsp; Layout + Template
+  </li>
+  <li>
+    Layout is the overall structure of the HTML page.
+  </li>
+  <li>
+    File:&nbsp; layout.erb
+    
+<figure class="highlight"><pre><code class="language-html" data-lang="html">    <span class="cp">&lt;!DOCTYPE html&gt;</span>
+    <span class="nt">&lt;html&gt;</span>
+      <span class="nt">&lt;head&gt;</span>
+        <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;title&gt;</span>  ...  etc
+      <span class="nt">&lt;/head&gt;</span>
+      <span class="nt">&lt;body&gt;</span>
+        <span class="err">&lt;</span>%= yield =&gt;
+      <span class="nt">&lt;/body&gt;</span>
+    </code></pre></figure>
+
+  </li>
+  <li>
+    Template replaces layout's yield.
+  </li>
+  <li>
+    Layout is where you put site-wide styling.
+    <ul>
+      <li>
+        i.e. navigation bar, div's with CSS classes, footers
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="page-specific-data-in-layout">
+  Page-Specific Data in Layout
+</h3>
+<ul>
+  <li>
+    Some layout content is page-specific.
+    <ul>
+      <li>
+        Example:&nbsp; <mark>&lt;title&gt;</mark> in document's head.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Solution:&nbsp; Ruby variable <mark>current_page</mark>
+    <ul>
+      <li>
+        Example:&nbsp; <mark>current_page.path</mark>
+      </li>
+    </ul>
+  </li>
+  <li>
+    Template contains &quot;frontmatter&quot; that sets the value of current_page.data.
+    <ul>
+      <li>
+        In template (contact.html.erb)
+        
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby">        <span class="p">;;;</span>
+        <span class="s2">"title"</span><span class="p">:</span> <span class="s2">"Contact Information"</span>
+        <span class="p">;;;</span>
+        </code></pre></figure>
+
+      </li>
+      <li>
+        In layout (layout.erb)
+        
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">        &lt;title&gt;&lt;%= current_page.data.title %&gt;&lt;/title&gt;
+        </code></pre></figure>
+
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="generation-of-site-with-layouts">
+  Generation of Site with Layouts
+</h3>
+<ul>
+  <li>
+    Default layout in &quot;source/layouts/layouts.erb&quot;.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ ls –F source
+    index.html.erb    meet.html.erb
+    layouts/          syll.html.erb
+    
+    $ ls source/layouts
+    _footer.erb    _navigation.erb    layout.erb
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+  <li>
+    Result after building.
+    
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session">    $ ls build
+    index.html    meet.html    syll.html
+<span class="err">    </span></code></pre></figure>
+
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="motive-2-improved-syntax">
+  Motive <sup>#</sup>2:&nbsp; Improved Syntax
+</h3>
+<ul>
+  <li>
+    HTML tags make content hard to read.
+    <ul>
+      <li>
+        &lt;p&gt;, &lt;h2&gt;, &lt;em&gt;, &lt;a href='&hellip;'&gt; etc
+      </li>
+      <li>
+        Versus plain text, which is easier to read.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Common plain text conventions:
+    <ul>
+      <li>
+        Blank lines between paragraphs.
+      </li>
+      <li>
+        Underline titles with –'s or ='s.
+      </li>
+      <li>
+        Emphasize &lowast;words&lowast;, &lowbar;words&lowbar;, &lowast;&lowast;words&lowast;&lowast;.
+      </li>
+      <li>
+        Links in ( )'s.
+      </li>
+      <li>
+        Unordered lists with bullets using * or -.
+      </li>
+      <li>
+        Numbered lists with 1., 2., 3.
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="markdown">
+  Markdown
+</h3>
+<ul>
+  <li>
+    Formalizes these ASCII conventions.
+    <ul>
+      <li>
+        Filename Extension:&nbsp; .md
+      </li>
+      <li>
+        Adds some less familiar ones (i.e. <mark>```</mark>).
+      </li>
+    </ul>
+  </li>
+  <li>
+    Tools generate corresponding HTML.
+    <ul>
+      <li>
+        Examples:&nbsp; GitHub readme's, user-posted comments on Web boards (i.e. StackOverflow).
+      </li>
+    </ul>
+  </li>
+  <li>
+    Other target languages possible too.
+  </li>
+  <li>
+    See Markdown's README.md
+  </li>
+  <li>
+    Warning:&nbsp; Many Markdown dialects.
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="css-limitations">
+  CSS Limitations
+</h3>
+<ul>
+  <li>
+    Literals are common.
+    
+<figure class="highlight"><pre><code class="language-css" data-lang="css">    <span class="nt">h1</span> <span class="p">{</span>
+      <span class="nl">background-color</span><span class="p">:</span> <span class="m">#ff14a6</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="nt">h2</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="m">#ff14a6</span><span class="p">;</span>
+    <span class="p">}</span>
+    </code></pre></figure>
+
+  </li>
+  <li>
+    Result:&nbsp; Lack of single-point-of-control.
+  </li>
+  <li>
+    Solution:&nbsp; SASS, allows variables.
+    
+<figure class="highlight"><pre><code class="language-css" data-lang="css">    <span class="err">$</span><span class="nt">primary</span><span class="o">:</span> <span class="nf">#ff14a6</span><span class="o">;</span>
+
+    <span class="nt">h1</span> <span class="p">{</span>
+      <span class="nl">background-color</span><span class="p">:</span> <span class="err">$</span><span class="n">primary</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="nt">h2</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="err">$</span><span class="n">primary</span><span class="p">;</span>
+    <span class="p">}</span>
+    </code></pre></figure>
+
+  </li>
+  <li>
+    Preprocessor generates CSS from SASS.
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="motive-3-content-generation">
+  Motive <sup>#</sup>3:&nbsp; Content Generation
+</h3>
+<ul>
+  <li>
+    Iterate over an array to create content.
+    <ul>
+      <li>
+        Example:&nbsp; Rows of a table.
+      </li>
+      <li>
+        See course Web site.
+      </li>
+      <li>
+        Partial could be used for (every) row.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Placeholder text and images.
+    
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">    &lt;%= lorem.sentence %&gt;
+    </code></pre></figure>
+
+    <ul>
+      <li>
+        Many versions of this &quot;helper&quot; are available.
+        
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown">        lorem.paragraphs 2
+        lorem.date
+        lorem.last_name
+        lorem.image('300x400')<span class="sb">
+
+          #=&gt;  http://placehold.it/300x400
+</span>        </code></pre></figure>
+
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="more-helper-functions">
+  More Helper Functions
+</h3>
+<ul>
+  <li>
+    Links.
+    
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">    &lt;%= link_to 'About', '/about.html' %&gt;
+
+      #=&gt;  &lt;a href='/about/'&gt;About&lt;/a&gt;
+    </code></pre></figure>
+
+  </li>
+  <li>
+    Assets.
+    
+<figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">    &lt;%= stylesheet_link_tag 'all' %&gt;
+    &lt;%= javascript_include_tag 'jquery' %&gt;
+    &lt;%= favicon_tag 'images/favicon.png' %&gt;
+    &lt;%= link_to 'Blog', '/blog', :class =&gt; 'example' %&gt;
+    &lt;%= image_tag 'padrino.png', :width =&gt; '35', :class =&gt; 'logo' %&gt;
+    </code></pre></figure>
+
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<h3 id="summary">
+  Summary
+</h3>
+<ul>
+  <li>
+    ERb
+    <ul>
+      <li>
+        Template for generating HTML.
+      </li>
+      <li>
+        Scriplets and expressions.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Reuse of views with partials.
+    <ul>
+      <li>
+        Included with partial (eg &lt;%= partial&hellip;).
+      </li>
+      <li>
+        Filename is prepended with underscore.
+      </li>
+      <li>
+        Parameter passing from parent template.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Layouts and templates.
+  </li>
+  <li>
+    Markdown, SASS.
+  </li>
+  <li>
+    Content generation and helpers.
+  </li>
+</ul>
+
+  </div>
+  <p style="font-size: smaller;">
+    &nbsp;<br />
+    Categories:&nbsp;
+    
+    <a class="p-category" href="https://jwds1978.github.io/blog/categories/#technology" rel="me">Technology</a>
+    
+    &nbsp;<br />
+    Tags:&nbsp;
+    
+    <a class="p-category" href="https://jwds1978.github.io/blog/tags/#how-to" rel="me">How to</a>
+    
+  </p>
+  
+  <p style="font-size: smaller;">
+    &nbsp;<br />
+    Syndicated to:
+    <ul style="-moz-columns: 3; -webkit-columns: 3; columns: 3; list-style-position: inside;">
+      
+      <li>
+        <a class="u-syndication" href="https://www.facebook.com/jwds1978/posts/10154189566007084" rel="external syndication" target="_blank" title="Facebook">Facebook</a>
+      </li>
+      
+      <li>
+        <a class="u-syndication" href="https://twitter.com/jwds1978/status/848921113845432321" rel="external syndication" target="_blank" title="Twitter">Twitter</a>
+      </li>
+      
+    </ul>
+  </p>
+  
+  
+  <p style="font-size: smaller;">
+    &nbsp;<br />
+    References:
+    <ol>
+      
+      <li class="h-cite" id="cite-jekyll">
+        <cite><a class="p-name u-url" href="https://jekyllrb.com" rel="external nofollow" target="_blank" title="Jekyll">Jekyll</a></cite><br />
+        <span style="float: right;">by <span class="p-author">Innominate</span></span>
+        
+        Referenced:&nbsp; <time class="dt-accessed" datetime="2017-04-01T15:17:49-04:00">01 April 2017 @ 15:17:49 EDT</time><br />
+      </li>
+      
+      <li class="h-cite" id="cite-middleman">
+        <cite><a class="p-name u-url" href="https://middlemanapp.com" rel="external nofollow" target="_blank" title="Middleman">Middleman</a></cite><br />
+        <span style="float: right;">by <span class="p-author">Thomas Reynolds</span></span>
+        
+        Referenced:&nbsp; <time class="dt-accessed" datetime="2017-04-01T15:13:19-04:00">01 April 2017 @ 15:13:19 EDT</time><br />
+      </li>
+      
+      <li class="h-cite" id="cite-static-site-generators">
+        <cite><a class="p-name u-url" href="https://staticsitegenerators.net" rel="external nofollow" target="_blank" title="Static Site Generators">Static Site Generators</a></cite><br />
+        <span style="float: right;">by <span class="p-author">Innominate</span></span>
+        
+        Referenced:&nbsp; <time class="dt-accessed" datetime="2017-04-01T15:21:27-04:00">01 April 2017 @ 15:21:27 EDT</time><br />
+      </li>
+      
+    </ol>
+  </p>
+  
+</article>
+
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+<p style="font-size: smaller; text-align: center;">
+  <span style="white-space: nowrap;"><i aria-hidden="true" class="fa fa-share"></i> Share to:</span>&nbsp;
+  <a href="mailto:?body=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/&subject=Static Site Generation" rel="external" style="white-space: nowrap;"
+    target="_blank" title=""><i aria-hidden="true" class="fa fa-envelope"></i> E-mail</a>&nbsp;
+  &bull;&nbsp; <a
+    href="https://www.facebook.com/dialog/share?app_id=452354395131000&display=page&href=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/&mobile_iframe=false&redirect_uri=https://jwds1978.github.io/closure"
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-facebook-official"></i> Facebook</a>&nbsp;
+  &bull;&nbsp; <a href="https://plus.google.com/share?url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" rel="external" style="white-space: nowrap;" target="_blank"
+    title=""><i aria-hidden="true" class="fa fa-google-plus-official"></i> Google+</a>&nbsp;
+  &bull;&nbsp; <a href="https://linkedin.com/shareArticle?mini=true&title=Static Site Generation&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/"
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-linkedin"></i> LinkedIn</a>&nbsp;
+  &bull;&nbsp; <a
+    href="https://pinterest.com/pin/create/button/?description=Static Site Generation&media=https://assets.forces.army/naked/images/hotlink-ok/suck-my-words_482x073.png&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/"
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-pinterest"></i> Pinterest</a>&nbsp;
+  &bull;&nbsp; <a href="https://reddit.com/submit?title=Static Site Generation&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" rel="external"
+    style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-reddit-alien"></i> Reddit</a>&nbsp;
+  &bull;&nbsp; <a
+    href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/&content=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/&posttype=link&shareSource=legacy&title=Static Site Generation&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/"
+    rel="external" style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-tumblr"></i> Tumblr</a>&nbsp;
+  &bull;&nbsp; <a href="https://twitter.com/share?text=Static Site Generation&url=https://jwds1978.github.io/blog/2017/04/02/static-site-generation/" rel="external"
+    style="white-space: nowrap;" target="_blank" title=""><i aria-hidden="true" class="fa fa-twitter"></i> Twitter</a>
+</p>
+
+
+
+<p style="font-size: smaller;">
+  &nbsp;
+</p>
+
+        
+        <hr />
+<p style="text-align: justify;">
+  <span style="font-weight: bolder;">DISCLAIMER:</span>&nbsp; Neither the <a href="https://jwds1978.github.io" rel="me" title="Forces.Army">forces.army</a> domain nor any
+  of its sub-domains are associated with and/or sponsored by any national and/or international government agency or branch of the armed forces in any nation.
+</p>
+<hr />
+<p class="credits" style="font-size: smaller; text-align: center;">
+  <a href="https://jwds1978.github.io/feed.xml" rel="alternate me" style="white-space: nowrap;" target="_blank"
+    title="RSS Feed"><i aria-hidden="true" class="fa fa-rss-square"></i> Atom</a>&nbsp;
+  &bull;&nbsp; <a href="https://disqus.com/home/forums/jwds" rel="me" style="white-space: nowrap;" target="_blank" title="James W.D. Stewart :: Disqus"><i aria-hidden="true"
+    class="fa fa-comments"></i> Comments</a>&nbsp;
+  &bull;&nbsp; <a href="https://jwds1978.github.io/sitemap.xml" rel="me" style="white-space: nowrap;" target="_blank" title="Sitemap"><i aria-hidden="true"
+    class="fa fa-sitemap"></i> Sitemap</a>&nbsp;
+  &bull;&nbsp; <a href="https://jwds1978.github.io/terms-and-conditions" rel="me" style="white-space: nowrap;" title="Terms and Conditions"><i aria-hidden="true"
+    class="fa fa-gavel"></i> Terms and Conditions</a>
+</p>
+<p style="font-size: smaller; text-align: center;">
+  <a href="https://go.forces.army/MinerGate" rel="external nofollow" target="_blank" title="MinerGate"><img alt="" height="30"
+    src="https://minergate.com/widget/17b8ae8e11557307.png" style="border: 0px; display: block; margin-left: auto; margin-right: auto;" width="550" /></a>
+</p>
+<div style="display: table; margin-left: auto; margin-right: auto; text-align: center;">
+  <div style="display: table-cell; vertical-align: middle;">
+    <a href="https://indieweb.org" rel="external nofollow" target="_blank" title="IndieWeb"><img alt="IndieWebCamp" height="20"
+      src="https://assets.forces.army/naked/images/IndieWebCamp_42x20.png" style="border: 0px; vertical-align: middle;" width="42" /></a>
+  </div>
+  <div style="display: table-cell; vertical-align: middle;">
+    &nbsp;
+  </div>
+  <div style="display: table-cell; vertical-align: middle;">
+    <object data="https://travis-ci.org/jwds1978/jwds1978.github.io.svg?branch=source" style="border: 0px; vertical-align: middle;"
+      type="image/svg+xml"></object>
+  </div>
+  <div style="display: table-cell; vertical-align: middle;">
+    &nbsp;
+  </div>
+  <div style="display: table-cell; vertical-align: middle;">
+    <a href="http://www.viglink.com/legal/disclosures/users?vgref=3421962&vgtag=badge" rel="external nofollow" target="_blank" title="VigLink"><img
+      alt="Links Monetized by VigLink" height="31" src="https://assets.forces.army/naked/images/VigLink_88x31.png" style="border: 0px; vertical-align: middle;"
+      width="88" /></a>
+  </div>
+</div>
+&nbsp;<br />
+<hr />
+<p style="text-align: justify;">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0" rel="external license" target="_blank"
+  title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"><img alt="Creative Commons Licence :: BY-NC-SA" height="31"
+  src="https://assets.forces.army/naked/images/Creative-Commons_by-nc-sa_88x31.png"
+  style="border: 0px; float: left; margin-bottom: 10px; margin-right: 10px;" width="88" /></a>
+<span property="dct:title" xmlns:dct="https://purl.org/dc/terms">James W.D. Stewart</span> by <a href="https://forces.army" property="cc:attributionName"
+  rel="cc:attributionURL me" title="James W.D. Stewart" xmlns:cc="https://creativecommons.org/ns#">James Stewart</a> is licensed under a <a
+  href="https://creativecommons.org/licenses/by-nc-sa/4.0" rel="external license" target="_blank" title="Creative Commons Licence :: BY-NC-SA">Creative
+Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.&nbsp; Based on a work at <a
+  href="https://github.com/jwds1978/jwds1978.github.io" rel="dct:source me" target="_blank" title="jwds1978/jwds1978.github.io :: Embrace 'The Suck'"
+  xmlns:dct="https://purl.org/dc/terms">https://github.com/jwds1978/jwds1978.github.io</a>.
+
+</p>
+
+      </section>
+    </div>
+    
+  </body>
+</html>

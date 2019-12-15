@@ -1,8 +1,8 @@
----
-sitemap: false
----
+/*
+ * Copyright (c) 2017 James W.D. Stewart
+ * All rights reserved.
+ */
 
-{{ site.copyright.comment.java }}
 /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
 (function( w ){
   // rel=preload support test

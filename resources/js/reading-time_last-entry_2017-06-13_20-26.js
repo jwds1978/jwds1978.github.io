@@ -1,8 +1,8 @@
----
-sitemap: false
----
+/*
+ * Copyright (c) 2017 James W.D. Stewart
+ * All rights reserved.
+ */
 
-{{ site.copyright.comment.java }}
 $(function () {
   var $article = $('article');
   $article.readingTime({

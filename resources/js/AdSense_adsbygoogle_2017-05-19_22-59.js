@@ -1,6 +1,6 @@
----
-sitemap: false
----
+/*
+ * Copyright (c) 2017 James W.D. Stewart
+ * All rights reserved.
+ */
 
-{{ site.copyright.comment.java }}
 (adsbygoogle = window.adsbygoogle || []).push({});

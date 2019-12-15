@@ -1,16 +1,16 @@
----
-sitemap: false
----
+<!--
+  ~ Copyright (c) 2017 James W.D. Stewart
+  ~ All rights reserved.
+  -->
 
-{{ site.copyright.comment.xml }}
 <?xml encoding="utf-8" version="1.0"?>
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="{{ site.url }}/ms-icon-70x70.png" />
-      <square144x144logo src="{{ site.url }}/ms-icon-144x144.png" />
-      <square150x150logo src="{{ site.url }}/ms-icon-150x150.png" />
-      <square310x310logo src="{{ site.url }}/ms-icon-310x310.png" />
+      <square70x70logo src="https://jwds1978.github.io/ms-icon-70x70.png" />
+      <square144x144logo src="https://jwds1978.github.io/ms-icon-144x144.png" />
+      <square150x150logo src="https://jwds1978.github.io/ms-icon-150x150.png" />
+      <square310x310logo src="https://jwds1978.github.io/ms-icon-310x310.png" />
       <TileColor>#000000</TileColor>
     </tile>
   </msapplication>

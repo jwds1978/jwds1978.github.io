@@ -1,8 +1,4 @@
----
-sitemap: false
----
-
 user-agent: ia_archiver
 disallow: /
 
-sitemap: {{ site.url }}/sitemap.xml
+sitemap: https://jwds1978.github.io/sitemap.xml

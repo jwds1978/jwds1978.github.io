@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_CA"><generator uri="http://jekyllrb.com" version="3.4.1">Jekyll</generator><link href="https://jwds1978.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jwds1978.github.io/" rel="alternate" type="text/html" hreflang="en_CA" /><updated>2019-12-15T08:46:54-05:00</updated><id>https://jwds1978.github.io/</id><title type="html">James W.D. Stewart</title><author><name>jwds</name></author><entry><title type="html">Change of Advertising Networks</title><link href="https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/" rel="alternate" type="text/html" title="Change of Advertising Networks" /><published>2017-07-03T14:16:32-04:00</published><updated>2017-07-04T05:21:01-04:00</updated><id>https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/">&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;68&quot; src=&quot;https://assets.forces.army/blog/2017/07/03/change-of-advertising-networks/innominate_1_075x068.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;75&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+  As you may or may not have noticed, I've made some changes to the on-site ad units.&amp;nbsp; While I've had no policy violations with my AdSense account, I've
+  decided to disable them for awhile &amp;#8212; in favour of &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-anonymous-ads&quot; rel=&quot;me&quot; title=&quot;Anonymous Ads&quot;&gt;Anonymous
+  Ads&lt;/a&gt; and &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-propeller-ads&quot; rel=&quot;me&quot; title=&quot;Propeller Ads&quot;&gt;Propeller Ads&lt;/a&gt; ad units.
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-anonymous-ads&quot; rel=&quot;me&quot; title=&quot;Anonymous Ads&quot;&gt;A-ADS&lt;/a&gt; is a bitcoin online advertising network that doesn't
+  collect personal data.&amp;nbsp; &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-propeller-ads&quot; rel=&quot;me&quot; title=&quot;Propeller Ads&quot;&gt;Propeller Ads&lt;/a&gt; is a full and
+  self-service advertising network, providing comprehensive and industry leading ad-serving and optimization technologies, for online marketers and Web
+  publishers.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  I've been testing both networks for a little bit now.&amp;nbsp; Thus far, I'd have to say that I'm happy with my decision.&amp;nbsp; With &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-anonymous-ads&quot; rel=&quot;me&quot; title=&quot;Anonymous Ads&quot;&gt;A-ADS&lt;/a&gt;, I'm using it as a drop-in replacement for the previous
+  AdSense units.&amp;nbsp; With &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-propeller-ads&quot; rel=&quot;me&quot; title=&quot;Propeller Ads&quot;&gt;Propeller Ads&lt;/a&gt;, I'm making use of their
+  pop-under and mobile push-up formats.
+&lt;/p&gt;
+&lt;p&gt;
+  Neither the pop-under nor mobile push-up units should be displayed more than once per any given session, minimizing any possible annoyance or intrusion, as
+  related to &lt;abbr title=&quot;User Experience&quot;&gt;UX&lt;/abbr&gt;.&amp;nbsp; The banner units are unchanged &amp;#8212; no less/more than prior &amp;#8212; having simply replaced the
+  AdSense units.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  My motivation was, quite simply, a financial one.&amp;nbsp; It costs more to run this Web site than most people seem to realize.&amp;nbsp; Although I was getting some
+  revenue via AdSense, it was rather insulting &amp;#8212; to say the least.&amp;nbsp; Even with several thousand views each day, I was only making something in the
+  order of &amp;lt;$1.00 per month&amp;hellip;&amp;nbsp; Whiskey &amp;#8212; Tango &amp;#8212; Foxtrot?!?
+&lt;/p&gt;
+&lt;p&gt;
+  Given that, I was losing significant amounts of money, paying for everything out-of-pocket.&amp;nbsp; At this point, since making the move to &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-anonymous-ads&quot; rel=&quot;me&quot; title=&quot;Anonymous Ads&quot;&gt;A-ADS&lt;/a&gt; and &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-propeller-ads&quot; rel=&quot;me&quot; title=&quot;Propeller Ads&quot;&gt;Propeller Ads&lt;/a&gt;, I'm now making enough to pay the majority of my
+  operating costs via ad-generated revenue.&amp;nbsp; As time goes on, I'd hope to be actually turning a profit.&amp;nbsp; I don't expect to become a billionaire or
+  anything, but a healthy revenue-stream &amp;#8212; being, otherwise, unemployable and all &amp;#8212; would be nice though.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  What I also like about both networks, is that I can ultimately receive payment via bitcoin.&amp;nbsp; &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-anonymous-ads&quot; rel=&quot;me&quot; title=&quot;Anonymous Ads&quot;&gt;A-ADS&lt;/a&gt; pays, directly to my wallet of choice, on a daily basis &amp;#8212; &lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-btc&quot;&gt;&lt;/i&gt;0.001
+  &lt;abbr title=&quot;Bitcoin&quot;&gt;XBT&lt;/abbr&gt; minimum.&amp;nbsp; &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-propeller-ads&quot; rel=&quot;me&quot; title=&quot;Propeller Ads&quot;&gt;Propeller Ads&lt;/a&gt;
+  pays, to may &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-epayments&quot; rel=&quot;me&quot; title=&quot;ePayments&quot;&gt;ePayments&lt;/a&gt; account, on a monthly basis &amp;#8212; $100.00 &lt;abbr title=&quot;United States Dollar&quot;&gt;USD&lt;/abbr&gt; minimum.&amp;nbsp; From &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-epayments&quot; rel=&quot;me&quot; title=&quot;ePayments&quot;&gt;ePayments&lt;/a&gt;,
+  I'm able to withdraw to my bitcoin wallet of choice.
+&lt;/p&gt;
+&lt;p&gt;
+  Both networks offer other payment methods, with varying thresholds, as well.&amp;nbsp; However, personally, I much prefer to be paid via bitcoin.&amp;nbsp; From my
+  bitcoin wallet(s), I'm able to load my &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-cryptopay&quot; rel=&quot;me&quot; title=&quot;Cryptopay&quot;&gt;Cryptopay&lt;/a&gt; pre-paid credit
+  card(s).&amp;nbsp; And, in-turn, I'm then able to pay the bills.&amp;nbsp; &lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-thumbs-up&quot;&gt;&lt;/i&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  Regardless of whether you're looking for an AdSense alternative, whether by choice or force (i.e. AdSense suspension), I'd encourage you to consider &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-anonymous-ads&quot; rel=&quot;me&quot; title=&quot;Anonymous Ads&quot;&gt;A-ADS&lt;/a&gt; and/or &lt;a href=&quot;https://jwds1978.github.io/blog/2017/07/03/change-of-advertising-networks/#cite-propeller-ads&quot; rel=&quot;me&quot; title=&quot;Propeller Ads&quot;&gt;Propeller Ads&lt;/a&gt;.
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="Innominate" /><summary type="html">As you may or may not have noticed, I've made some changes to the on-site ad units.&amp;nbsp; While I've had no policy violations with my AdSense account, I've decided to disable them for awhile &amp;#8212; in favour of Anonymous Ads and Propeller Ads ad units.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/07/03/change-of-advertising-networks/hotlink-ok/innominate_1_482x437.png" /></entry><entry><title type="html">Consider Removing Your Ad-Blocker</title><link href="https://jwds1978.github.io/blog/2017/06/23/consider-removing-your-ad-blocker/" rel="alternate" type="text/html" title="Consider Removing Your Ad-Blocker" /><published>2017-06-23T04:00:18-04:00</published><updated>2017-06-23T12:18:19-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/23/consider-removing-your-ad-blocker</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/23/consider-removing-your-ad-blocker/">&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;97&quot; src=&quot;https://assets.forces.army/blog/2017/06/23/consider-removing-your-ad-blocker/support-free-websites-remove-adblock-today_482x097.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/23/consider-removing-your-ad-blocker/#cite-removeadblockcom-why-using-adblockers-is-a-bad-idea&quot; rel=&quot;me&quot; title=&quot;removeAdblock.com - Why using Adblockers is a bad idea!&quot;&gt;RemoveAdblock.com&lt;/a&gt; is a campaign started by Web sites which rely upon Internet ads to pay
+  their bills.&amp;nbsp; Creating content, maintenance, research, and server costs are all things that cost a lot of money.&amp;nbsp; Without ad revenue, Web sites
+  would have to find other ways of paying for stuff.&amp;nbsp; This can lead to Web sites having to use more intrusive ads and/or charging money from their
+  users.&amp;nbsp; We all have our favourite Web sites, and should you happen to like a Web site that's driven by ad revenue, you're undermining their work by
+  having Adblock turned on within your Web browser.
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;560&quot; src=&quot;https://assets.forces.army/blog/2017/06/23/consider-removing-your-ad-blocker/anti-ABP_482x560.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+  While I dislike annoying adverts myslef, my primary source of revenue comes from ads.&amp;nbsp; I can't nor will I, encourage anybody to randomly click upon an
+  ad, either in support of me or for any other reason.&amp;nbsp; With that said, I do need to eat and I do have bills to pay.&amp;nbsp; There are re-curring costs
+  associated with the maintenance and operation of this very Web site.
+&lt;/p&gt;
+&lt;p&gt;
+  As such, as you may have already noticed, I've recently started making an overt effort to block visitors with ad-blockers from viewing the content contained
+  herein.&amp;nbsp; While you need not completely uninstall your ad-blocker of choice, you'll need to at least white-list my domain(s).&amp;nbsp; Otherwise, you won't
+  be able to properly view my Web site&amp;hellip;&amp;nbsp; Exception being, I do provide a full Atom/RSS feed.&amp;nbsp; I have no current desires to monetize said
+  feed.&amp;nbsp; This feed includes the full &amp;#8212; not partial &amp;#8212; content of posts to &lt;a href=&quot;https://jwds1978.github.io/blog&quot; rel=&quot;me&quot; title=&quot;&quot;&gt;the blog&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  The snowflakes of today want everything in life to be free, just like it was at home with daddy and/or mommy.&amp;nbsp; At the end of the day, this is yet another
+  &amp;quot;entitlement&amp;quot; problem.&amp;nbsp; Free birth control&amp;hellip;&amp;nbsp; Free education&amp;hellip;&amp;nbsp; Free food&amp;hellip;&amp;nbsp; Free healthcare&amp;hellip;&amp;nbsp;
+  Free housing&amp;hellip;&amp;nbsp; Free Web content&amp;hellip;&amp;nbsp; Free &amp;#8212; all the things.
+&lt;/p&gt;
+&lt;p&gt;
+  When you buy &amp;#8212; and read &amp;#8212; a paper newspaper, you have every right to ignore the ads/flyers/inserts/etc. contained within it.&amp;nbsp; You could even
+  take the time, before reading the newspaper, to actually cut out all of the ads so that they aren't physically there when you sit down to read the content of
+  the paper itself.&amp;nbsp; However, you'd likely need to buy multiple copies of the paper in order to actually accomplish that, without also removing large
+  chunks of the content you want to read.
+&lt;/p&gt;
+&lt;p&gt;
+  Having done all of the abovementioned, at no time, did you ever stop the delivery of the ads.&amp;nbsp; Rather, you simply made a point to ignore them and/or
+  remove them after they'd been delivered to you.&amp;nbsp; Similarly, you can also buy the paper and ignore all of the contents except for the racing form and/or
+  classifieds and/or opinion section and/or the Sunday funnies&amp;hellip;&amp;nbsp; That's absolutely your call.&amp;nbsp; But, at no time, did you stop the presses nor
+  remove anything before it had been delivered to you.
+&lt;/p&gt;
+&lt;p&gt;
+  You also have every right to boycott the paper and/or to never buy it again.&amp;nbsp; You may even go into competition with the paper, delivering a better
+  product without ads.&amp;nbsp; However, I'd doubt that you'd be able to get people to pay for an unsubsidized subscription.&amp;nbsp; The high-cost of production, and
+  increasing subscription prices, are amongst the reasons that the print newspaper industry's trying to evolve.
+&lt;/p&gt;
+&lt;p&gt;
+  You have every right to decide how your Web browser renders content &amp;#8212; it's your browser, after all.&amp;nbsp; And, should you decide to use an ad blocker, I
+  don't really see much of a difference between that and skipping over the television ads within &lt;abbr title=&quot;Digital Video Recorder&quot;&gt;DVR&lt;/abbr&gt; content.&amp;nbsp;
+  By the same token, publishers have that same right to tell you that if you want access to their content, you must accept their terms of service.&amp;nbsp; If you
+  don't like their terms, or whatever else, simply move along to another Web site.&amp;nbsp; As with any other business you may not like for whatever reason.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  Admittedly, in the past, I've blocked ads myself.&amp;nbsp; Quite simply, there were too many flashing up on my screen, every time that I wanted to look at
+  anything &amp;#8212; telling me to join some weight-loss scam, play poker, etc.&amp;nbsp; So, I'd installed the browser extension that conveniently removes all ads
+  from any Web page.&amp;nbsp; But, I shouldn't have though.&amp;nbsp; In doing so, I put the future of the free Internet under threat.
+&lt;/p&gt;
+&lt;p&gt;
+  If we all start using an ad-blocker, we're endangering the Internet as we know it.&amp;nbsp; Our being able to get most anything on the Internet, without
+  subscription fees to a Web site(s), relies almost entirely on ad revenue.&amp;nbsp; Ad-blockers want to get rid of that revenue stream.&amp;nbsp; By preventing people
+  from seeing the ads, it's forcing companies to adopt different &amp;#8212; and, most certainly &amp;#8212; worse models.
+&lt;/p&gt;
+&lt;p&gt;
+  Think about it&amp;hellip;&amp;nbsp; An Internet ruled by ad-blockers would be one where ads would need to be so indistinguishable from genuine content, that
+  ad-blocking technology couldn't distinguish the difference.&amp;nbsp; The problem, for ads to be so subtle, they'd no longer be distinguishable by humans
+  either.&amp;nbsp; And, if this were to happen, nobody would read anything on a Web site they know that anybody can pay to write articles/content/stories in.
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="Opinionated" /><category term="Self" /><category term="The Suck" /><summary type="html">RemoveAdblock.com is a campaign started by Web sites which rely upon Internet ads to pay their bills.&amp;nbsp; Creating content, maintenance, research, and server costs are all things that cost a lot of money.&amp;nbsp; Without ad revenue, Web sites would have to find other ways of paying for stuff.&amp;nbsp; This can lead to Web sites having to use more intrusive ads and/or charging money from their users.&amp;nbsp; We all have our favourite Web sites, and should you happen to like a Web site that's driven by ad revenue, you're undermining their work by having Adblock turned on within your Web browser.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/23/consider-removing-your-ad-blocker/hotlink-ok/innominate_1_483x304.png" /></entry><entry><title type="html">Thanks to Today’s Musical Google Doodle, In Honour of the Animator Oskar Fischinger, No Work’s Getting Done</title><link href="https://jwds1978.github.io/blog/2017/06/22/thanks-to-todays-musical-google-doodle-in-honour-of-the-animator-oskar-fischinger-no-works-getting-done/" rel="alternate" type="text/html" title="Thanks to Today's Musical Google Doodle, In Honour of the Animator Oskar Fischinger, No Work's Getting Done" /><published>2017-06-22T16:57:12-04:00</published><updated>2017-06-22T16:57:12-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/22/thanks-to-todays-musical-google-doodle-in-honour-of-the-animator-oskar-fischinger-no-works-getting-done</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/22/thanks-to-todays-musical-google-doodle-in-honour-of-the-animator-oskar-fischinger-no-works-getting-done/">&lt;p&gt;
+  Today's Google Doodle honours what would've been the 117&lt;sup&gt;th&lt;/sup&gt; birthday of, German-American abstract artist, Oskar Fischinger.
+&lt;/p&gt;
+&lt;p&gt;
+  In Hitler's Germany, Fischinger's musical animations were deemed to be &amp;quot;degenerate art&amp;quot;.&amp;nbsp; In 1936, when an agent from Paramount Pictures
+  recruited him to work in America, he left for the &lt;abbr title=&quot;United States&quot;&gt;US&lt;/abbr&gt;.
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  His work was ground-breaking &amp;#8212; the films were visually stunning, despite being created decades before the existence of computer graphics or music
+  videos.&amp;nbsp; Creative lead on the doodle, Leon Hong, expresses just how impressive Fischinger's work was &amp;#8212; and, still is:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/22/thanks-to-todays-musical-google-doodle-in-honour-of-the-animator-oskar-fischinger-no-works-getting-done/#cite-oskar-fischingers-117th-birthday&quot;&gt;
+    In the world of design, Fischinger is a towering figure, especially in the areas of motion graphics and animation.&amp;nbsp; He is best known for his ability to
+    combine impeccably synchronized abstract visuals with musical accompaniment, each frame carefully drawn or photographed by hand.&amp;nbsp; A master of motion
+    and color, Fischinger spent months &amp;#8212; sometimes years &amp;#8212; planning and handcrafting his animations.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Not only was Fischinger behind the effects on several movies &amp;#8212; including, Fritz Lang's 1929 Woman in the Moon &amp;#8212; he invented the
+  Lumigraph&amp;hellip;&amp;nbsp; A device that generates chromatic displays with hand movements.&amp;nbsp; Hong says:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/22/thanks-to-todays-musical-google-doodle-in-honour-of-the-animator-oskar-fischinger-no-works-getting-done/#cite-oskar-fischingers-117th-birthday&quot;&gt;
+    Unsatisfied with traditional media, he also invented a contraption, the Lumigraph, for generating fantastic chromatic displays with hand movements &amp;#8212; a
+    sort of optical painting in motion and a precursor to the interactive media and multi-touch games of today.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Fischinger's work to this day remains near-impossible to replicate &amp;#8212; dancing the line between absolute precision and a human touch.&amp;nbsp; Today's Google
+  Doodle's meant to pay homage to his work, while letting you get a taste of what it's like to compose your own visual music.
+&lt;/p&gt;
+&lt;p&gt;
+  When clicking upon Google's logo, you'll be taken to an interface which operates much like a simple music sequencer.&amp;nbsp; There are 4 instruments to choose
+  from.&amp;nbsp; As you click on diamonds, to activate notes, it plays back a loop of your 16-beat melody in real-time &amp;#8212; with colourful shapes, dancing
+  around your display.&amp;nbsp; You can adjust the key, the tempo, and add effects &amp;#8212; bitcrusher, delay, phaser &amp;#8212; from within the side-bar.&amp;nbsp; There
+  are preset packs, as a bonus.
+&lt;/p&gt;
+&lt;p&gt;
+  The interface makes it easy to create atmospheric, flowing, and trippy melodies in Fischinger's style within a matter of minutes &amp;#8212; even, without any
+  prior musical knowledge.&amp;nbsp; Combined with the built-in visuals, it's incredibly mesmerizing &amp;#8212; almost therapeutic.&amp;nbsp; When you're done with your
+  creation, you save and share it &amp;#8212; you're going to want to.
+&lt;/p&gt;
+&lt;p&gt;
+  At 66 years old, in 1967, Fischinger passed away in Los Angeles.&amp;nbsp; However, his legacy's felt to this very day.&amp;nbsp; The artist's daughter spoke to
+  Google about the project, saying:
+  &lt;blockquote&gt;
+    I feel incredibly proud of my family and am delighted to be the daughter of Oskar and Elfriede Fischinger.&amp;nbsp; It means so much to me to see this
+    celebration of my father's art.&amp;nbsp; It's wonderful to know that his work, which has been steadily praised since the 1920s, will continue to receive
+    worldwide recognition.
+  &lt;/blockquote&gt;
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="Art" /><summary type="html">Today's Google Doodle honours what would've been the 117th birthday of, German-American abstract artist, Oskar Fischinger. In Hitler's Germany, Fischinger's musical animations were deemed to be &amp;quot;degenerate art&amp;quot;.&amp;nbsp; In 1936, when an agent from Paramount Pictures recruited him to work in America, he left for the US.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/22/thanks-to-todays-musical-google-doodle-in-honour-of-the-animator-oskar-fischinger-no-works-getting-done/hotlink-ok/innominate_1_920x613.png" /></entry><entry><title type="html">Reportedly, Marian Hossa to Miss Season and May Retire, Due to Equipment Allergy</title><link href="https://jwds1978.github.io/blog/2017/06/21/reportedly-marian-hossa-to-miss-season-and-may-retire-due-to-equipment-allergy/" rel="alternate" type="text/html" title="Reportedly, Marian Hossa to Miss Season and May Retire, Due to Equipment Allergy" /><published>2017-06-21T16:30:54-04:00</published><updated>2017-06-21T16:30:54-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/21/reportedly-marian-hossa-to-miss-season-and-may-retire-due-to-equipment-allergy</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/21/reportedly-marian-hossa-to-miss-season-and-may-retire-due-to-equipment-allergy/">&lt;p&gt;&lt;a href=&quot;http://www.espn.com/video/clip?id=19699987&quot; rel=&quot;external nofollow&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;271&quot; src=&quot;https://assets.forces.army/blog/2017/06/21/reportedly-marian-hossa-to-miss-season-and-may-retire-due-to-equipment-allergy/innominate_1_482x271.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  Marian Hossa, Chicago Blackhawks' veteran forward, career may be in jeopardy &amp;#8212; due to an allergy to his equipment.
+&lt;/p&gt;
+&lt;p&gt;
+  Hossa has, reportedly, been on medication to neutralize the allergy.&amp;nbsp; However, doctors have long-term concerns about his health should he continue to
+  take it.&amp;nbsp; This concern, may lead him into retirement.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  Statement from, Chicago Blackhawks forward, Marian Hossa:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/21/reportedly-marian-hossa-to-miss-season-and-may-retire-due-to-equipment-allergy/#cite-medical-update-on-marian-hossa&quot;&gt;
+    Over the course of the last few years, under the supervision of the Blackhawks medical staff, I have been privately undergoing treatment for a progressive
+    skin disorder and the side effects of the medications involved to treat the disorder.&amp;nbsp; Due to the severe side effects associated with those
+    medications, playing hockey is not possible for me during the upcoming 2017&amp;#8211;18 season.&amp;nbsp; While I am disappointed that I will not be able to play,
+    I have to consider the severity of my condition and how the treatments have impacted my life both on and off the ice.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Statement from Chicago Blackhawks Team Physician Dr. Michael Terry:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/21/reportedly-marian-hossa-to-miss-season-and-may-retire-due-to-equipment-allergy/#cite-medical-update-on-marian-hossa&quot;&gt;
+    Marian has been dealing with the effects of a progressive skin disorder that is becoming more and more difficult to treat and control with conventional
+    medications while he plays hockey.&amp;nbsp; Because of the dramatic nature of the medications required and their decreasing effectiveness, we strongly support
+    his decision not to play during the 2017&amp;#8211;18 season.&amp;nbsp; We feel in the most certain terms this is the appropriate approach for Marian in order to
+    keep him functional and healthy in the short term and throughout his life.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  Hossa, at 38 years old, has played 19 NHL seasons and he's coming off a 2016&amp;#8211;17 campaign that saw him register 26 goals and 19 assists for 45 points.
+&lt;/p&gt;
+&lt;p&gt;
+  He remains a productive and complementary player for the Blackhawks.&amp;nbsp; He still has four years remaining at an annual cap hit of $5,275,000 &lt;abbr title=&quot;United States Dollar&quot;&gt;USD&lt;/abbr&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  On his career, Hossa has put up numbers, worthy of the Hall of Fame, with 525 goals and 609 assists for 1,134 points.
+&lt;/p&gt;
+&lt;p&gt;
+  As well, Hossa has 149 points in 205 career playoff games.&amp;nbsp; He's won 3 Stanley Cups and has played in 5 &lt;abbr title=&quot;National Hockey League&quot;&gt;NHL&lt;/abbr&gt;
+  All-Star Games.
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="News" /><category term="Other Sports" /><summary type="html">Marian Hossa, Chicago Blackhawks' veteran forward, career may be in jeopardy &amp;#8212; due to an allergy to his equipment. Hossa has, reportedly, been on medication to neutralize the allergy.&amp;nbsp; However, doctors have long-term concerns about his health should he continue to take it.&amp;nbsp; This concern, may lead him into retirement. &amp;nbsp;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/21/reportedly-marian-hossa-to-miss-season-and-may-retire-due-to-equipment-allergy/hotlink-ok/Marian-Hossa_1086x0725.png" /></entry><entry><title type="html">Belgian Troops Shot a Terrorist During a Failed Attack on a Brussels Train Station</title><link href="https://jwds1978.github.io/blog/2017/06/20/belgian-troops-shot-a-terrorist-during-a-failed-attack-on-a-brussels-train-station/" rel="alternate" type="text/html" title="Belgian Troops Shot a Terrorist During a Failed Attack on a Brussels Train Station" /><published>2017-06-20T23:20:44-04:00</published><updated>2017-06-20T23:20:44-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/20/belgian-troops-shot-a-terrorist-during-a-failed-attack-on-a-brussels-train-station</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/20/belgian-troops-shot-a-terrorist-during-a-failed-attack-on-a-brussels-train-station/">&lt;p&gt;&lt;a href=&quot;http://globalnews.ca/video/embed/3543209&quot; rel=&quot;external nofollow&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;273&quot; src=&quot;https://assets.forces.army/blog/2017/06/20/belgian-troops-shot-a-terrorist-during-a-failed-attack-on-a-brussels-train-station/innominate_1_482x273.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  Today, in Brussels Central Station, Belgian troops shot a suspected &amp;quot;terrorist&amp;quot; bomber.&amp;nbsp; However, there were no other casualties though.&amp;nbsp;
+  The situation was brought under control, after people were evacuated, officials said.
+&lt;/p&gt;
+&lt;p&gt;
+  Eric Van Der Sypt &amp;#8212; federal prosecutor &amp;#8212; told reporters, ~3 hours after the incident, that a small blast was being treated as a &amp;quot;terrorist
+  attack&amp;quot;.&amp;nbsp; He said that the man's identity was still unknown and it was still unclear if the man was dead.&amp;nbsp; The suspect was still inside of the
+  station, he added.
+&lt;/p&gt;
+&lt;p&gt;
+  He declined to comment on witness accounts that the man had shouted Islamist slogans, including &amp;quot;Allahu Akbar&amp;quot; &amp;#8212; God is greater, in Arabic
+  &amp;#8212; before detonating a device on a luggage trolley, inside of an underground concourse, at the rail station.
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  Around about 2030, police had evacuated the station and surrounding areas of historic downtown Brussels.&amp;nbsp; While the streets had been busy, with tourists
+  and locals enjoying a hot evening, they were soon rather deserted and calm.&amp;nbsp; Rail traffic was, for the most part, suspended.
+&lt;/p&gt;
+&lt;p&gt;
+  A station employee, Nicolas Van Herrewegen, told public broadcaster &lt;abbr title=&quot;Radio T&amp;eacute;l&amp;eacute;vision Belge de la Communaut&amp;eacute;&quot;&gt;RTBF&lt;/abbr&gt;
+  that he saw a man shouting within a lower-level of the 1930s station that serves lines running under the city center.&amp;nbsp; He then appeared to yell
+  &amp;quot;Allahu Akbar&amp;quot; in Arabic and detonated something upon a luggage trolley.&amp;nbsp; Herrewegen indicated that people, standing within 3 meters of the
+  aforementioned trolley, were unhurt.
+&lt;/p&gt;
+&lt;p&gt;
+  The national alert-level was maintained, at its 2&lt;sup&gt;nd&lt;/sup&gt;-highest level, as the Prime Minister &amp;#8212; Charles Michel &amp;#8212; consulted with his security
+  advisers.
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://globalnews.ca/video/embed/3543429&quot; rel=&quot;external nofollow&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;273&quot; src=&quot;https://assets.forces.army/blog/2017/06/20/belgian-troops-shot-a-terrorist-during-a-failed-attack-on-a-brussels-train-station/innominate_2_482x273.png&quot; style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;482&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Home to the headquarters of &lt;abbr title=&quot;North Atlantic Treaty Organization&quot;&gt;NATO&lt;/abbr&gt; and the European Union, the Belgian capital's been on high-alert,
+  since a Brussels-based Islamic State cell launched an attack killing 130 people in Paris during November 2015.&amp;nbsp; A mere 4 months later, associates of
+  those attackers, killed 32 people in their home city &amp;#8212; including, bombs loaded on trolleys, at Brussels Airport.
+&lt;/p&gt;
+&lt;p&gt;
+  Since the Paris attacks, combat-troops have been a fixture, at transport hubs and within primary public areas.&amp;nbsp; A series of further attacks, within
+  neighbouring France and Germany over the past year &amp;#8212; as well as, recent bloodshed, in London and Manchester &amp;#8212; have added to the anxiety.
+&lt;/p&gt;
+&lt;p&gt;
+  Jean-Michel Michel, the station-master, was quoted by &lt;abbr title=&quot;La Derni&amp;egrave;re Heure&quot;&gt;DH&lt;/abbr&gt; newspaper as having said:
+  &lt;blockquote&gt;
+    We heard the explosion.&amp;nbsp; My colleague thought it was a bomb.&amp;nbsp; The explosion was on the mezzanine level.&amp;nbsp; The man went down to platforms 3 and
+    4.&amp;nbsp; He said &amp;quot;Allahu Akbar&amp;quot;&lt;br /&gt;
+    &amp;nbsp;&lt;br /&gt;
+    &amp;hellip;&lt;br /&gt;
+    &amp;nbsp;&lt;br /&gt;
+    I would put him at about 35 years old.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Prosecutor, Van Der Sypt, said:
+  &lt;blockquote&gt;
+    At about 08:30 &lt;abbr title=&quot;Post Meridiem&quot;&gt;PM&lt;/abbr&gt; there was an explosion in the Central Station, relatively small in size.&lt;br /&gt;
+    &amp;nbsp;&lt;br /&gt;
+    The suspected perpetrator was neutralized by the soldiers present.&amp;nbsp; We cannot confirm if the man is still alive or dead.&amp;nbsp; There were no further
+    victims.&amp;nbsp; We consider this a terrorist attack.
+  &lt;/blockquote&gt;
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="News" /><category term="The Suck" /><summary type="html">Today, in Brussels Central Station, Belgian troops shot a suspected &amp;quot;terrorist&amp;quot; bomber.&amp;nbsp; However, there were no other casualties though.&amp;nbsp; The situation was brought under control, after people were evacuated, officials said. Eric Van Der Sypt &amp;#8212; federal prosecutor &amp;#8212; told reporters, ~3 hours after the incident, that a small blast was being treated as a &amp;quot;terrorist attack&amp;quot;.&amp;nbsp; He said that the man's identity was still unknown and it was still unclear if the man was dead.&amp;nbsp; The suspect was still inside of the station, he added. He declined to comment on witness accounts that the man had shouted Islamist slogans, including &amp;quot;Allahu Akbar&amp;quot; &amp;#8212; God is greater, in Arabic &amp;#8212; before detonating a device on a luggage trolley, inside of an underground concourse, at the rail station.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/20/belgian-troops-shot-a-terrorist-during-a-failed-attack-on-a-brussels-train-station/hotlink-ok/innominate_3_0768x1024.png" /></entry><entry><title type="html">Don’t Get Hit by the 10KHits Traffic Exchange</title><link href="https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/" rel="alternate" type="text/html" title="Don't Get Hit by the 10KHits Traffic Exchange" /><published>2017-06-17T02:08:23-04:00</published><updated>2017-07-01T03:40:13-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/">&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;359&quot; src=&quot;https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/increase-traffic_increase-sales_increase-profit_482x359.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+  Given that you're here, reading this post, you're already familiar with one of the harsh realities of marketing online &amp;#8212; or, anywhere
+  really&amp;hellip;&amp;nbsp; Without Web traffic, you don't stand much of a chance at making money.
+&lt;/p&gt;
+&lt;p&gt;
+  It doesn't matter how great the quality of the solution that you have is, you won't make any money if you don't generate traffic &amp;#8212; period.&amp;nbsp; How do
+  you make money providing a solution, when the people in need of that solution are unable to find you?
+&lt;/p&gt;
+&lt;p&gt;
+  Some people have ideas, products, and/or solutions that they'd like to recommend.&amp;nbsp; However, they don't have the audience to recommend these things to
+  though. &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; is one of numerous programs available that offer to provide traffic to your
+  Web site.&amp;nbsp; Is this the ideal solution that you're looking for?&amp;nbsp; Perhaps &amp;#8212; perhaps, not&amp;hellip;
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;whats-10khits&quot;&gt;
+  What's 10KHits?
+&lt;/h3&gt;
+&lt;p&gt;
+  As per their Web site:
+  &lt;blockquote cite=&quot;https://www.10khits.com/about-us&quot;&gt;
+    &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; is the leading traffic exchange service that empowers thousands of
+    webmasters with unlimited real human visitors to their websites &amp;#8212; no bots.&amp;nbsp; With &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt;, users can receive hundreds of thousands of hits to their websites, get
+    more conversions, boost their website's Alexa rank and increase their website's value.&amp;nbsp; Signing up is easy and does not require a credit card.&amp;nbsp;
+    There's no catch to it either, it's 100% free to use!&amp;nbsp; We do offer affordable account upgrades starting at $10/month which unlocks the white-label
+    traffic and geo-targeting features + more.&amp;nbsp; We also offer booster packs starting at $7/month for 50,000 extra points and $4/month for 10 extra &lt;abbr title=&quot;Uniform Resource Locator&quot;&gt;URL&lt;/abbr&gt; slots.&amp;nbsp; &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; is the de facto standard traffic exchange for webmasters, small business
+    owners and traffic resellers who want scalable and on-demand results for their websites and clients.&amp;nbsp; &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; has everything you need to keep you and your clients happy.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;264&quot; src=&quot;https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/exchanger_482x264.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;hows-it-work&quot;&gt;
+  How's it Work?
+&lt;/h3&gt;
+&lt;p&gt;
+  Let's break this down &amp;#8212; Barney-style&amp;hellip;&amp;nbsp; It's a networking Web site, wherein members click and view ads, and receive other people's clicks and
+  views in-return.&amp;nbsp; Essentially, you aren't going to be getting any real Web traffic that could convert.&amp;nbsp; All that you're getting, are other members
+  from the platform, clicking on your Web site &amp;#8212; because, they have to do so.
+&lt;/p&gt;
+&lt;p&gt;
+  The first thing that you'll need to do after creating your account, and filling out your profile, is to download their exchanger software.
+  &lt;blockquote cite=&quot;https://www.10khits.com/#features&quot;&gt;
+    The exchanger lets you continuously surf and earn points without any interruptions, pop ups or frame breakers.&amp;nbsp; The exchanger is a well-rounded
+    application with a nimble dashboard that will get you earning your first points and receiving visitors to your website instantly!
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Basically, you earn traffic points for every &amp;times;-second visit.&amp;nbsp; These traffic points allow for you to create your own ad campaigns &amp;#8212; leading
+  people back to your own Web site.&amp;nbsp; That's, primarily, the essence of it.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;their-claimed-benefits&quot;&gt;
+  Their Claimed Benefits
+&lt;/h3&gt;
+&lt;p&gt;
+  The so-called benefits of &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt;:
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;Boost Your Alexa Rank:&lt;/span&gt;&amp;nbsp; I've, yet to understand, people's obsession with Alexa rankings.&amp;nbsp; Their claim
+      that &amp;quot;Alexa rank is a site's traffic rank compared to all other sites on the Web&amp;quot; is unequivocally flawed &amp;#8212; wrong, even!&amp;nbsp; Alexa
+      rankings are calculated based upon the number of people that have the Alexa toolbar installed &amp;#8212; and, active &amp;#8212; within their Web browser.&amp;nbsp;
+      Granted, more visitors will improve your Alexa rank&amp;hellip;&amp;nbsp; But, how does an improved Alexa rank without sales, help you and/or your business?
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;Increase Web Site Value:&lt;/span&gt;&amp;nbsp; As somebody who's sold a few Web sites over the years, I can say, this type of
+      low-quality traffic won't increase the value of your Web site in any way&amp;hellip;&amp;nbsp; Especially, when the Web site's not making any money.
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;Lower Bounce Rate:&lt;/span&gt;&amp;nbsp; Most definitely, this will largely increase your bounce rate &amp;#8212; not lower decrease
+      it.&amp;nbsp; The people viewing your Web site don't care about it.&amp;nbsp; They just want to be there for &amp;times; seconds, get their points, and be on their
+      way.
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;No Footprints:&lt;/span&gt;&amp;nbsp; This seems rather black-hat to me.&amp;nbsp; Regardless, I'll not say too much regarding
+      it.&amp;nbsp; While you can hide your traffic sources should you want to, isn't the whole point of wanting traffic, to make money off of whatever you're
+      offering.&amp;nbsp; How does disguising and/or otherwise masking your Web traffic sources help you to achieve that?
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;Real Human Visitors:&lt;/span&gt;&amp;nbsp; Yes, these are real human beings that'll be visiting your Web site.&amp;nbsp; However,
+      are you looking for human beings that click on your Web site solely because they have to, or human beings that actually want to interact with your Web
+      site?&amp;nbsp; How does someone whom only clicks on your Web site to earn &amp;quot;traffic points&amp;quot; help to make you money?
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;Sky-Rocket Web Stats:&lt;/span&gt;&amp;nbsp; If you set your own ad campaigns for 20&amp;#8211;60 seconds, people will only stay
+      there for that long &amp;#8212; they have to.&amp;nbsp; Their staying for that long doesn't really increase your chances of making a sale.&amp;nbsp; Let's be
+      honest&amp;hellip;&amp;nbsp; Do you really think that they're actually reading and/or taking-in the content of your Web site?
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  The stark truth, is that these members are as much marketers as you.&amp;nbsp; All of you are wanting the same thing&amp;hellip;&amp;nbsp; You want traffic points &amp;#8212;
+  they want traffic points.&amp;nbsp; That's why all of this clicking is even going on.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;75&quot; src=&quot;https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/thumb-up_75x75.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;75&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;the-pro&quot;&gt;
+  The Pro
+&lt;/h3&gt;
+&lt;p&gt;
+  On the surface, having traffic should be a good thing&amp;hellip;&amp;nbsp; If what you want, is simply for people to just visit your Web site &amp;#8212; and, you don't
+  care if they're low-quality and/or non-targeted traffic &amp;#8212; &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; is the place for you.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;125&quot; src=&quot;https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/thumb-down_125x125.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;125&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;the-cons&quot;&gt;
+  The Cons
+&lt;/h3&gt;
+&lt;p&gt;
+  You may be considering &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt;, thinking that you're getting real traffic to your Web site.&amp;nbsp; In
+  actuality, all that you're getting, are some of &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; members clicking on the ads which you'd posted to their network.
+&lt;/p&gt;
+&lt;p&gt;
+  Aside from the poor quality of the Web traffic, there's the challenge of getting people to even click your ad in the first place.&amp;nbsp; There's nothing which
+  you can do in order to make your ad stand-out from the rest of the pack.&amp;nbsp; So, what if people don't click on yours?
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;206&quot; src=&quot;https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/Google-Penalty_482x206.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;
+  Your Web Site May &amp;#8212; and, Likely Will &amp;#8212; Get Hurt
+&lt;/h4&gt;
+&lt;p&gt;
+  That's correct&amp;hellip;&amp;nbsp; You went to &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; to improve your business, but it will more than likely hurt your Web site
+  instead.
+&lt;/p&gt;
+&lt;p&gt;
+  Search engines (i.e. &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-webmaster-guidelines-bing-webmaster-tools&quot; rel=&quot;me&quot; title=&quot;Webmaster Guidelines - Bing Webmaster Tools&quot;&gt;Bing&lt;/a&gt;, &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-webmaster-guidelines-search-console-help&quot; rel=&quot;me&quot; title=&quot;Webmaster Guidelines - Search Console Help&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-content-quality-guidelines-yahoo-help-sln2245&quot; rel=&quot;me&quot; title=&quot;Content quality guidelines | Yahoo Help - SLN2245&quot;&gt;Yahoo&lt;/a&gt;, etc.) consider metrics such as bounce-rate when they're trying to determine
+  rankings.&amp;nbsp; If a lot of people visit to your Web site, spend a mere mattr of seconds and leave without interacting with any other Web pages, what's that
+  indicate to search engines about your Web site?
+&lt;/p&gt;
+&lt;p&gt;
+  It tells them that your Web site doesn't provide any real value to your visitors.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;150&quot; src=&quot;https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/member_175x150.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;175&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;membership&quot;&gt;
+  Membership
+&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; offers a few member-levels:
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;Free:&lt;/span&gt;&amp;nbsp; 100 traffic points, one time, upon signing-up.
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;Pro:&lt;/span&gt;&amp;nbsp; $10 USD per month &amp;#8212; 50,000 monthly traffic points.
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;span style=&quot;font-weight: bolder;&quot;&gt;Business:&lt;/span&gt;&amp;nbsp; $29 USD per month &amp;#8212; 200,000 monthly traffic points.
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  They have supplemental booster packs as well.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  Although &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/#cite-10khits-traffic-exchange-free-website-traffic-to-your-site&quot; rel=&quot;me&quot; title=&quot;10KHits Traffic Exchange: Free Website Traffic to Your Site&quot;&gt;10KHits&lt;/a&gt; does drive traffic to your Web site, the traffic's of a rather poor quality,
+  and won't lead to an increase in revenue.
+&lt;/p&gt;
+&lt;p&gt;
+  Rather than spending your time and money trying to get non-targeted people to your Web site, why not join an online business-oriented community where you
+  could learn some &lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt; techniques that would bring you free targeted traffic?&amp;nbsp; Personally, I've not really
+  had to seek-out traffic surces&amp;hellip;&amp;nbsp; Generally speaking, traffic organically finds its way to me.
+&lt;/p&gt;
+&lt;p&gt;
+  Case-in-point&amp;hellip;&amp;nbsp; How did you arrive here, upon my Web site, reading this posting?
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="How to" /><summary type="html">Given that you're here, reading this post, you're already familiar with one of the harsh realities of marketing online &amp;#8212; or, anywhere really&amp;hellip;&amp;nbsp; Without Web traffic, you don't stand much of a chance at making money. It doesn't matter how great the quality of the solution that you have is, you won't make any money if you don't generate traffic &amp;#8212; period.&amp;nbsp; How do you make money providing a solution, when the people in need of that solution are unable to find you? Some people have ideas, products, and/or solutions that they'd like to recommend.&amp;nbsp; However, they don't have the audience to recommend these things to though. 10KHits is one of numerous programs available that offer to provide traffic to your Web site.&amp;nbsp; Is this the ideal solution that you're looking for?&amp;nbsp; Perhaps &amp;#8212; perhaps, not&amp;hellip;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/17/dont-get-hit-by-the-10khits-traffic-exchange/hotlink-ok/10k-Hits_720x420.png" /></entry><entry><title type="html">Estranged Father Diagnosed with Terminal Cancer</title><link href="https://jwds1978.github.io/blog/2017/06/13/estranged-father-diagnosed-with-terminal-cancer/" rel="alternate" type="text/html" title="Estranged Father Diagnosed with Terminal Cancer" /><published>2017-06-13T00:42:01-04:00</published><updated>2017-06-13T13:31:29-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/13/estranged-father-diagnosed-with-terminal-cancer</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/13/estranged-father-diagnosed-with-terminal-cancer/">&lt;!--sse--&gt;
+&lt;!--
+  ~ NAME «» ALIAS
+  ~
+  ~ Rischke, Tyson Leigh «» Bruno, Oscar
+  ~ Stewart, Ronald James Archibald «» Archer, Karl
+  --&gt;
+&lt;!--/sse--&gt;
+&lt;p&gt;
+  Let me start this with a little back-story&amp;hellip;
+&lt;/p&gt;
+&lt;p&gt;
+  I've been estranged &amp;#8212; or, rather, alienated &amp;#8212; from my family for the vast majority of my life.&amp;nbsp; My entire life, for as long as I can
+  remember, both parents have &amp;#8212; significantly &amp;#8212; favoured my sister over me.&amp;nbsp; Between &amp;frac23; and &amp;frac34; of mothers have a favourite child
+  &amp;#8212; in my family it's, without doubt, my sister.&amp;nbsp; I grew up in a somewhat abusive household.&amp;nbsp; Primarily, my father being abusive with my
+  mother.&amp;nbsp; Moreover, my life had taken an unwarranted &amp;#8212; and, wrongful &amp;#8212; turn for the worse, as a direct result of my sister's actions.
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  For me, my family relations have been rather toxic; at best.&amp;nbsp; The dynamics of my family metastasized into a toxic resentment.&amp;nbsp; Over the years, I've
+  made several overt efforts to rebuild some sort of a relationship with my family.&amp;nbsp; However, nothing ever really changed&amp;hellip;&amp;nbsp; At least, not for
+  the better anyhow.&amp;nbsp; Hell, I'd gone as far as moving back to the same city as my parents.&amp;nbsp; And, while they didn't hesitate to spend 20+ hours a day
+  at my sister's, they couldn't even be bother to call me &amp;#8212; let alone, actually come to visit me.
+&lt;/p&gt;
+&lt;p&gt;
+  I'd listen to my parents when they told me that they wanted to reconcile with me, that they were sorry, etc.&amp;nbsp; But, their behaviour towards me never
+  changed though.&amp;nbsp; Each time, I set myself up to get further hurt by them.&amp;nbsp; While I'd given my sister an open-invitation to contact me whenever she
+  saw fit, it never happened.&amp;nbsp; My mom once told me, that she'd told her it was because she was afraid of getting close to me, for me to move away
+  again.&amp;nbsp; Although I can't speak to whether or not my sister had actually told my mom such thing, if she had, quite frankly, I'd say it's a load of fucking
+  shit.&amp;nbsp; I'd think that, more than likely, my sister feels guilty for &amp;#8212; undeservingly &amp;#8212; destroying my life, as she had, all those years ago.
+&lt;/p&gt;
+&lt;p&gt;
+  Eventually, I came to a point in my life, where I decided to simply sever all ties with my so-called &amp;quot;family&amp;quot;.&amp;nbsp; I know what I know, have facts
+  to go on, and made my decision.&amp;nbsp; I've never looked back.&amp;nbsp; Admittedly, it wasn't the easiest of choices, but I've always felt confident about it
+  nonetheless.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  Over the years, people have often asked me if I'd ever considered trying to rebuild my relationship with my family.&amp;nbsp; Neighbours, parents of my friends,
+  my in-laws, and even my wife (when I was married) have at one point asked me this very personal and rather insulting question.&amp;nbsp; Insulting, because by
+  their asking, would seem as though they thought that I'd made the wrong decision&amp;hellip;&amp;nbsp; I know that I didn't.
+&lt;/p&gt;
+&lt;p&gt;
+  In recent years, I've not considered forming even the tiniest of connections with my family.&amp;nbsp; I've not felt as though I was missing out on
+  anything.&amp;nbsp; Hell, I'd even go as far as saying that they're not people whom I give a damn about.&amp;nbsp; Moreover, it wasn't until 08 May 2017, when a
+  former friend contacted me via Facebook, that I'd given any thought to them.&amp;nbsp; His message to me was:
+  &lt;blockquote&gt;
+    Hey just got a message for you&lt;br /&gt;
+    &amp;nbsp;&lt;br /&gt;
+    &amp;nbsp;&lt;br /&gt;
+    Hi Oscar,&lt;br /&gt;
+    If you are still in contact with Jamie please have him call home.&amp;nbsp; Karl is not well and time is of the essence.&amp;nbsp; Our phone number is
+    &amp;times;&amp;times;&amp;times;-&amp;times;&amp;times;&amp;times;-&amp;times;&amp;times;&amp;times;&amp;times;.&amp;nbsp; Thanks
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Although my sister had also sent me a message via Facebook Messenger on 10 May 2017, I didn't readily notice it, as it had been filtered to the &amp;quot;Message
+  Requests&amp;quot; part of Facebook.&amp;nbsp; At the time, I didn't have the Facebook app istalled on my mobile device.&amp;nbsp; So, I wasn't aware of her message until
+  just a few days ago.&amp;nbsp; Her message to me:
+  &lt;blockquote&gt;
+    Hey Dad has terminal cancer.&amp;nbsp; He wants to talk to you.&amp;nbsp; Their number hasnt changed.&amp;nbsp; Please call him
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;238&quot; src=&quot;https://assets.forces.army/blog/2017/06/13/estranged-father-diagnosed-with-terminal-cancer/why-im-thankful-for-my-estranged-father_482x238.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+  Until the last few weeks, I didn't dwell on the things that my family had chosen to do in their lives.&amp;nbsp; After all, we were estranged, and lived on
+  separate planets.&amp;nbsp; Recently, I've thought about and picked apart all of the horrible things that my family has done as people, as members of society
+  &amp;#8212; but, most importantly &amp;#8212; as family, with renewed eyes.&amp;nbsp; Their negative actions have taught me so much, about how not to be as a human, that
+  it fuels me to be as good of a person as I can be.
+&lt;/p&gt;
+&lt;p&gt;
+  For this, I'm thankful.&amp;nbsp; By no means am I perfect, and I may not always get it right, but I get up every morning and I do the best that I can with a
+  moral compass.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  Realistically, I don't foresee anything good coming from dashing-off for a &amp;quot;death-bed reconciliation&amp;quot;.&amp;nbsp; Life's hard &amp;#8212; all around.&amp;nbsp;
+  I've got my own immediate problems and shit to deal with and/or work-out.&amp;nbsp; Things don't always work-out the way that we'd like&amp;hellip;&amp;nbsp; So, be
+  it.&amp;nbsp; With that said, I've got some mixed emotions.&amp;nbsp; I suppose that I should feel something &amp;#8212; expectations dictate that I should.&amp;nbsp;
+  Perhaps, I should go see him before he dies.&amp;nbsp; Why though?&amp;nbsp; It hadn't mattered before.
+&lt;/p&gt;
+&lt;p&gt;
+  In all honesty, it's fucking annoying.&amp;nbsp; My life interrupted, for this announcement, just enough to stir-up long since buried and made-peace-with
+  issues.&amp;nbsp; Just enough, to remind me of my family loss.&amp;nbsp; Just enough, to raise questions within my heart again.&amp;nbsp; Just enough, to remind me of
+  what I'd not had.&amp;nbsp; Just enough, to piss me right-the-fuck off that I &amp;#8212; for the most part &amp;#8212; never really had a family.&amp;nbsp; Just enough, to
+  remind me how envious that I am of those whom had family and really mourned their passing.
+&lt;/p&gt;
+&lt;p&gt;
+  He's sick.&amp;nbsp; I'm sorry to hear it.&amp;nbsp; Hopefully, he feels better soon &amp;#8212; I don't, particularly, wish him any ill-will.&amp;nbsp; But, that stranger
+  walking down the street &amp;#8212; they're sick too &amp;#8212; and, I wish them equally well.&amp;nbsp; They could have been in my life, but in their actions, they'd
+  chosen not to be.&amp;nbsp; I wish that I could put into words how I truly feel, but the words escape me though.
+&lt;/p&gt;
+&lt;p&gt;
+  By this point, I don't even know one way or the other&amp;hellip;&amp;nbsp; He may be alive, he may be dead&amp;hellip;&amp;nbsp; He may be in remission, he may have already
+  been buried or WTFever.&amp;nbsp; My parents have both been blocked on Facebook, for quite some time now, and I'd proceeded to block my sister upon reading her
+  message.
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="Family" /><category term="Opinionated" /><category term="Relationship" /><category term="Self" /><category term="The Stupid" /><category term="The Suck" /><summary type="html">Let me start this with a little back-story&amp;hellip; I've been estranged &amp;#8212; or, rather, alienated &amp;#8212; from my family for the vast majority of my life.&amp;nbsp; My entire life, for as long as I can remember, both parents have &amp;#8212; significantly &amp;#8212; favoured my sister over me.&amp;nbsp; Between &amp;frac23; and &amp;frac34; of mothers have a favourite child &amp;#8212; in my family it's, without doubt, my sister.&amp;nbsp; I grew up in a somewhat abusive household.&amp;nbsp; Primarily, my father being abusive with my mother.&amp;nbsp; Moreover, my life had taken an unwarranted &amp;#8212; and, wrongful &amp;#8212; turn for the worse, as a direct result of my sister's actions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/13/estranged-father-diagnosed-with-terminal-cancer/hotlink-ok/innominate_1_950x495.png" /></entry><entry><title type="html">The Enemy Within</title><link href="https://jwds1978.github.io/blog/2017/06/08/the-enemy-within/" rel="alternate" type="text/html" title="The Enemy Within" /><published>2017-06-08T08:14:55-04:00</published><updated>2017-06-08T08:14:55-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/08/the-enemy-within</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/08/the-enemy-within/">&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;482&quot; src=&quot;https://assets.forces.army/blog/2017/06/08/the-enemy-within/innominate_1_322x482.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;322&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+  In recent months, there has been a great deal of information and reports in the media, about the increase in suicide for soldiers and veterans.&amp;nbsp; Military
+  sources have also confirmed dramatic increases in post-traumatic stress disorder (PTSD) among returning veterans.&amp;nbsp; Most experts contend that these rates
+  of depression, &lt;abbr title=&quot;Post-Traumatic Stress Disorder&quot;&gt;PTSD&lt;/abbr&gt;, and suicide will continue to rise in the coming years &amp;#8212; the government lacks
+  the capacity to, adequately, meet the needs of returning military and veterans.&amp;nbsp; This means that these individuals will look beyond the government and
+  increasingly turn to both public and private providers for their mental health care.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;between-the-ears&quot;&gt;
+  Between the Ears
+&lt;/h3&gt;
+&lt;p&gt;
+  Produced by Eleanor McDowall with Matthew Green:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/08/the-enemy-within/#cite-between-the-ears&quot;&gt;
+    What happens when your home turns into a combat zone?&amp;nbsp; When the sound of children playing, a kettle whistling, or a car backfiring transports your
+    loved one back to a killing ground in Afghanistan or Iraq?&lt;br /&gt;
+    &amp;nbsp;&lt;br /&gt;
+    Night terrors, flashbacks and the hidden cost of war &amp;#8212; this Between the Ears explores the inner lives of women who care for former service personnel
+    suffering from post-traumatic stress disorder (PTSD).&lt;br /&gt;
+    &amp;nbsp;&lt;br /&gt;
+    We hear a delicate and often wrenching patchwork of audio diaries and interviews recorded in kitchens, living rooms and bedrooms at moments when couples hit
+    breaking point or encounter unexpected moments of tenderness.&amp;nbsp; This fierce and intimate portrait reveals the true impact of military campaigns on
+    British families &amp;#8212; and the sacrifices made by a generation of women who refuse to give up on the soldiers they love.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;canadas-military-lost-more-soldiers-to-suicide&quot;&gt;
+  Canada's Military Lost More Soldiers to Suicide
+&lt;/h3&gt;
+&lt;p&gt;
+  Canada's military is under pressure to do more, to look after the mental health of its soldiers, after new statistics show that the armed forces have lost
+  more personnel to suicide than those killed in combat in Afghanistan.
+&lt;/p&gt;
+&lt;p&gt;
+  NDP MP Jack Harris said that the &amp;quot;shocking&amp;quot; numbers should prompt the government to &amp;quot;redouble&amp;quot; its efforts to assist soldiers in need of
+  help.&amp;nbsp; In an interview, Harris said:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/08/the-enemy-within/#cite-suicide-cclaims-more-soldiers-than-those-killed-by-afghan-combat&quot;&gt;
+    It underscores the complaints that soldiers have been making, that families have been making, that this is a real problem that is not being fully addressed.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;heartmath-for-military-personnel&quot;&gt;
+  HeartMath for Military Personnel
+&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/08/the-enemy-within/#cite-heartmath-resilience-programs-for-military-personnel&quot; rel=&quot;me&quot; title=&quot;HeartMath: Resilience Programs for Military Personnel&quot;&gt;HeartMath resilience training&lt;/a&gt; incorporates research-based self-regulation techniques and
+  technologies to improve mental performance and decision making in adverse environments, increase resilience, and reduce stress symptoms in a wide range of
+  contexts.&amp;nbsp; Backed by experience, research, and science, HeartMath's programs are tailored to fit the tactical requirements during every phase of military
+  life.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;heartmath-for-health-professionals&quot;&gt;
+  HeartMath for Health Professionals
+&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/08/the-enemy-within/#cite-heartmath-clinical-programs-for-health-professionals&quot; rel=&quot;me&quot; title=&quot;HeartMath: Clinical Programs for Health Professionals&quot;&gt;Training and technologies&lt;/a&gt; to develop self-regulation skills, improve cognitive functions,
+  lower health care costs, and reduce &lt;abbr title=&quot;Post-Traumatic Stress Disorder&quot;&gt;PTSD&lt;/abbr&gt; and operational stress symptoms.&amp;nbsp; Backed by extensive
+  experience, research, and science, HeartMath offers the health professional effective technologies and methodologies to use with military personnel and
+  veterans.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;ptsd-fact-sheet&quot;&gt;
+  &lt;abbr title=&quot;Post-Traumatic Stress Disorder&quot;&gt;PTSD&lt;/abbr&gt; Fact Sheet
+&lt;/h3&gt;
+&lt;p&gt;
+  Today, there are good treatments available for &lt;abbr title=&quot;Post-Traumatic Stress Disorder&quot;&gt;PTSD&lt;/abbr&gt;.&amp;nbsp; When you have &lt;abbr title=&quot;Post-Traumatic Stress Disorder&quot;&gt;PTSD&lt;/abbr&gt;, dealing with the past can be hard.&amp;nbsp; Instead of telling others how you feel, you may keep your
+  feelings bottled-up.&amp;nbsp; But, talking with a therapist can help you get better.
+&lt;/p&gt;
+&lt;p&gt;
+  Cognitive-behavioural therapy (CBT) is one type of counseling.&amp;nbsp; It appears to be the most effective type of counseling for &lt;abbr title=&quot;Post-Traumatic Stress Disorder&quot;&gt;PTSD&lt;/abbr&gt;.&amp;nbsp; There are different types of cognitive behavioural therapies &amp;#8212; such as, cognitive therapy
+  and exposure therapy.&amp;nbsp; There's also a similar kind of therapy, called eye movement desensitization and reprocessing (EMDR), that's used for &lt;abbr title=&quot;Post-Traumatic Stress Disorder&quot;&gt;PTSD&lt;/abbr&gt;.&amp;nbsp; Medications have also been shown to be effective.&amp;nbsp; A type of drug known as a selective
+  serotonin reuptake inhibitor (SSRI), which is also used for depression, is effective for &lt;abbr title=&quot;Post-Traumatic Stress Disorder&quot;&gt;PTSD&lt;/abbr&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;covering-war&quot;&gt;
+  Covering War
+&lt;/h3&gt;
+&lt;p&gt;
+  Pulitzer Prize winner, Chris Hedges, spent decades as a war correspondent for the New York Times and other publications before the suffering he witnessed
+  became too much to bear.
+&lt;/p&gt;
+&lt;p&gt;
+  Now, he's minister of social witness and prison ministry at the Second Presbyterian Church, a popular public speaker, and an author and freelance columnist
+  who doesn't shy away from controversy.
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="MyCAF" /><category term="Opinionated" /><category term="Relationship" /><category term="Self" /><category term="The Suck" /><summary type="html">In recent months, there has been a great deal of information and reports in the media, about the increase in suicide for soldiers and veterans.&amp;nbsp; Military sources have also confirmed dramatic increases in post-traumatic stress disorder (PTSD) among returning veterans.&amp;nbsp; Most experts contend that these rates of depression, PTSD, and suicide will continue to rise in the coming years &amp;#8212; the government lacks the capacity to, adequately, meet the needs of returning military and veterans.&amp;nbsp; This means that these individuals will look beyond the government and increasingly turn to both public and private providers for their mental health care. &amp;nbsp; Between the Ears Produced by Eleanor McDowall with Matthew Green: What happens when your home turns into a combat zone?&amp;nbsp; When the sound of children playing, a kettle whistling, or a car backfiring transports your loved one back to a killing ground in Afghanistan or Iraq? &amp;nbsp; Night terrors, flashbacks and the hidden cost of war &amp;#8212; this Between the Ears explores the inner lives of women who care for former service personnel suffering from post-traumatic stress disorder (PTSD). &amp;nbsp; We hear a delicate and often wrenching patchwork of audio diaries and interviews recorded in kitchens, living rooms and bedrooms at moments when couples hit breaking point or encounter unexpected moments of tenderness.&amp;nbsp; This fierce and intimate portrait reveals the true impact of military campaigns on British families &amp;#8212; and the sacrifices made by a generation of women who refuse to give up on the soldiers they love.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/08/the-enemy-within/hotlink-ok/the-enemy-within_635x358.png" /></entry><entry><title type="html">Facing the Fog of War Through a Fog of Drugs</title><link href="https://jwds1978.github.io/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/" rel="alternate" type="text/html" title="Facing the Fog of War Through a Fog of Drugs" /><published>2017-06-07T15:52:01-04:00</published><updated>2017-06-07T15:52:01-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/">&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;371&quot; src=&quot;https://assets.forces.army/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/dependence_482x371.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;482&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+  I watched as 40 Afghanistan and Iraq veterans led an anti-war march to the gates of the NATO summit in Chicago &amp;#8212; handing back their medals.&amp;nbsp; At the
+  rally, they described the toll that the wars had taken on the troops &amp;#8212; as well as, the people of Iraq and Afghanistan &amp;#8212; and demanded their
+  &amp;quot;right to heal&amp;quot;.&amp;nbsp; Chief among the problems on their minds, were post-traumatic stress disorder, suicide, and psychotropic drugs.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+  US veteran activist, Aaron Hughes, told Democracy Now:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/#cite-what-have-we-been-doing-decorated-veteran-aaron-hughes-to-return-war-medals-at-anti-nato-protest&quot;&gt;
+    We currently have been working on a campaign called Operation Recovery, a campaign fighting for servicemembers' and veterans' right to heal and a campaign
+    to stop the appointment of traumatized troops.&amp;nbsp; And it's really appalling that when these brothers and sisters get home and they're asking for help,
+    that the only type of help that they can get is some type of medication like trazodone, Seroquel, Klonopin, medication that's practically paralyzing,
+    medication that doesn't allow them to conduct themselves in any type of regular way.&amp;nbsp; And that's the standard operating procedures.&amp;nbsp; And yet,
+    those are the same medications that servicemembers are getting redeployed with and redeployed on and conducting military operations on.&amp;nbsp; And this is
+    the same medications that, you know, we are trying to reintegrate into the world with.&amp;nbsp; And it's &amp;#8212; the disconnect between what's happening in
+    Afghanistan and what's happened in Iraq with the daily lives of everyone here in the United States is just too vast to overcome.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  Conducting military operations &amp;#8212; on Seroquel?&amp;nbsp; There must be some mistake, I thought.&amp;nbsp; But, a little research confirmed Aaron's accounting
+  &amp;#8212; the US armed forces are increasingly marching on pharmaceuticals.&amp;nbsp; 20% of active-duty troops are on psychotropic medications, including 17% of
+  the combat troops in Afghanistan.
+&lt;/p&gt;
+&lt;p&gt;
+  Bart Billings, a former military psychologist who hosts an annual conference at Camp Pendleton on combat stress, says:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/#cite-a-fog-of-drugs-and-war&quot;&gt;
+    We have never medicated our troops to the extent we are doing now&amp;hellip;&amp;nbsp; And I don't believe the current increase in suicides and homicides in the
+    military is a coincidence.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  The results aren't pretty.&amp;nbsp; Last year, 301 active-duty soldiers took their own lives.&amp;nbsp; A 2010 US Army internal report on the suicide crisis
+  estimated that prescription drugs were involved in &amp;frac13; of soldier suicides.&amp;nbsp; Their estimate is, probably, conservative.&amp;nbsp; Rates of domestic
+  violence, murder, child abuse, and other violent crimes are also rising within military base communities throughout the nation.
+&lt;/p&gt;
+&lt;p&gt;
+  Clearly, there are multiple reasons for this epidemic.&amp;nbsp; The Afghanistan and Iraq wars, themselves, are the bedrock cause.&amp;nbsp; The stress increases as
+  soldiers are forced into 2&lt;suo&gt;nd&amp;lt;/sup&amp;gt;, 3&lt;suo&gt;rd&amp;lt;/sup&amp;gt;, and 4&lt;suo&gt;th&amp;lt;/sup&amp;gt; combat deployments.&amp;nbsp; However, the military's increasing reliance on drugs has
+  at best, failed to &amp;quot;manage&amp;quot; a grim situation &amp;#8212; and, may have made it worse.
+&amp;lt;/p&amp;gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;zoloft-and-a-rifle&quot;&gt;
+  Zoloft and a Rifle
+&lt;/h3&gt;
+&lt;p&gt;
+  Prior to 9/11, the military didn't send soldiers into combat on psychotropic drugs.&amp;nbsp; In many cases, they were a bar to even serving in the
+  military.&amp;nbsp; But, as the Afghan and Iraq conflicts expanded, and multiple combat deployments became the rule, the military embraced the idea that
+  medications could keep troops &amp;quot;deployable&amp;quot;.&amp;nbsp; Drug companies took their place in the military-industrial complex, positioning their products
+  not just as medicine for wounded veterans, but as fuel that could keep exhausted and traumatized soldiers on the battlefield.
+&lt;/p&gt;
+&lt;p&gt;
+  SSRI antidepressants became widely prescribed for symptoms of anxiety, depression, and post-traumatic stress disorder.&amp;nbsp; The evidence that this was good
+  medicine was thin.&amp;nbsp; Especially, for patients being medicated and sent back into a traumatic situation.&amp;nbsp; All of these drugs carry warnings that they
+  can cause agitation, hostility, and homicidal/suicidal impulses.&amp;nbsp; In 2007, the FDA expanded its suicide warning for children and teens to include young
+  adults aged 18&amp;#8211;24 &amp;#8212; the group that, primarily, forms the backbone of the army.
+&lt;/p&gt;
+&lt;p&gt;
+  By 2007, 1-in-7 soldiers surveyed in Afghanistan 1-in-8 in Iraq, said that they'd taken anti-depressants and/or sleeping pills.&amp;nbsp; Brown University
+  professor, David Egilman, says:
+  &lt;blockquote&gt;
+    All of these drugs increase suicide risk, which is why it's probably not good to give it to guys who carry guns.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  The careful monitoring needed to use these drugs safely, simply doesn't exist within a war zone.&amp;nbsp; While the government insisted that medicated troops
+  were only deployed after they'd been &amp;quot;stabilized&amp;quot;, many were on a plane to Afghanistan or Iraq within 4 weeks of getting their prescriptions.&amp;nbsp;
+  Soldiers suffering from acute stress in combat, have often been prescribed drugs, and returned to the front-lines within a mere 3 days.&amp;nbsp; Therapy's often
+  totally unavailable, and mental health staffing is so short, that psych evaluations and &amp;quot;monitoring&amp;quot; is often done via video conference.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;total-mental-breakdown&quot;&gt;
+  Total Mental Breakdown
+&lt;/h3&gt;
+&lt;p&gt;
+  In the FRONTLINE documentary &lt;a href=&quot;https://jwds1978.github.io/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/#cite-the-wounded-platoon&quot; rel=&quot;me&quot; title=&quot;The Wounded Platoon&quot;&gt;The Wounded Platoon&lt;/a&gt;,
+  young soldiers from Fort Carson, shared their experiences during the 2006&amp;#8211;2007 surge.&amp;nbsp; Kenny Eastridge, said:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/#cite-the-wounded-platoon&quot;&gt;
+    I was having, like, a total mental breakdown.&amp;nbsp; &amp;hellip;&amp;nbsp; They put me on all kinds of meds too, and I was still going out on missions.&amp;nbsp; They
+    had me on Ambien, Remeron, Lexapro, Celexa, all kind of different stuff.&amp;nbsp; They tried different medications at different doses and nothing would work.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  When stationed away from the base, Eastridge said that he'd run out of meds.&amp;nbsp; Medic, Ryan Krebbs, recalled:
+  &lt;blockquote cite=&quot;https://jwds1978.github.io/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/#cite-the-wounded-platoon&quot;&gt;
+    It was hard to find someone who wasn't on Ambien.&amp;nbsp; &amp;hellip;&amp;nbsp; It helps you sleep.&amp;nbsp; It also gets you pretty high.&amp;nbsp; You have trouble
+    remembering things.&amp;nbsp; It lowers your inhibitions, all that stuff.&amp;nbsp; They shouldn't give soldiers Ambien in Iraq.
+  &lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Several soldiers told FRONTLINE that their platoon became trigger-happy &amp;#8212; opening fire upon Iraqi civilians, for any reason, or even no reason at
+  all.&amp;nbsp; More recently, army doctors have found what they thought was a better fix for the insomnia, nightmares, and rages of soldiers under stress from
+  multiple deployments&amp;hellip;&amp;nbsp; Anti-psychotics &amp;#8212; primarily, Seroquel.&amp;nbsp; Government spending on Seroquel doubled from 2003&amp;#8211;2007, with
+  larger increases in demand for the highest of doses.
+&lt;/p&gt;
+&lt;p&gt;
+  Spending on Topamax, an anti-convulsant, quadrupled as military doctors added it to the cocktail for thousands of soldiers diagnosed with traumatic brain
+  injuries.&amp;nbsp; And, a rising number of active-duty troops were returned to duty on Oxycontin, Percocet, and other narcotic pain-killers.&amp;nbsp; Meanwhile, in
+  an effort to keep its medicated troops from running out of pills in-theater, the army authorized soldiers to ship-out for Afghanistan and Iraq with 180-day
+  supplies of their medications &amp;#8212; making it, all too easy, to share/swap meds and/or to take double-doses on a bad day.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;h3 id=&quot;death-comes-at-night&quot;&gt;
+  Death Comes at Night
+&lt;/h3&gt;
+&lt;p&gt;
+  In 2008, in separate incidents, 4 young veterans in West Virginia had died in their sleep &amp;#8212; from multiple drug toxicity.&amp;nbsp; Andrew White, 23 years
+  old, was on a cocktail &amp;#8212; including Klonopin, Paxil, opoid pain medications, and up to 1,600mg of Seroquel per day.&amp;nbsp; In the weeks leading up to his
+  death, Andrew gained 40 pounds and suffered from tremors, slurred speech, and disorientation.&amp;nbsp; His father, Stan White, claims to have identified 87
+  similar deaths amongst soldiers on Seroquel.
+&lt;/p&gt;
+&lt;p&gt;
+  Veterans, and their families, are rebelling against this grotesque system of &amp;quot;care&amp;quot;.&amp;nbsp; They've had some small victories, but much more is needed
+  though.&amp;nbsp; If the rest of us support their fight, for humane and effective care from the government, perhaps it could become a model for the civilian
+  mental health system we desperately need.
+&lt;/p&gt;
+&lt;/suo&gt;&lt;/suo&gt;&lt;/suo&gt;&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="MyCAF" /><category term="Opinionated" /><category term="Self" /><category term="The Suck" /><summary type="html">I watched as 40 Afghanistan and Iraq veterans led an anti-war march to the gates of the NATO summit in Chicago &amp;#8212; handing back their medals.&amp;nbsp; At the rally, they described the toll that the wars had taken on the troops &amp;#8212; as well as, the people of Iraq and Afghanistan &amp;#8212; and demanded their &amp;quot;right to heal&amp;quot;.&amp;nbsp; Chief among the problems on their minds, were post-traumatic stress disorder, suicide, and psychotropic drugs. &amp;nbsp; US veteran activist, Aaron Hughes, told Democracy Now: We currently have been working on a campaign called Operation Recovery, a campaign fighting for servicemembers' and veterans' right to heal and a campaign to stop the appointment of traumatized troops.&amp;nbsp; And it's really appalling that when these brothers and sisters get home and they're asking for help, that the only type of help that they can get is some type of medication like trazodone, Seroquel, Klonopin, medication that's practically paralyzing, medication that doesn't allow them to conduct themselves in any type of regular way.&amp;nbsp; And that's the standard operating procedures.&amp;nbsp; And yet, those are the same medications that servicemembers are getting redeployed with and redeployed on and conducting military operations on.&amp;nbsp; And this is the same medications that, you know, we are trying to reintegrate into the world with.&amp;nbsp; And it's &amp;#8212; the disconnect between what's happening in Afghanistan and what's happened in Iraq with the daily lives of everyone here in the United States is just too vast to overcome.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/07/facing-the-fog-of-war-through-a-fog-of-drugs/hotlink-ok/dependence_629x484.png" /></entry><entry><title type="html">Lest We Forget</title><link href="https://jwds1978.github.io/blog/2017/06/06/lest-we-forget/" rel="alternate" type="text/html" title="Lest We Forget" /><published>2017-06-06T16:11:58-04:00</published><updated>2017-06-06T16:11:58-04:00</updated><id>https://jwds1978.github.io/blog/2017/06/06/lest-we-forget</id><content type="html" xml:base="https://jwds1978.github.io/blog/2017/06/06/lest-we-forget/">&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;482&quot; src=&quot;https://assets.forces.army/blog/2017/06/06/lest-we-forget/never-forget_281x482.png&quot; style=&quot;border: 0px; float: right; margin-bottom: 10px; margin-left: 10px;&quot; width=&quot;281&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;font-weight: bolder; text-align: justify;&quot;&gt;
+  Remember all of those who've sacrificed &amp;#8212; in body, mind, and spirit &amp;#8212; for our freedom.&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  And, for the humanitarian protection of all those around the world!&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  Let perpetual light shine upon them.
+&lt;/p&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  It's the veteran &amp;#8212; not the preacher &amp;#8212; who has given us freedom of religion.&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  It's the veteran &amp;#8212; not the reporter &amp;#8212; who has given us freedom of the press.&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  It's the veteran &amp;#8212; not the poet &amp;#8212; who has given us freedom of speech.&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  It's the veteran &amp;#8212; not the campus organizer &amp;#8212; who has given us freedom to assemble.&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  It's the veteran &amp;#8212; not the lawyer &amp;#8212; who has given us the right to a fair trial.&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  It's the veteran &amp;#8212; not the politician &amp;#8212; who has given us the right to vote.&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  It's the veteran &amp;#8212; who salutes the flag.&lt;br /&gt;
+  &amp;nbsp;&lt;br /&gt;
+  It's the veteran &amp;#8212; who serves under the flag.
+&lt;/p&gt;
+&lt;!-- excerptBreak --&gt;
+&lt;p&gt;
+  &amp;nbsp;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;a href=&quot;https://assets.forces.army/blog/2017/06/06/lest-we-forget/In-Flanders-Fields_2272x1704.png&quot; rel=&quot;me&quot; target=&quot;_blank&quot; title=&quot;In Flanders Fields&quot;&gt;&lt;img alt=&quot;In Flanders Fields&quot; height=&quot;362&quot; src=&quot;https://assets.forces.army/blog/2017/06/06/lest-we-forget/In-Flanders-Fields_0482x0362.png&quot; style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;482&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;</content><author><name>James Stewart</name><email>james.stewart@forces.army</email></author><category term="MyCAF" /><category term="Opinionated" /><category term="Self" /><category term="The Suck" /><category term="Writing" /><summary type="html">Remember all of those who've sacrificed &amp;#8212; in body, mind, and spirit &amp;#8212; for our freedom. &amp;nbsp; And, for the humanitarian protection of all those around the world! &amp;nbsp; Let perpetual light shine upon them. &amp;nbsp; It's the veteran &amp;#8212; not the preacher &amp;#8212; who has given us freedom of religion. &amp;nbsp; It's the veteran &amp;#8212; not the reporter &amp;#8212; who has given us freedom of the press. &amp;nbsp; It's the veteran &amp;#8212; not the poet &amp;#8212; who has given us freedom of speech. &amp;nbsp; It's the veteran &amp;#8212; not the campus organizer &amp;#8212; who has given us freedom to assemble. &amp;nbsp; It's the veteran &amp;#8212; not the lawyer &amp;#8212; who has given us the right to a fair trial. &amp;nbsp; It's the veteran &amp;#8212; not the politician &amp;#8212; who has given us the right to vote. &amp;nbsp; It's the veteran &amp;#8212; who salutes the flag. &amp;nbsp; It's the veteran &amp;#8212; who serves under the flag.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.forces.army/blog/2017/06/06/lest-we-forget/hotlink-ok/freedom-has-a-price_550x393.png" /></entry></feed>

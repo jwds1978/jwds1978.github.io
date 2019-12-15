@@ -1,8 +1,8 @@
----
-sitemap: false
----
+/*
+ * Copyright (c) 2017 James W.D. Stewart
+ * All rights reserved.
+ */
 
-{{ site.copyright.comment.java }}
 ! function (a, b, c, d, e, f, g, h, i) {
   b.className += " " + c, f.start = 1 * new Date, f.end = g = function () {
     b.className = b.className.replace(RegExp(" ?" + c), "")
